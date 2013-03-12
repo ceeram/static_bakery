@@ -27,7 +27,7 @@ function transformIndex(&$menu) {
 
 function transformMenu(&$menu) {
 	$dir = getcwd();
-	$html = file_get_contents("$dir/categories.html");
+	$html = file_get_contents("$dir/contents.html");
 	$html = preg_replace('/&(.+);/', '', $html);
 	$html = str_replace('xmlns="http://www.w3.org/1999/xhtml"', '', $html);
 	$xml = new SimpleXMLElement($html);

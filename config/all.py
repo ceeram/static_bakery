@@ -25,7 +25,7 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'categories'
+master_doc = 'contents'
 
 # General information about the project.
 project = u'CakePHP Cookbook'
