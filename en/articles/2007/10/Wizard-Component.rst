@@ -1,5 +1,3 @@
-
-
 Wizard Component
 ================
 

@@ -1,5 +1,3 @@
-
-
 HABTM Add & Delete Behavior for CakePHP 2.0
 ===========================================
 

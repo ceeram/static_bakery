@@ -1,5 +1,3 @@
-
-
 Acts As Censored
 ================
 

@@ -1,5 +1,3 @@
-
-
 Maxlength using Database Field Lengths
 ======================================
 

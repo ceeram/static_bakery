@@ -1,5 +1,3 @@
-
-
 Authake for CakePHP 2.2.3 is finally out!
 =========================================
 

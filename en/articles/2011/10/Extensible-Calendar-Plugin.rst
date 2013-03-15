@@ -1,5 +1,3 @@
-
-
 Extensible Calendar Plugin
 ==========================
 

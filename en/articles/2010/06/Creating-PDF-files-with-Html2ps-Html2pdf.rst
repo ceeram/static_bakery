@@ -1,5 +1,3 @@
-
-
 Creating PDF files with Html2ps/Html2pdf
 ========================================
 

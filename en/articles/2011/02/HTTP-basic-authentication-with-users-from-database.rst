@@ -1,5 +1,3 @@
-
-
 HTTP basic authentication with users from database
 ==================================================
 

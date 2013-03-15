@@ -1,5 +1,3 @@
-
-
 Automatically load all controllers and actions into ACO tables for ACL
 with a CakePHP Task
 ===================

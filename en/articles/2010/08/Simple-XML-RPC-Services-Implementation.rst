@@ -1,5 +1,3 @@
-
-
 Simple XML-RPC Services Implementation
 ======================================
 

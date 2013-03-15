@@ -1,5 +1,3 @@
-
-
 CakePHP 2 and launchd on Mac OS X 10.6
 ======================================
 

@@ -1,5 +1,3 @@
-
-
 Simple access control via AuthComponent
 =======================================
 

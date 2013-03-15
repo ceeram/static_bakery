@@ -1,5 +1,3 @@
-
-
 Get the find query SQL, rather than query result
 ================================================
 

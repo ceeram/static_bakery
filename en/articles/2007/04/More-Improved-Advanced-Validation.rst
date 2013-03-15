@@ -1,5 +1,3 @@
-
-
 More Improved Advanced Validation
 =================================
 

@@ -1,5 +1,3 @@
-
-
 How to: Implement Dynamic Route in CakePHP
 ==========================================
 

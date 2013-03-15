@@ -1,5 +1,3 @@
-
-
 WhoDidIt behavior: automagic created_by and modified_by fields
 ==============================================================
 

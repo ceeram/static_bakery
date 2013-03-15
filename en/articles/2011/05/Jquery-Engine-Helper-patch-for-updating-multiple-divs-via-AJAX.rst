@@ -1,5 +1,3 @@
-
-
 Jquery Engine Helper patch for updating multiple divs via AJAX
 ==============================================================
 

@@ -1,5 +1,3 @@
-
-
 xStandard wysiwyg Helper
 ========================
 

@@ -1,5 +1,3 @@
-
-
 SimpleAcl component tutorial
 ============================
 

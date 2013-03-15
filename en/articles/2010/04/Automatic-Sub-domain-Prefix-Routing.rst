@@ -1,5 +1,3 @@
-
-
 Automatic Sub-domain Prefix Routing
 ===================================
 

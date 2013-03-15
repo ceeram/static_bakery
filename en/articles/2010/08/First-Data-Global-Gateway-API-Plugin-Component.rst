@@ -1,5 +1,3 @@
-
-
 First Data Global Gateway API Plugin Component
 ==============================================
 

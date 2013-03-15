@@ -1,5 +1,3 @@
-
-
 Growl Like Flash Messages in Cakephp
 ====================================
 

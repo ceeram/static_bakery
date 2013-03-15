@@ -1,5 +1,3 @@
-
-
 Testing your apps with the CakePHP Test Suite
 =============================================
 

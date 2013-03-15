@@ -1,5 +1,3 @@
-
-
 Mozilla BrowserID authentication plugin
 =======================================
 

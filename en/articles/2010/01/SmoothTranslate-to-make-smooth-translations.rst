@@ -1,5 +1,3 @@
-
-
 SmoothTranslate to make smooth translations
 ===========================================
 

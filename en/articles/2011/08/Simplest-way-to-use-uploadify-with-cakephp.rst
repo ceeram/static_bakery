@@ -1,5 +1,3 @@
-
-
 Simplest way to use uploadify with cakephp
 ==========================================
 

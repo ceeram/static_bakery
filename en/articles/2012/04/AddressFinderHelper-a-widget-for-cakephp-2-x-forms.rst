@@ -1,5 +1,3 @@
-
-
 AddressFinderHelper, a widget for cakephp 2.x forms
 ===================================================
 

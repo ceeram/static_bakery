@@ -1,5 +1,3 @@
-
-
 Testing Models with CakePHP 1.2 test suite
 ==========================================
 

@@ -1,5 +1,3 @@
-
-
 Automatically Generate Dynamic Sitemaps
 =======================================
 

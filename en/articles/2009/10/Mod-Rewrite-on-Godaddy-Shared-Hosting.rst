@@ -1,5 +1,3 @@
-
-
 Mod Rewrite on Godaddy Shared Hosting
 =====================================
 

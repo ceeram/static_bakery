@@ -1,5 +1,3 @@
-
-
 An Automated tool for creating ACOs for CakePHP 2
 =================================================
 

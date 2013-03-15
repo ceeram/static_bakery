@@ -1,5 +1,3 @@
-
-
 Simple-Arithmetic-Captcha-Component
 ===================================
 

@@ -1,5 +1,3 @@
-
-
 VideoEncoder Component
 ======================
 

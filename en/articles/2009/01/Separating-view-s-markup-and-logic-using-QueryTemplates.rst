@@ -1,5 +1,3 @@
-
-
 Separating view's markup and logic using QueryTemplates
 =======================================================
 

@@ -1,5 +1,3 @@
-
-
 Retain custom parameter or query string in pagination
 =====================================================
 

@@ -1,5 +1,3 @@
-
-
 Toggle behavior
 ===============
 

@@ -1,5 +1,3 @@
-
-
 CakePHP on IIS6 with FastCGI, SQL Server 2005, and ISAPI_Rewrite
 ================================================================
 

@@ -1,5 +1,3 @@
-
-
 Default action component
 ========================
 

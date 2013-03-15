@@ -1,5 +1,3 @@
-
-
 Ticket Component - i.e. password reset
 ======================================
 

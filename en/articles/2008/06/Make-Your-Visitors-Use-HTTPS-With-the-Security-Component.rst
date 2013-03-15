@@ -1,5 +1,3 @@
-
-
 Make Your Visitors Use HTTPS With the Security Component
 ========================================================
 

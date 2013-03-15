@@ -1,5 +1,3 @@
-
-
 Doublelist Helper
 =================
 

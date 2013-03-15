@@ -1,5 +1,3 @@
-
-
 Jquery search ajax pagination
 =============================
 

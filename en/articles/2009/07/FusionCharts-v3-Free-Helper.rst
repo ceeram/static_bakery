@@ -1,5 +1,3 @@
-
-
 FusionCharts v3 Free Helper
 ===========================
 

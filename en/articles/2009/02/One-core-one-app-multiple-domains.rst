@@ -1,5 +1,3 @@
-
-
 One core, one app, multiple domains
 ===================================
 

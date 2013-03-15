@@ -1,5 +1,3 @@
-
-
 Designing a modular application using CakePHP plugins
 =====================================================
 

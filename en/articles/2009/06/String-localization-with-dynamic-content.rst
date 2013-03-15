@@ -1,5 +1,3 @@
-
-
 String localization with dynamic content
 ========================================
 

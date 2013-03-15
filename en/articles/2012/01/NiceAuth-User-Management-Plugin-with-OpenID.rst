@@ -1,5 +1,3 @@
-
-
 NiceAuth - User Management Plugin with OpenID
 =============================================
 

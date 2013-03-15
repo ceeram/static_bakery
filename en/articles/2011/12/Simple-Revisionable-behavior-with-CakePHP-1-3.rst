@@ -1,5 +1,3 @@
-
-
 Simple Revisionable behavior with CakePHP 1.3
 =============================================
 

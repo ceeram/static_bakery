@@ -1,5 +1,3 @@
-
-
 Quick Tip - Doing Ad-hoc Joins in Model::find()
 ===============================================
 

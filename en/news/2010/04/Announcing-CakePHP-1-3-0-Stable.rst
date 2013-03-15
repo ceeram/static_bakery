@@ -1,5 +1,3 @@
-
-
 Announcing CakePHP 1.3.0 Stable
 ===============================
 

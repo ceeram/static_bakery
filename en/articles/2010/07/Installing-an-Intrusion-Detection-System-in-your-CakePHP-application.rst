@@ -1,5 +1,3 @@
-
-
 Installing an Intrusion Detection System in your CakePHP application
 ====================================================================
 

@@ -1,5 +1,3 @@
-
-
 ZaakPay payment gateway component
 =================================
 

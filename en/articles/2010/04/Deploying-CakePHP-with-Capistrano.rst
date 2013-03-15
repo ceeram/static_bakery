@@ -1,5 +1,3 @@
-
-
 Deploying CakePHP with Capistrano
 =================================
 

@@ -1,5 +1,3 @@
-
-
 SluggableTree behavior to make tree based slugs
 ===============================================
 

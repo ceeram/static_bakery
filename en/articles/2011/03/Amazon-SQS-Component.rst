@@ -1,5 +1,3 @@
-
-
 Amazon SQS Component
 ====================
 

@@ -1,5 +1,3 @@
-
-
 ViewInFile component
 ====================
 

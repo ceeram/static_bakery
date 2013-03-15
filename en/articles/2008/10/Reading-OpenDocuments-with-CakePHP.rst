@@ -1,5 +1,3 @@
-
-
 Reading OpenDocuments with CakePHP
 ==================================
 

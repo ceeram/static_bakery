@@ -1,5 +1,3 @@
-
-
 Multiple Validation Rules
 =========================
 

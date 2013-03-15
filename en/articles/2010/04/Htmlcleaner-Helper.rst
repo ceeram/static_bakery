@@ -1,5 +1,3 @@
-
-
 Htmlcleaner Helper
 ==================
 

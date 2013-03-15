@@ -1,5 +1,3 @@
-
-
 Rails-like Data Validation
 ==========================
 

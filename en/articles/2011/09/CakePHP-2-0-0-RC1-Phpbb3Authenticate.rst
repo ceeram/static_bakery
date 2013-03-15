@@ -1,5 +1,3 @@
-
-
 CakePHP 2.0.0-RC1 Phpbb3Authenticate
 ====================================
 

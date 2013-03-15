@@ -1,5 +1,3 @@
-
-
 HRL - CSS and JS loader with dependencies
 =========================================
 

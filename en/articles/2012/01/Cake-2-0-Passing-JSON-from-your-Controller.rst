@@ -1,5 +1,3 @@
-
-
 Cake 2.0: Passing JSON from your Controller
 ===========================================
 

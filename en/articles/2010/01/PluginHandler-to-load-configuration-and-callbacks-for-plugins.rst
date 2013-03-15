@@ -1,5 +1,3 @@
-
-
 PluginHandler to load configuration and callbacks for plugins
 =============================================================
 

@@ -1,5 +1,3 @@
-
-
 F-E-E-D-Z.com - RSS and Atom Feed Directory
 ===========================================
 

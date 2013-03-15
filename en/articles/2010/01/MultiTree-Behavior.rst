@@ -1,5 +1,3 @@
-
-
 MultiTree Behavior
 ==================
 

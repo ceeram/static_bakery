@@ -1,5 +1,3 @@
-
-
 Minimalistic group-based access control in 5 mins.
 ==================================================
 

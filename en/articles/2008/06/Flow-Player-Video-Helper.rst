@@ -1,5 +1,3 @@
-
-
 Flow Player Video Helper
 ========================
 

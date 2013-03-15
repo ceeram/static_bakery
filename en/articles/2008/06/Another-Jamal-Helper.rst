@@ -1,5 +1,3 @@
-
-
 Another Jamal Helper
 ====================
 

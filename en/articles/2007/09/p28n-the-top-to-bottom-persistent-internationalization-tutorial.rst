@@ -1,5 +1,3 @@
-
-
 p28n, the top to bottom persistent internationalization tutorial.
 =================================================================
 

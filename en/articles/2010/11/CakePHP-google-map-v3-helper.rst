@@ -1,5 +1,3 @@
-
-
 CakePHP google map v3 helper
 ============================
 

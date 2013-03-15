@@ -1,5 +1,3 @@
-
-
 Alternative Methods for Working with hasAndBelongsToMany Associations
 =====================================================================
 

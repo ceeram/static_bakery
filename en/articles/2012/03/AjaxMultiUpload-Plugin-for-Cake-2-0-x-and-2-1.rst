@@ -1,5 +1,3 @@
-
-
 AjaxMultiUpload Plugin for Cake 2.0.x and 2.1
 =============================================
 

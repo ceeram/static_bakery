@@ -1,5 +1,3 @@
-
-
 Serializing find("threaded") data to XML
 ========================================
 

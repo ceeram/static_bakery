@@ -1,5 +1,3 @@
-
-
 Integrate CakePHP with Kcaptcha
 ===============================
 

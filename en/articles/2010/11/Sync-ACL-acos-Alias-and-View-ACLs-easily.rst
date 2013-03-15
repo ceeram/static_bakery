@@ -1,5 +1,3 @@
-
-
 Sync ACL acos Alias and View ACLs easily
 ========================================
 

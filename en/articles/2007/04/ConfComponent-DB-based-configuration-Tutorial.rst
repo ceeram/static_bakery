@@ -1,5 +1,3 @@
-
-
 ConfComponent DB based configuration Tutorial
 =============================================
 

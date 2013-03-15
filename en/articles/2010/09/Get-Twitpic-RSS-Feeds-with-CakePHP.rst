@@ -1,5 +1,3 @@
-
-
 Get Twitpic RSS Feeds with CakePHP
 ==================================
 

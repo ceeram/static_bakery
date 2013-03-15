@@ -1,5 +1,3 @@
-
-
 IE6 PNG transparency fix Helper
 ===============================
 

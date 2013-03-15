@@ -1,5 +1,3 @@
-
-
 Crop and resize images in cakePHP
 =================================
 

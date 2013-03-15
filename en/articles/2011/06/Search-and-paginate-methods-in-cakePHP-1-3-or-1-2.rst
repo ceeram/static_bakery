@@ -1,5 +1,3 @@
-
-
 Search and paginate methods in cakePHP 1.3 or 1.2
 =================================================
 

@@ -1,5 +1,3 @@
-
-
 Tagcloud Helper Cakephp 2
 =========================
 

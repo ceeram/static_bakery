@@ -1,5 +1,3 @@
-
-
 Email template management plugin
 ================================
 

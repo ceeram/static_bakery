@@ -1,5 +1,3 @@
-
-
 Cipher Plugin Behavior
 ======================
 

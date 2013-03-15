@@ -1,5 +1,3 @@
-
-
 Generating automatized JSON as output
 =====================================
 

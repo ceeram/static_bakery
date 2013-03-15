@@ -1,5 +1,3 @@
-
-
 Cakephp SwiftMailer4.X.X Component with batch send
 ==================================================
 

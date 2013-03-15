@@ -1,5 +1,3 @@
-
-
 Caching ACL permissions with CachedAclComponent
 ===============================================
 

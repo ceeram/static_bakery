@@ -1,5 +1,3 @@
-
-
 Key/Value storage table behavior built with cakephp-2.0.0 RC1
 =============================================================
 

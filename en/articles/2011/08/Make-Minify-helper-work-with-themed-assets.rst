@@ -1,5 +1,3 @@
-
-
 Make Minify helper work with themed assets
 ==========================================
 

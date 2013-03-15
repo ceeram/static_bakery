@@ -1,5 +1,3 @@
-
-
 Username or Email Login Using AuthComponent
 ===========================================
 

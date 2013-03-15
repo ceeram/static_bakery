@@ -1,5 +1,3 @@
-
-
 Image Resizer / Crop
 ====================
 

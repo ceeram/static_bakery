@@ -1,5 +1,3 @@
-
-
 Use multiple databases in one app based on requested url
 ========================================================
 

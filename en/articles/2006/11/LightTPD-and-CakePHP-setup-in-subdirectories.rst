@@ -1,5 +1,3 @@
-
-
 LightTPD and CakePHP setup in subdirectories
 ============================================
 

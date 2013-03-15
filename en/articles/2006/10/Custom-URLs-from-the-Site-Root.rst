@@ -1,5 +1,3 @@
-
-
 Custom URLs from the Site Root
 ==============================
 

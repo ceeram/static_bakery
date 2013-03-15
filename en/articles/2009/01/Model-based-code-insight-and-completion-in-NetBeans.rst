@@ -1,5 +1,3 @@
-
-
 Model-based code insight and completion in NetBeans
 ===================================================
 

@@ -1,5 +1,3 @@
-
-
 FMCakeMix: A Full Read/Write Datasource for FileMaker
 =====================================================
 

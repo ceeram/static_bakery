@@ -1,5 +1,3 @@
-
-
 Subdomaining with Cake
 ======================
 

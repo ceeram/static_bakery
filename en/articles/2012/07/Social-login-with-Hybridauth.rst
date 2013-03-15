@@ -1,5 +1,3 @@
-
-
 Social login with Hybridauth
 ============================
 

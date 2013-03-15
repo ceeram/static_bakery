@@ -1,5 +1,3 @@
-
-
 ThumbnailHelper, a thumbnail generator with cache dynamic
 =========================================================
 

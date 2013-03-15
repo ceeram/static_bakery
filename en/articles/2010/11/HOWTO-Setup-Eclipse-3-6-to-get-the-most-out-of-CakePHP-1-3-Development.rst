@@ -1,5 +1,3 @@
-
-
 HOWTO Setup Eclipse 3.6 to get the most out of CakePHP 1.3 Development
 ======================================================================
 

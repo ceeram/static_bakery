@@ -1,5 +1,3 @@
-
-
 Script Combiner Helper
 ======================
 

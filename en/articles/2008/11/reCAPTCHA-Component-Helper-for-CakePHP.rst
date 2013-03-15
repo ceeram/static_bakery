@@ -1,5 +1,3 @@
-
-
 reCAPTCHA Component & Helper for CakePHP
 ========================================
 

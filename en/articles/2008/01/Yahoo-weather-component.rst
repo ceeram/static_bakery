@@ -1,5 +1,3 @@
-
-
 Yahoo weather component
 =======================
 

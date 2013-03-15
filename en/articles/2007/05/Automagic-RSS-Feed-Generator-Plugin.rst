@@ -1,5 +1,3 @@
-
-
 Automagic RSS Feed Generator Plugin
 ===================================
 

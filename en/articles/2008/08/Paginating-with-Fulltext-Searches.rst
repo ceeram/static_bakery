@@ -1,5 +1,3 @@
-
-
 Paginating with Fulltext Searches
 =================================
 

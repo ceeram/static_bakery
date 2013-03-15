@@ -1,5 +1,3 @@
-
-
 In Place Editing with jQuery
 ============================
 

@@ -1,5 +1,3 @@
-
-
 Datasource for S3 - Amazon Simple Storage System
 ================================================
 

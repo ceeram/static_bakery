@@ -1,5 +1,3 @@
-
-
 Plugin development tips and tricks
 ==================================
 

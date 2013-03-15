@@ -1,5 +1,3 @@
-
-
 Secrets of Admin Routing
 ========================
 

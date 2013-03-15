@@ -1,5 +1,3 @@
-
-
 phpThumb Helper
 ===============
 

@@ -1,5 +1,3 @@
-
-
 How to create an XML-RPC server with CakePHP
 ============================================
 

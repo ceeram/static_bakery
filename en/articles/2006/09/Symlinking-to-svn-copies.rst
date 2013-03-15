@@ -1,5 +1,3 @@
-
-
 Symlinking to svn copies
 ========================
 

@@ -1,5 +1,3 @@
-
-
 Start your own bouncely and report mail bounces with a gmail and
 cakephp
 =======

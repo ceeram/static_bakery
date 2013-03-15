@@ -1,5 +1,3 @@
-
-
 Language Select and Country Select Helper
 =========================================
 

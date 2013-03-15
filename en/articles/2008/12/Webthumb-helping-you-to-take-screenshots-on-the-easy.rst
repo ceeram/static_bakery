@@ -1,5 +1,3 @@
-
-
 Webthumb - helping you to take screenshots on the easy
 ======================================================
 

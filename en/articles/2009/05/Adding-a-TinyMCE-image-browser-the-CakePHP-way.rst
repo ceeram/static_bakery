@@ -1,5 +1,3 @@
-
-
 Adding a TinyMCE image browser the CakePHP way
 ==============================================
 

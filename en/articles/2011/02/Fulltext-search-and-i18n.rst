@@ -1,5 +1,3 @@
-
-
 Fulltext search and i18n
 ========================
 

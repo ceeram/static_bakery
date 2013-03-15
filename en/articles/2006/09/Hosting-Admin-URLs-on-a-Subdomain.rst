@@ -1,5 +1,3 @@
-
-
 Hosting Admin URLs on a Subdomain
 =================================
 

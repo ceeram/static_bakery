@@ -1,5 +1,3 @@
-
-
 Cake Dbo Database Backup
 ========================
 

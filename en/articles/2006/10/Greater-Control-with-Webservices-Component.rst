@@ -1,5 +1,3 @@
-
-
 Greater Control with Webservices Component
 ==========================================
 

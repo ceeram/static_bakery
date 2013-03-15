@@ -1,5 +1,3 @@
-
-
 Slick jQuery Colorpicker Helper
 ===============================
 

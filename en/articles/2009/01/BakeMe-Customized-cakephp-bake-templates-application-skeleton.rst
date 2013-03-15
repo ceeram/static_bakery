@@ -1,5 +1,3 @@
-
-
 BakeMe - Customized cakephp bake templates & application skeleton
 =================================================================
 

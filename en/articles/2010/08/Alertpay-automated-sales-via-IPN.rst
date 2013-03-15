@@ -1,5 +1,3 @@
-
-
 Alertpay automated sales via IPN
 ================================
 

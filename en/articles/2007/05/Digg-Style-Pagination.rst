@@ -1,5 +1,3 @@
-
-
 Digg Style Pagination
 =====================
 

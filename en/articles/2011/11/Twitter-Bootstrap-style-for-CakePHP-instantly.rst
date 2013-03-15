@@ -1,5 +1,3 @@
-
-
 Twitter Bootstrap style for CakePHP instantly
 =============================================
 

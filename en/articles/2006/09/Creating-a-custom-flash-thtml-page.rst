@@ -1,5 +1,3 @@
-
-
 Creating a custom flash.thtml page
 ==================================
 

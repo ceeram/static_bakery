@@ -1,5 +1,3 @@
-
-
 Disqus comment system integration Helper
 ========================================
 

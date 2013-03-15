@@ -1,5 +1,3 @@
-
-
 Prevent render layout elements with the render of some views!
 =============================================================
 

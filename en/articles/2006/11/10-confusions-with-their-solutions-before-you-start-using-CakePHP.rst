@@ -1,5 +1,3 @@
-
-
 10 confusions with their solutions before you start using CakePHP
 =================================================================
 

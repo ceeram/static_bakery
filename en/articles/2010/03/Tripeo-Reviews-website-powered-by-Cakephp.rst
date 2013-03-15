@@ -1,5 +1,3 @@
-
-
 Tripeo - Reviews website powered by Cakephp
 ===========================================
 

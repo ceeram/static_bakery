@@ -1,5 +1,3 @@
-
-
 How to make CakePHP and 1&1 linux hosting bake together
 =======================================================
 

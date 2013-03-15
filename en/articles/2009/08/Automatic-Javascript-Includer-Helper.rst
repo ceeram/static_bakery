@@ -1,5 +1,3 @@
-
-
 Automatic Javascript Includer Helper
 ====================================
 

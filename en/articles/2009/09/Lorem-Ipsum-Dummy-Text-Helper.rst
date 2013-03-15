@@ -1,5 +1,3 @@
-
-
 Lorem Ipsum (Dummy Text) Helper
 ===============================
 

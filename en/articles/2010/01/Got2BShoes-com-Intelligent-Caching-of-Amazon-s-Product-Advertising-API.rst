@@ -1,5 +1,3 @@
-
-
 Got2BShoes.com - Intelligent Caching of Amazon's Product Advertising
 API
 ===

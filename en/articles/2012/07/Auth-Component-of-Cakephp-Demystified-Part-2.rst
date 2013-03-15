@@ -1,5 +1,3 @@
-
-
 Auth Component of Cakephp Demystified Part-2
 ============================================
 

@@ -1,5 +1,3 @@
-
-
 CakePHP in a subdirectory and no trailing slash
 ===============================================
 

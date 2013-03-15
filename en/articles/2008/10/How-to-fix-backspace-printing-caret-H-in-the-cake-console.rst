@@ -1,5 +1,3 @@
-
-
 How to fix backspace printing caret-H in the cake console
 =========================================================
 

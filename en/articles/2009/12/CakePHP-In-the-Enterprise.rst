@@ -1,5 +1,3 @@
-
-
 CakePHP In the Enterprise
 =========================
 

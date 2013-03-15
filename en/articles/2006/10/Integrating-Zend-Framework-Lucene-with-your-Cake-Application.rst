@@ -1,5 +1,3 @@
-
-
 Integrating Zend Framework Lucene with your Cake Application
 ============================================================
 

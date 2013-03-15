@@ -1,5 +1,3 @@
-
-
 History Navigation Bar
 ======================
 

@@ -1,5 +1,3 @@
-
-
 Combine your JS & CSS files for faster loading
 ==============================================
 

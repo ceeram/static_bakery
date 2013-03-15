@@ -1,5 +1,3 @@
-
-
 Database design and CakePHP
 ===========================
 

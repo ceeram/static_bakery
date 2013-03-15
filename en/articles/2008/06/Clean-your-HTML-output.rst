@@ -1,5 +1,3 @@
-
-
 Clean your HTML output
 ======================
 

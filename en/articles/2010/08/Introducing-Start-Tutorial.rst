@@ -1,5 +1,3 @@
-
-
 Introducing Start Tutorial
 ==========================
 

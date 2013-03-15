@@ -1,5 +1,3 @@
-
-
 Installing CakePHP on Shared Hosting
 ====================================
 

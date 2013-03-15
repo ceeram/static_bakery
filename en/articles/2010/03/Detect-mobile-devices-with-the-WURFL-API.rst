@@ -1,5 +1,3 @@
-
-
 Detect mobile devices with the WURFL API
 ========================================
 

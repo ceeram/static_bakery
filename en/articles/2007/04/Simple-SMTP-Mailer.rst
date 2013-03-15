@@ -1,5 +1,3 @@
-
-
 Simple SMTP Mailer
 ==================
 

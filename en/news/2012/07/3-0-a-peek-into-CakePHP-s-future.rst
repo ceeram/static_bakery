@@ -1,5 +1,3 @@
-
-
 3.0: a peek into CakePHP's future
 =================================
 

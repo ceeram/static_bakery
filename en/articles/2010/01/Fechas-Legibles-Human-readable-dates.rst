@@ -1,5 +1,3 @@
-
-
 Fechas Legibles (Human readable dates)
 ======================================
 

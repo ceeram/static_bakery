@@ -1,5 +1,3 @@
-
-
 PMJ publishes some benchmarks
 =============================
 

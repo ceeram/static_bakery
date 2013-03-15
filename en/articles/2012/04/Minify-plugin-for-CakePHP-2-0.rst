@@ -1,5 +1,3 @@
-
-
 Minify plugin for CakePHP 2.0+
 ==============================
 

@@ -1,5 +1,3 @@
-
-
 CakeApp with TwitterBootstrap
 =============================
 

@@ -1,5 +1,3 @@
-
-
 Cake Bake Templates for Twitter Bootstrap
 =========================================
 

@@ -1,5 +1,3 @@
-
-
 Force login on Ajax requests
 ============================
 

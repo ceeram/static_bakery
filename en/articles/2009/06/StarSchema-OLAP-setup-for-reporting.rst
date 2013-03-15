@@ -1,5 +1,3 @@
-
-
 StarSchema (OLAP) setup for reporting
 =====================================
 

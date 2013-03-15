@@ -1,5 +1,3 @@
-
-
 Multi-language country combobox
 ===============================
 

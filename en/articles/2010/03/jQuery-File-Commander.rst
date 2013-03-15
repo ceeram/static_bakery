@@ -1,5 +1,3 @@
-
-
 jQuery File Commander
 =====================
 

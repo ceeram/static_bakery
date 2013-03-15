@@ -1,5 +1,3 @@
-
-
 Text Case Converter Behavior
 ============================
 

@@ -1,5 +1,3 @@
-
-
 Array Structures, the Recursive Property and the Set Class
 ==========================================================
 

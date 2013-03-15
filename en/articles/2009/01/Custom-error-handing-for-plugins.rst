@@ -1,5 +1,3 @@
-
-
 Custom error handing for plugins
 ================================
 

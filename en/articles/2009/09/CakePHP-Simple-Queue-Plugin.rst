@@ -1,5 +1,3 @@
-
-
 CakePHP Simple Queue Plugin
 ===========================
 

@@ -1,5 +1,3 @@
-
-
 ACL Caching using Session
 =========================
 

@@ -1,5 +1,3 @@
-
-
 Cakephp V2 without a database (Fixed)
 =====================================
 

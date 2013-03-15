@@ -1,5 +1,3 @@
-
-
 Versioned DbMigrations
 ======================
 

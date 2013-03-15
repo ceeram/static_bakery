@@ -1,5 +1,3 @@
-
-
 Custom RSS-Helper that actually works with namespaces for Cakphp 2.0
 ====================================================================
 

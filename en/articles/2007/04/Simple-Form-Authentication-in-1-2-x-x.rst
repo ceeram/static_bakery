@@ -1,5 +1,3 @@
-
-
 Simple Form Authentication in 1.2.x.x
 =====================================
 

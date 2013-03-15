@@ -1,5 +1,3 @@
-
-
 Codelobster PHP Edition - IDE for CakePHP
 =========================================
 

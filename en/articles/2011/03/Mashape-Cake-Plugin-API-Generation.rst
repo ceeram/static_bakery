@@ -1,5 +1,3 @@
-
-
 Mashape Cake Plugin - API Generation
 ====================================
 

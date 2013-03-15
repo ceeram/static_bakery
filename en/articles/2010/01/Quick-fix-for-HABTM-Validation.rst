@@ -1,5 +1,3 @@
-
-
 Quick fix for HABTM Validation
 ==============================
 

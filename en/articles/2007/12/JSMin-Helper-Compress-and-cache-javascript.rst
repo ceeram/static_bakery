@@ -1,5 +1,3 @@
-
-
 JSMin Helper Compress and cache javascript
 ==========================================
 

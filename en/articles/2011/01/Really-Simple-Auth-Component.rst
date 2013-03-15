@@ -1,5 +1,3 @@
-
-
 Really Simple Auth Component
 ============================
 

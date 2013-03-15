@@ -1,5 +1,3 @@
-
-
 Quickly Translate IP to Geo Coordinates
 =======================================
 

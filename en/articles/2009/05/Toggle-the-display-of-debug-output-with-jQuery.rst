@@ -1,5 +1,3 @@
-
-
 Toggle the display of debug output with jQuery
 ==============================================
 

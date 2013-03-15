@@ -1,5 +1,3 @@
-
-
 TwitterComponent for CakePHP
 ============================
 

@@ -1,5 +1,3 @@
-
-
 RESTful Web Services With CakePHP
 =================================
 

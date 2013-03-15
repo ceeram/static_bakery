@@ -1,5 +1,3 @@
-
-
 A facelift for the CakePHP Book
 ===============================
 

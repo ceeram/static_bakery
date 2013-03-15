@@ -1,5 +1,3 @@
-
-
 Chartable Behavior
 ==================
 

@@ -1,5 +1,3 @@
-
-
 HABTM Searching
 ===============
 

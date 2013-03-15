@@ -1,5 +1,3 @@
-
-
 Making the standard date/time fields a little smoother with jQuery
 ==================================================================
 

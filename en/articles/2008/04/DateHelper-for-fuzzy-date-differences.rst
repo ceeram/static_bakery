@@ -1,5 +1,3 @@
-
-
 DateHelper for fuzzy date differences
 =====================================
 

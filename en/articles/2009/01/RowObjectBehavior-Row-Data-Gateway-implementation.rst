@@ -1,5 +1,3 @@
-
-
 RowObjectBehavior Row Data Gateway implementation
 =================================================
 

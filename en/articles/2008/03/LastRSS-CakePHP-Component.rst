@@ -1,5 +1,3 @@
-
-
 LastRSS CakePHP Component
 =========================
 

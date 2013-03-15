@@ -1,5 +1,3 @@
-
-
 Creating Reusable Elements with requestAction
 =============================================
 

@@ -1,5 +1,3 @@
-
-
 AWS SES component for CakePHP2.0 +
 ==================================
 

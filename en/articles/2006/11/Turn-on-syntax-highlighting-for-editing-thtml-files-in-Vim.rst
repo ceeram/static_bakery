@@ -1,5 +1,3 @@
-
-
 Turn on syntax highlighting for editing .thtml files in Vim
 ===========================================================
 

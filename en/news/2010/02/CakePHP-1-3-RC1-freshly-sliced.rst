@@ -1,5 +1,3 @@
-
-
 CakePHP 1.3-RC1 freshly sliced
 ==============================
 

@@ -1,5 +1,3 @@
-
-
 960 Fluid Grid System Bake Templates
 ====================================
 

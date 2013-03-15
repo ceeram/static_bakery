@@ -1,5 +1,3 @@
-
-
 Talking to multiple databases from single cakePHP application
 =============================================================
 

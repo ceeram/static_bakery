@@ -1,5 +1,3 @@
-
-
 IRWeather (Weather for Iran cities)
 ===================================
 

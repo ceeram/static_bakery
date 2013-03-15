@@ -1,5 +1,3 @@
-
-
 CodeCheck Plugin
 ================
 

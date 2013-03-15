@@ -1,5 +1,3 @@
-
-
 Sexy Cake with Krumo: Say Goodbye to print_r()
 ==============================================
 

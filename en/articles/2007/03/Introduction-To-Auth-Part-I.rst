@@ -1,5 +1,3 @@
-
-
 Introduction To Auth, Part I
 ============================
 

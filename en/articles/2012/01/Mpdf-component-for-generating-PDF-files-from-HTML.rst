@@ -1,5 +1,3 @@
-
-
 Mpdf component for generating PDF files from HTML
 =================================================
 

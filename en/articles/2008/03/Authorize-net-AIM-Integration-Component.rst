@@ -1,5 +1,3 @@
-
-
 Authorize.net AIM Integration Component
 =======================================
 

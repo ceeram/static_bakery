@@ -1,5 +1,3 @@
-
-
 OpenInviter for CakePHP
 =======================
 

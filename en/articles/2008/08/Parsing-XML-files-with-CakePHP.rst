@@ -1,5 +1,3 @@
-
-
 Parsing XML files with CakePHP
 ==============================
 

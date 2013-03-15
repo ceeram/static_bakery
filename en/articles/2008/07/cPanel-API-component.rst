@@ -1,5 +1,3 @@
-
-
 cPanel API component
 ====================
 

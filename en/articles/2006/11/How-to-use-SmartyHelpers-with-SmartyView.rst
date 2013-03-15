@@ -1,5 +1,3 @@
-
-
 How to use SmartyHelpers with SmartyView
 ========================================
 

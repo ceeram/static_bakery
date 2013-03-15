@@ -1,5 +1,3 @@
-
-
 CakePHP 2 Captcha Component Based on Simple Math Problems
 =========================================================
 

@@ -1,5 +1,3 @@
-
-
 CakePHP product management 2.x
 ==============================
 

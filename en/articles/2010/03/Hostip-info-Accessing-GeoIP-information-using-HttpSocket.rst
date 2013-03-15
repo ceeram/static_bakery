@@ -1,5 +1,3 @@
-
-
 Hostip.info - Accessing GeoIP information using HttpSocket
 ==========================================================
 

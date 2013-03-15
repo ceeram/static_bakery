@@ -1,5 +1,3 @@
-
-
 Display TYPO3 content using CakePHP
 ===================================
 

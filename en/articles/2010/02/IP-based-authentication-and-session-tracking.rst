@@ -1,5 +1,3 @@
-
-
 IP based authentication and session tracking.
 =============================================
 

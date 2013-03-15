@@ -1,5 +1,3 @@
-
-
 counterCache or counter_cache Behavior
 ======================================
 

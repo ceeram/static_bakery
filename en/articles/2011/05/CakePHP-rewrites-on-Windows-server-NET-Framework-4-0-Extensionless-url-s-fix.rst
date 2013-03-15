@@ -1,5 +1,3 @@
-
-
 CakePHP rewrites on Windows server (.NET Framework 4.0 Extensionless
 url's fix)
 ==========

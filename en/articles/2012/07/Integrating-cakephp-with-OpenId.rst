@@ -1,5 +1,3 @@
-
-
 Integrating cakephp with OpenId
 ===============================
 

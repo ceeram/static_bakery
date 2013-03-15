@@ -1,5 +1,3 @@
-
-
 PHPMailer and Cake
 ==================
 

@@ -1,5 +1,3 @@
-
-
 Rangeable Behavior: Find ranged based on a lat/lon field
 ========================================================
 

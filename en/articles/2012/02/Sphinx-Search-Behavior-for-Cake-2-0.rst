@@ -1,5 +1,3 @@
-
-
 Sphinx Search Behavior for Cake 2.0+
 ====================================
 

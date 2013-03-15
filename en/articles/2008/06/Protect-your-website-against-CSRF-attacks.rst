@@ -1,5 +1,3 @@
-
-
 Protect your website against CSRF attacks
 =========================================
 

@@ -1,5 +1,3 @@
-
-
 Remote Content Parser tool using CUrl
 =====================================
 

@@ -1,5 +1,3 @@
-
-
 LDAP data source with full CRUD support
 =======================================
 

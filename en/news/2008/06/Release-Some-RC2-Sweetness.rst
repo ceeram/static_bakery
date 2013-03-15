@@ -1,5 +1,3 @@
-
-
 Release: Some RC2 Sweetness
 ===========================
 

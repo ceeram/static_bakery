@@ -1,5 +1,3 @@
-
-
 Improve apache perfomance by .htaccess
 ======================================
 

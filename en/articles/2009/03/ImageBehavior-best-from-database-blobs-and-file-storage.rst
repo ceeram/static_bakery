@@ -1,5 +1,3 @@
-
-
 ImageBehavior - best from database blobs and file storage
 =========================================================
 

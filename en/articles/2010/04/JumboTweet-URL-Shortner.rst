@@ -1,5 +1,3 @@
-
-
 JumboTweet URL Shortner
 =======================
 

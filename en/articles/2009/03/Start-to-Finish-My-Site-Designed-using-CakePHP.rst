@@ -1,5 +1,3 @@
-
-
 Start to Finish: My Site Designed using CakePHP
 ===============================================
 

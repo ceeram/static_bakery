@@ -1,5 +1,3 @@
-
-
 Using the Unobtrusive Date Picker Widget in CakePHP
 ===================================================
 

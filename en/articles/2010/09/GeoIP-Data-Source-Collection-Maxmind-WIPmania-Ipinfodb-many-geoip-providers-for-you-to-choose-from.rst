@@ -1,5 +1,3 @@
-
-
 GeoIP Data Source Collection - Maxmind, WIPmania, Ipinfodb - many
 geoip providers for you to choose from!
 =======================================

@@ -1,5 +1,3 @@
-
-
 Google Maps API V3 Helper
 =========================
 

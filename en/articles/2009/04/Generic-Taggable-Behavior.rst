@@ -1,5 +1,3 @@
-
-
 Generic Taggable Behavior
 =========================
 

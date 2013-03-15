@@ -1,5 +1,3 @@
-
-
 Flex remoting with cakePHP - CpAmf plugin
 =========================================
 

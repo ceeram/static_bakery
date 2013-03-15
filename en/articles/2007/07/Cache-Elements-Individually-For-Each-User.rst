@@ -1,5 +1,3 @@
-
-
 Cache Elements Individually For Each User.
 ==========================================
 

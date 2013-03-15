@@ -1,5 +1,3 @@
-
-
 CAKEPHP-DATATABLE - A component for working with jQuery DataTables
 ==================================================================
 

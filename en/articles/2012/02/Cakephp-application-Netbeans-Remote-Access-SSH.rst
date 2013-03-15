@@ -1,5 +1,3 @@
-
-
 Cakephp application + Netbeans + Remote Access + SSH
 ====================================================
 

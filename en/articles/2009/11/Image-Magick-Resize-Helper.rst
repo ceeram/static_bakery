@@ -1,5 +1,3 @@
-
-
 Image Magick Resize Helper
 ==========================
 

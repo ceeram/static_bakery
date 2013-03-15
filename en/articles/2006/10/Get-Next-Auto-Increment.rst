@@ -1,5 +1,3 @@
-
-
 Get Next Auto Increment
 =======================
 

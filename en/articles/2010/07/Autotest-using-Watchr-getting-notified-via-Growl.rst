@@ -1,5 +1,3 @@
-
-
 Autotest using Watchr getting notified via Growl
 ================================================
 

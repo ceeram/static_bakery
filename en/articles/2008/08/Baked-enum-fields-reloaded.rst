@@ -1,5 +1,3 @@
-
-
 Baked enum fields reloaded
 ==========================
 

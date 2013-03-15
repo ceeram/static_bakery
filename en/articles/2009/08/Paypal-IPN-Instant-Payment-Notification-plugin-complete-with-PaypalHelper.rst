@@ -1,5 +1,3 @@
-
-
 Paypal IPN (Instant Payment Notification) plugin complete with
 PaypalHelper
 ============

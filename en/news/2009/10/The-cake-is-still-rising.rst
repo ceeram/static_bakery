@@ -1,5 +1,3 @@
-
-
 The cake is still rising
 ========================
 

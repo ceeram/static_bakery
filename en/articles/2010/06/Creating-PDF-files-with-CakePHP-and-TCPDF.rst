@@ -1,5 +1,3 @@
-
-
 Creating PDF files with CakePHP and TCPDF
 =========================================
 

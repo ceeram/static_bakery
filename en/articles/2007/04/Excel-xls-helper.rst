@@ -1,5 +1,3 @@
-
-
 Excel xls helper
 ================
 

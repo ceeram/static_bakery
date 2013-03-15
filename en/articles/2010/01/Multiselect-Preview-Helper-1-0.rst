@@ -1,5 +1,3 @@
-
-
 Multiselect Preview Helper 1.0
 ==============================
 

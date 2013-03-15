@@ -1,5 +1,3 @@
-
-
 Automatic Validation Message For Core Validation Rules
 ======================================================
 

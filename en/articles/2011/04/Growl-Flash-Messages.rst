@@ -1,5 +1,3 @@
-
-
 Growl Flash Messages
 ====================
 

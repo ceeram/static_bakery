@@ -1,5 +1,3 @@
-
-
 Writing an easy to use A/B test helper with CakePHP and jquery
 ==============================================================
 

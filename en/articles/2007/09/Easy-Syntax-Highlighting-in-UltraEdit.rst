@@ -1,5 +1,3 @@
-
-
 Easy Syntax Highlighting in UltraEdit
 =====================================
 

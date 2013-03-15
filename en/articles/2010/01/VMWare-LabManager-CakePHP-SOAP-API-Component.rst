@@ -1,5 +1,3 @@
-
-
 VMWare LabManager CakePHP SOAP API Component
 ============================================
 

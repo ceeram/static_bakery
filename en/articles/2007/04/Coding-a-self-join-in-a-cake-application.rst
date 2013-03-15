@@ -1,5 +1,3 @@
-
-
 Coding a self-join in a cake application
 ========================================
 

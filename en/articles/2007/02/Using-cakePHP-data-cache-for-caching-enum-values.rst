@@ -1,5 +1,3 @@
-
-
 Using cakePHP data cache for caching enum values
 ================================================
 

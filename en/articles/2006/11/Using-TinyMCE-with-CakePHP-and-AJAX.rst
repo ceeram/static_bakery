@@ -1,5 +1,3 @@
-
-
 Using TinyMCE with CakePHP and AJAX
 ===================================
 

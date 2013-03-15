@@ -1,5 +1,3 @@
-
-
 Report Manager Plugin for CakePHP 2
 ===================================
 

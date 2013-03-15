@@ -1,5 +1,3 @@
-
-
 Obvious trick to reduce amount of HABTM relationship tables
 ===========================================================
 

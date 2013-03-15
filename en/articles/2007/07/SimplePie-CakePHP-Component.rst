@@ -1,5 +1,3 @@
-
-
 SimplePie CakePHP Component
 ===========================
 

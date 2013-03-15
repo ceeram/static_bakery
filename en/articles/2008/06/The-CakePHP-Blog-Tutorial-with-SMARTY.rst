@@ -1,5 +1,3 @@
-
-
 The CakePHP Blog Tutorial with SMARTY
 =====================================
 

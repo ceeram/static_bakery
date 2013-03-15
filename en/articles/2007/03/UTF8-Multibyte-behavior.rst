@@ -1,5 +1,3 @@
-
-
 UTF8 Multibyte behavior
 =======================
 

@@ -1,5 +1,3 @@
-
-
 RBAuth (a spinoff from othAuth)
 ===============================
 

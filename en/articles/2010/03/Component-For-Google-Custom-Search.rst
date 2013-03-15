@@ -1,5 +1,3 @@
-
-
 Component For Google Custom Search
 ==================================
 

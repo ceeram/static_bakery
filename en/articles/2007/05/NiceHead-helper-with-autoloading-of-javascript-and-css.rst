@@ -1,5 +1,3 @@
-
-
 NiceHead helper with autoloading of javascript and css
 ======================================================
 

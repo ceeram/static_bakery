@@ -1,5 +1,3 @@
-
-
 Simple 3rd-party provider authentication with Opauth plugin
 ===========================================================
 

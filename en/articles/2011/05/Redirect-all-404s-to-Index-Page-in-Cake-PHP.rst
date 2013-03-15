@@ -1,5 +1,3 @@
-
-
 Redirect all 404s to Index Page in Cake PHP
 ===========================================
 

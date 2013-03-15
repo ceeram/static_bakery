@@ -1,5 +1,3 @@
-
-
 WYSIWYGPro Helper and tutorial
 ==============================
 

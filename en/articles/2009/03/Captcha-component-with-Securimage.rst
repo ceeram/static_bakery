@@ -1,5 +1,3 @@
-
-
 Captcha component with Securimage
 =================================
 

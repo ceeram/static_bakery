@@ -1,5 +1,3 @@
-
-
 A New Year with some more Cake and PMJ benchmarks
 =================================================
 

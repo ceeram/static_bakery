@@ -1,5 +1,3 @@
-
-
 Eclipse Code Completion in views using $this
 ============================================
 

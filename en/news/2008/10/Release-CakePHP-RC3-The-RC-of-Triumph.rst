@@ -1,5 +1,3 @@
-
-
 Release: CakePHP RC3 - The RC of Triumph!
 =========================================
 

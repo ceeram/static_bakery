@@ -1,5 +1,3 @@
-
-
 Ajax elements available anywhere
 ================================
 

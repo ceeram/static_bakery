@@ -1,5 +1,3 @@
-
-
 Brita component with HTML Purifier
 ==================================
 

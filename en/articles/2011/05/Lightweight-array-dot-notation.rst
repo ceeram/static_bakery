@@ -1,5 +1,3 @@
-
-
 Lightweight array dot notation
 ==============================
 

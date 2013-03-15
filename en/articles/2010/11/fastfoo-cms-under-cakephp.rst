@@ -1,5 +1,3 @@
-
-
 fastfoo - cms under cakephp
 ===========================
 

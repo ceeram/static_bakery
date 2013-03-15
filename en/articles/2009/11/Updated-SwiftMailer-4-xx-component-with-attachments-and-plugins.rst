@@ -1,5 +1,3 @@
-
-
 Updated SwiftMailer(4.xx) component with attachments and plugins
 ================================================================
 

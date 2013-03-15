@@ -1,5 +1,3 @@
-
-
 SQL INSERT with known primaryKey from CakePHP Model::save()
 ===========================================================
 

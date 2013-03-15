@@ -1,5 +1,3 @@
-
-
 Ticket Model for CakePHP
 ========================
 

@@ -1,5 +1,3 @@
-
-
 ComponentLoader to load components on the fly
 =============================================
 

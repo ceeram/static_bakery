@@ -1,5 +1,3 @@
-
-
 Performance comparision CakePHP and symfony
 ===========================================
 

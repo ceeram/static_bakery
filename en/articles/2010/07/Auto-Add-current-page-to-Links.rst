@@ -1,5 +1,3 @@
-
-
 Auto Add "current_page" to Links
 ================================
 

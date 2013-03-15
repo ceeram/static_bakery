@@ -1,5 +1,3 @@
-
-
 Manejo básico Cache FILE
 ========================
 

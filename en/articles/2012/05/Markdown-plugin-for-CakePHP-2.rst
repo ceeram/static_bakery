@@ -1,5 +1,3 @@
-
-
 Markdown plugin for CakePHP 2.+
 ===============================
 

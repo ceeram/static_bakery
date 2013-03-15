@@ -1,5 +1,3 @@
-
-
 Pagination for custom queries
 =============================
 

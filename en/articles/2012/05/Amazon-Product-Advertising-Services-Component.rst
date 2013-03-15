@@ -1,5 +1,3 @@
-
-
 Amazon Product Advertising Services Component
 =============================================
 

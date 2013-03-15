@@ -1,5 +1,3 @@
-
-
 Implementing SOAP on cakePHP
 ============================
 

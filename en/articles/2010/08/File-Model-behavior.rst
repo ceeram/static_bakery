@@ -1,5 +1,3 @@
-
-
 File Model behavior
 ===================
 

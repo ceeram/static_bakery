@@ -1,5 +1,3 @@
-
-
 TinyAuth ACL - fast and easy
 ============================
 

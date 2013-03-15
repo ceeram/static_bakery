@@ -1,5 +1,3 @@
-
-
 Comfortable AjaxUploads with CakePHP
 ====================================
 

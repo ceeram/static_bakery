@@ -1,5 +1,3 @@
-
-
 Number Plus Helper
 ==================
 

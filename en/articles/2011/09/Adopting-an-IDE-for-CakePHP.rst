@@ -1,5 +1,3 @@
-
-
 Adopting an IDE for CakePHP
 ===========================
 

@@ -1,5 +1,3 @@
-
-
 Firecake Helper
 ===============
 

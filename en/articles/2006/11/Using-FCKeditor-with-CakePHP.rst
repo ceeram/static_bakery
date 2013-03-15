@@ -1,5 +1,3 @@
-
-
 Using FCKeditor with CakePHP
 ============================
 

@@ -1,5 +1,3 @@
-
-
 Admin Routing on Subdomain
 ==========================
 

@@ -1,5 +1,3 @@
-
-
 Basic Pagination Overview (1.2)
 ===============================
 

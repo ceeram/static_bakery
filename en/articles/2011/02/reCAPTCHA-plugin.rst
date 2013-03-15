@@ -1,5 +1,3 @@
-
-
 reCAPTCHA plugin
 ================
 

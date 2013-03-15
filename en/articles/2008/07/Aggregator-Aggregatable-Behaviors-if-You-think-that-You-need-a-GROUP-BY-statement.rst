@@ -1,5 +1,3 @@
-
-
 Aggregator & Aggregatable Behaviors: if You think that You need a
 GROUP BY statement
 ==================

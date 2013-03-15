@@ -1,5 +1,3 @@
-
-
 markItUp! jQuery universal markup editor Helper
 ===============================================
 

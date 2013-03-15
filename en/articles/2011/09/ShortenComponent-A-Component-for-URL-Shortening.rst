@@ -1,5 +1,3 @@
-
-
 ShortenComponent - A Component for URL Shortening
 =================================================
 

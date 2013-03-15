@@ -1,5 +1,3 @@
-
-
 Geocoding in CakePHP
 ====================
 

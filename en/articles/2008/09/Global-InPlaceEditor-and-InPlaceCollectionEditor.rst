@@ -1,5 +1,3 @@
-
-
 Global InPlaceEditor and InPlaceCollectionEditor
 ================================================
 

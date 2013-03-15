@@ -1,5 +1,3 @@
-
-
 Using LDAP as a database
 ========================
 

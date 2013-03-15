@@ -1,5 +1,3 @@
-
-
 Navigator Component
 ===================
 

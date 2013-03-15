@@ -1,5 +1,3 @@
-
-
 Complete bbcode helper with custom tags
 =======================================
 

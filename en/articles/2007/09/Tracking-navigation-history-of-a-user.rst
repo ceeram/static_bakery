@@ -1,5 +1,3 @@
-
-
 Tracking navigation history of a user
 =====================================
 

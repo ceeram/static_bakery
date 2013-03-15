@@ -1,5 +1,3 @@
-
-
 TinyMCE helper
 ==============
 

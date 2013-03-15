@@ -1,5 +1,3 @@
-
-
 Efficient caching with NamespaceFileEngine
 ==========================================
 

@@ -1,5 +1,3 @@
-
-
 CSS Menu Helper
 ===============
 

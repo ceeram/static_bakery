@@ -1,5 +1,3 @@
-
-
 Modified Preorder Tree Traversal Component
 ==========================================
 

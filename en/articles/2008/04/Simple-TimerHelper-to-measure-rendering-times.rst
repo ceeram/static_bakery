@@ -1,5 +1,3 @@
-
-
 Simple TimerHelper to measure rendering times
 =============================================
 

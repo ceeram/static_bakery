@@ -1,5 +1,3 @@
-
-
 HTML 5 Multiple File Upload With Cake
 =====================================
 

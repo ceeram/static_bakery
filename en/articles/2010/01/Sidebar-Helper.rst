@@ -1,5 +1,3 @@
-
-
 Sidebar Helper
 ==============
 

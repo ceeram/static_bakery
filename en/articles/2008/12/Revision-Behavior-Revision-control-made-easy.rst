@@ -1,5 +1,3 @@
-
-
 Revision Behavior - Revision control made easy
 ==============================================
 

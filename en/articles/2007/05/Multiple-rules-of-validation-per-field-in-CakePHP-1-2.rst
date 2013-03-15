@@ -1,5 +1,3 @@
-
-
 Multiple rules of validation per field in CakePHP 1.2
 =====================================================
 

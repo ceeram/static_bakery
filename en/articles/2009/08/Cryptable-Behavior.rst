@@ -1,5 +1,3 @@
-
-
 Cryptable Behavior
 ==================
 

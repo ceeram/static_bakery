@@ -1,5 +1,3 @@
-
-
 LogUtil Component
 =================
 

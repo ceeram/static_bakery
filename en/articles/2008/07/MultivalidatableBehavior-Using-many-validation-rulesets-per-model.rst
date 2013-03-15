@@ -1,5 +1,3 @@
-
-
 MultivalidatableBehavior: Using many validation rulesets per model
 ==================================================================
 

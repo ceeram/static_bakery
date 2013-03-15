@@ -1,5 +1,3 @@
-
-
 User permissions based on a routing prefix
 ==========================================
 

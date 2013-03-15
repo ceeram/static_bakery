@@ -1,5 +1,3 @@
-
-
 Keeping bindModel and unbindModel out of your Controllers
 =========================================================
 

@@ -1,5 +1,3 @@
-
-
 Form posting with '_GET' parameters
 ===================================
 

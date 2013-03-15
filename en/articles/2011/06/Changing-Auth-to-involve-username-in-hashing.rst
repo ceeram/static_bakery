@@ -1,5 +1,3 @@
-
-
 Changing Auth to involve username in hashing
 ============================================
 

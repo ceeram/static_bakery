@@ -1,5 +1,3 @@
-
-
 Easy and simple subquery CakePHP
 ================================
 

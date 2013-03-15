@@ -1,5 +1,3 @@
-
-
 Paginating Data with CakePHP and Yahoo! User Interface DataTable
 ================================================================
 

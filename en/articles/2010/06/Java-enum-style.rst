@@ -1,5 +1,3 @@
-
-
 Java enum style
 ===============
 

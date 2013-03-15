@@ -1,5 +1,3 @@
-
-
 Multiple File Fileupload Component
 ==================================
 

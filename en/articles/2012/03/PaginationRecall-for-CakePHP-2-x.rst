@@ -1,5 +1,3 @@
-
-
 PaginationRecall for CakePHP 2.x
 ================================
 

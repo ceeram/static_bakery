@@ -1,5 +1,3 @@
-
-
 SecureGet Component
 ===================
 

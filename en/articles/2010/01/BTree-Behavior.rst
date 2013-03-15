@@ -1,5 +1,3 @@
-
-
 BTree Behavior
 ==============
 

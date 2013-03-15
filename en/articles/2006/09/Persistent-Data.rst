@@ -1,5 +1,3 @@
-
-
 Persistent Data
 ===============
 

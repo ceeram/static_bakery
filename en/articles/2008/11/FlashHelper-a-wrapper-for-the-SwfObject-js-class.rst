@@ -1,5 +1,3 @@
-
-
 FlashHelper - a wrapper for the SwfObject js class
 ==================================================
 

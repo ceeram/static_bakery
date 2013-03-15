@@ -1,5 +1,3 @@
-
-
 ConfigAdmin - Administration of Custom Configuration File
 =========================================================
 

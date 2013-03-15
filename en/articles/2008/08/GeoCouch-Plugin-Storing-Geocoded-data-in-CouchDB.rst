@@ -1,5 +1,3 @@
-
-
 GeoCouch Plugin - Storing Geocoded data in CouchDB
 ==================================================
 

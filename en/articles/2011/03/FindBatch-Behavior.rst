@@ -1,5 +1,3 @@
-
-
 FindBatch Behavior
 ==================
 

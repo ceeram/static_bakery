@@ -1,5 +1,3 @@
-
-
 Image Component for Upload and Thumbnail (phpThumb)
 ===================================================
 

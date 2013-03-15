@@ -1,5 +1,3 @@
-
-
 WAPL Builder Helper
 ===================
 

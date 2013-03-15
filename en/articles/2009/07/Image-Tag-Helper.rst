@@ -1,5 +1,3 @@
-
-
 Image Tag Helper
 ================
 

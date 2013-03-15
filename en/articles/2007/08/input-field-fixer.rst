@@ -1,5 +1,3 @@
-
-
 input field fixer
 =================
 

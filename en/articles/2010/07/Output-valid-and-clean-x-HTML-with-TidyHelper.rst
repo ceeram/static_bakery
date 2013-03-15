@@ -1,5 +1,3 @@
-
-
 Output valid and clean (x)HTML with TidyHelper
 ==============================================
 

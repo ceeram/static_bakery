@@ -1,5 +1,3 @@
-
-
 Simple FCK Editor helper
 ========================
 

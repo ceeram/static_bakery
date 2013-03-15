@@ -1,5 +1,3 @@
-
-
 Emogrifier Plugin for rendering HTML formatted email
 ====================================================
 

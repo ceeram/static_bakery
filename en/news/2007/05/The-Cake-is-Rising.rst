@@ -1,5 +1,3 @@
-
-
 The Cake is Rising
 ==================
 

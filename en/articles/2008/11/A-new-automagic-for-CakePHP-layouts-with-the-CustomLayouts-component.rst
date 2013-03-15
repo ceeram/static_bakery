@@ -1,5 +1,3 @@
-
-
 A new "automagic" for CakePHP layouts with the CustomLayouts component
 ======================================================================
 

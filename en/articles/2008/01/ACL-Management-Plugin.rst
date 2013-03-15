@@ -1,5 +1,3 @@
-
-
 ACL Management Plugin
 =====================
 

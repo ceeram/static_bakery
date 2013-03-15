@@ -1,5 +1,3 @@
-
-
 After 3 years, looking back and moving ahead
 ============================================
 

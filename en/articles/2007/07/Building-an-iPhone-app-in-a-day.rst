@@ -1,5 +1,3 @@
-
-
 Building an iPhone app in a day
 ===============================
 

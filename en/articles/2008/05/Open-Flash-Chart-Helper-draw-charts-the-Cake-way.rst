@@ -1,5 +1,3 @@
-
-
 Open Flash Chart Helper: draw charts the Cake way
 =================================================
 

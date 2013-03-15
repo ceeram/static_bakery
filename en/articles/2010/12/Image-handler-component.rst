@@ -1,5 +1,3 @@
-
-
 Image handler component
 =======================
 

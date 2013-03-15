@@ -1,5 +1,3 @@
-
-
 Adding multilingualism to single language site without i18n and/or
 TranslateBehaviour
 ==================

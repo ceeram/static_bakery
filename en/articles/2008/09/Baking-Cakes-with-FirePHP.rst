@@ -1,5 +1,3 @@
-
-
 Baking Cakes with FirePHP
 =========================
 

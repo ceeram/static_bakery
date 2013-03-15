@@ -1,5 +1,3 @@
-
-
 Introducing the cakephp-instaweb webserver
 ==========================================
 

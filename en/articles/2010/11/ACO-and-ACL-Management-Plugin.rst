@@ -1,5 +1,3 @@
-
-
 ACO and ACL Management Plugin
 =============================
 

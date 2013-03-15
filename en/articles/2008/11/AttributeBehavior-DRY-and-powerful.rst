@@ -1,5 +1,3 @@
-
-
 AttributeBehavior - DRY and powerful
 ====================================
 

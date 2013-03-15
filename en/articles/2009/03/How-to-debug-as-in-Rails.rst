@@ -1,5 +1,3 @@
-
-
 How to debug as in Rails
 ========================
 

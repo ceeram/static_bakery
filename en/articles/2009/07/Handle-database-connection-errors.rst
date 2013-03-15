@@ -1,5 +1,3 @@
-
-
 Handle database connection errors
 =================================
 

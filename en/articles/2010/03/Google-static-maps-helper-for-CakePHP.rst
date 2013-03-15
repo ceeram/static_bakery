@@ -1,5 +1,3 @@
-
-
 Google static maps helper for CakePHP
 =====================================
 

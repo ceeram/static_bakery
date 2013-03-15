@@ -1,5 +1,3 @@
-
-
 obAuth Simple Authentication
 ============================
 

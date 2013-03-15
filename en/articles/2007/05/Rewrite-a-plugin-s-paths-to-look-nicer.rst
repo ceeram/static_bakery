@@ -1,5 +1,3 @@
-
-
 Rewrite a plugin's paths to look nicer.
 =======================================
 

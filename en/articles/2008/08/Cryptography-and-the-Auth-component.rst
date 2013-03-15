@@ -1,5 +1,3 @@
-
-
 Cryptography and the Auth component
 ===================================
 

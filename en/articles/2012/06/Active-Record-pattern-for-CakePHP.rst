@@ -1,5 +1,3 @@
-
-
 Active Record pattern for CakePHP
 =================================
 

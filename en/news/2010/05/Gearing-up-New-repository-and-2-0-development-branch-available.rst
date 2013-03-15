@@ -1,5 +1,3 @@
-
-
 Gearing up: New repository and 2.0 development branch available
 ===============================================================
 

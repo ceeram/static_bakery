@@ -1,5 +1,3 @@
-
-
 Lightroom Helper
 ================
 

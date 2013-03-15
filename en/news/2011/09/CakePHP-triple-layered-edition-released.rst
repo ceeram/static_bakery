@@ -1,5 +1,3 @@
-
-
 CakePHP triple layered edition released
 =======================================
 

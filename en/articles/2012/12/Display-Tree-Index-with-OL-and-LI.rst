@@ -1,5 +1,3 @@
-
-
 Display Tree Index with OL and LI
 =================================
 

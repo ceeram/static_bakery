@@ -1,5 +1,3 @@
-
-
 PDF helper using fpdf
 =====================
 

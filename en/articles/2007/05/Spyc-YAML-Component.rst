@@ -1,5 +1,3 @@
-
-
 Spyc YAML Component
 ===================
 

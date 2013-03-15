@@ -1,5 +1,3 @@
-
-
 PaginatedTable Helper
 =====================
 

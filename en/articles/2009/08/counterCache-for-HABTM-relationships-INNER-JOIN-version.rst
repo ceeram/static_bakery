@@ -1,5 +1,3 @@
-
-
 counterCache for HABTM relationships [INNER JOIN version]
 =========================================================
 

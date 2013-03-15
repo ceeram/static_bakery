@@ -1,5 +1,3 @@
-
-
 "ShareThis” Social media helper
 ===============================
 

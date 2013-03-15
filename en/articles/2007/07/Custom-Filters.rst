@@ -1,5 +1,3 @@
-
-
 Custom Filters
 ==============
 

@@ -1,5 +1,3 @@
-
-
 Sending Email With PHPMailer
 ============================
 

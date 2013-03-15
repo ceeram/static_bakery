@@ -1,5 +1,3 @@
-
-
 Increment Behavior
 ==================
 

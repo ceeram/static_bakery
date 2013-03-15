@@ -1,5 +1,3 @@
-
-
 Clean urls with isapi rewrite on iis
 ====================================
 

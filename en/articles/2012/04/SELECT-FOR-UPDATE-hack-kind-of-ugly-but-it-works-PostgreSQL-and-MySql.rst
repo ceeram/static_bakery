@@ -1,5 +1,3 @@
-
-
 SELECT FOR UPDATE (hack) (kind of ugly but it works) (PostgreSQL and
 MySql)
 ======

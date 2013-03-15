@@ -1,5 +1,3 @@
-
-
 Element Helper
 ==============
 

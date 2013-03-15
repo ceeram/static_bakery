@@ -1,5 +1,3 @@
-
-
 Using PHPTAL for templates: PhptalView class
 ============================================
 

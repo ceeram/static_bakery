@@ -1,5 +1,3 @@
-
-
 Create a simple game exhibition website with CakePHP in 3 weeks
 ===============================================================
 

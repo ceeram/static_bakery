@@ -1,5 +1,3 @@
-
-
 RESTful web application development in cakephp
 ==============================================
 

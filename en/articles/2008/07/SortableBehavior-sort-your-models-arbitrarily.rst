@@ -1,5 +1,3 @@
-
-
 SortableBehavior: sort your models arbitrarily
 ==============================================
 

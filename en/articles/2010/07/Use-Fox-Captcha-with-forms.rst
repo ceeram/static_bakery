@@ -1,5 +1,3 @@
-
-
 Use Fox Captcha with forms
 ==========================
 

@@ -1,5 +1,3 @@
-
-
 Limit the models used in find operations
 ========================================
 

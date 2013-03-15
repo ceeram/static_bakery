@@ -1,5 +1,3 @@
-
-
 Converting thtml files to tpl
 =============================
 

@@ -1,5 +1,3 @@
-
-
 Adding friendly URLs to The Cake Blog Tutorial
 ==============================================
 

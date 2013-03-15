@@ -1,5 +1,3 @@
-
-
 Javascript Unit Testing with Jasmine
 ====================================
 

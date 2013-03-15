@@ -1,5 +1,3 @@
-
-
 Sending content to the layout using Cake 2.x
 ============================================
 

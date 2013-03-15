@@ -1,5 +1,3 @@
-
-
 How to limit user access in CakePHP: findMy
 ===========================================
 

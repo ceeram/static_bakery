@@ -1,5 +1,3 @@
-
-
 Redis DataSource for cakePHP 2
 ==============================
 

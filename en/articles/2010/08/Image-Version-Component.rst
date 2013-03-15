@@ -1,5 +1,3 @@
-
-
 Image Version Component
 =======================
 

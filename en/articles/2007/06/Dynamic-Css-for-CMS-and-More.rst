@@ -1,5 +1,3 @@
-
-
 Dynamic Css for CMS and More!
 =============================
 

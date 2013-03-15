@@ -1,5 +1,3 @@
-
-
 CakePHP vs. Ruby on Rails
 =========================
 

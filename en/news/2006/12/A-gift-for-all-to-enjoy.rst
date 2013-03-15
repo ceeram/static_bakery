@@ -1,5 +1,3 @@
-
-
 A gift for all to enjoy
 =======================
 

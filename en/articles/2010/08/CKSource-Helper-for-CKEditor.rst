@@ -1,5 +1,3 @@
-
-
 CKSource Helper for CKEditor
 ============================
 

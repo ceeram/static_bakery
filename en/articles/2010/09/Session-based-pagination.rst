@@ -1,5 +1,3 @@
-
-
 Session based pagination
 ========================
 

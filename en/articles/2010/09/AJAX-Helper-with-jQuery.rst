@@ -1,5 +1,3 @@
-
-
 AJAX Helper with jQuery
 =======================
 

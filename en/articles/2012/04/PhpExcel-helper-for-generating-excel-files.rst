@@ -1,5 +1,3 @@
-
-
 PhpExcel helper for generating excel files
 ==========================================
 

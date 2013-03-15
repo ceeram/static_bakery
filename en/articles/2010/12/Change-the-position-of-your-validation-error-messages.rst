@@ -1,5 +1,3 @@
-
-
 Change the position of your validation error messages
 =====================================================
 

@@ -1,5 +1,3 @@
-
-
 File upload and thumbnail component
 ===================================
 

@@ -1,5 +1,3 @@
-
-
 Load Balancing and MySQL Master and Slaves
 ==========================================
 

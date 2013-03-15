@@ -1,5 +1,3 @@
-
-
 Multistep forms
 ===============
 

@@ -1,5 +1,3 @@
-
-
 Simple way to memcache (almost) all database queries
 ====================================================
 

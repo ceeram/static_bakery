@@ -1,5 +1,3 @@
-
-
 Search feature to CakePHP blog example
 ======================================
 

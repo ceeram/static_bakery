@@ -1,5 +1,3 @@
-
-
 reCAPTCHA Plugin for CakePHP 2
 ==============================
 

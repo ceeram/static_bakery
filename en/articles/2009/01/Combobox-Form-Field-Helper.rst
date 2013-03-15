@@ -1,5 +1,3 @@
-
-
 Combobox Form Field Helper
 ==========================
 

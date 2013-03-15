@@ -1,5 +1,3 @@
-
-
 Ajax Chat Plugin (using jQuery)
 ===============================
 

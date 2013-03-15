@@ -1,5 +1,3 @@
-
-
 Happy Holiday yule cake - CakePHP 2.0-dev released
 ==================================================
 

@@ -1,5 +1,3 @@
-
-
 Using your application svn revision number
 ==========================================
 

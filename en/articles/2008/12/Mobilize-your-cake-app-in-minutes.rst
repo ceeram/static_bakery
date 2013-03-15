@@ -1,5 +1,3 @@
-
-
 Mobilize your cake app in minutes
 =================================
 

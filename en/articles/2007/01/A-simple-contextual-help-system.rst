@@ -1,5 +1,3 @@
-
-
 A simple contextual help system
 ===============================
 

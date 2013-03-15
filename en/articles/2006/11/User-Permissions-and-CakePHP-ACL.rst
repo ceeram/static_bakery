@@ -1,5 +1,3 @@
-
-
 User Permissions and CakePHP ACL
 ================================
 

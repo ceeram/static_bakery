@@ -1,5 +1,3 @@
-
-
 Encrypting URLs
 ===============
 

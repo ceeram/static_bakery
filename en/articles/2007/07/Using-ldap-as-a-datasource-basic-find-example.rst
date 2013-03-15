@@ -1,5 +1,3 @@
-
-
 Using ldap as a datasource: basic find example
 ==============================================
 

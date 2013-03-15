@@ -1,5 +1,3 @@
-
-
 Microsoft Windows Azure Tables Datasource
 =========================================
 

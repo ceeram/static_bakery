@@ -1,5 +1,3 @@
-
-
 Simple Way to Unbind Validation & Set Remaining Rules to Required
 =================================================================
 

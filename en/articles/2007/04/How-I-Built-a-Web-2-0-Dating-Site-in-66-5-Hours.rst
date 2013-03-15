@@ -1,5 +1,3 @@
-
-
 How I Built a Web 2.0 Dating Site in 66.5 Hours
 ===============================================
 

@@ -1,5 +1,3 @@
-
-
 Post/Redirect/Get design pattern component
 ==========================================
 

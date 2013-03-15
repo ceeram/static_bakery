@@ -1,5 +1,3 @@
-
-
 Automatic JavaScript and CSS Packer
 ===================================
 

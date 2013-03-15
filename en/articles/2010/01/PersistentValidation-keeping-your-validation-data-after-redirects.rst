@@ -1,5 +1,3 @@
-
-
 PersistentValidation - keeping your validation data after redirects
 ===================================================================
 

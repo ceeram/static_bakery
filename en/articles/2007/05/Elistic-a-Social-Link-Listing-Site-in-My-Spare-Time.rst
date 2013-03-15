@@ -1,5 +1,3 @@
-
-
 Elistic: a Social Link-Listing Site in My Spare Time
 ====================================================
 

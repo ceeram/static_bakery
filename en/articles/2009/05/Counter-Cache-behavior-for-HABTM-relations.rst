@@ -1,5 +1,3 @@
-
-
 Counter Cache behavior for HABTM relations
 ==========================================
 

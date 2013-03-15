@@ -1,5 +1,3 @@
-
-
 Implementing a Comma Separated Values (CSV) "webservice"
 ========================================================
 

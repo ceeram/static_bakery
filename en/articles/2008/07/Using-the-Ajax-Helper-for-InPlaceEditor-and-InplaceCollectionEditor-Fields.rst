@@ -1,5 +1,3 @@
-
-
 Using the Ajax Helper for InPlaceEditor and InplaceCollectionEditor
 Fields
 ======

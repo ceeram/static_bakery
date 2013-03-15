@@ -1,5 +1,3 @@
-
-
 Solution for schema generation TIMESTAMP default value failure
 ==============================================================
 

@@ -1,5 +1,3 @@
-
-
 Stack Behavior
 ==============
 

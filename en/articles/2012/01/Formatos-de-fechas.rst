@@ -1,5 +1,3 @@
-
-
 Formatos de fechas
 ==================
 

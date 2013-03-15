@@ -1,5 +1,3 @@
-
-
 PHPMailer with native API for PHP 5.x
 =====================================
 

@@ -1,5 +1,3 @@
-
-
 SMS Text Component
 ==================
 

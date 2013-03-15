@@ -1,5 +1,3 @@
-
-
 Automagic JavaScript Validation Helper
 ======================================
 

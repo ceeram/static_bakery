@@ -1,5 +1,3 @@
-
-
 Easy Email Address Encoder
 ==========================
 

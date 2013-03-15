@@ -1,5 +1,3 @@
-
-
 obAuth Component Tutorial
 =========================
 

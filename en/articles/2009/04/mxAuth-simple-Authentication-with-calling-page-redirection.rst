@@ -1,5 +1,3 @@
-
-
 mxAuth - simple Authentication with calling page redirection
 ============================================================
 

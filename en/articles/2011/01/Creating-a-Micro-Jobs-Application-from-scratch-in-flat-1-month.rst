@@ -1,5 +1,3 @@
-
-
 Creating a Micro Jobs Application from scratch in flat 1 month
 ==============================================================
 

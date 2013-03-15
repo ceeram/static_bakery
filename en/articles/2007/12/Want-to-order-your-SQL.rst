@@ -1,5 +1,3 @@
-
-
 Want to order your SQL
 ======================
 

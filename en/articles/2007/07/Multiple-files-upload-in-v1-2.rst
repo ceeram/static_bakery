@@ -1,5 +1,3 @@
-
-
 Multiple files upload in v1.2
 =============================
 

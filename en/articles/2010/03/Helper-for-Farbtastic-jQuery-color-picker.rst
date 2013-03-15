@@ -1,5 +1,3 @@
-
-
 Helper for Farbtastic (jQuery color picker)
 ===========================================
 

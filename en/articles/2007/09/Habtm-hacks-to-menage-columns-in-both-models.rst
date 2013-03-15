@@ -1,5 +1,3 @@
-
-
 Habtm hacks to menage columns in both models
 ============================================
 

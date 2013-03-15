@@ -1,5 +1,3 @@
-
-
 Changes in CakePHP and new plugins
 ==================================
 

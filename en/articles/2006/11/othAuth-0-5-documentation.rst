@@ -1,5 +1,3 @@
-
-
 othAuth 0.5 documentation
 =========================
 

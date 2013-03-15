@@ -1,5 +1,3 @@
-
-
 Running CakePHP 1.2 under Lighttpd
 ==================================
 

@@ -1,5 +1,3 @@
-
-
 Checking for duplicate records (unique record)
 ==============================================
 

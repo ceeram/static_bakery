@@ -1,5 +1,3 @@
-
-
 Tidy Output Filtering
 =====================
 

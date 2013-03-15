@@ -1,5 +1,3 @@
-
-
 Updated ACL Plugin
 ==================
 

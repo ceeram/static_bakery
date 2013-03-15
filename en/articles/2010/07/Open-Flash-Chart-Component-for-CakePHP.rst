@@ -1,5 +1,3 @@
-
-
 Open Flash Chart Component for CakePHP
 ======================================
 

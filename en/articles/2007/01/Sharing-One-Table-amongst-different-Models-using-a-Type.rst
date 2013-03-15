@@ -1,5 +1,3 @@
-
-
 Sharing One Table amongst different Models using a Type
 =======================================================
 

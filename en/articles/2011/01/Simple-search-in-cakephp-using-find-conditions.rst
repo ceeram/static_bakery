@@ -1,5 +1,3 @@
-
-
 Simple search in cakephp using find() conditions.
 =================================================
 

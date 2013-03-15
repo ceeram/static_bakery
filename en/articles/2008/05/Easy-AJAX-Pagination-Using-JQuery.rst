@@ -1,5 +1,3 @@
-
-
 Easy AJAX Pagination Using JQuery
 =================================
 

@@ -1,5 +1,3 @@
-
-
 Paginating Data with CakePHP, Dojo Data Store and DataGrid
 ==========================================================
 

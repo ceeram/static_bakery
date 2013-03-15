@@ -1,5 +1,3 @@
-
-
 Clear the PHP4 warnings when working in eclipsePHP
 ==================================================
 

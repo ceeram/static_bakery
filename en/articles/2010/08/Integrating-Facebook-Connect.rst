@@ -1,5 +1,3 @@
-
-
 Integrating Facebook Connect
 ============================
 

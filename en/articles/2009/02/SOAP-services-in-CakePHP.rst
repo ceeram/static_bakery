@@ -1,5 +1,3 @@
-
-
 SOAP services in CakePHP
 ========================
 

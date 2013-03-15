@@ -1,5 +1,3 @@
-
-
 Simple and Native MySQL Fulltext Behavior
 =========================================
 

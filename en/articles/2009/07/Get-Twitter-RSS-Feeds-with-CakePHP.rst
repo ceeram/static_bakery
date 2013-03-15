@@ -1,5 +1,3 @@
-
-
 Get Twitter RSS Feeds with CakePHP
 ==================================
 

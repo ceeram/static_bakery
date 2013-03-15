@@ -1,5 +1,3 @@
-
-
 CakeFest 2012 - Only 30 days until CakeFest!
 ============================================
 

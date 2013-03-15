@@ -1,5 +1,3 @@
-
-
 Creating Maps with Cake PHP
 ===========================
 

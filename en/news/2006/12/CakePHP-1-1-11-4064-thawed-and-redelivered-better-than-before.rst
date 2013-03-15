@@ -1,5 +1,3 @@
-
-
 CakePHP 1.1.11.4064 thawed and redelivered better than before.
 ==============================================================
 

@@ -1,5 +1,3 @@
-
-
 SwiftMailer Component
 =====================
 

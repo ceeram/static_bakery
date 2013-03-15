@@ -1,5 +1,3 @@
-
-
 Backup your SQL database with BackupMe console application
 ==========================================================
 

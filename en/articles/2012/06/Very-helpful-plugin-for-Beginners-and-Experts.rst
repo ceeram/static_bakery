@@ -1,5 +1,3 @@
-
-
 Very helpful plugin for Beginners and Experts
 =============================================
 

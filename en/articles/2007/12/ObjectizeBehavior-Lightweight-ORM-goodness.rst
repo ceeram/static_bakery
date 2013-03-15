@@ -1,5 +1,3 @@
-
-
 ObjectizeBehavior - Lightweight ORM goodness
 ============================================
 

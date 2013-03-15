@@ -1,5 +1,3 @@
-
-
 How to use Smarty with Cake (SmartyView)
 ========================================
 

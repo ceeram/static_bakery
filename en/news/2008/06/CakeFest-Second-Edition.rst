@@ -1,5 +1,3 @@
-
-
 CakeFest Second Edition
 =======================
 

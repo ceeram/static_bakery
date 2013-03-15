@@ -1,5 +1,3 @@
-
-
 A CakePHP ADODB data source driver for MS Access
 ================================================
 

@@ -1,5 +1,3 @@
-
-
 Adding a Google Map to your App
 ===============================
 

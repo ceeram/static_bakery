@@ -1,5 +1,3 @@
-
-
 How to implement RPX social in cakephp?
 =======================================
 

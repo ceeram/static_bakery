@@ -1,5 +1,3 @@
-
-
 CakePHP YAML Migrations and Fixtures without PEAR
 =================================================
 

@@ -1,5 +1,3 @@
-
-
 The Last Alpha Cake
 ===================
 

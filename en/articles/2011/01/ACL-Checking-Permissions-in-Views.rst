@@ -1,5 +1,3 @@
-
-
 ACL: Checking Permissions in Views
 ==================================
 

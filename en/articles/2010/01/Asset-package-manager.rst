@@ -1,5 +1,3 @@
-
-
 Asset package manager
 =====================
 

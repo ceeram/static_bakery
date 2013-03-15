@@ -1,5 +1,3 @@
-
-
 Equation Generation
 ===================
 

@@ -1,5 +1,3 @@
-
-
 Different layouts for static pages
 ==================================
 

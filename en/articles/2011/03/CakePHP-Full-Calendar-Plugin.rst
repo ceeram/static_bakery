@@ -1,5 +1,3 @@
-
-
 CakePHP Full Calendar Plugin
 ============================
 

@@ -1,5 +1,3 @@
-
-
 jQuery image upload & crop
 ==========================
 

@@ -1,5 +1,3 @@
-
-
 Datetime formatter behavior
 ===========================
 

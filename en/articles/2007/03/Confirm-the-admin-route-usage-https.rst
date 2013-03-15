@@ -1,5 +1,3 @@
-
-
 Confirm the admin route usage https
 ===================================
 

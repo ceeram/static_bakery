@@ -1,5 +1,3 @@
-
-
 PornoShelf - Video Tube Site easily accomplished with CakePHP
 =============================================================
 

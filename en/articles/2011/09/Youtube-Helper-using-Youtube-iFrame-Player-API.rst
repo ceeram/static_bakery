@@ -1,5 +1,3 @@
-
-
 Youtube Helper using Youtube iFrame Player API
 ==============================================
 

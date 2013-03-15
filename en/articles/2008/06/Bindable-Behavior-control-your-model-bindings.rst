@@ -1,5 +1,3 @@
-
-
 Bindable Behavior: control your model bindings
 ==============================================
 

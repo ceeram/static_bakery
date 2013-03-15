@@ -1,5 +1,3 @@
-
-
 Fixing and improving the TextHelper
 ===================================
 

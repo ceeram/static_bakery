@@ -1,5 +1,3 @@
-
-
 AutoHotkey Guide for CakePHP
 ============================
 

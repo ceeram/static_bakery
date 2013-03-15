@@ -1,5 +1,3 @@
-
-
 Autocomplete multiple fields
 ============================
 

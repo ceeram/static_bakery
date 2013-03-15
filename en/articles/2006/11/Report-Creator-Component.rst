@@ -1,5 +1,3 @@
-
-
 Report Creator Component
 ========================
 

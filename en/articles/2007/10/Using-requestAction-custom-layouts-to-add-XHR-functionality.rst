@@ -1,5 +1,3 @@
-
-
 Using requestAction & custom layouts to add XHR functionality
 =============================================================
 

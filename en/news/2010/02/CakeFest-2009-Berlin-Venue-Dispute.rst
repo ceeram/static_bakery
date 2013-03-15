@@ -1,5 +1,3 @@
-
-
 CakeFest 2009 Berlin Venue Dispute
 ==================================
 

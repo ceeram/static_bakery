@@ -1,5 +1,3 @@
-
-
 Integrate Amazon Simple Email Service (SES) into existing application
 =====================================================================
 

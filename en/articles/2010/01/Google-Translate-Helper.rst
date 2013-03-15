@@ -1,5 +1,3 @@
-
-
 Google Translate Helper
 =======================
 

@@ -1,5 +1,3 @@
-
-
 Custom Baking with CakePHP 1.3
 ==============================
 

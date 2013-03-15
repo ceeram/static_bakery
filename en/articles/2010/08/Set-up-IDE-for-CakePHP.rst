@@ -1,5 +1,3 @@
-
-
 Set up IDE for CakePHP
 ======================
 

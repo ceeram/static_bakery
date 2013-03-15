@@ -1,5 +1,3 @@
-
-
 AdaWiki2, an easy to use wiki made in CakePHP
 =============================================
 

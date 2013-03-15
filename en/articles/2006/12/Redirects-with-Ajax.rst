@@ -1,5 +1,3 @@
-
-
 Redirects with Ajax
 ===================
 

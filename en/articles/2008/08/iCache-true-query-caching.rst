@@ -1,5 +1,3 @@
-
-
 iCache - true query caching
 ===========================
 

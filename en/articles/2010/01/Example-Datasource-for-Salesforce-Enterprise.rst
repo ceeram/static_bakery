@@ -1,5 +1,3 @@
-
-
 Example Datasource for Salesforce Enterprise
 ============================================
 

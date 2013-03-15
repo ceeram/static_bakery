@@ -1,5 +1,3 @@
-
-
 Getting intimate with pages
 ===========================
 

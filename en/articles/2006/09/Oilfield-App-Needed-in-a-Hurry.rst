@@ -1,5 +1,3 @@
-
-
 Oilfield App Needed in a Hurry
 ==============================
 

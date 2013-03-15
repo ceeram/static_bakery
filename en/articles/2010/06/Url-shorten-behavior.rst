@@ -1,5 +1,3 @@
-
-
 Url shorten behavior
 ====================
 

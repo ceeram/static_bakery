@@ -1,5 +1,3 @@
-
-
 Introducing VaM Cart
 ====================
 

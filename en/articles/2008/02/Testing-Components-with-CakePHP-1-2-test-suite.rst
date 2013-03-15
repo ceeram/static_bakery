@@ -1,5 +1,3 @@
-
-
 Testing Components with CakePHP 1.2 test suite
 ==============================================
 

@@ -1,5 +1,3 @@
-
-
 Maintaining an Application-independant Code Library
 ===================================================
 

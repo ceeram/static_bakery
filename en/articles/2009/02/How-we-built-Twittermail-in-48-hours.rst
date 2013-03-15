@@ -1,5 +1,3 @@
-
-
 How we built Twittermail in 48 hours
 ====================================
 

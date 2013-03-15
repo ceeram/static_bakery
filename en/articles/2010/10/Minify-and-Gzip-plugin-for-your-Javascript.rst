@@ -1,5 +1,3 @@
-
-
 Minify and Gzip plugin for your Javascript
 ==========================================
 

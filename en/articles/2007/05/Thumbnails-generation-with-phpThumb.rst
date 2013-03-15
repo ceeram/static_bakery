@@ -1,5 +1,3 @@
-
-
 Thumbnails generation with phpThumb
 ===================================
 

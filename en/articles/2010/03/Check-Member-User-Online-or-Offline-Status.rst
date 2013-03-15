@@ -1,5 +1,3 @@
-
-
 Check Member / User Online or Offline Status
 ============================================
 

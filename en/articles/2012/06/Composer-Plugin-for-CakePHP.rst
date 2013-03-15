@@ -1,5 +1,3 @@
-
-
 Composer Plugin for CakePHP
 ===========================
 

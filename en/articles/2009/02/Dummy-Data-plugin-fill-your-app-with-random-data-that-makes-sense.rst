@@ -1,5 +1,3 @@
-
-
 Dummy Data plugin - fill your app with random data that makes sense
 ===================================================================
 

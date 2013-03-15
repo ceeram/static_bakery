@@ -1,5 +1,3 @@
-
-
 Testing with Virtualbox and Vagrant
 ===================================
 

@@ -1,5 +1,3 @@
-
-
 Marinas and Yacht Sales Web Site
 ================================
 

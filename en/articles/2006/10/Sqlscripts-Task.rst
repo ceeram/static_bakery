@@ -1,5 +1,3 @@
-
-
 Sqlscripts Task
 ===============
 

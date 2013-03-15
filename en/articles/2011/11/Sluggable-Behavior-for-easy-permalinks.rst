@@ -1,5 +1,3 @@
-
-
 Sluggable Behavior for easy permalinks
 ======================================
 

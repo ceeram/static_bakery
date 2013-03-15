@@ -1,5 +1,3 @@
-
-
 Vbulletin Bridge For CakePHP
 ============================
 

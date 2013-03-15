@@ -1,5 +1,3 @@
-
-
 How to save core configurations to database table
 =================================================
 

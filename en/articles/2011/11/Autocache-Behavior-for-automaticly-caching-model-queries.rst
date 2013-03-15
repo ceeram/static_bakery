@@ -1,5 +1,3 @@
-
-
 Autocache Behavior for automaticly caching model queries
 ========================================================
 

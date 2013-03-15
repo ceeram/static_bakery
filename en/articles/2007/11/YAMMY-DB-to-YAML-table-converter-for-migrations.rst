@@ -1,5 +1,3 @@
-
-
 YAMMY!: DB to YAML table converter for migrations
 =================================================
 

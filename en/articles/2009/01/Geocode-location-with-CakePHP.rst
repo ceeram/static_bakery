@@ -1,5 +1,3 @@
-
-
 Geocode location with CakePHP
 =============================
 

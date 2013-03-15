@@ -1,5 +1,3 @@
-
-
 The CakePHP Bakery Launches
 ===========================
 

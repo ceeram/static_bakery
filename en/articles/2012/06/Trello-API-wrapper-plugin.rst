@@ -1,5 +1,3 @@
-
-
 Trello API wrapper plugin
 =========================
 

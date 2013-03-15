@@ -1,5 +1,3 @@
-
-
 User Management Plugin for cakephp 2.x version 2.0
 ==================================================
 

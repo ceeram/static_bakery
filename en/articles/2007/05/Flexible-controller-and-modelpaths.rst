@@ -1,5 +1,3 @@
-
-
 Flexible controller and modelpaths
 ==================================
 

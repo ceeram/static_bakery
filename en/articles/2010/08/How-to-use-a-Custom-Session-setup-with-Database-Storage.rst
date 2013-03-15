@@ -1,5 +1,3 @@
-
-
 How to use a Custom Session setup with Database Storage
 =======================================================
 

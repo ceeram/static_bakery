@@ -1,5 +1,3 @@
-
-
 YAGMH - Yet another Google Map Helper
 =====================================
 

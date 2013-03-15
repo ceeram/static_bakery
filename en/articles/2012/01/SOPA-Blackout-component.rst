@@ -1,5 +1,3 @@
-
-
 SOPA Blackout component
 =======================
 

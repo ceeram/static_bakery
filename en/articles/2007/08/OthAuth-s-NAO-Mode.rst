@@ -1,5 +1,3 @@
-
-
 OthAuth's NAO Mode
 ==================
 

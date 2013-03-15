@@ -1,5 +1,3 @@
-
-
 Soft Deletable Behavior
 =======================
 

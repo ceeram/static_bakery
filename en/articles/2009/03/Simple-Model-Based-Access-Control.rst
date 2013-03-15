@@ -1,5 +1,3 @@
-
-
 Simple, Model-Based Access Control
 ==================================
 

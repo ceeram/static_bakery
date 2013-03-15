@@ -1,5 +1,3 @@
-
-
 Using Security Component and multi Checkboxes
 =============================================
 

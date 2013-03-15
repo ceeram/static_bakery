@@ -1,5 +1,3 @@
-
-
 Creating a Custom Shell for Adding Users for Use With AuthComponent
 ===================================================================
 

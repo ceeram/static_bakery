@@ -1,5 +1,3 @@
-
-
 CakePHP 1.3.3 rainbow icing edition released
 ============================================
 

@@ -1,5 +1,3 @@
-
-
 NeptunIDE: CakePHP dedicated IDE
 ================================
 

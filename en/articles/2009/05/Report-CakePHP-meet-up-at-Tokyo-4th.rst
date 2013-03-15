@@ -1,5 +1,3 @@
-
-
 Report: CakePHP meet-up at Tokyo 4th
 ====================================
 

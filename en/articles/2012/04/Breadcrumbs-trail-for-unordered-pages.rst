@@ -1,5 +1,3 @@
-
-
 Breadcrumbs trail for unordered pages
 =====================================
 

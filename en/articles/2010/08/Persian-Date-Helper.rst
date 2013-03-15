@@ -1,5 +1,3 @@
-
-
 Persian Date Helper
 ===================
 

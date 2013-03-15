@@ -1,5 +1,3 @@
-
-
 Permissions Plugin
 ==================
 

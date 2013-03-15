@@ -1,5 +1,3 @@
-
-
 CustomFinds Behavior
 ====================
 

@@ -1,5 +1,3 @@
-
-
 Yahoo Geo Coding Component
 ==========================
 

@@ -1,5 +1,3 @@
-
-
 XSL transforms as a controller component
 ========================================
 

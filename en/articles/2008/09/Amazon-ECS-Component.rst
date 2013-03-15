@@ -1,5 +1,3 @@
-
-
 Amazon ECS Component
 ====================
 

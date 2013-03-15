@@ -1,5 +1,3 @@
-
-
 LDAP datasource for cakePHP
 ===========================
 

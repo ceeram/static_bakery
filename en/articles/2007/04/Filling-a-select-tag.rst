@@ -1,5 +1,3 @@
-
-
 Filling a select tag
 ====================
 

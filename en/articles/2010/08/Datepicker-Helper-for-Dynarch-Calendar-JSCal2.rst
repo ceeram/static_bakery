@@ -1,5 +1,3 @@
-
-
 Datepicker Helper for Dynarch Calendar (JSCal2)
 ===============================================
 

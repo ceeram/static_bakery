@@ -1,5 +1,3 @@
-
-
 Simple, generic, app-wide record level access control.
 ======================================================
 

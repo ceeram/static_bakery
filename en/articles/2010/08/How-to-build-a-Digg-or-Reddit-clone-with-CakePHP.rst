@@ -1,5 +1,3 @@
-
-
 How to build a Digg or Reddit clone with CakePHP
 ================================================
 

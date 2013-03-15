@@ -1,5 +1,3 @@
-
-
 Add formatted lists to your AppModel
 ====================================
 

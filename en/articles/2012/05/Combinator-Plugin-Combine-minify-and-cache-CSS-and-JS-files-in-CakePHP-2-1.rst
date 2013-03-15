@@ -1,5 +1,3 @@
-
-
 Combinator Plugin: Combine, minify and cache CSS and JS files in
 CakePHP 2.1
 ===========

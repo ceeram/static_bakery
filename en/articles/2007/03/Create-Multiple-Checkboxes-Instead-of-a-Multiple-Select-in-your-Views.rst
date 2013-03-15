@@ -1,5 +1,3 @@
-
-
 Create Multiple Checkboxes Instead of a Multiple-Select in your Views
 =====================================================================
 

@@ -1,5 +1,3 @@
-
-
 PHPMailer component for cakephp 1.2
 ===================================
 

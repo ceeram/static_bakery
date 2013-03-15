@@ -1,5 +1,3 @@
-
-
 session setflash with cool jquery effects
 =========================================
 

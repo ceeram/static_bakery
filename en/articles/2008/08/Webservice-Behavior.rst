@@ -1,5 +1,3 @@
-
-
 Webservice Behavior
 ===================
 

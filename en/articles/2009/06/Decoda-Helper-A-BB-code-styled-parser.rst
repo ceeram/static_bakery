@@ -1,5 +1,3 @@
-
-
 Decoda Helper - A BB code styled parser
 =======================================
 

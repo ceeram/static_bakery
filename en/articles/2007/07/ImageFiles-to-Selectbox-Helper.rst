@@ -1,5 +1,3 @@
-
-
 ImageFiles-to-Selectbox Helper
 ==============================
 

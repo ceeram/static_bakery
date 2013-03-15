@@ -1,5 +1,3 @@
-
-
 Serving up actions as AJAX with jQuery in a few simple steps
 ============================================================
 

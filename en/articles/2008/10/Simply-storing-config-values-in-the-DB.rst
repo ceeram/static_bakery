@@ -1,5 +1,3 @@
-
-
 Simply storing config values in the DB
 ======================================
 

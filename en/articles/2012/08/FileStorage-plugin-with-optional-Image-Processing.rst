@@ -1,5 +1,3 @@
-
-
 FileStorage plugin with optional Image Processing
 =================================================
 

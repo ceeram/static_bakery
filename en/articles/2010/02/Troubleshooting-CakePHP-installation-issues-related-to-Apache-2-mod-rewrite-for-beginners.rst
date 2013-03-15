@@ -1,5 +1,3 @@
-
-
 Troubleshooting CakePHP installation issues related to Apache 2
 mod_rewrite - for beginners.
 ============================

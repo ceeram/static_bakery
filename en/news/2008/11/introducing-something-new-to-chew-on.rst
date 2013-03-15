@@ -1,5 +1,3 @@
-
-
 introducing something new to chew on
 ====================================
 

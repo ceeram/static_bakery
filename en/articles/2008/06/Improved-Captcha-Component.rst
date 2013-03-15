@@ -1,5 +1,3 @@
-
-
 Improved Captcha Component
 ==========================
 

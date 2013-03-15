@@ -1,5 +1,3 @@
-
-
 Sphinx Behavior
 ===============
 

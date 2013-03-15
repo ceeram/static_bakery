@@ -1,5 +1,3 @@
-
-
 Routing with Multiple Subdomains
 ================================
 

@@ -1,5 +1,3 @@
-
-
 CakeHtmlHelper speed up your site enabling html cache - Cakephp 2.x
 ===================================================================
 

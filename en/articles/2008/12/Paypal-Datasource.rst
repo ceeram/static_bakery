@@ -1,5 +1,3 @@
-
-
 Paypal Datasource
 =================
 

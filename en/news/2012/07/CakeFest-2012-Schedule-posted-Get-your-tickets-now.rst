@@ -1,5 +1,3 @@
-
-
 CakeFest 2012 - Schedule posted! Get your tickets now!
 ======================================================
 

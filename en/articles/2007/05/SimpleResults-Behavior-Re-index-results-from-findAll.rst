@@ -1,5 +1,3 @@
-
-
 SimpleResults Behavior - Re-index results from findAll()
 ========================================================
 

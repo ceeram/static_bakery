@@ -1,5 +1,3 @@
-
-
 Using Custom Validation Rules To Compare Two Form Fields
 ========================================================
 

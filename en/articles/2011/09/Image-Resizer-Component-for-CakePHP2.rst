@@ -1,5 +1,3 @@
-
-
 Image Resizer Component for CakePHP2
 ====================================
 

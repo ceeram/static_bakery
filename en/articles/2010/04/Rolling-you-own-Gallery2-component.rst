@@ -1,5 +1,3 @@
-
-
 Rolling you own Gallery2 component
 ==================================
 

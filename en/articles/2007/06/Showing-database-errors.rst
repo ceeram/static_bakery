@@ -1,5 +1,3 @@
-
-
 Showing database-errors
 =======================
 

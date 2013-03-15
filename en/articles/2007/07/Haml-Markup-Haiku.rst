@@ -1,5 +1,3 @@
-
-
 Haml: Markup Haiku
 ==================
 

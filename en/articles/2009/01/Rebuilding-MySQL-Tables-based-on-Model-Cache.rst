@@ -1,5 +1,3 @@
-
-
 Rebuilding MySQL Tables based on Model Cache
 ============================================
 

@@ -1,5 +1,3 @@
-
-
 Optimizing your CakePHP elements and views with caching
 =======================================================
 

@@ -1,5 +1,3 @@
-
-
 Validati18n Behavior
 ====================
 

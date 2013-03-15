@@ -1,5 +1,3 @@
-
-
 Sorting on aggregate and composite fields using pagination in 1.2
 =================================================================
 

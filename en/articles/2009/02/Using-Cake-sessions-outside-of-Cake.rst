@@ -1,5 +1,3 @@
-
-
 Using Cake sessions outside of Cake
 ===================================
 

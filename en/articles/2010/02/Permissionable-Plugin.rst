@@ -1,5 +1,3 @@
-
-
 Permissionable Plugin
 =====================
 

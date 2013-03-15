@@ -1,5 +1,3 @@
-
-
 Rebake all your admin views in one call
 =======================================
 

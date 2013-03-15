@@ -1,5 +1,3 @@
-
-
 Cruise Holidays Website
 =======================
 

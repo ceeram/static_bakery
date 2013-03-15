@@ -1,5 +1,3 @@
-
-
 Order and time tracking system
 ==============================
 

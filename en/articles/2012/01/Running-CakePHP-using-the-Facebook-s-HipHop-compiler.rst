@@ -1,5 +1,3 @@
-
-
 Running CakePHP using the Facebook's HipHop compiler
 ====================================================
 

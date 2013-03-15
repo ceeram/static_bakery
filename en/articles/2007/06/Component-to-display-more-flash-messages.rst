@@ -1,5 +1,3 @@
-
-
 Component to display more flash messages
 ========================================
 

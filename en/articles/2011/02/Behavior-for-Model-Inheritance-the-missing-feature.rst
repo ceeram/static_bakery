@@ -1,5 +1,3 @@
-
-
 Behavior for Model Inheritance: the missing feature
 ===================================================
 

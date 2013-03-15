@@ -1,5 +1,3 @@
-
-
 Override HtmlHelper for Acl component. Hide links where users don't
 have privileges.
 ================

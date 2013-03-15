@@ -1,5 +1,3 @@
-
-
 Encrypted Cookie Component
 ==========================
 

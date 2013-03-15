@@ -1,5 +1,3 @@
-
-
 how to create an observeField equivalent in the new JsHelper
 ============================================================
 

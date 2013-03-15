@@ -1,5 +1,3 @@
-
-
 cakeinit - CakePHP Project Starter
 ==================================
 

@@ -1,5 +1,3 @@
-
-
 AJAX Helper with jQuery (for CakePHP 2.x)
 =========================================
 

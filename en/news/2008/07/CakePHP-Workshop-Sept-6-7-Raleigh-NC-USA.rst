@@ -1,5 +1,3 @@
-
-
 CakePHP Workshop, Sept 6&7, Raleigh NC USA
 ==========================================
 

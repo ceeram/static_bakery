@@ -1,5 +1,3 @@
-
-
 Basic Fallback Component
 ========================
 

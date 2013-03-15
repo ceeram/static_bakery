@@ -1,5 +1,3 @@
-
-
 Zhen CRM: open-source CakePHP CRM application
 =============================================
 

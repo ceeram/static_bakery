@@ -1,5 +1,3 @@
-
-
 Using SQL_CALC_FOUND_ROWS with pagination
 =========================================
 

@@ -1,5 +1,3 @@
-
-
 Baking with Markdown and dp.SyntaxHighlighter
 =============================================
 

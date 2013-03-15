@@ -1,5 +1,3 @@
-
-
 Convenient Enable and Disable of Model cacheQueries
 ===================================================
 

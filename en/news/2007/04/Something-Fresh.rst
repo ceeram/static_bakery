@@ -1,5 +1,3 @@
-
-
 Something Fresh
 ===============
 

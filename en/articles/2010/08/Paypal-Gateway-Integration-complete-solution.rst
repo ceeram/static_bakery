@@ -1,5 +1,3 @@
-
-
 Paypal Gateway Integration - complete solution
 ==============================================
 

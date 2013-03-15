@@ -1,5 +1,3 @@
-
-
 Basic use of the Js helper to implement ajax features
 =====================================================
 

@@ -1,5 +1,3 @@
-
-
 $anything_for_layout: Making HTML from the View available to the
 layout
 ======

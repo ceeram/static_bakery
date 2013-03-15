@@ -1,5 +1,3 @@
-
-
 ActAs Image column behavior
 ===========================
 

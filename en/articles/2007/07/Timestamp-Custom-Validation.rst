@@ -1,5 +1,3 @@
-
-
 Timestamp Custom Validation
 ===========================
 

@@ -1,5 +1,3 @@
-
-
 Code Authors, Please mention the CakePHP version!
 =================================================
 

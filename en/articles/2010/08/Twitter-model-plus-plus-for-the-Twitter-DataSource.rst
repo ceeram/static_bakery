@@ -1,5 +1,3 @@
-
-
 Twitter model plus plus (for the Twitter DataSource)
 ====================================================
 

@@ -1,5 +1,3 @@
-
-
 Introducing Croogo CMS
 ======================
 

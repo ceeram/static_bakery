@@ -1,5 +1,3 @@
-
-
 TuneShout.com: Music Downloads and CakePHP
 ==========================================
 

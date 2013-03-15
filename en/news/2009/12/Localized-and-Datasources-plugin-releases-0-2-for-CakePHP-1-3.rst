@@ -1,5 +1,3 @@
-
-
 Localized and Datasources plugin releases 0.2 for CakePHP 1.3
 =============================================================
 

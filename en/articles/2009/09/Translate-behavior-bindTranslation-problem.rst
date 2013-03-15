@@ -1,5 +1,3 @@
-
-
 Translate behavior - bindTranslation problem
 ============================================
 

@@ -1,5 +1,3 @@
-
-
 Hot out of the oven CakePHP 1.3 alpha
 =====================================
 

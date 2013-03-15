@@ -1,5 +1,3 @@
-
-
 Show and Hide Debug SQL
 =======================
 

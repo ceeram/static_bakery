@@ -1,5 +1,3 @@
-
-
 The Weather Channel Component
 =============================
 

@@ -1,5 +1,3 @@
-
-
 GeoIp Component
 ===============
 

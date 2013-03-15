@@ -1,5 +1,3 @@
-
-
 AJAX star rating plugin
 =======================
 

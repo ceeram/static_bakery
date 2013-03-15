@@ -1,5 +1,3 @@
-
-
 Don't forget afterFind callback
 ===============================
 

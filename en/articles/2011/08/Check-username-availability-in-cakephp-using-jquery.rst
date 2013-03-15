@@ -1,5 +1,3 @@
-
-
 Check username availability in cakephp using jquery
 ===================================================
 

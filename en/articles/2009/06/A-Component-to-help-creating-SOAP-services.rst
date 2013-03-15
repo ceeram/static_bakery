@@ -1,5 +1,3 @@
-
-
 A Component to help creating SOAP services
 ==========================================
 

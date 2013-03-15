@@ -1,5 +1,3 @@
-
-
 Optimizing Model loading with LazyModel
 =======================================
 

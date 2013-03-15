@@ -1,5 +1,3 @@
-
-
 'Remember me' - a component to add upon basic auth
 ==================================================
 

@@ -1,5 +1,3 @@
-
-
 How a Cake-noob built TutorialMagazine.com in 14 days
 =====================================================
 

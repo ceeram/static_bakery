@@ -1,5 +1,3 @@
-
-
 Robust crypt functionality for use in CakePHP
 =============================================
 

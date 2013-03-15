@@ -1,5 +1,3 @@
-
-
 Transaction behavior
 ====================
 

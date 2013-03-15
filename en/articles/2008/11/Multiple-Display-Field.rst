@@ -1,5 +1,3 @@
-
-
 Multiple Display Field
 ======================
 

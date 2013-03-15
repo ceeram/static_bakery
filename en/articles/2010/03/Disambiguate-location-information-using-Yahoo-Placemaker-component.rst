@@ -1,5 +1,3 @@
-
-
 Disambiguate location information using Yahoo! Placemaker component
 ===================================================================
 

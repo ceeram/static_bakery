@@ -1,5 +1,3 @@
-
-
 Release: Pure Cake Power in RC1
 ===============================
 

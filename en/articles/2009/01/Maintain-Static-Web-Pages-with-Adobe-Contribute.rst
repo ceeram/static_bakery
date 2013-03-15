@@ -1,5 +1,3 @@
-
-
 Maintain Static Web Pages with Adobe Contribute
 ===============================================
 

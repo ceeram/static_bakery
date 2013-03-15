@@ -1,5 +1,3 @@
-
-
 CakePHP 2.1-alpha just baked
 ============================
 

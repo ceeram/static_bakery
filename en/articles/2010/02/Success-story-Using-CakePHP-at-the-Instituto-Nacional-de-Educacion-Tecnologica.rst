@@ -1,5 +1,3 @@
-
-
 Success story: Using CakePHP at the Instituto Nacional de Educacion
 Tecnologica.
 ============

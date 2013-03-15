@@ -1,5 +1,3 @@
-
-
 Single table inheritance implementation using class inheritance
 ===============================================================
 

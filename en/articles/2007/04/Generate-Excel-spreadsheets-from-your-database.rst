@@ -1,5 +1,3 @@
-
-
 Generate Excel spreadsheets from your database
 ==============================================
 

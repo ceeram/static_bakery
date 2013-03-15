@@ -1,5 +1,3 @@
-
-
 Creating Questions And Answers Application From Scratch With CakePHP
 ====================================================================
 

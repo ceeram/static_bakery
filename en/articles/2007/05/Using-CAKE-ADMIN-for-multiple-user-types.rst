@@ -1,5 +1,3 @@
-
-
 Using CAKE_ADMIN for multiple user types
 ========================================
 

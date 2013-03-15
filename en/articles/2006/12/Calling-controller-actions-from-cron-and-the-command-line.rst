@@ -1,5 +1,3 @@
-
-
 Calling controller actions from cron and the command line
 =========================================================
 

@@ -1,5 +1,3 @@
-
-
 New CakePHP Releases
 ====================
 

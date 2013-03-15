@@ -1,5 +1,3 @@
-
-
 Bake ROT13 Encoded "mailto:" Links
 ==================================
 

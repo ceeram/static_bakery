@@ -1,5 +1,3 @@
-
-
 Internationalization with static and dynamic content, routing and
 switching
 =========

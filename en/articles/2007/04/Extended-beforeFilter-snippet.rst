@@ -1,5 +1,3 @@
-
-
 Extended beforeFilter() snippet
 ===============================
 

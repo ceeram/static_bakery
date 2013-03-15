@@ -1,5 +1,3 @@
-
-
 How to implament One Time Password for forgot-my-password and account-
 activation processes
 ====================

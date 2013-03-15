@@ -1,5 +1,3 @@
-
-
 Creating a Simple Questionnaire App and Integrating it Into an
 Existing DB Schema
 ==================

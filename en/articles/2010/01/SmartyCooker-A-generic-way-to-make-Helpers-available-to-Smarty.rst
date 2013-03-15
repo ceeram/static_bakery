@@ -1,5 +1,3 @@
-
-
 SmartyCooker - A generic way to make Helpers available to Smarty
 ================================================================
 

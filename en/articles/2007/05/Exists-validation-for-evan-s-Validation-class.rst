@@ -1,5 +1,3 @@
-
-
 'Exists' validation for evan's Validation class
 ===============================================
 

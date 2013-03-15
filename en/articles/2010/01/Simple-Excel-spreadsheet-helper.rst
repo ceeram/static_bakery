@@ -1,5 +1,3 @@
-
-
 Simple Excel spreadsheet helper
 ===============================
 

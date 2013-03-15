@@ -1,5 +1,3 @@
-
-
 BBcode Helper with PEAR's Bbcode parser
 =======================================
 

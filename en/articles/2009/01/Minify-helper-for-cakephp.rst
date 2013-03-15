@@ -1,5 +1,3 @@
-
-
 Minify helper for cakephp
 =========================
 

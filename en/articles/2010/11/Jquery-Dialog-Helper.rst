@@ -1,5 +1,3 @@
-
-
 Jquery Dialog Helper
 ====================
 

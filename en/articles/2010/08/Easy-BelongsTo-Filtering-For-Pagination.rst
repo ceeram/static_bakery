@@ -1,5 +1,3 @@
-
-
 Easy BelongsTo Filtering For Pagination
 =======================================
 

@@ -1,5 +1,3 @@
-
-
 Helper para utilizar con el API de VIMEO
 ========================================
 

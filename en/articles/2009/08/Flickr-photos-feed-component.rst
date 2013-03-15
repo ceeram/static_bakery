@@ -1,5 +1,3 @@
-
-
 Flickr photos feed component
 ============================
 

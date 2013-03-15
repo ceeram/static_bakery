@@ -1,5 +1,3 @@
-
-
 CakePHP 1.3.1 now with delicious sprinkles
 ==========================================
 

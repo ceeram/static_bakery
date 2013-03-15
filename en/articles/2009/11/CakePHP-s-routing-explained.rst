@@ -1,5 +1,3 @@
-
-
 CakePHP's routing explained
 ===========================
 

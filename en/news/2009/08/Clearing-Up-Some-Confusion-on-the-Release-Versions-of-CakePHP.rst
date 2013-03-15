@@ -1,5 +1,3 @@
-
-
 Clearing Up Some Confusion on the Release Versions of CakePHP
 =============================================================
 

@@ -1,5 +1,3 @@
-
-
 Website Title and Character Set Component
 =========================================
 

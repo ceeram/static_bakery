@@ -1,5 +1,3 @@
-
-
 Password Validation in Cakephp
 ==============================
 

@@ -1,5 +1,3 @@
-
-
 Nested Tree Behaviour
 =====================
 

@@ -1,5 +1,3 @@
-
-
 GiveMeData: Insert fake data plugin for CakePHP
 ===============================================
 

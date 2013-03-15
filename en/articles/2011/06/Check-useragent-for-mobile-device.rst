@@ -1,5 +1,3 @@
-
-
 Check useragent for mobile device
 =================================
 

@@ -1,5 +1,3 @@
-
-
 ToastyCMS a CMS for people who love bread that is baked twice
 =============================================================
 

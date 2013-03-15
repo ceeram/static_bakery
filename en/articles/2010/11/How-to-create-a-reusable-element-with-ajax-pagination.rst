@@ -1,5 +1,3 @@
-
-
 How to create a reusable element with ajax pagination
 =====================================================
 

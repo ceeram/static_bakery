@@ -1,5 +1,3 @@
-
-
 Ability to select and upload multiple files at once - under 5 mins.
 ===================================================================
 

@@ -1,5 +1,3 @@
-
-
 Helper for icon retrieval
 =========================
 

@@ -1,5 +1,3 @@
-
-
 MySchemaShell - step closer to DB structure synchronization
 ===========================================================
 

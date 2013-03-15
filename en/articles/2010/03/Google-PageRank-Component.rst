@@ -1,5 +1,3 @@
-
-
 Google PageRank Component
 =========================
 

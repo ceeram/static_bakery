@@ -1,5 +1,3 @@
-
-
 text Query by Example using CakePHP 1.2
 =======================================
 

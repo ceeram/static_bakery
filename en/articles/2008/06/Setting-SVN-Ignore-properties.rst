@@ -1,5 +1,3 @@
-
-
 Setting SVN Ignore properties
 =============================
 

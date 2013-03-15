@@ -1,5 +1,3 @@
-
-
 Textile Editor Helper for Cake
 ==============================
 

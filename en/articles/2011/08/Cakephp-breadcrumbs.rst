@@ -1,5 +1,3 @@
-
-
 Cakephp breadcrumbs
 ===================
 

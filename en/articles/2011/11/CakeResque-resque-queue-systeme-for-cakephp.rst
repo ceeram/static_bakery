@@ -1,5 +1,3 @@
-
-
 CakeResque, resque queue systeme for cakephp
 ============================================
 

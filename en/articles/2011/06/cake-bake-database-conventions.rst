@@ -1,5 +1,3 @@
-
-
 cake bake database conventions
 ==============================
 

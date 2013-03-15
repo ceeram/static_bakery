@@ -1,5 +1,3 @@
-
-
 Authake 2.0: Redirect Error Solved
 ==================================
 

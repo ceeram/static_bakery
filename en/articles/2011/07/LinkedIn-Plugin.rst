@@ -1,5 +1,3 @@
-
-
 LinkedIn Plugin
 ===============
 

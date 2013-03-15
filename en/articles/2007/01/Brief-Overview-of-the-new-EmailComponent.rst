@@ -1,5 +1,3 @@
-
-
 Brief Overview of the new EmailComponent
 ========================================
 

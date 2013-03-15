@@ -1,5 +1,3 @@
-
-
 DarkAuth v1.3 - an alternative Auth
 ===================================
 

@@ -1,5 +1,3 @@
-
-
 Advanced Search
 ===============
 

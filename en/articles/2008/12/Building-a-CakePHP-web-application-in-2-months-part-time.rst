@@ -1,5 +1,3 @@
-
-
 Building a CakePHP web-application in 2 months, part time.
 ==========================================================
 

@@ -1,5 +1,3 @@
-
-
 Habtm Validatable Behavior
 ==========================
 

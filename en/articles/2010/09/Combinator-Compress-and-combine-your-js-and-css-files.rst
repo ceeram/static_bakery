@@ -1,5 +1,3 @@
-
-
 Combinator : Compress and combine your js and css files
 =======================================================
 

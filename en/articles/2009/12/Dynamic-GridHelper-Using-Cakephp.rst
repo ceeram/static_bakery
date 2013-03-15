@@ -1,5 +1,3 @@
-
-
 Dynamic GridHelper Using Cakephp
 ================================
 

@@ -1,5 +1,3 @@
-
-
 CakePHP SQL Shell - simple and powerful
 =======================================
 

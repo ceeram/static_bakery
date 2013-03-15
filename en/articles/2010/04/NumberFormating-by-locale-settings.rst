@@ -1,5 +1,3 @@
-
-
 NumberFormating by locale-settings
 ==================================
 

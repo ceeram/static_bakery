@@ -1,5 +1,3 @@
-
-
 Working with Apache Aliases During Cake Setup
 =============================================
 

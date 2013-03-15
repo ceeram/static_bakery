@@ -1,5 +1,3 @@
-
-
 Zend Framework Loader Component
 ===============================
 

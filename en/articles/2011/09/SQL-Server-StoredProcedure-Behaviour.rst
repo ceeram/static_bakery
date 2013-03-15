@@ -1,5 +1,3 @@
-
-
 SQL Server StoredProcedure Behaviour
 ====================================
 

@@ -1,5 +1,3 @@
-
-
 Multiple flashes with different classes
 =======================================
 

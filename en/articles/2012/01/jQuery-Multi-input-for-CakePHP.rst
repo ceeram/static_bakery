@@ -1,5 +1,3 @@
-
-
 jQuery Multi-input for CakePHP
 ==============================
 

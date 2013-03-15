@@ -1,5 +1,3 @@
-
-
 Dynamic thumbnails creation
 ===========================
 

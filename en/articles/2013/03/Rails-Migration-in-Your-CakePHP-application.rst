@@ -1,5 +1,3 @@
-
-
 Rails Migration in Your CakePHP application.
 ============================================
 

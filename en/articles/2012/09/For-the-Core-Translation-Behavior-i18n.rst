@@ -1,5 +1,3 @@
-
-
 For the Core Translation Behavior (i18n)
 ========================================
 

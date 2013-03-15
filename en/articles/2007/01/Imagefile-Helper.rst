@@ -1,5 +1,3 @@
-
-
 Imagefile Helper
 ================
 

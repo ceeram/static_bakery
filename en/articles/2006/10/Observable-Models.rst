@@ -1,5 +1,3 @@
-
-
 Observable Models
 =================
 

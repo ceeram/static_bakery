@@ -1,5 +1,3 @@
-
-
 Barcode with cake
 =================
 

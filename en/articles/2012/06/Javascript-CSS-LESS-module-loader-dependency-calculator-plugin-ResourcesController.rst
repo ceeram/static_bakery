@@ -1,5 +1,3 @@
-
-
 Javascript/CSS/LESS module loader + dependency calculator plugin
 ("ResourcesController")
 =======================

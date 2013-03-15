@@ -1,5 +1,3 @@
-
-
 Validanguage Helper for customizable Javascript form validation
 ===============================================================
 

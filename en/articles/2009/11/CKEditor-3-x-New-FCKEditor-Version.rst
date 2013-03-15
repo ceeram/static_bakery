@@ -1,5 +1,3 @@
-
-
 CKEditor 3.x - New FCKEditor Version
 ====================================
 

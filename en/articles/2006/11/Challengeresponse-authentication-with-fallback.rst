@@ -1,5 +1,3 @@
-
-
 Challengeresponse authentication with fallback
 ==============================================
 

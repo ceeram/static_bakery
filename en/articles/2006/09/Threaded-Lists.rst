@@ -1,5 +1,3 @@
-
-
 Threaded Lists
 ==============
 

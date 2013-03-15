@@ -1,5 +1,3 @@
-
-
 Store and Resize Images
 =======================
 

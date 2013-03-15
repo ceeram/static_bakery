@@ -1,5 +1,3 @@
-
-
 Populating Select Boxes with Tree Paths
 =======================================
 

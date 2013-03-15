@@ -1,5 +1,3 @@
-
-
 GoogleChart API Helper
 ======================
 

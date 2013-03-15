@@ -1,5 +1,3 @@
-
-
 SimpleUrl to write url quicker
 ==============================
 

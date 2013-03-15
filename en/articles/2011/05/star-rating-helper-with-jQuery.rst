@@ -1,5 +1,3 @@
-
-
 star rating helper with jQuery
 ==============================
 

@@ -1,5 +1,3 @@
-
-
 uniform server and cakePHP
 ==========================
 

@@ -1,5 +1,3 @@
-
-
 eAccelerator Cache Engine
 =========================
 

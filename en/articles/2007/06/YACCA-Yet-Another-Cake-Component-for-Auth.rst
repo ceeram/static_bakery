@@ -1,5 +1,3 @@
-
-
 YACCA Yet Another Cake Component for Auth
 =========================================
 

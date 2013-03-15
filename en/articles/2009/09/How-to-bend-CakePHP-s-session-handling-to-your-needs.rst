@@ -1,5 +1,3 @@
-
-
 How to bend CakePHP's session handling to your needs
 ====================================================
 

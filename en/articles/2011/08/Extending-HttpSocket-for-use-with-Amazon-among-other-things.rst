@@ -1,5 +1,3 @@
-
-
 Extending HttpSocket for use with Amazon among other things.
 ============================================================
 

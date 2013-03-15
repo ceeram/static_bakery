@@ -1,5 +1,3 @@
-
-
 Automatic Layout Switcher
 =========================
 

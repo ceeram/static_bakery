@@ -1,5 +1,3 @@
-
-
 Component to send SMS/text messages
 ===================================
 

@@ -1,5 +1,3 @@
-
-
 For beginners: famous pitfalls with cake development
 ====================================================
 

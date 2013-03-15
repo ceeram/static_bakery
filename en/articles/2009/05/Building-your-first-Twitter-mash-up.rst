@@ -1,5 +1,3 @@
-
-
 Building your first Twitter mash-up
 ===================================
 

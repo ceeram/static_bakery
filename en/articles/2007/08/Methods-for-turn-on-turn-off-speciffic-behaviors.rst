@@ -1,5 +1,3 @@
-
-
 Methods for turn on/ turn off speciffic behaviors.
 ==================================================
 

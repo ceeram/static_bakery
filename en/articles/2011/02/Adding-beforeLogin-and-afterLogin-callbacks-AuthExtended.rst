@@ -1,5 +1,3 @@
-
-
 Adding beforeLogin and afterLogin callbacks (AuthExtended)
 ==========================================================
 

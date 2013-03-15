@@ -1,5 +1,3 @@
-
-
 Add Trailing Slash to CakePHP
 =============================
 

@@ -1,5 +1,3 @@
-
-
 Yet Another JQuery AutoComplete Helper
 ======================================
 

@@ -1,5 +1,3 @@
-
-
 Universal Mobilization with WAPL
 ================================
 

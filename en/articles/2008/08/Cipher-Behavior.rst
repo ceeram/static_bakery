@@ -1,5 +1,3 @@
-
-
 Cipher Behavior
 ===============
 

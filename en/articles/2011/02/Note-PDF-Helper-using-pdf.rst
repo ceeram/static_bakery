@@ -1,5 +1,3 @@
-
-
 Note: PDF Helper using pdf
 ==========================
 

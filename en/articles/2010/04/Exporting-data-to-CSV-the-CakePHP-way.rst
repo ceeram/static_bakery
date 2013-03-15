@@ -1,5 +1,3 @@
-
-
 Exporting data to CSV the CakePHP way
 =====================================
 

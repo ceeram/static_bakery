@@ -1,5 +1,3 @@
-
-
 Search Feature As An SQL Query In 2 Steps
 =========================================
 

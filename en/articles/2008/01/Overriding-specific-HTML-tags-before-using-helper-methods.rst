@@ -1,5 +1,3 @@
-
-
 Overriding specific HTML tags before using helper methods
 =========================================================
 

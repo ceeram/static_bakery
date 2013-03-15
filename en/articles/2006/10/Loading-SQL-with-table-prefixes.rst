@@ -1,5 +1,3 @@
-
-
 Loading SQL with table prefixes
 ===============================
 

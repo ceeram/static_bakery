@@ -1,5 +1,3 @@
-
-
 File Upload Component w/ Automagic - Model optional
 ===================================================
 

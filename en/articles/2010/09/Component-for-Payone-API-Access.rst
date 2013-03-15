@@ -1,5 +1,3 @@
-
-
 Component for Payone-API Access
 ===============================
 

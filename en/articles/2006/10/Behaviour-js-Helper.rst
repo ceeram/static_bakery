@@ -1,5 +1,3 @@
-
-
 Behaviour.js Helper
 ===================
 

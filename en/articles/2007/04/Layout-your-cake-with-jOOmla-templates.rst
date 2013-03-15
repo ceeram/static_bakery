@@ -1,5 +1,3 @@
-
-
 Layout your cake with jOOmla templates
 ======================================
 

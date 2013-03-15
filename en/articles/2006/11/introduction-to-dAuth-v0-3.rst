@@ -1,5 +1,3 @@
-
-
 introduction to dAuth v0.3
 ==========================
 

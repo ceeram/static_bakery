@@ -1,5 +1,3 @@
-
-
 File naming and class loading changes in CakePHP 2.0
 ====================================================
 

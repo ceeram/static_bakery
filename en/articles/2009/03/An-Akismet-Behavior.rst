@@ -1,5 +1,3 @@
-
-
 An Akismet Behavior
 ===================
 

@@ -1,5 +1,3 @@
-
-
 JSON with your tables
 =====================
 

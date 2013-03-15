@@ -1,5 +1,3 @@
-
-
 SMSFuBake for CakePHP
 =====================
 

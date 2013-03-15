@@ -1,5 +1,3 @@
-
-
 Where should my code go?
 ========================
 

@@ -1,5 +1,3 @@
-
-
 DBO extension to get keyed results
 ==================================
 

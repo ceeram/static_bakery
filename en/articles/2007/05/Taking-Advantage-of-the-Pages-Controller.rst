@@ -1,5 +1,3 @@
-
-
 Taking Advantage of the Pages Controller
 ========================================
 

@@ -1,5 +1,3 @@
-
-
 SQL Dump Task for Shells
 ========================
 

@@ -1,5 +1,3 @@
-
-
 ScienceHack.com Search Engine for Science Videos
 ================================================
 

@@ -1,5 +1,3 @@
-
-
 LogRotation Component
 =====================
 

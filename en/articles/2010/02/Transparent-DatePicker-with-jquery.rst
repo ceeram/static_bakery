@@ -1,5 +1,3 @@
-
-
 Transparent DatePicker with jquery
 ==================================
 

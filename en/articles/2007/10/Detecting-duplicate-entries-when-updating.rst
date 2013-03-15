@@ -1,5 +1,3 @@
-
-
 Detecting duplicate entries when updating
 =========================================
 

@@ -1,5 +1,3 @@
-
-
 Toggling items with javascript
 ==============================
 

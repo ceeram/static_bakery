@@ -1,5 +1,3 @@
-
-
 Authed - Adds rule based userScope to Auth
 ==========================================
 

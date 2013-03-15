@@ -1,5 +1,3 @@
-
-
 Easy peasy database config
 ==========================
 

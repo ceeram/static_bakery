@@ -1,5 +1,3 @@
-
-
 Google Weather API Datasource
 =============================
 

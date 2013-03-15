@@ -1,5 +1,3 @@
-
-
 My Ajax CakePHP Corporate Site.
 ===============================
 

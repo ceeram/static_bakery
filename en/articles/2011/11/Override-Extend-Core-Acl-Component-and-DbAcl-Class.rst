@@ -1,5 +1,3 @@
-
-
 Override/Extend Core Acl Component and DbAcl Class
 ==================================================
 

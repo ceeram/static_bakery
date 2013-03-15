@@ -1,5 +1,3 @@
-
-
 EmailComponent in a (cake) Shell
 ================================
 

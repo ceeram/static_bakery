@@ -1,5 +1,3 @@
-
-
 Google Search using CakePhP
 ===========================
 

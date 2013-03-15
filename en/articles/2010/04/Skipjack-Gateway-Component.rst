@@ -1,5 +1,3 @@
-
-
 Skipjack Gateway Component
 ==========================
 

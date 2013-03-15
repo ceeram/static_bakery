@@ -1,5 +1,3 @@
-
-
 Auth – inline authorization the easy way
 ========================================
 

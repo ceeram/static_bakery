@@ -1,5 +1,3 @@
-
-
 Using NeatString To Make Random Passwords
 =========================================
 

@@ -1,5 +1,3 @@
-
-
 Article submission and review
 =============================
 

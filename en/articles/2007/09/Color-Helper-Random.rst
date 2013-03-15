@@ -1,5 +1,3 @@
-
-
 Color Helper (Random)
 =====================
 

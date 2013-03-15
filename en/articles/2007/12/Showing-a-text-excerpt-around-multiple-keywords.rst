@@ -1,5 +1,3 @@
-
-
 Showing a text excerpt around multiple keywords
 ===============================================
 

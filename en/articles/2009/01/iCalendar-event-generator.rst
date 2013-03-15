@@ -1,5 +1,3 @@
-
-
 iCalendar event generator
 =========================
 

@@ -1,5 +1,3 @@
-
-
 Master / Slave support (also with multiple slave support)
 =========================================================
 

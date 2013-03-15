@@ -1,5 +1,3 @@
-
-
 SimpleImg - helper for reducing rows in view
 ============================================
 

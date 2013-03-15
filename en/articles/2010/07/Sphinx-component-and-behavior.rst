@@ -1,5 +1,3 @@
-
-
 Sphinx component and behavior
 =============================
 

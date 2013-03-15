@@ -1,5 +1,3 @@
-
-
 Migrating a real-world application to CakePHP 1.2
 =================================================
 

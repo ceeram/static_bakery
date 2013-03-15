@@ -1,5 +1,3 @@
-
-
 Cakephp footnotes (on base of notepad_plus_plus). Part I. Basic
 solution.
 =========

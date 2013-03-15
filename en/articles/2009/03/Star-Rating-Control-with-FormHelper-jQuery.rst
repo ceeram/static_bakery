@@ -1,5 +1,3 @@
-
-
 Star Rating Control with FormHelper & jQuery
 ============================================
 

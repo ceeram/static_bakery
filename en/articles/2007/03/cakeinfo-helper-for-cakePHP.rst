@@ -1,5 +1,3 @@
-
-
 cakeinfo() helper for cakePHP
 =============================
 

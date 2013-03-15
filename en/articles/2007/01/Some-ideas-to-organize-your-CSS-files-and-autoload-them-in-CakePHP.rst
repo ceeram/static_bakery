@@ -1,5 +1,3 @@
-
-
 Some ideas to organize your CSS files and autoload them in CakePHP
 ==================================================================
 

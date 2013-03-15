@@ -1,5 +1,3 @@
-
-
 Boost performance by removing .htaccess PLUS multi-site with
 VirtualDocumentRoot
 ===================

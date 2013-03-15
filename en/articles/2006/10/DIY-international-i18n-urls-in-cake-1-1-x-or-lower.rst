@@ -1,5 +1,3 @@
-
-
 DIY international (i18n) urls in cake 1.1.x or lower
 ====================================================
 

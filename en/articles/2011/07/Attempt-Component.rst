@@ -1,5 +1,3 @@
-
-
 Attempt Component
 =================
 

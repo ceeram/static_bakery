@@ -1,5 +1,3 @@
-
-
 elRTE and elFinder Component + Helper
 =====================================
 

@@ -1,5 +1,3 @@
-
-
 Visualize - Generate a graphic of your models/tables
 ====================================================
 

@@ -1,5 +1,3 @@
-
-
 AutoLogin Component - An Auth remember me feature
 =================================================
 

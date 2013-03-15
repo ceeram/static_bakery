@@ -1,5 +1,3 @@
-
-
 Commentia - Comment Spam Blocker Behavior
 =========================================
 

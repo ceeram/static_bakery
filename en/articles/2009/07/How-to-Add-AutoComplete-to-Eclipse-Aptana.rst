@@ -1,5 +1,3 @@
-
-
 How to Add AutoComplete to Eclipse/Aptana
 =========================================
 

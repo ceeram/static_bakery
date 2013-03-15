@@ -1,5 +1,3 @@
-
-
 Tree sorting component for jQuery's jsTree plugin
 =================================================
 

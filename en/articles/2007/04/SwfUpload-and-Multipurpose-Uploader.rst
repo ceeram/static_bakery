@@ -1,5 +1,3 @@
-
-
 SwfUpload and Multipurpose Uploader
 ===================================
 

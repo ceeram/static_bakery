@@ -1,5 +1,3 @@
-
-
 CakePHP internationalization and localization
 =============================================
 

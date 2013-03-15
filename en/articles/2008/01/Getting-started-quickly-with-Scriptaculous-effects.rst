@@ -1,5 +1,3 @@
-
-
 Getting started quickly with Scriptaculous effects
 ==================================================
 

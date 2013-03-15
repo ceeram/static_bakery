@@ -1,5 +1,3 @@
-
-
 Paypal Payments Component Using cURL
 ====================================
 

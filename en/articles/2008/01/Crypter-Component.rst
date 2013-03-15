@@ -1,5 +1,3 @@
-
-
 Crypter Component
 =================
 

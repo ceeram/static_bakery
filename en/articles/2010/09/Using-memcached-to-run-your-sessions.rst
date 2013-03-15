@@ -1,5 +1,3 @@
-
-
 Using memcached to run your sessions
 ====================================
 

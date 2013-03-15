@@ -1,5 +1,3 @@
-
-
 Integrating Pear Pager
 ======================
 

@@ -1,5 +1,3 @@
-
-
 Upload simple & miniatures
 ==========================
 

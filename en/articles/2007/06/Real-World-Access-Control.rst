@@ -1,5 +1,3 @@
-
-
 Real World Access Control
 =========================
 

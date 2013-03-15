@@ -1,5 +1,3 @@
-
-
 CSV Reader Model
 ================
 

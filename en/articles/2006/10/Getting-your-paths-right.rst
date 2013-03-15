@@ -1,5 +1,3 @@
-
-
 Getting your paths right
 ========================
 

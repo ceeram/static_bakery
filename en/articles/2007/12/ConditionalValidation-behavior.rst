@@ -1,5 +1,3 @@
-
-
 ConditionalValidation behavior
 ==============================
 

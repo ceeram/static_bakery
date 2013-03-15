@@ -1,5 +1,3 @@
-
-
 Helper TinyMCE for CakePHP 2
 ============================
 

@@ -1,5 +1,3 @@
-
-
 mysq_query, Undefined function..!!
 ==================================
 

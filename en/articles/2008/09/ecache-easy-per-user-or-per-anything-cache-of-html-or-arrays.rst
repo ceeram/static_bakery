@@ -1,5 +1,3 @@
-
-
 ecache - easy per user or per anything cache of html or arrays
 ==============================================================
 

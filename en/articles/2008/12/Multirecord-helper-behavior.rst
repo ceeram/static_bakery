@@ -1,5 +1,3 @@
-
-
 Multirecord helper/behavior
 ===========================
 

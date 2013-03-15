@@ -1,5 +1,3 @@
-
-
 Passing Named Parameters
 ========================
 

@@ -1,5 +1,3 @@
-
-
 Login, logout and register to mediawiki
 =======================================
 

@@ -1,5 +1,3 @@
-
-
 Livevalidation Helper
 =====================
 

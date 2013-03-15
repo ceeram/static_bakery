@@ -1,5 +1,3 @@
-
-
 CakePHP - Quick record actions
 ==============================
 

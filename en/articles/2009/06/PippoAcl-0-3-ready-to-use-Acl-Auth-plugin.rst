@@ -1,5 +1,3 @@
-
-
 PippoAcl 0.3 ready to use Acl/Auth plugin
 =========================================
 

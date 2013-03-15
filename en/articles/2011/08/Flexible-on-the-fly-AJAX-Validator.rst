@@ -1,5 +1,3 @@
-
-
 Flexible on-the-fly AJAX Validator
 ==================================
 

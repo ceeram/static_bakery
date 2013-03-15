@@ -1,5 +1,3 @@
-
-
 CakePHP TV Released! Community Tutorial Videos, Presentation Videos,
 and more CakePHP videos
 =======================

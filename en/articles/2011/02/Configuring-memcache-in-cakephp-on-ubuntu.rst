@@ -1,5 +1,3 @@
-
-
 Configuring memcache in cakephp on ubuntu
 =========================================
 

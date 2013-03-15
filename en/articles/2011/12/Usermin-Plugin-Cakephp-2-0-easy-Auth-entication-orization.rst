@@ -1,5 +1,3 @@
-
-
 Usermin Plugin: Cakephp 2.0 easy Auth{entication|orization}
 ===========================================================
 

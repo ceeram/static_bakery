@@ -1,5 +1,3 @@
-
-
 National Association of Music Educators
 =======================================
 

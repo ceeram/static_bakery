@@ -1,5 +1,3 @@
-
-
 RewriteBase config for cake installation with userDir and mod_rewrite
 =====================================================================
 

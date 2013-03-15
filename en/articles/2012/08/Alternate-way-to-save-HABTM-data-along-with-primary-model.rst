@@ -1,5 +1,3 @@
-
-
 Alternate way to save HABTM data along with primary model
 =========================================================
 

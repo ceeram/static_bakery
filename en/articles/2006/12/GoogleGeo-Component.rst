@@ -1,5 +1,3 @@
-
-
 GoogleGeo Component
 ===================
 

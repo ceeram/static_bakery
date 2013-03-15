@@ -1,5 +1,3 @@
-
-
 Filter Out Unnecessary Recursive Relationships
 ==============================================
 

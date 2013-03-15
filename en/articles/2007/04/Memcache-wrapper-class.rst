@@ -1,5 +1,3 @@
-
-
 Memcache wrapper class
 ======================
 

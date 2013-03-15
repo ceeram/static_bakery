@@ -1,5 +1,3 @@
-
-
 Mailchimp API Component
 =======================
 

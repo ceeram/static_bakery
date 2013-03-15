@@ -1,5 +1,3 @@
-
-
 CDfuse.com: A Complete Rebuild with CakePHP
 ===========================================
 

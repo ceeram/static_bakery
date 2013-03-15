@@ -1,5 +1,3 @@
-
-
 Image resize and crop on the fly
 ================================
 

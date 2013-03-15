@@ -1,5 +1,3 @@
-
-
 Du_BundleFu helper - Simple CSS and JavaScript file bundling
 ============================================================
 

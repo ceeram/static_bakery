@@ -1,5 +1,3 @@
-
-
 Copyable Behavior
 =================
 

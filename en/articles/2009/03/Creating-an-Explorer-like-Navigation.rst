@@ -1,5 +1,3 @@
-
-
 Creating an Explorer-like Navigation
 ====================================
 

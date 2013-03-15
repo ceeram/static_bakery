@@ -1,5 +1,3 @@
-
-
 Forking CakePHP shells
 ======================
 

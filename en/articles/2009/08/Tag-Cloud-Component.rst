@@ -1,5 +1,3 @@
-
-
 Tag Cloud Component
 ===================
 
