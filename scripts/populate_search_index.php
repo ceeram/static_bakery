@@ -7,47 +7,47 @@
 
 // Elastic search config
 define('ES_DEFAULT_HOST', 'http://localhost:9200');
-define('ES_INDEX', 'documentation');
-define('CAKEPHP_VERSION', '2-2');
+define('ES_INDEX', 'bakery');
+define('SOURCE_DIR', 'src');
 
 
 function main($argv) {
-	if (empty($argv[1])) {
-		echo "A language to scan is required.\n";
-		exit(1);
-	}
-	$lang = $argv[1];
-	if (!empty($argv[2])) {
-		define('ES_HOST', $argv[2]);
+	if (!empty($argv[1])) {
+		define('ES_HOST', $argv[1]);
 	} else {
 		define('ES_HOST', ES_DEFAULT_HOST);
 	}
-	
-	$directory = new RecursiveDirectoryIterator($lang);
+
+	$directory = new RecursiveDirectoryIterator(SOURCE_DIR);
 	$recurser = new RecursiveIteratorIterator($directory);
 	$matcher = new RegexIterator($recurser, '/\.rst/');
 
 	foreach ($matcher as $file) {
-		updateIndex($lang, $file);
+		updateIndex($file);
 	}
 	echo "\nIndex update complete\n";
 }
 
-function updateIndex($lang, $file) {
+function updateIndex($file) {
 	$fileData = readFileData($file);
+	if (!$fileData) {
+		echo "[WARNING] Not indexed:" . $file . "\n";
+		return false;
+	}
 	$filename = $file->getPathName();
 	list($filename) = explode('.', $filename);
 
 	$path = $filename . '.html';
-	$id = str_replace($lang . '/', '', $filename);
+	$id = str_replace(SOURCE_DIR . '/', '', $filename);
 	$id = str_replace('/', '-', $id);
 	$id = trim($id, '-');
 
-	$url = implode('/', array(ES_HOST, ES_INDEX, CAKEPHP_VERSION . '-' . $lang, $id));
+	$url = implode('/', array(ES_HOST, ES_INDEX, $id));
 
 	$data = array(
 		'contents' => $fileData['contents'],
 		'title' => $fileData['title'],
+		'category' => $fileData['category'],
 		'url' => $path,
 	);
 
@@ -87,6 +87,9 @@ function readFileData($file) {
 	// extract the title and guess that things underlined with # or == and first in the file
 	// are the title.
 	preg_match('/^(.*)\n[=#]+\n/', $contents, $matches);
+	if (empty($matches)) {
+		return false;
+	}
 	$title = $matches[1];
 
 	// Remove the title from the indexed text.
@@ -95,7 +98,13 @@ function readFileData($file) {
 	// Remove title markers from the text.
 	$contents = preg_replace('/\n[-=~]+\n/', '', $contents);
 
-	return compact('contents', 'title');
+	preg_match('|:category: ([^\n]+)\n|', $contents, $matches);
+	$category = null;
+	if (!empty($matches[1])) {
+		$category = $matches[1];
+	}
+
+	return compact('contents', 'title', 'category');
 }
 
 main($argv);
