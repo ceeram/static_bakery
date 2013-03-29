@@ -39,8 +39,11 @@ function updateIndex($file) {
 
 	$path = $filename . '.html';
 	$id = str_replace(SOURCE_DIR . '/', '', $filename);
+	$id = trim($id, '/');
+	list($type, $id) = explode('/', $id, 2);
+
 	$id = str_replace('/', '-', $id);
-	$id = trim($id, '-');
+	$id = $type . '/' . trim($id, '-');
 
 	$url = implode('/', array(ES_HOST, ES_INDEX, $id));
 
