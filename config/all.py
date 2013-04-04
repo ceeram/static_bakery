@@ -28,7 +28,7 @@ source_suffix = '.rst'
 master_doc = 'contents'
 
 # General information about the project.
-project = u'CakePHP Cookbook'
+project = u'CakePHP Bakery'
 copyright = u'2012, Cake Software Foundation, Inc'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -94,7 +94,7 @@ html_theme_path = ['../themes']
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
-html_short_title = u'Cookbook 2.x'
+html_short_title = u'Bakery'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -154,7 +154,7 @@ html_sidebars = {
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'CakePHPCookbookdoc'
+htmlhelp_basename = 'CakePHPbakery'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -168,8 +168,8 @@ latex_font_size = '11pt'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('pdf-contents', 'CakePHPCookbook.tex', u'CakePHP Cookbook Documentation',
-   u'Cake Software Foundation', 'manual'),
+  ('pdf-contents', 'CakePHPbakery.tex', u'CakePHP Bakery',
+   u'Cake Software Foundation', 'bakery'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -229,7 +229,7 @@ latex_elements ={
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'cakephpcookbook', u'CakePHP Cookbook Documentation',
+    ('index', 'cakephpbakery', u'CakePHP Bakery',
      [u'CakePHP'], 1)
 ]
 
@@ -237,7 +237,7 @@ man_pages = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'CakePHP Cookbook'
+epub_title = u'CakePHP Bakery'
 epub_author = u'Cake Software Foundation, Inc.'
 epub_publisher = u'Cake Software Foundation, Inc.'
 epub_copyright = u'2012, Cake Software Foundation, Inc.'

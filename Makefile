@@ -7,7 +7,6 @@ ES_HOST =
 
 .PHONY: all clean html website website-dirs
 
-# Languages that can be built.
 SOURCE_DIR = src
 
 DEST = website
