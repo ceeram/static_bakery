@@ -4,8 +4,7 @@ if (/cakephp\.org/.test(document.domain)) {
 
 App = {};
 App.config = {
-	url: 'http://search.cakephp.org/search',
-	version: '2-2'
+	url: 'http://search.cakephp.org/search'
 };
 
 App.Book = (function() {
@@ -30,11 +29,11 @@ App.Book = (function() {
 			});
 		});
 	}
- 
+
 	function compare_scores(a, b) {
 		return b.score - a.score;
 	}
- 
+
 	return {
 		init : init
 	};
@@ -44,7 +43,7 @@ App.Book = (function() {
 App.InlineSearch = (function () {
 
 	var segments = location.pathname.split('/');
-	var base = location.href.replace(location.protocol + '//' + location.host, '').split('/').slice(0, 2).join('/') + '/';
+	var base = location.protocol + '//' + location.host + '/';
 	var searchResults;
 	var searchInput;
 	var doSearch;
@@ -99,7 +98,7 @@ App.InlineSearch = (function () {
 	};
 
 	var executeSearch = function (value, searchResults, limit, page) {
-		var query = {lang: window.lang, q: value, version: App.config.version};
+		var query = {q: value};
 		if (page) {
 			query.page = page;
 		}
@@ -141,7 +140,7 @@ App.InlineSearch = (function () {
 
 		searchInput.keyup(handleKeyEvent);
 		$(document).keyup(handleEscape);
-	
+
 		doSearch = createSearch(searchResults, 10);
 	};
 
@@ -157,8 +156,8 @@ App.InlineSearch = (function () {
 
 // http://stackoverflow.com/questions/967096/using-jquery-to-test-if-an-input-has-focus
 jQuery.extend(jQuery.expr[':'], {
-	focus: function(element) { 
-		return element == document.activeElement; 
+	focus: function(element) {
+		return element == document.activeElement;
 	}
 });
 

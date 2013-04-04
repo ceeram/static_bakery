@@ -37,9 +37,10 @@ function updateIndex($file) {
 	$filename = $file->getPathName();
 	list($filename) = explode('.', $filename);
 
-	$path = $filename . '.html';
-	$id = str_replace(SOURCE_DIR . '/', '', $filename);
-	$id = trim($id, '/');
+	$base = str_replace(SOURCE_DIR . '/', '', $filename);
+
+	$path = $base . '.html';
+	$id = trim($base, '/');
 	list($type, $id) = explode('/', $id, 2);
 
 	$id = str_replace('/', '-', $id);
