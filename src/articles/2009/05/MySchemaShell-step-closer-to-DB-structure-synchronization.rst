@@ -376,9 +376,9 @@ More
 + `Page 1`_
 + `Page 2`_
 
-.. _Page 2: :///articles/view/4caea0e4-32dc-4f59-9c80-4c7982f0cb67#page-2
-.. _Page 1: :///articles/view/4caea0e4-32dc-4f59-9c80-4c7982f0cb67#page-1
+.. _Page 1: :///articles/view/4caea0e4-32dc-4f59-9c80-4c7982f0cb67/lang:eng#page-1
 .. _http://bakery.cakephp.org/articles/view/cakephp-yaml-migrations-and-fixtures-without-pear: http://bakery.cakephp.org/articles/view/cakephp-yaml-migrations-and-fixtures-without-pear
+.. _Page 2: :///articles/view/4caea0e4-32dc-4f59-9c80-4c7982f0cb67/lang:eng#page-2
 .. meta::
     :title: MySchemaShell - step closer to DB structure synchronization
     :description: CakePHP Article related to db structure,schema,Plugins

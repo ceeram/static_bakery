@@ -657,10 +657,10 @@ More
 + `Page 3`_
 + `Page 4`_
 
-.. _Page 1: :///articles/view/4caea0e3-2e08-4ae3-b61e-492d82f0cb67#page-1
-.. _Page 2: :///articles/view/4caea0e3-2e08-4ae3-b61e-492d82f0cb67#page-2
-.. _Page 3: :///articles/view/4caea0e3-2e08-4ae3-b61e-492d82f0cb67#page-3
-.. _Page 4: :///articles/view/4caea0e3-2e08-4ae3-b61e-492d82f0cb67#page-4
+.. _Page 1: :///articles/view/4caea0e3-2e08-4ae3-b61e-492d82f0cb67/lang:eng#page-1
+.. _Page 2: :///articles/view/4caea0e3-2e08-4ae3-b61e-492d82f0cb67/lang:eng#page-2
+.. _Page 3: :///articles/view/4caea0e3-2e08-4ae3-b61e-492d82f0cb67/lang:eng#page-3
+.. _Page 4: :///articles/view/4caea0e3-2e08-4ae3-b61e-492d82f0cb67/lang:eng#page-4
 .. _http://bakery.cakephp.org/articles/view/how-to-create-multirecord-forms: http://bakery.cakephp.org/articles/view/how-to-create-multirecord-forms
 .. meta::
     :title: Multirecord helper/behavior

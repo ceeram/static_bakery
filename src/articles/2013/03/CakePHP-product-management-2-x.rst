@@ -4,27 +4,32 @@ CakePHP product management 2.x
 by %s on March 12, 2013
 
 WidShop is a cahePHP based product management plugin where user can
-add/edit and manager offers. Demo at http://widshop.widahead.com/
+add/edit and manager offers.
+><br > Demo at http://www.widahead.com/cakephp-product-plugin
+> <br > Contact @ widahead@gmail.com
 General Features:
-1. Add/Edit Category
-2. Create/Update Services/product and assign on category
-3. Create/Update offer on the services
-4. Add/Edit currency symbol as required
-
-Additional Features:
-1. SEO Enabled URL
-2. Unique URL for all products
-3. Resize Images
-4. Create single offer or multiple offer based on single or multiple
-services
-5. Create day/hours bases deals
-6. Multiple service with in a single offer like a bundle of service in
-a single offer
+> 1. Add Edit Category
+> 2. Create Update Services/product and assign on category
+> 3. Create Update offer on the services
+> 4. Select Currency type based on country<br > 5. Paypal Do Direct
+payment method
+> 6. Back Order functionality (Offer if expired, book then we send
+mail to get confirmation to get the offer. when we activate after.)<br
+> 7. Add counter on product/service listing page and view page
+> 8. Dynamic Categories<br > 9. Side Cart Block with product list
+> <br >
+> Additional Features:<br > 1. Admin prefix Urls
+> 2. SEO Enabled URL<br > 3. Unique URL for all products
+> 4. Resize Images<br > 5. Create single offer or multiple offer based
+on single or multiple services
+> 6. Create day hours bases deals
+> 7. Multiple service with in a single offer like a bundle of service
+in a single offer<br >
 
 .. meta::
     :title: CakePHP product management 2.x
-    :description: CakePHP Article related to CakePHP shopping cart,CakePHP product management,cakephp shopping module,cakephp shopping,cakephp shopping plugin,Articles
-    :keywords: CakePHP shopping cart,CakePHP product management,cakephp shopping module,cakephp shopping,cakephp shopping plugin,Articles
+    :description: CakePHP Article related to CakePHP shopping cart,CakePHP product management,cakephp shopping module,cakephp shopping,cakephp shopping plugin,shop,cakephp shop,Articles
+    :keywords: CakePHP shopping cart,CakePHP product management,cakephp shopping module,cakephp shopping,cakephp shopping plugin,shop,cakephp shop,Articles
     :copyright: Copyright 2013 
     :category: articles
 

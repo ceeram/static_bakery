@@ -1046,11 +1046,11 @@ More
 + `Page 4`_
 
 .. _http://code.google.com/p/alkemann/downloads/list: http://code.google.com/p/alkemann/downloads/list
-.. _Page 2: :///articles/view/4caea0e3-a8a0-4dc1-9476-449682f0cb67#page-2
-.. _Page 3: :///articles/view/4caea0e3-a8a0-4dc1-9476-449682f0cb67#page-3
 .. _http://alkemann.googlecode.com/svn/trunk/models/behaviors/revision.php: http://alkemann.googlecode.com/svn/trunk/models/behaviors/revision.php
-.. _Page 1: :///articles/view/4caea0e3-a8a0-4dc1-9476-449682f0cb67#page-1
-.. _Page 4: :///articles/view/4caea0e3-a8a0-4dc1-9476-449682f0cb67#page-4
+.. _Page 1: :///articles/view/4caea0e3-a8a0-4dc1-9476-449682f0cb67/lang:eng#page-1
+.. _Page 2: :///articles/view/4caea0e3-a8a0-4dc1-9476-449682f0cb67/lang:eng#page-2
+.. _Page 3: :///articles/view/4caea0e3-a8a0-4dc1-9476-449682f0cb67/lang:eng#page-3
+.. _Page 4: :///articles/view/4caea0e3-a8a0-4dc1-9476-449682f0cb67/lang:eng#page-4
 .. meta::
     :title: Revision Behavior - Revision control made easy
     :description: CakePHP Article related to version,behavior,alkemann,ronnyvv,revision,Behaviors

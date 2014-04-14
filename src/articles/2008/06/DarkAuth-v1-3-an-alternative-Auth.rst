@@ -763,9 +763,9 @@ More
 + `Page 2`_
 + `Page 3`_
 
-.. _Page 2: :///articles/view/4caea0e1-8710-43ba-80f5-4b8982f0cb67#page-2
-.. _Page 1: :///articles/view/4caea0e1-8710-43ba-80f5-4b8982f0cb67#page-1
-.. _Page 3: :///articles/view/4caea0e1-8710-43ba-80f5-4b8982f0cb67#page-3
+.. _Page 1: :///articles/view/4caea0e1-8710-43ba-80f5-4b8982f0cb67/lang:eng#page-1
+.. _Page 3: :///articles/view/4caea0e1-8710-43ba-80f5-4b8982f0cb67/lang:eng#page-3
+.. _Page 2: :///articles/view/4caea0e1-8710-43ba-80f5-4b8982f0cb67/lang:eng#page-2
 .. meta::
     :title: DarkAuth v1.3 - an alternative Auth
     :description: CakePHP Article related to authentication,obAuth,access control,role based,roles,superuser,Components

@@ -766,8 +766,8 @@ More
 + `Page 2`_
 
 .. _http://code.google.com/p/alkemann/downloads/list: http://code.google.com/p/alkemann/downloads/list
-.. _Page 1: :///articles/view/4caea0e2-72a8-480a-8145-49b982f0cb67#page-1
-.. _Page 2: :///articles/view/4caea0e2-72a8-480a-8145-49b982f0cb67#page-2
+.. _Page 1: :///articles/view/4caea0e2-72a8-480a-8145-49b982f0cb67/lang:eng#page-1
+.. _Page 2: :///articles/view/4caea0e2-72a8-480a-8145-49b982f0cb67/lang:eng#page-2
 .. meta::
     :title: OrderedBehavior (2.1)
     :description: CakePHP Article related to behavior,sorting,ordered,alkemann,intabox,Behaviors

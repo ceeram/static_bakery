@@ -158,10 +158,10 @@ More
 
 .. _http://thechaw.com/debug_kit: http://thechaw.com/debug_kit
 .. _https://github.com/Phally/cache_engines: https://github.com/Phally/cache_engines
+.. _Page 1: :///articles/view/4caea0e4-2a94-466a-b1a2-4d8c82f0cb67/lang:eng#page-1
 .. _https://github.com/Phally/cached_acl: https://github.com/Phally/cached_acl
 .. _http://www.frankdegraaf.net: http://www.frankdegraaf.net/
-.. _Page 2: :///articles/view/4caea0e4-2a94-466a-b1a2-4d8c82f0cb67#page-2
-.. _Page 1: :///articles/view/4caea0e4-2a94-466a-b1a2-4d8c82f0cb67#page-1
+.. _Page 2: :///articles/view/4caea0e4-2a94-466a-b1a2-4d8c82f0cb67/lang:eng#page-2
 .. meta::
     :title: Caching ACL permissions with CachedAclComponent
     :description: CakePHP Article related to acl,cache,phally,Components

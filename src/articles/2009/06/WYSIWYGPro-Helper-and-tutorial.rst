@@ -404,11 +404,11 @@ More
 + `Page 3`_
 + `Page 4`_
 
-.. _Page 4: :///articles/view/4caea0e3-cda0-4cee-8bfc-412982f0cb67#page-4
-.. _Page 3: :///articles/view/4caea0e3-cda0-4cee-8bfc-412982f0cb67#page-3
-.. _Page 2: :///articles/view/4caea0e3-cda0-4cee-8bfc-412982f0cb67#page-2
-.. _Page 1: :///articles/view/4caea0e3-cda0-4cee-8bfc-412982f0cb67#page-1
+.. _Page 4: :///articles/view/4caea0e3-cda0-4cee-8bfc-412982f0cb67/lang:eng#page-4
+.. _Page 1: :///articles/view/4caea0e3-cda0-4cee-8bfc-412982f0cb67/lang:eng#page-1
+.. _Page 3: :///articles/view/4caea0e3-cda0-4cee-8bfc-412982f0cb67/lang:eng#page-3
 .. _Source Code (/config/wysiwygpro.php and /helpers/wysiwygpro.php): http://github.com/brightball/open-source/tree/master
+.. _Page 2: :///articles/view/4caea0e3-cda0-4cee-8bfc-412982f0cb67/lang:eng#page-2
 .. _WYSIWYGPro: http://www.wysiwygpro.com/
 .. _Using Cake Sessions Outside of Cake: http://bakery.cakephp.org/articles/view/using-cake-sessions-outside-of-cake
 .. _WYSIWYGPro Developer Docs - addStylesheet: http://www.wysiwygpro.com/index.php?id=127

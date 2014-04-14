@@ -1,6 +1,6 @@
-AuthExt a small Auth extension to set permission on user belonging to several groups/roles.
-===========================================================================================
-
+AuthExt a small Auth extension to set permission on user belonging to
+several groups/roles.
+=====================
 
 by %s on July 29, 2008
 

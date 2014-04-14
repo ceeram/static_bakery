@@ -288,9 +288,9 @@ More
 + `Page 3`_
 
 .. _http://code.google.com/p/alkemann/downloads/list: http://code.google.com/p/alkemann/downloads/list
-.. _Page 1: :///articles/view/4caea0e4-f3e0-4140-b1a8-4d2482f0cb67#page-1
-.. _Page 3: :///articles/view/4caea0e4-f3e0-4140-b1a8-4d2482f0cb67#page-3
-.. _Page 2: :///articles/view/4caea0e4-f3e0-4140-b1a8-4d2482f0cb67#page-2
+.. _Page 1: :///articles/view/4caea0e4-f3e0-4140-b1a8-4d2482f0cb67/lang:eng#page-1
+.. _Page 3: :///articles/view/4caea0e4-f3e0-4140-b1a8-4d2482f0cb67/lang:eng#page-3
+.. _Page 2: :///articles/view/4caea0e4-f3e0-4140-b1a8-4d2482f0cb67/lang:eng#page-2
 .. meta::
     :title: Dummy Data plugin - fill your app with random data that makes sense
     :description: CakePHP Article related to testing,data,plugin,alkemann,data generation,ronnyvv,prototyping,Plugins

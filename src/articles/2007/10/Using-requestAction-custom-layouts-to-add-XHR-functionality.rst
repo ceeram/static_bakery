@@ -738,11 +738,11 @@ More
 + `Page 4`_
 + `Page 5`_
 
-.. _Page 4: :///articles/view/4caea0e0-854c-4aa9-80d8-434882f0cb67#page-4
-.. _Page 5: :///articles/view/4caea0e0-854c-4aa9-80d8-434882f0cb67#page-5
-.. _Page 1: :///articles/view/4caea0e0-854c-4aa9-80d8-434882f0cb67#page-1
-.. _Page 2: :///articles/view/4caea0e0-854c-4aa9-80d8-434882f0cb67#page-2
-.. _Page 3: :///articles/view/4caea0e0-854c-4aa9-80d8-434882f0cb67#page-3
+.. _Page 4: :///articles/view/4caea0e0-854c-4aa9-80d8-434882f0cb67/lang:eng#page-4
+.. _Page 5: :///articles/view/4caea0e0-854c-4aa9-80d8-434882f0cb67/lang:eng#page-5
+.. _Page 1: :///articles/view/4caea0e0-854c-4aa9-80d8-434882f0cb67/lang:eng#page-1
+.. _Page 2: :///articles/view/4caea0e0-854c-4aa9-80d8-434882f0cb67/lang:eng#page-2
+.. _Page 3: :///articles/view/4caea0e0-854c-4aa9-80d8-434882f0cb67/lang:eng#page-3
 .. _http://api.cakephp.org/class_object.html#c40a38b60a3748b9cf75215b92ee3db1: http://api.cakephp.org/class_object.html#c40a38b60a3748b9cf75215b92ee3db1
 .. _http://ajax1app.codeandeffect.co.uk/calendar: http://ajax1app.codeandeffect.co.uk/calendar
 .. _http://mootools.net: http://mootools.net/

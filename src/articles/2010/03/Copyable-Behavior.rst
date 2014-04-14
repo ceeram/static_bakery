@@ -349,8 +349,8 @@ More
 + `Page 2`_
 
 .. _http://github.com/jamienay/copyable_behavior: http://github.com/jamienay/copyable_behavior
-.. _Page 1: :///articles/view/4caea0e7-4300-4ca8-a043-400582f0cb67#page-1
-.. _Page 2: :///articles/view/4caea0e7-4300-4ca8-a043-400582f0cb67#page-2
+.. _Page 2: :///articles/view/4caea0e7-4300-4ca8-a043-400582f0cb67/lang:eng#page-2
+.. _Page 1: :///articles/view/4caea0e7-4300-4ca8-a043-400582f0cb67/lang:eng#page-1
 .. meta::
     :title: Copyable Behavior
     :description: CakePHP Article related to hasMany,data,HABTM,copying,duplication,hasone,Behaviors

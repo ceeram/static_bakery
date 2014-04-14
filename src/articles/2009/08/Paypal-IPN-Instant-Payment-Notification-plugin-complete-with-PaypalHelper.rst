@@ -1,6 +1,6 @@
-Paypal IPN (Instant Payment Notification) plugin complete with PaypalHelper
-===========================================================================
-
+Paypal IPN (Instant Payment Notification) plugin complete with
+PaypalHelper
+============
 
 by %s on August 11, 2009
 

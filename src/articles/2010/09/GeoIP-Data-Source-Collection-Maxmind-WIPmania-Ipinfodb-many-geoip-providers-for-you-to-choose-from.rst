@@ -1,6 +1,6 @@
-GeoIP Data Source Collection - Maxmind, WIPmania, Ipinfodb - many geoip providers for you to choose from!
-=========================================================================================================
-
+GeoIP Data Source Collection - Maxmind, WIPmania, Ipinfodb - many
+geoip providers for you to choose from!
+=======================================
 
 by %s on September 07, 2010
 

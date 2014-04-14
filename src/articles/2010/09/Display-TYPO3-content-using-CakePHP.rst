@@ -10,7 +10,7 @@ TYPO3 backend with an existing frontend implementation. For these
 cases, we have created a base CakePHP implementation to access the
 TYPO3 tables "pages" and "tt_content" and display its content in a
 CakePHP generated frontend.
-Access the software at `http://schettler.net/fossil/t3c`_ and take
+Access the software at `http://fossil.schettler.net/t3c`_ and take
 part in this exciting new way to build TYPO3 backed websites.
 
 The software has the following properties
@@ -26,7 +26,7 @@ The software has the following properties
 
 
 
-.. _http://schettler.net/fossil/t3c: http://schettler.net/fossil/t3c
+.. _http://fossil.schettler.net/t3c: http://fossil.schettler.net/t3c
 .. meta::
     :title: Display TYPO3 content using CakePHP
     :description: CakePHP Article related to content management,typo,Snippets

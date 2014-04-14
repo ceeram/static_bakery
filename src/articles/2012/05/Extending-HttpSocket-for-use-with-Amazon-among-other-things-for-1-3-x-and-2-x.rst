@@ -1,6 +1,6 @@
-Extending HttpSocket for use with Amazon among other things for 1.3.x and 2.x
-=============================================================================
-
+Extending HttpSocket for use with Amazon among other things for 1.3.x
+and 2.x
+=======
 
 by %s on May 18, 2012
 

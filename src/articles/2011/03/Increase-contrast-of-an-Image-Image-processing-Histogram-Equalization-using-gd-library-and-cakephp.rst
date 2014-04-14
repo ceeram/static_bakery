@@ -1,6 +1,6 @@
-Increase contrast of an Image (Image processing, Histogram Equalization using gd library and cakephp)
-=====================================================================================================
-
+Increase contrast of an Image (Image processing, Histogram
+Equalization using gd library and cakephp)
+==========================================
 
 by %s on March 31, 2011
 

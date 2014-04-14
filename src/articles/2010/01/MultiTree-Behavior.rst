@@ -1393,8 +1393,8 @@ More
 
 .. _http://github.com/cyberthom/MultiTree-Behavior: http://github.com/cyberthom/MultiTree-Behavior
 .. _http://book.cakephp.org/view/228/Basic-Usage: http://book.cakephp.org/view/228/Basic-Usage
-.. _Page 2: :///articles/view/4caea0e7-e344-47da-93a9-49c282f0cb67#page-2
-.. _Page 1: :///articles/view/4caea0e7-e344-47da-93a9-49c282f0cb67#page-1
+.. _Page 2: :///articles/view/4caea0e7-e344-47da-93a9-49c282f0cb67/lang:eng#page-2
+.. _Page 1: :///articles/view/4caea0e7-e344-47da-93a9-49c282f0cb67/lang:eng#page-1
 .. meta::
     :title: MultiTree Behavior
     :description: CakePHP Article related to tree,multiple,behavior,performance,nested sets,rootid,multi,level,optimisation,Behaviors

@@ -34,10 +34,10 @@ Happy Baking.
 `https://trac.cakephp.org/wiki/changelog/1.2.x.x`_
 
 .. _http://www.ohloh.net/projects/cakephp: http://www.ohloh.net/projects/cakephp
-.. _https://trac.cakephp.org/wiki/changelog/1.2.x.x: https://trac.cakephp.org/wiki/changelog/1.2.x.x
 .. _http://cakephp.org/jobs: http://cakephp.org/jobs
 .. __id=399: http://cakeforge.org/frs/?group_id=23&release_id=399
 .. _CakeFest 2 in Argentina: http://bakery.cakephp.org/articles/view/cakefest-second-edition
+.. _https://trac.cakephp.org/wiki/changelog/1.2.x.x: https://trac.cakephp.org/wiki/changelog/1.2.x.x
 .. meta::
     :title: Release: Some RC2 Sweetness
     :description: CakePHP Article related to jobs,changelog,optimizations,candidate,fixes,rc,News

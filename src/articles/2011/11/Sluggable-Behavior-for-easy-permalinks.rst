@@ -24,10 +24,9 @@ released
 + Slug may be manually overridden without problems by putting it into
   the data array being saved in Cake
 
-`Download the source`_ from Github, and `view some instructions`_.
+`Download the source`_ from Github.
 
 
-.. _view some instructions: http://vduglued.com/2011/11/easy-cakephp-permalinks-and-url-slugs-with-sluggablebehavior/
 .. _Download the source: https://github.com/vduglued/CakePHP-Sluggable-Behavior
 .. meta::
     :title: Sluggable Behavior for easy permalinks

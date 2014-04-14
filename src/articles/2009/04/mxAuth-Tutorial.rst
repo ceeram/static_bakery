@@ -184,7 +184,7 @@ successful login the user is transferred to the "return_path".
 soon
 
 
-.. _...: :///var/www/cakephp/bakery/tmp/...
+.. _...: :///home/marc/public_html/bakery.cakephp.org/bakery/tmp/...
 .. meta::
     :title: mxAuth - Tutorial
     :description: CakePHP Article related to authentication,tutorial,mxauth,Tutorials

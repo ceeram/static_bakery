@@ -535,10 +535,10 @@ More
 + `Page 4`_
 
 .. _http://code.google.com/p/alkemann/source/browse/trunk/views/helpers/menu.php: http://code.google.com/p/alkemann/source/browse/trunk/views/helpers/menu.php
-.. _Page 4: :///articles/view/4caea0e3-cfc4-44a1-ba06-420282f0cb67#page-4
-.. _Page 2: :///articles/view/4caea0e3-cfc4-44a1-ba06-420282f0cb67#page-2
-.. _Page 3: :///articles/view/4caea0e3-cfc4-44a1-ba06-420282f0cb67#page-3
-.. _Page 1: :///articles/view/4caea0e3-cfc4-44a1-ba06-420282f0cb67#page-1
+.. _Page 4: :///articles/view/4caea0e3-cfc4-44a1-ba06-420282f0cb67/lang:eng#page-4
+.. _Page 2: :///articles/view/4caea0e3-cfc4-44a1-ba06-420282f0cb67/lang:eng#page-2
+.. _Page 3: :///articles/view/4caea0e3-cfc4-44a1-ba06-420282f0cb67/lang:eng#page-3
+.. _Page 1: :///articles/view/4caea0e3-cfc4-44a1-ba06-420282f0cb67/lang:eng#page-1
 .. _http://code.google.com/p/alkemann/issues/entry: http://code.google.com/p/alkemann/issues/entry
 .. meta::
     :title: MenuHelper

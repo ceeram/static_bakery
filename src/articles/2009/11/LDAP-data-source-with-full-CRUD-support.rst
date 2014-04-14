@@ -1559,10 +1559,10 @@ More
 .. _http://github.com/analogrithems/idbroker/blob/master/models/datasources/ldap_source.php: http://github.com/analogrithems/idbroker/blob/master/models/datasources/ldap_source.php
 .. _euphrate: http://bakery.cakephp.org/articles/view/ldap-datasource-for-cakephp
 .. _Gservat: http://memdump.wordpress.com/2008/04/26/ldap-data-source-now-with-full-crud/
-.. _Page 4: :///articles/view/4caea0e5-0c4c-4b3e-9b4e-4c8c82f0cb67#page-4
-.. _Page 3: :///articles/view/4caea0e5-0c4c-4b3e-9b4e-4c8c82f0cb67#page-3
-.. _Page 2: :///articles/view/4caea0e5-0c4c-4b3e-9b4e-4c8c82f0cb67#page-2
-.. _Page 1: :///articles/view/4caea0e5-0c4c-4b3e-9b4e-4c8c82f0cb67#page-1
+.. _Page 4: :///articles/view/4caea0e5-0c4c-4b3e-9b4e-4c8c82f0cb67/lang:eng#page-4
+.. _Page 1: :///articles/view/4caea0e5-0c4c-4b3e-9b4e-4c8c82f0cb67/lang:eng#page-1
+.. _Page 3: :///articles/view/4caea0e5-0c4c-4b3e-9b4e-4c8c82f0cb67/lang:eng#page-3
+.. _Page 2: :///articles/view/4caea0e5-0c4c-4b3e-9b4e-4c8c82f0cb67/lang:eng#page-2
 .. meta::
     :title: LDAP data source with full CRUD support
     :description: CakePHP Article related to ldap,datasource,Models

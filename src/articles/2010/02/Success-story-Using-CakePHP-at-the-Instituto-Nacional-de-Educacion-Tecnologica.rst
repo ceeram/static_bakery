@@ -1,6 +1,6 @@
-Success story: Using CakePHP at the Instituto Nacional de Educacion Tecnologica.
-================================================================================
-
+Success story: Using CakePHP at the Instituto Nacional de Educacion
+Tecnologica.
+============
 
 by %s on February 18, 2010
 

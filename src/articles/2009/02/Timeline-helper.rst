@@ -596,11 +596,11 @@ More
 + `Page 5`_
 
 .. _http://code.google.com/p/simile-widgets/wiki/Timeline: http://code.google.com/p/simile-widgets/wiki/Timeline
-.. _Page 4: :///articles/view/4caea0e3-a2c0-4d6f-9f15-472c82f0cb67#page-4
-.. _Page 5: :///articles/view/4caea0e3-a2c0-4d6f-9f15-472c82f0cb67#page-5
-.. _Page 2: :///articles/view/4caea0e3-a2c0-4d6f-9f15-472c82f0cb67#page-2
-.. _Page 3: :///articles/view/4caea0e3-a2c0-4d6f-9f15-472c82f0cb67#page-3
-.. _Page 1: :///articles/view/4caea0e3-a2c0-4d6f-9f15-472c82f0cb67#page-1
+.. _Page 4: :///articles/view/4caea0e3-a2c0-4d6f-9f15-472c82f0cb67/lang:eng#page-4
+.. _Page 5: :///articles/view/4caea0e3-a2c0-4d6f-9f15-472c82f0cb67/lang:eng#page-5
+.. _Page 2: :///articles/view/4caea0e3-a2c0-4d6f-9f15-472c82f0cb67/lang:eng#page-2
+.. _Page 3: :///articles/view/4caea0e3-a2c0-4d6f-9f15-472c82f0cb67/lang:eng#page-3
+.. _Page 1: :///articles/view/4caea0e3-a2c0-4d6f-9f15-472c82f0cb67/lang:eng#page-1
 .. _http://code.google.com/p/simile-widgets/source/browse/#svn/timeline/trunk: http://code.google.com/p/simile-widgets/source/browse/#svn/timeline/trunk
 .. _http://simile-widgets.googlecode.com/svn/timeline/tags/latest/src/webapp/examples/index.html: http://simile-widgets.googlecode.com/svn/timeline/tags/latest/src/webapp/examples/index.html
 .. meta::

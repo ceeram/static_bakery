@@ -365,8 +365,8 @@ More
 + `Page 1`_
 + `Page 2`_
 
-.. _Page 1: :///articles/view/4caea0e5-d720-4bd8-902d-4fa882f0cb67#page-1
-.. _Page 2: :///articles/view/4caea0e5-d720-4bd8-902d-4fa882f0cb67#page-2
+.. _Page 1: :///articles/view/4caea0e5-d720-4bd8-902d-4fa882f0cb67/lang:eng#page-1
+.. _Page 2: :///articles/view/4caea0e5-d720-4bd8-902d-4fa882f0cb67/lang:eng#page-2
 .. meta::
     :title: ACL Caching using Session
     :description: CakePHP Article related to acl,session,component,cache,Components

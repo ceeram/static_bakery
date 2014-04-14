@@ -1,6 +1,6 @@
-SELECT FOR UPDATE (hack) (kind of ugly but it works) (PostgreSQL and MySql)
-===========================================================================
-
+SELECT FOR UPDATE (hack) (kind of ugly but it works) (PostgreSQL and
+MySql)
+======
 
 by %s on April 14, 2012
 

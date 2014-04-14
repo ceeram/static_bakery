@@ -1,6 +1,6 @@
-Creating a Simple Questionnaire App and Integrating it Into an Existing DB Schema
-=================================================================================
-
+Creating a Simple Questionnaire App and Integrating it Into an
+Existing DB Schema
+==================
 
 by %s on October 19, 2007
 

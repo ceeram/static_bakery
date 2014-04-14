@@ -257,8 +257,8 @@ More
 .. _http://bakery.cakephp.org/articles/view/69: http://bakery.cakephp.org/articles/view/69
 .. _http://bakery.cakephp.org/articles/view/68: http://bakery.cakephp.org/articles/view/68
 .. _http://bakery.cakephp.org/articles/view/67: http://bakery.cakephp.org/articles/view/67
-.. _Page 1: :///articles/view/4caea0dc-9194-4446-89de-4c6f82f0cb67#page-1
-.. _Page 2: :///articles/view/4caea0dc-9194-4446-89de-4c6f82f0cb67#page-2
+.. _Page 1: :///articles/view/4caea0dc-9194-4446-89de-4c6f82f0cb67/lang:eng#page-1
+.. _Page 2: :///articles/view/4caea0dc-9194-4446-89de-4c6f82f0cb67/lang:eng#page-2
 .. _http://www.noswad.me.uk/Pagination/Ajaxed/SeeingDouble: http://www.noswad.me.uk/Pagination/Ajaxed/SeeingDouble
 .. _http://www.noswad.me.uk/Pagination: http://www.noswad.me.uk/Pagination
 .. _http://prototype.conio.net/: http://prototype.conio.net/

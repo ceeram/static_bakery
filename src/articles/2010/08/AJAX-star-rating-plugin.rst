@@ -1540,19 +1540,19 @@ More
 + `Page 9`_
 
 .. _http://jquery.com/: http://jquery.com/
+.. _Page 6: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67/lang:eng#page-6
 .. _http://www.wuala.com/mystic11/public/rating2.3.zip: http://www.wuala.com/mystic11/public/rating2.3.zip
-.. _Page 5: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67#page-5
-.. _Page 7: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67#page-7
+.. _Page 5: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67/lang:eng#page-5
+.. _Page 2: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67/lang:eng#page-2
+.. _Page 3: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67/lang:eng#page-3
+.. _Page 7: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67/lang:eng#page-7
+.. _Page 1: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67/lang:eng#page-1
 .. _http://www.prototypejs.org/: http://www.prototypejs.org/
-.. _Page 6: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67#page-6
+.. _Page 4: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67/lang:eng#page-4
+.. _Page 8: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67/lang:eng#page-8
+.. _Page 9: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67/lang:eng#page-9
 .. _http://www.wuala.com/mystic11/public/rating2.4.zip: http://www.wuala.com/mystic11/public/rating2.4.zip
-.. _Page 4: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67#page-4
 .. _http://ratingdemo.schneimi.spacequadrat.de/: http://ratingdemo.schneimi.spacequadrat.de/
-.. _Page 2: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67#page-2
-.. _Page 3: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67#page-3
-.. _Page 1: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67#page-1
-.. _Page 8: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67#page-8
-.. _Page 9: :///articles/view/4caea0e5-8cf8-4a82-82ee-458d82f0cb67#page-9
 .. meta::
     :title: AJAX star rating plugin
     :description: CakePHP Article related to AJAX,prototype,jquery,star,rating,Plugins

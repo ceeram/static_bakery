@@ -885,11 +885,11 @@ More
 + `Page 3`_
 + `Page 4`_
 
+.. _Page 4: :///articles/view/4caea0df-c518-42f5-a8c2-490482f0cb67/lang:eng#page-4
+.. _Page 2: :///articles/view/4caea0df-c518-42f5-a8c2-490482f0cb67/lang:eng#page-2
+.. _Page 3: :///articles/view/4caea0df-c518-42f5-a8c2-490482f0cb67/lang:eng#page-3
+.. _Page 1: :///articles/view/4caea0df-c518-42f5-a8c2-490482f0cb67/lang:eng#page-1
 .. _http://t73-softdesign.com: http://t73-softdesign.com/
-.. _Page 4: :///articles/view/4caea0df-c518-42f5-a8c2-490482f0cb67#page-4
-.. _Page 2: :///articles/view/4caea0df-c518-42f5-a8c2-490482f0cb67#page-2
-.. _Page 3: :///articles/view/4caea0df-c518-42f5-a8c2-490482f0cb67#page-3
-.. _Page 1: :///articles/view/4caea0df-c518-42f5-a8c2-490482f0cb67#page-1
 .. meta::
     :title: Dynamic Css for CMS and More!
     :description: CakePHP Article related to CMS,Dynamic Css,Plugins

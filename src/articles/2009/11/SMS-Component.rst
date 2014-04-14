@@ -405,10 +405,10 @@ More
 
 .. _http://www.webtechnick.com/: http://www.webtechnick.com/
 .. _http://svn2.xp-dev.com/svn/nurvzy-sms-component: http://svn2.xp-dev.com/svn/nurvzy-sms-component
+.. _Page 2: :///articles/view/4caea0e6-394c-4198-a52c-478f82f0cb67/lang:eng#page-2
+.. _Page 1: :///articles/view/4caea0e6-394c-4198-a52c-478f82f0cb67/lang:eng#page-1
 .. _http://projects.webtechnick.com/sms_component.tar.gz: http://projects.webtechnick.com/sms_component.tar.gz
-.. _Page 1: :///articles/view/4caea0e6-394c-4198-a52c-478f82f0cb67#page-1
 .. _http://projects.webtechnick.com/sms_component: http://projects.webtechnick.com/sms_component
-.. _Page 2: :///articles/view/4caea0e6-394c-4198-a52c-478f82f0cb67#page-2
 .. _Page 2: SMS Component Code: http://bakery.cakephp.org/leafs/view/131
 .. meta::
     :title: SMS Component

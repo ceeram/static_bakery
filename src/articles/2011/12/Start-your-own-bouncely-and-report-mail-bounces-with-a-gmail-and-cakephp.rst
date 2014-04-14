@@ -1,6 +1,6 @@
-Start your own bouncely and report mail bounces with a gmail and cakephp
-========================================================================
-
+Start your own bouncely and report mail bounces with a gmail and
+cakephp
+=======
 
 by %s on December 06, 2011
 

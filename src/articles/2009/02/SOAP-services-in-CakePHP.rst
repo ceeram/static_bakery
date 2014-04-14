@@ -522,12 +522,12 @@ More
 .. _http://wiki.eclipse.org/index.php/Introduction_to_the_WSDL_Editor: http://wiki.eclipse.org/index.php/Introduction_to_the_WSDL_Editor
 .. _http://my-kickass-project.com/soap/messages/service: http://my-kickass-project.com/soap/messages/service
 .. _http://book.cakephp.org/view/544/Prefix-Routing: http://book.cakephp.org/view/544/Prefix-Routing
+.. _Page 3: :///articles/view/4caea0e4-0654-4596-b94a-403782f0cb67/lang:eng#page-3
 .. _http://www.eclipse.org/pdt/: http://www.eclipse.org/pdt/
-.. _Page 3: :///articles/view/4caea0e4-0654-4596-b94a-403782f0cb67#page-3
+.. _Page 4: :///articles/view/4caea0e4-0654-4596-b94a-403782f0cb67/lang:eng#page-4
+.. _Page 1: :///articles/view/4caea0e4-0654-4596-b94a-403782f0cb67/lang:eng#page-1
 .. _http://www.soapui.org/: http://www.soapui.org/
-.. _Page 2: :///articles/view/4caea0e4-0654-4596-b94a-403782f0cb67#page-2
-.. _Page 1: :///articles/view/4caea0e4-0654-4596-b94a-403782f0cb67#page-1
-.. _Page 4: :///articles/view/4caea0e4-0654-4596-b94a-403782f0cb67#page-4
+.. _Page 2: :///articles/view/4caea0e4-0654-4596-b94a-403782f0cb67/lang:eng#page-2
 .. meta::
     :title: SOAP services in CakePHP
     :description: CakePHP Article related to soap,wsdl,webservices,component,services,soapcomponent,soap client,soap server,Tutorials

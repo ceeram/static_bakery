@@ -1,6 +1,6 @@
-Adding multilingualism to single language site without i18n and/or TranslateBehaviour
-=====================================================================================
-
+Adding multilingualism to single language site without i18n and/or
+TranslateBehaviour
+==================
 
 by %s on January 22, 2012
 

@@ -1,6 +1,6 @@
-Javascript/CSS/LESS module loader + dependency calculator plugin ("ResourcesController")
-========================================================================================
-
+Javascript/CSS/LESS module loader + dependency calculator plugin
+("ResourcesController")
+=======================
 
 by %s on June 22, 2012
 

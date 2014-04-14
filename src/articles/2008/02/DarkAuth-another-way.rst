@@ -736,9 +736,9 @@ More
 + `Page 2`_
 + `Page 3`_
 
-.. _Page 1: :///articles/view/4caea0e0-f5b8-4d33-914a-41d482f0cb67#page-1
-.. _Page 3: :///articles/view/4caea0e0-f5b8-4d33-914a-41d482f0cb67#page-3
-.. _Page 2: :///articles/view/4caea0e0-f5b8-4d33-914a-41d482f0cb67#page-2
+.. _Page 2: :///articles/view/4caea0e0-f5b8-4d33-914a-41d482f0cb67/lang:eng#page-2
+.. _Page 1: :///articles/view/4caea0e0-f5b8-4d33-914a-41d482f0cb67/lang:eng#page-1
+.. _Page 3: :///articles/view/4caea0e0-f5b8-4d33-914a-41d482f0cb67/lang:eng#page-3
 .. meta::
     :title: DarkAuth - another way...
     :description: CakePHP Article related to authentication,obAuth,access control,superuser,Components

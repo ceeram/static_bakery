@@ -1,6 +1,6 @@
-CakePHP TV Released! Community Tutorial Videos, Presentation Videos, and more CakePHP videos
-============================================================================================
-
+CakePHP TV Released! Community Tutorial Videos, Presentation Videos,
+and more CakePHP videos
+=======================
 
 by %s on December 27, 2010
 

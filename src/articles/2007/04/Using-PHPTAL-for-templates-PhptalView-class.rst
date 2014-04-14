@@ -140,9 +140,9 @@ More
 + `Page 1`_
 + `Page 2`_
 
-.. _Page 1: :///articles/view/4caea0de-e2f8-4aa0-87a1-435882f0cb67#page-1
+.. _Page 1: :///articles/view/4caea0de-e2f8-4aa0-87a1-435882f0cb67/lang:eng#page-1
 .. _=180: http://cakeforge.org/snippet/detail.php?type=snippet&id=180
-.. _Page 2: :///articles/view/4caea0de-e2f8-4aa0-87a1-435882f0cb67#page-2
+.. _Page 2: :///articles/view/4caea0de-e2f8-4aa0-87a1-435882f0cb67/lang:eng#page-2
 .. _http://phptal.motion-twin.com/: http://phptal.motion-twin.com/
 .. meta::
     :title: Using PHPTAL for templates: PhptalView class

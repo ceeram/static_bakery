@@ -828,13 +828,13 @@ More
 
 .. _email_ylb-php@yahoo.fr: mailto:email_ylb-php@yahoo.fr
 .. _ldap models in cakephp: http://bakery.cakephp.org/articles/view/ldap-models-in-cakephp
+.. _Page 1: :///articles/view/4caea0df-c014-48da-b4f6-47be82f0cb67/lang:eng#page-1
 .. _tutorial: http://bakery.cakephp.org/articles/view/using-ldap-as-a-datasource-basic-find-example
 .. _here: http://www.blog.fbollon.net/releases/ldap_source/
 .. _Using ldap as a database: http://bakery.cakephp.org/articles/view/using-ldap-as-a-database
 .. _Frédéric Bollon: http://blog.fbollon.net/
 .. _Aurélien Millet: http://aurmil.free.fr/site
-.. _Page 2: :///articles/view/4caea0df-c014-48da-b4f6-47be82f0cb67#page-2
-.. _Page 1: :///articles/view/4caea0df-c014-48da-b4f6-47be82f0cb67#page-1
+.. _Page 2: :///articles/view/4caea0df-c014-48da-b4f6-47be82f0cb67/lang:eng#page-2
 .. _http://www.blog.fbollon.net/: http://www.blog.fbollon.net/
 .. meta::
     :title: LDAP datasource for cakePHP

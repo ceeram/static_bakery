@@ -1247,8 +1247,8 @@ More
 + `Page 1`_
 + `Page 2`_
 
-.. _Page 2: :///articles/view/4caea0e5-2314-4732-979c-4bc182f0cb67#page-2
-.. _Page 1: :///articles/view/4caea0e5-2314-4732-979c-4bc182f0cb67#page-1
+.. _Page 2: :///articles/view/4caea0e5-2314-4732-979c-4bc182f0cb67/lang:eng#page-2
+.. _Page 1: :///articles/view/4caea0e5-2314-4732-979c-4bc182f0cb67/lang:eng#page-1
 .. _http://lexvegas.org/b_tree.phps: http://lexvegas.org/b_tree.phps
 .. meta::
     :title: BTree Behavior

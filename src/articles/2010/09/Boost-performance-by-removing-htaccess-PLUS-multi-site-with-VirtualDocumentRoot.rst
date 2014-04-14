@@ -1,6 +1,6 @@
-Boost performance by removing .htaccess PLUS multi-site with VirtualDocumentRoot
-================================================================================
-
+Boost performance by removing .htaccess PLUS multi-site with
+VirtualDocumentRoot
+===================
 
 by %s on November 29, 2010
 

@@ -1,6 +1,6 @@
-How to implament One Time Password for forgot-my-password and account- activation processes
-===========================================================================================
-
+How to implament One Time Password for forgot-my-password and account-
+activation processes
+====================
 
 by %s on March 12, 2010
 

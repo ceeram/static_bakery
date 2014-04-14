@@ -443,10 +443,10 @@ More
 + `Page 4`_
 
 .. _http://www.jool.nl/new/1,webservice_helper.html: http://www.jool.nl/new/1,webservice_helper.html
-.. _Page 4: :///articles/view/4caea0dc-9980-4997-8e05-43c582f0cb67#page-4
-.. _Page 2: :///articles/view/4caea0dc-9980-4997-8e05-43c582f0cb67#page-2
-.. _Page 3: :///articles/view/4caea0dc-9980-4997-8e05-43c582f0cb67#page-3
-.. _Page 1: :///articles/view/4caea0dc-9980-4997-8e05-43c582f0cb67#page-1
+.. _Page 4: :///articles/view/4caea0dc-9980-4997-8e05-43c582f0cb67/lang:eng#page-4
+.. _Page 2: :///articles/view/4caea0dc-9980-4997-8e05-43c582f0cb67/lang:eng#page-2
+.. _Page 3: :///articles/view/4caea0dc-9980-4997-8e05-43c582f0cb67/lang:eng#page-3
+.. _Page 1: :///articles/view/4caea0dc-9980-4997-8e05-43c582f0cb67/lang:eng#page-1
 .. _http://instantsvc.toolslave.net: http://instantsvc.toolslave.net/
 .. _http://us2.php.net/manual/en/ref.soap.php: http://us2.php.net/manual/en/ref.soap.php
 .. _http://us3.php.net/manual/en/language.oop5.overloading.php: http://us3.php.net/manual/en/language.oop5.overloading.php

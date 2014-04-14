@@ -1,6 +1,6 @@
-Aggregator & Aggregatable Behaviors: if You think that You need a GROUP BY statement
-====================================================================================
-
+Aggregator & Aggregatable Behaviors: if You think that You need a
+GROUP BY statement
+==================
 
 by %s on July 07, 2008
 

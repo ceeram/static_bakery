@@ -1,6 +1,6 @@
-Cakephp footnotes (on base of notepad_plus_plus). Part I. Basic solution.
-=========================================================================
-
+Cakephp footnotes (on base of notepad_plus_plus). Part I. Basic
+solution.
+=========
 
 by %s on September 20, 2007
 

@@ -34,8 +34,8 @@ delicious-sprinkles`_
 [4] `http://cakefest.org`_
 
 .. _http://cakefest.org: http://cakefest.org/
-.. _http://github.com/cakephp/cakephp/downloads: http://github.com/cakephp/cakephp/downloads
 .. _http://cakephp.lighthouseapp.com/projects/42648/changelog-1-3-2: http://cakephp.lighthouseapp.com/projects/42648/changelog-1-3-2
+.. _http://github.com/cakephp/cakephp/downloads: http://github.com/cakephp/cakephp/downloads
 .. _http://bakery.cakephp.org/articles/view/cakephp-1-3-1-now-with-delicious-sprinkles: http://bakery.cakephp.org/articles/view/cakephp-1-3-1-now-with-delicious-sprinkles
 .. meta::
     :title: CakePHP 1.3.2 released

@@ -363,8 +363,8 @@ More
 .. _http://code.huffduff.net/svn/hoard/trunk/tests/cases/behaviors/akismet.test.php: http://code.huffduff.net/svn/hoard/trunk/tests/cases/behaviors/akismet.test.php
 .. _http://code.huffduff.net/svn/hoard/trunk/tests/fixtures/spam_comment_fixture.php: http://code.huffduff.net/svn/hoard/trunk/tests/fixtures/spam_comment_fixture.php
 .. _http://code.huffduff.net/svn/hoard/trunk/models/behaviors/akismet.php: http://code.huffduff.net/svn/hoard/trunk/models/behaviors/akismet.php
-.. _Page 1: :///articles/view/4caea0e4-67dc-4c8d-b5fc-4d4982f0cb67#page-1
-.. _Page 2: :///articles/view/4caea0e4-67dc-4c8d-b5fc-4d4982f0cb67#page-2
+.. _Page 1: :///articles/view/4caea0e4-67dc-4c8d-b5fc-4d4982f0cb67/lang:eng#page-1
+.. _Page 2: :///articles/view/4caea0e4-67dc-4c8d-b5fc-4d4982f0cb67/lang:eng#page-2
 .. meta::
     :title: An Akismet Behavior
     :description: CakePHP Article related to comment,akismet,spam detection,Behaviors

@@ -276,10 +276,10 @@ More
 + `Page 1`_
 + `Page 2`_
 
+.. _Page 2: :///articles/view/4caea0e3-bd8c-4cb5-b3d7-458282f0cb67/lang:eng#page-2
 .. _http://code.google.com/p/freenity/wiki/RowObjectBehavior: http://code.google.com/p/freenity/wiki/RowObjectBehavior
 .. _http://freenity.googlecode.com/files/RowObjectBehavior%20v.%200.2.rar: http://freenity.googlecode.com/files/RowObjectBehavior%20v.%200.2.rar
-.. _Page 1: :///articles/view/4caea0e3-bd8c-4cb5-b3d7-458282f0cb67#page-1
-.. _Page 2: :///articles/view/4caea0e3-bd8c-4cb5-b3d7-458282f0cb67#page-2
+.. _Page 1: :///articles/view/4caea0e3-bd8c-4cb5-b3d7-458282f0cb67/lang:eng#page-1
 .. meta::
     :title: RowObjectBehavior Row Data Gateway implementation
     :description: CakePHP Article related to behavior,row object,row data gateway,rowobjectbehavior,rowobject,Behaviors

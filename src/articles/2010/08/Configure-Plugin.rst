@@ -246,8 +246,8 @@ More
 + `Page 1`_
 + `Page 2`_
 
-.. _Page 2: :///articles/view/4caea0e3-2e88-41a5-9169-42b282f0cb67#page-2
-.. _Page 1: :///articles/view/4caea0e3-2e88-41a5-9169-42b282f0cb67#page-1
+.. _Page 2: :///articles/view/4caea0e3-2e88-41a5-9169-42b282f0cb67/lang:eng#page-2
+.. _Page 1: :///articles/view/4caea0e3-2e88-41a5-9169-42b282f0cb67/lang:eng#page-1
 .. meta::
     :title: Configure Plugin
     :description: CakePHP Article related to admin,plugin,configure,Plugins

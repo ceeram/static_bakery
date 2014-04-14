@@ -1,6 +1,6 @@
-Internationalization with static and dynamic content, routing and switching
-===========================================================================
-
+Internationalization with static and dynamic content, routing and
+switching
+=========
 
 by %s on January 27, 2013
 

@@ -581,13 +581,13 @@ More
 + `Page 5`_
 
 .. _http://github.com/jaredhoyt: http://github.com/jaredhoyt
+.. _Page 4: :///articles/view/4caea0e2-1704-4831-926c-43a882f0cb67/lang:eng#page-4
+.. _Page 5: :///articles/view/4caea0e2-1704-4831-926c-43a882f0cb67/lang:eng#page-5
 .. _http://www.example.com/signup/wizard/account: http://www.example.com/signup/wizard/account
-.. _Page 4: :///articles/view/4caea0e2-1704-4831-926c-43a882f0cb67#page-4
+.. _Page 1: :///articles/view/4caea0e2-1704-4831-926c-43a882f0cb67/lang:eng#page-1
+.. _Page 2: :///articles/view/4caea0e2-1704-4831-926c-43a882f0cb67/lang:eng#page-2
+.. _Page 3: :///articles/view/4caea0e2-1704-4831-926c-43a882f0cb67/lang:eng#page-3
 .. _http://www.example.com/signup: http://www.example.com/signup
-.. _Page 5: :///articles/view/4caea0e2-1704-4831-926c-43a882f0cb67#page-5
-.. _Page 1: :///articles/view/4caea0e2-1704-4831-926c-43a882f0cb67#page-1
-.. _Page 2: :///articles/view/4caea0e2-1704-4831-926c-43a882f0cb67#page-2
-.. _Page 3: :///articles/view/4caea0e2-1704-4831-926c-43a882f0cb67#page-3
 .. meta::
     :title: Wizard Component 1.2 Tutorial
     :description: CakePHP Article related to forms,wizard component,Wizard,multistep,multipage,Tutorials

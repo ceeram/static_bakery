@@ -299,9 +299,9 @@ More
 + `Page 2`_
 + `Page 3`_
 
-.. _Page 1: :///articles/view/4caea0e4-2640-4212-9602-49a582f0cb67#page-1
-.. _Page 3: :///articles/view/4caea0e4-2640-4212-9602-49a582f0cb67#page-3
-.. _Page 2: :///articles/view/4caea0e4-2640-4212-9602-49a582f0cb67#page-2
+.. _Page 3: :///articles/view/4caea0e4-2640-4212-9602-49a582f0cb67/lang:eng#page-3
+.. _Page 2: :///articles/view/4caea0e4-2640-4212-9602-49a582f0cb67/lang:eng#page-2
+.. _Page 1: :///articles/view/4caea0e4-2640-4212-9602-49a582f0cb67/lang:eng#page-1
 .. meta::
     :title: ImageBehavior - best from database blobs and file storage
     :description: CakePHP Article related to image,upload,Behaviors

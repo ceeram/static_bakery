@@ -1,6 +1,6 @@
-Troubleshooting CakePHP installation issues related to Apache 2 mod_rewrite - for beginners.
-============================================================================================
-
+Troubleshooting CakePHP installation issues related to Apache 2
+mod_rewrite - for beginners.
+============================
 
 by %s on February 25, 2010
 

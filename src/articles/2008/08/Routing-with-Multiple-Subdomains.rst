@@ -40,8 +40,8 @@ Component Class:
 
 Feedback is appreciated and hope this helps other people.
 
-.. _Using CAKE_ADMIN for multiple user types: :///var/www/cakephp/bakery/tmp/Using
-.. _Hosting Admin URLs on a Subdomain: :///var/www/cakephp/bakery/tmp/Hosting
+.. _Hosting Admin URLs on a Subdomain: :///home/marc/public_html/bakery.cakephp.org/bakery/tmp/Hosting
+.. _Using CAKE_ADMIN for multiple user types: :///home/marc/public_html/bakery.cakephp.org/bakery/tmp/Using
 .. meta::
     :title: Routing with Multiple Subdomains
     :description: CakePHP Article related to routing,subdomain,admin,Snippets

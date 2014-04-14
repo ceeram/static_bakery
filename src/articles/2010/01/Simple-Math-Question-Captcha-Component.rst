@@ -283,9 +283,9 @@ More
 
 .. _http://jamienay.com/code/math-captcha-component/: http://jamienay.com/code/math-captcha-component/
 .. _http://github.com/jamienay/math_captcha_component: http://github.com/jamienay/math_captcha_component
-.. _Page 2: :///articles/view/4caea0e5-fdf8-47ee-8624-4e1182f0cb67#page-2
-.. _Page 1: :///articles/view/4caea0e5-fdf8-47ee-8624-4e1182f0cb67#page-1
+.. _Page 1: :///articles/view/4caea0e5-fdf8-47ee-8624-4e1182f0cb67/lang:eng#page-1
 .. _http://snook.ca/archives/cakephp/contact_form_cakephp/: http://snook.ca/archives/cakephp/contact_form_cakephp/
+.. _Page 2: :///articles/view/4caea0e5-fdf8-47ee-8624-4e1182f0cb67/lang:eng#page-2
 .. meta::
     :title: Simple Math Question Captcha Component
     :description: CakePHP Article related to forms,captcha,spam,spam protection,contact form,Tutorials

@@ -654,8 +654,8 @@ More
 + `Page 2`_
 
 .. _http://code.google.com/p/alkemann/downloads/list: http://code.google.com/p/alkemann/downloads/list
-.. _Page 1: :///articles/view/4caea0e2-e5a4-4a4b-b302-488682f0cb67#page-1
-.. _Page 2: :///articles/view/4caea0e2-e5a4-4a4b-b302-488682f0cb67#page-2
+.. _Page 1: :///articles/view/4caea0e2-e5a4-4a4b-b302-488682f0cb67/lang:eng#page-1
+.. _Page 2: :///articles/view/4caea0e2-e5a4-4a4b-b302-488682f0cb67/lang:eng#page-2
 .. meta::
     :title: LogableBehavior
     :description: CakePHP Article related to behavior,logging,logs,alkemann,Behaviors

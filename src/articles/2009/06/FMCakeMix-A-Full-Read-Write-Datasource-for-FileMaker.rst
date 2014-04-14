@@ -1449,10 +1449,10 @@ More
 + `Page 3`_
 
 .. _http://www.iviking.org/FX.php/: http://www.iviking.org/FX.php/
-.. _Page 3: :///articles/view/4caea0e4-6404-4b72-a009-4a3882f0cb67#page-3
-.. _Page 2: :///articles/view/4caea0e4-6404-4b72-a009-4a3882f0cb67#page-2
+.. _Page 3: :///articles/view/4caea0e4-6404-4b72-a009-4a3882f0cb67/lang:eng#page-3
 .. _http://github.com/alexgb/FMCakeMix/tree/master: http://github.com/alexgb/FMCakeMix/tree/master
-.. _Page 1: :///articles/view/4caea0e4-6404-4b72-a009-4a3882f0cb67#page-1
+.. _Page 2: :///articles/view/4caea0e4-6404-4b72-a009-4a3882f0cb67/lang:eng#page-2
+.. _Page 1: :///articles/view/4caea0e4-6404-4b72-a009-4a3882f0cb67/lang:eng#page-1
 .. meta::
     :title: FMCakeMix: A Full Read/Write Datasource for FileMaker
     :description: CakePHP Article related to datasource,filemaker,Models

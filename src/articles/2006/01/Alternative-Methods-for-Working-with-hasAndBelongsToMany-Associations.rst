@@ -245,8 +245,8 @@ More
 + `Page 2`_
 
 .. _I'll keep my fingers crossed: https://trac.cakephp.org/ticket/1845
-.. _Page 2: :///articles/view/4caea0dd-a0b8-4c76-ac5e-43ac82f0cb67#page-2
-.. _Page 1: :///articles/view/4caea0dd-a0b8-4c76-ac5e-43ac82f0cb67#page-1
+.. _Page 1: :///articles/view/4caea0dd-a0b8-4c76-ac5e-43ac82f0cb67/lang:eng#page-1
+.. _Page 2: :///articles/view/4caea0dd-a0b8-4c76-ac5e-43ac82f0cb67/lang:eng#page-2
 .. _#1348: https://trac.cakephp.org/ticket/1348
 .. meta::
     :title: Alternative Methods for Working with hasAndBelongsToMany Associations

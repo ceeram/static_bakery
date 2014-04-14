@@ -1,6 +1,6 @@
-Using the Ajax Helper for InPlaceEditor and InplaceCollectionEditor Fields
-==========================================================================
-
+Using the Ajax Helper for InPlaceEditor and InplaceCollectionEditor
+Fields
+======
 
 by %s on July 07, 2008
 

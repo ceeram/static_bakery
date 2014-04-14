@@ -637,10 +637,10 @@ More
 + `Page 3`_
 + `Page 4`_
 
-.. _Page 4: :///articles/view/4caea0e1-7d58-4997-b256-4bbd82f0cb67#page-4
-.. _Page 1: :///articles/view/4caea0e1-7d58-4997-b256-4bbd82f0cb67#page-1
-.. _Page 3: :///articles/view/4caea0e1-7d58-4997-b256-4bbd82f0cb67#page-3
-.. _Page 2: :///articles/view/4caea0e1-7d58-4997-b256-4bbd82f0cb67#page-2
+.. _Page 2: :///articles/view/4caea0e1-7d58-4997-b256-4bbd82f0cb67/lang:eng#page-2
+.. _Page 1: :///articles/view/4caea0e1-7d58-4997-b256-4bbd82f0cb67/lang:eng#page-1
+.. _Page 4: :///articles/view/4caea0e1-7d58-4997-b256-4bbd82f0cb67/lang:eng#page-4
+.. _Page 3: :///articles/view/4caea0e1-7d58-4997-b256-4bbd82f0cb67/lang:eng#page-3
 .. meta::
     :title: Chartable Behavior
     :description: CakePHP Article related to behavior,chart,openflashchart,FlashChartHelper,alkemann,Behaviors

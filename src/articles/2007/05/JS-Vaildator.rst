@@ -584,10 +584,10 @@ More
 + `Page 2`_
 + `Page 3`_
 
-.. _Page 1: :///articles/view/4caea0dd-a92c-44b8-99a1-408282f0cb67#page-1
-.. _Page 2: :///articles/view/4caea0dd-a92c-44b8-99a1-408282f0cb67#page-2
-.. _Page 3: :///articles/view/4caea0dd-a92c-44b8-99a1-408282f0cb67#page-3
 .. _http://script.aculo.us/: http://script.aculo.us/
+.. _Page 1: :///articles/view/4caea0dd-a92c-44b8-99a1-408282f0cb67/lang:eng#page-1
+.. _Page 2: :///articles/view/4caea0dd-a92c-44b8-99a1-408282f0cb67/lang:eng#page-2
+.. _Page 3: :///articles/view/4caea0dd-a92c-44b8-99a1-408282f0cb67/lang:eng#page-3
 .. _http://bakery.cakephp.org/leafs/view/17: http://bakery.cakephp.org/leafs/view/17
 .. _http://bakery.cakephp.org/leafs/view/18: http://bakery.cakephp.org/leafs/view/18
 .. meta::

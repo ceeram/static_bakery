@@ -1,6 +1,6 @@
-Got2BShoes.com - Intelligent Caching of Amazon's Product Advertising API
-========================================================================
-
+Got2BShoes.com - Intelligent Caching of Amazon's Product Advertising
+API
+===
 
 by %s on January 05, 2010
 

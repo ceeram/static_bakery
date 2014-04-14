@@ -1,6 +1,6 @@
-Automatically load all controllers and actions into ACO tables for ACL with a CakePHP Task
-==========================================================================================
-
+Automatically load all controllers and actions into ACO tables for ACL
+with a CakePHP Task
+===================
 
 by %s on January 27, 2009
 

@@ -133,9 +133,9 @@ More
 .. _http://slateinfo.blogs.wvu.edu/plugins/textile_editor_helper: http://slateinfo.blogs.wvu.edu/plugins/textile_editor_helper
 .. _http://www.divshare.com/download/542720-146: http://www.divshare.com/download/542720-146
 .. _http://slateinfo.blogs.wvu.edu/plugins/textile_editor_helper/demo: http://slateinfo.blogs.wvu.edu/plugins/textile_editor_helper/demo
-.. _Page 2: :///articles/view/4caea0de-2534-4153-bdeb-4dff82f0cb67#page-2
+.. _Page 2: :///articles/view/4caea0de-2534-4153-bdeb-4dff82f0cb67/lang:eng#page-2
 .. _http://rossoft.wordpress.com/2006/03/28/register-head-tags-from-helpers-2/: http://rossoft.wordpress.com/2006/03/28/register-head-tags-from-helpers-2/
-.. _Page 1: :///articles/view/4caea0de-2534-4153-bdeb-4dff82f0cb67#page-1
+.. _Page 1: :///articles/view/4caea0de-2534-4153-bdeb-4dff82f0cb67/lang:eng#page-1
 .. meta::
     :title: Textile Editor Helper for Cake
     :description: CakePHP Article related to textile,teh,textile editor helpe,Helpers

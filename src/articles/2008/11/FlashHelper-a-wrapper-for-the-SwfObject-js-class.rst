@@ -298,8 +298,8 @@ More
 + `Page 1`_
 + `Page 2`_
 
-.. _Page 1: :///articles/view/4caea0e3-c568-4290-bd5a-4e8782f0cb67#page-1
-.. _Page 2: :///articles/view/4caea0e3-c568-4290-bd5a-4e8782f0cb67#page-2
+.. _Page 1: :///articles/view/4caea0e3-c568-4290-bd5a-4e8782f0cb67/lang:eng#page-1
+.. _Page 2: :///articles/view/4caea0e3-c568-4290-bd5a-4e8782f0cb67/lang:eng#page-2
 .. _http://code.google.com/p/swfobject/wiki/documentation: http://code.google.com/p/swfobject/wiki/documentation
 .. _http://code.google.com/p/alkemann/issues/entry: http://code.google.com/p/alkemann/issues/entry
 .. _http://code.google.com/p/swfobject/downloads/detail?name=swfobject_2_1.zip: http://code.google.com/p/swfobject/downloads/detail?name=swfobject_2_1.zip

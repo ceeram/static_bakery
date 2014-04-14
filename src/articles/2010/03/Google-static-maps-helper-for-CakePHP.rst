@@ -189,8 +189,8 @@ More
 + `Page 1`_
 + `Page 2`_
 
-.. _Page 2: :///articles/view/4caea0e7-c760-4b0f-ba7c-4fe182f0cb67#page-2
-.. _Page 1: :///articles/view/4caea0e7-c760-4b0f-ba7c-4fe182f0cb67#page-1
+.. _Page 2: :///articles/view/4caea0e7-c760-4b0f-ba7c-4fe182f0cb67/lang:eng#page-2
+.. _Page 1: :///articles/view/4caea0e7-c760-4b0f-ba7c-4fe182f0cb67/lang:eng#page-1
 .. _http://karlmendes.com/static/google_static_map/google_static_map.zip: http://karlmendes.com/static/google_static_map/google_static_map.zip
 .. meta::
     :title: Google static maps helper for CakePHP
