@@ -5,6 +5,7 @@ Categories
 =======
 
 Stay up on all the happenings in CakePHP
+:doc:`news` section.
 
 `Articles`_
 ===========

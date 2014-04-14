@@ -125,7 +125,9 @@ html_sidebars = {
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
-#html_additional_pages = {}
+html_additional_pages = {
+    'news': 'news.html',
+}
 
 # If false, no module index is generated.
 #html_domain_indices = True
