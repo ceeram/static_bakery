@@ -1,7 +1,7 @@
 BahnApiComponent
 ================
 
-by %s on January 27, 2011
+by anachronist on January 27, 2011
 
 A simple, but very helpful component to receive the schedule of the
 german railway system.
@@ -143,6 +143,6 @@ PHP Snippet:
     :title: BahnApiComponent
     :description: CakePHP Article related to api,Schedule,Bahn,Train,Components
     :keywords: api,Schedule,Bahn,Train,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 anachronist
     :category: components
 

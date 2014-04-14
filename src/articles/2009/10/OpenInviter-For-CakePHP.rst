@@ -1,7 +1,7 @@
 OpenInviter For CakePHP
 =======================
 
-by %s on October 13, 2009
+by xpharsh123 on October 13, 2009
 
 You can now integrate an open source into cakePHP for Invite Your
 Friends Direct form email services. Invite Your Friends From Your Web
@@ -83,6 +83,6 @@ Full Email Address and password eg. `userid@gmail.com`_ , password 2.
     :title: OpenInviter For CakePHP
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 xpharsh123
     :category: tutorials
 

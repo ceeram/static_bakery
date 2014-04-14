@@ -1,7 +1,7 @@
 CakePHP SQL Shell - simple and powerful
 =======================================
 
-by %s on January 05, 2010
+by erma on January 05, 2010
 
 This shell helps to migrate sql databases accross several accounts. It
 stores the version number in a txt file (make sure you ignore this
@@ -175,6 +175,6 @@ version (in every step, the whole db is backuped into the tmp folder).
     :title: CakePHP SQL Shell - simple and powerful
     :description: CakePHP Article related to sql,shell,versioning,migrate,Snippets
     :keywords: sql,shell,versioning,migrate,Snippets
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 erma
     :category: snippets
 

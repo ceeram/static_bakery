@@ -1,7 +1,7 @@
 Translate behavior - bindTranslation problem
 ============================================
 
-by %s on September 20, 2009
+by alexdeefuse on September 20, 2009
 
 One problem I noticed is that when i used the bindTranslation, the
 results came mixed up. I meen the index of the array was 0 or 1 and
@@ -42,6 +42,6 @@ Alex
     :title: Translate behavior - bindTranslation problem
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 alexdeefuse
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Codelobster PHP Edition - IDE for CakePHP
 =========================================
 
-by %s on October 13, 2011
+by clod on October 13, 2011
 
 CodeLobster PHP Edition is a free portable PHP IDE with support Drupal
 CMS, Joomla CMS, Smarty template engine, JQuery library, CodeIgniter
@@ -74,6 +74,6 @@ Windows 7
     :title: Codelobster PHP Edition - IDE for CakePHP
     :description: CakePHP Article related to php,CakePHP,editor,ide,html,free,Codelobster,Articles
     :keywords: php,CakePHP,editor,ide,html,free,Codelobster,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 clod
     :category: articles
 

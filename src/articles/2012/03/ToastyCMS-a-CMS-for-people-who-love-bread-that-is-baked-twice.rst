@@ -1,7 +1,7 @@
 ToastyCMS a CMS for people who love bread that is baked twice
 =============================================================
 
-by %s on March 28, 2012
+by icompuiz on March 28, 2012
 
 I have been building a CMS for personal use. I call it Toasty. It is a
 very simple tool with very basic features. It can be found at
@@ -31,6 +31,6 @@ Tell me what you think.
     :title: ToastyCMS a CMS for people who love bread that is baked twice
     :description: CakePHP Article related to ToastyCMS Content Management S,General Interest
     :keywords: ToastyCMS Content Management S,General Interest
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 icompuiz
     :category: general_interest
 

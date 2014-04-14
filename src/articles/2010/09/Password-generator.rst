@@ -1,7 +1,7 @@
 Password generator
 ==================
 
-by %s on September 22, 2010
+by deldan on September 22, 2010
 
 Is a simple component to generate passwords automatically.
 
@@ -83,6 +83,6 @@ Controller Class:
     :title: Password generator
     :description: CakePHP Article related to password,new password,password generator,Components
     :keywords: password,new password,password generator,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 deldan
     :category: components
 

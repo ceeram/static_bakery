@@ -1,7 +1,7 @@
 OrderedBehavior (2.1)
 =====================
 
-by %s on September 21, 2008
+by alkemann on September 21, 2008
 
 This behavior is intended for letting you order models like pages in a
 book in a the same way that the treebehavior works, with the
@@ -772,6 +772,6 @@ More
     :title: OrderedBehavior (2.1)
     :description: CakePHP Article related to behavior,sorting,ordered,alkemann,intabox,Behaviors
     :keywords: behavior,sorting,ordered,alkemann,intabox,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 alkemann
     :category: behaviors
 

@@ -1,7 +1,7 @@
 Simple Revisionable behavior with CakePHP 1.3
 =============================================
 
-by %s on December 06, 2011
+by analogrithems on December 06, 2011
 
 I've wanted to do revisioning in cake for some time. I've taken a look
 at others solution and it just seemed to complicated, required a
@@ -81,6 +81,6 @@ then the rest of the plugin will follow.
     :title: Simple Revisionable behavior with CakePHP 1.3
     :description: CakePHP Article related to behavior,plugins,Revisionable,Articles
     :keywords: behavior,plugins,Revisionable,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 analogrithems
     :category: articles
 

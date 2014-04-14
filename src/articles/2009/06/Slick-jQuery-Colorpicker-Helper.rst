@@ -1,7 +1,7 @@
 Slick jQuery Colorpicker Helper
 ===============================
 
-by %s on June 23, 2009
+by mpatek on June 23, 2009
 
 If you need a simple way to include a color-picker widget into your
 forms, look no further. This helper is the answer to all your prayers!
@@ -93,6 +93,6 @@ as the second parameter.
     :title: Slick jQuery Colorpicker Helper
     :description: CakePHP Article related to jquery,colorpicker,Helpers
     :keywords: jquery,colorpicker,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 mpatek
     :category: helpers
 

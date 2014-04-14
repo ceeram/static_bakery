@@ -1,7 +1,7 @@
 Pagination Element
 ==================
 
-by %s on October 09, 2006
+by AD7six on October 09, 2006
 
 The simple pagination element. For instruction on use see:
 http://bakery.cakephp.org/articles/view/65
@@ -34,6 +34,6 @@ http://bakery.cakephp.org/articles/view/65
     :title: Pagination Element
     :description: CakePHP Article related to ,Snippets
     :keywords: ,Snippets
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 AD7six
     :category: snippets
 

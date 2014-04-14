@@ -1,7 +1,7 @@
 Shells plugin
 =============
 
-by %s on February 03, 2007
+by reevesj on February 03, 2007
 
 If you have ever used some cheap web host that doesn't allow shell
 access, it has likely been a bit of a pain to do some tasks. As my
@@ -331,6 +331,6 @@ This should go in your webroot/css directory.
     :title: Shells plugin
     :description: CakePHP Article related to utility,administration,plugin,shell,Plugins
     :keywords: utility,administration,plugin,shell,Plugins
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 reevesj
     :category: plugins
 

@@ -1,7 +1,7 @@
 CakePHP Modular Admin And Structured Content - Cloggy
 =====================================================
 
-by %s on May 18, 2013
+by hrxone on May 18, 2013
 
 Cloggy is a plugin for CakePHP for website administration. With
 Cloggy,all administration activities will be separated by modules. In
@@ -48,6 +48,6 @@ Github: `Cloggy`_
     :title: CakePHP Modular Admin And Structured Content - Cloggy
     :description: CakePHP Article related to admin,node,cloggy,Plugins
     :keywords: admin,node,cloggy,Plugins
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 hrxone
     :category: plugins
 

@@ -1,7 +1,7 @@
 Get the find query SQL, rather than query result
 ================================================
 
-by %s on June 23, 2008
+by grant_cox on June 23, 2008
 
 There are times when you need custom SQL queries, but where much of
 this query could be handled by Cake - the prime example of this is
@@ -279,6 +279,6 @@ Model Class:
     :title: Get the find query SQL, rather than query result
     :description: CakePHP Article related to find query sql dbo,Snippets
     :keywords: find query sql dbo,Snippets
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 grant_cox
     :category: snippets
 

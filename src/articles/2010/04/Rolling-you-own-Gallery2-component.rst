@@ -1,7 +1,7 @@
 Rolling you own Gallery2 component
 ==================================
 
-by %s on April 19, 2010
+by Vangel on April 19, 2010
 
 update Jan 28 2010: This Article is deprecated and here for reference
 and historical purposes. It is still usable however as comments below
@@ -145,6 +145,6 @@ my blog `http://vangel.3ezy.com`_
     :title: Rolling you own Gallery2 component
     :description: CakePHP Article related to image,api,gallery,plugin,media,Components,Tutorials
     :keywords: image,api,gallery,plugin,media,Components,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 Vangel
     :category: tutorials
 

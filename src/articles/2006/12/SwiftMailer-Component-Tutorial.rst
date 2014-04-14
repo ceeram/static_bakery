@@ -1,7 +1,7 @@
 SwiftMailer Component Tutorial
 ==============================
 
-by %s on December 18, 2006
+by CraZyLeGs on December 18, 2006
 
 Based on Chris Corbyn's excellent Swift Mailer. This is a component
 that does encapsulate it but not hide it, while it adds some nifty
@@ -428,6 +428,6 @@ enhancements, typo corrections, bug reports are welcome.
     :title: SwiftMailer Component Tutorial
     :description: CakePHP Article related to Mail,sendmail,smtp,mailer,swift mailer,Tutorials
     :keywords: Mail,sendmail,smtp,mailer,swift mailer,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 CraZyLeGs
     :category: tutorials
 

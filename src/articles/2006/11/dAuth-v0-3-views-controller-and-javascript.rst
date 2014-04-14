@@ -1,7 +1,7 @@
 dAuth v0.3 views controller and javascript
 ==========================================
 
-by %s on November 15, 2006
+by Dieter_be on November 15, 2006
 
 the login, register, userinfo and change_password views; the
 usersController, and d_auth, sha1 javascripts for dAuth v0.3
@@ -532,6 +532,6 @@ more info about dAuth @ `http://bakery.cakephp.org/articles/view/147`_
     :title: dAuth v0.3 views controller and javascript
     :description: CakePHP Article related to authentication,Snippets
     :keywords: authentication,Snippets
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 Dieter_be
     :category: snippets
 

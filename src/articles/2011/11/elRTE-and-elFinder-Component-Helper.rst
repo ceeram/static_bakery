@@ -1,7 +1,7 @@
 elRTE and elFinder Component + Helper
 =====================================
 
-by %s on November 11, 2011
+by eliasfa on November 11, 2011
 
 Integrate elRTE and elFinder to cakephp 1.3 http://elrte.org/ - Text
 editor http://elrte.org/elfinder - File manager
@@ -189,6 +189,6 @@ In your views
     :title: elRTE and elFinder Component + Helper
     :description: CakePHP Article related to cakephp elRTE elFinder compone,Components
     :keywords: cakephp elRTE elFinder compone,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 eliasfa
     :category: components
 

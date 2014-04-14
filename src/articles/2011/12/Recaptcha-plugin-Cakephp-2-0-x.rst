@@ -1,7 +1,7 @@
 Recaptcha plugin - Cakephp 2.0.x
 ================================
 
-by %s on December 11, 2011
+by lamanabie on December 11, 2011
 
 Qucik and easy Recaptcha plugin for cakephp 2.0.x
 
@@ -17,6 +17,6 @@ rules to Model.
     :title: Recaptcha plugin - Cakephp 2.0.x
     :description: CakePHP Article related to plugin,recaptcha,cakephp2,Articles
     :keywords: plugin,recaptcha,cakephp2,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 lamanabie
     :category: articles
 

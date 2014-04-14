@@ -1,7 +1,7 @@
 Simple Math Question Captcha Component
 ======================================
 
-by %s on January 20, 2010
+by jnay on January 20, 2010
 
 I donâ€™t like CAPTCHAs. I donâ€™t know anyone who does.The downfalls
 of CAPTCHAs are many - hard to read, annoying, impossible for those
@@ -290,6 +290,6 @@ More
     :title: Simple Math Question Captcha Component
     :description: CakePHP Article related to forms,captcha,spam,spam protection,contact form,Tutorials
     :keywords: forms,captcha,spam,spam protection,contact form,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 jnay
     :category: tutorials
 

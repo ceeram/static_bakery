@@ -1,7 +1,7 @@
 Easy Email Address Encoder
 ==========================
 
-by %s on June 26, 2008
+by jeko on June 26, 2008
 
 While there are countless solutions to protecting email addresses from
 page scanners, here's an easy helper to add another line of defense.
@@ -117,6 +117,6 @@ Easy.
     :title: Easy Email Address Encoder
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 jeko
     :category: helpers
 

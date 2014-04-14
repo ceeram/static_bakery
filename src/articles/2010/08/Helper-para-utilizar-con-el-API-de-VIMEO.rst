@@ -1,7 +1,7 @@
 Helper para utilizar con el API de VIMEO
 ========================================
 
-by %s on August 14, 2010
+by cledyulate on August 14, 2010
 
 Este es el cÃ³digo correspondiente a un helper para poder obtener los
 valores del xml que vimeo permite obtener atravez de su API.
@@ -189,6 +189,6 @@ Muchas Gracias!
     :title: Helper para utilizar con el API de VIMEO
     :description: CakePHP Article related to helper xml,cledy,cledyulate,api helper,vimeo xml,vimeo api,Helpers
     :keywords: helper xml,cledy,cledyulate,api helper,vimeo xml,vimeo api,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 cledyulate
     :category: helpers
 

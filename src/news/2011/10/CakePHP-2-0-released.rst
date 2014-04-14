@@ -1,7 +1,7 @@
 CakePHP 2.0 released
 ====================
 
-by %s on October 16, 2011
+by lorenzo on October 16, 2011
 
 The CakePHP core team is very exited to announce a major jump in the
 version numbering. CakePHP 2.0 stable is out! we have put endless
@@ -162,6 +162,6 @@ Links
     :title: CakePHP 2.0 released
     :description: CakePHP Article related to ,News
     :keywords: ,News
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 lorenzo
     :category: news
 

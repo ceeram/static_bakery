@@ -1,7 +1,7 @@
 Authake 2.0: Redirect Error Solved
 ==================================
 
-by %s on November 19, 2011
+by mxkocak on November 19, 2011
 
 Did you see the Authake plugin? User & Group management? It's arrival
 to CakePHP 2.0? Plugin was running on Unix/Mac platforms but there
@@ -24,6 +24,6 @@ Authake plugin makes user and group managment just like plug&play.
     :title: Authake 2.0: Redirect Error Solved
     :description: CakePHP Article related to acl,user,group,plugin,authake,mtkocak,Plugins
     :keywords: acl,user,group,plugin,authake,mtkocak,Plugins
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 mxkocak
     :category: plugins
 

@@ -1,7 +1,7 @@
 reCAPTCHA plugin
 ================
 
-by %s on February 05, 2011
+by tbsmcd on February 05, 2011
 
 If you are victim for SPAM, then you'll want to deal easily.
 This reCAPTCHA plugin will help you in that case.
@@ -52,6 +52,6 @@ What does it do
     :title: reCAPTCHA plugin
     :description: CakePHP Article related to ,Plugins
     :keywords: ,Plugins
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 tbsmcd
     :category: plugins
 

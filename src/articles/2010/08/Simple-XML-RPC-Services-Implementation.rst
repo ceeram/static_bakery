@@ -1,7 +1,7 @@
 Simple XML-RPC Services Implementation
 ======================================
 
-by %s on August 23, 2010
+by jayesh on August 23, 2010
 
 Recently I was entrusted with a project which required me to setup a
 XML-RPC services server on an installation of CakePHP. I could not
@@ -202,6 +202,6 @@ Enjoy!
     :title: Simple XML-RPC Services Implementation
     :description: CakePHP Article related to xml,xmlrpc,web services,rpc,jj,Snippets
     :keywords: xml,xmlrpc,web services,rpc,jj,Snippets
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 jayesh
     :category: snippets
 

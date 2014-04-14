@@ -1,7 +1,7 @@
 GeoCouch Plugin - Storing Geocoded data in CouchDB
 ==================================================
 
-by %s on August 26, 2008
+by britg on August 26, 2008
 
 This plugin is for projects that require a local repository of
 geocoded data that is mined from google's geocoding service. For
@@ -102,6 +102,6 @@ Controller Class:
     :title: GeoCouch Plugin - Storing Geocoded data in CouchDB
     :description: CakePHP Article related to geocoding,couchdb,google geocode,Plugins
     :keywords: geocoding,couchdb,google geocode,Plugins
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 britg
     :category: plugins
 

@@ -1,7 +1,7 @@
 Tree Helper 1
 =============
 
-by %s on January 24, 2008
+by AD7six on January 24, 2008
 
 A helper to generate nested ULs OLs, DIVs or whatever from tree data.
 Works best with the TreeBehavior, but not a requirement.
@@ -603,6 +603,6 @@ inside the element:
     :title: Tree Helper 1
     :description: CakePHP Article related to mptt,mpt tree,Helpers
     :keywords: mptt,mpt tree,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 AD7six
     :category: helpers
 

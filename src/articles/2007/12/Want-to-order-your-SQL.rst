@@ -1,7 +1,7 @@
 Want to order your SQL
 ======================
 
-by %s on December 28, 2007
+by kemmotar on December 28, 2007
 
 If you don't like to have your sqls scattered around your code maybe
 this component is for you
@@ -190,6 +190,6 @@ at urbangolem dot com
     :title: Want to order your SQL
     :description: CakePHP Article related to sql,component,StoreProcedure,Components
     :keywords: sql,component,StoreProcedure,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 kemmotar
     :category: components
 

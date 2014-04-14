@@ -1,7 +1,7 @@
 Detect mobile devices with the WURFL API
 ========================================
 
-by %s on March 12, 2010
+by Pierre on March 12, 2010
 
 This component uses the WURFL API to detect any mobile or wireless
 device, and sets custom paths for your views and css, so you can
@@ -128,6 +128,6 @@ Your done! Now you can create a mobile version of your website.
     :title: Detect mobile devices with the WURFL API
     :description: CakePHP Article related to api,mobile,wireless device,wurfl,Components
     :keywords: api,mobile,wireless device,wurfl,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 Pierre
     :category: components
 

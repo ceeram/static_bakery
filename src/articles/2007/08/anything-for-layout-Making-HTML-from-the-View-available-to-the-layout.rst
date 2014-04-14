@@ -2,7 +2,7 @@ $anything_for_layout: Making HTML from the View available to the
 layout
 ======
 
-by %s on August 28, 2007
+by rtconner on August 28, 2007
 
 Did you ever have a side navigation that you wanted to change based
 upon changes in the view? Using this helper, you can write HTML and
@@ -127,6 +127,6 @@ Here is the complete Helper Code
     :title: $anything_for_layout: Making HTML from the View available to the layout
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 rtconner
     :category: helpers
 

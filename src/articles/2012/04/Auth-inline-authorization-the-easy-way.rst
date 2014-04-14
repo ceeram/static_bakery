@@ -1,7 +1,7 @@
 Auth – inline authorization the easy way
 ========================================
 
-by %s on April 07, 2012
+by euromark on April 07, 2012
 
 I wrote a wrapper class to make inline authorization easier. Often
 times you want to check on certain roles inside an action or view and
@@ -164,6 +164,6 @@ authorization-the-easy-way/`_
     :title: Auth – inline authorization the easy way
     :description: CakePHP Article related to authorization,Snippets
     :keywords: authorization,Snippets
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 euromark
     :category: snippets
 

@@ -1,7 +1,7 @@
 AdaWiki2, an easy to use wiki made in CakePHP
 =============================================
 
-by %s on August 27, 2011
+by adael on August 27, 2011
 
 Title says all
 
@@ -39,6 +39,6 @@ Source code
     :title: AdaWiki2, an easy to use wiki made in CakePHP
     :description: CakePHP Article related to wiki,Articles
     :keywords: wiki,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 adael
     :category: articles
 

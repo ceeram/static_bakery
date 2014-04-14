@@ -1,7 +1,7 @@
 Dynamic Css for CMS and More!
 =============================
 
-by %s on June 22, 2007
+by t73net on June 22, 2007
 
 Recently I was developing a cake app for a client who wanted to use
 the same system several times for a project and the same layout, but
@@ -894,6 +894,6 @@ More
     :title: Dynamic Css for CMS and More!
     :description: CakePHP Article related to CMS,Dynamic Css,Plugins
     :keywords: CMS,Dynamic Css,Plugins
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 t73net
     :category: plugins
 

@@ -1,7 +1,7 @@
 Complete bbcode helper with custom tags
 =======================================
 
-by %s on August 29, 2010
+by eugenioclrc on August 29, 2010
 
 Hi to everybody, this is a simple way of implement a bbcode parser,
 the parser its extended from a class written based on the worpress
@@ -774,6 +774,6 @@ I hope you enjoy it!, thanks for reading.
     :title: Complete bbcode helper with custom tags
     :description: CakePHP Article related to helper,BBCode,parser,forum,wordpress,shortcode,Helpers
     :keywords: helper,BBCode,parser,forum,wordpress,shortcode,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 eugenioclrc
     :category: helpers
 

@@ -1,7 +1,7 @@
 500 Errors With 1and1 Hosting/Apache 1.x
 ========================================
 
-by %s on September 20, 2007
+by tim_m on September 20, 2007
 
 When I uploaded a Cake-based site to a 1and1 shared hosting account, I
 got some mysterious 500 errors despite the site working perfectly on
@@ -98,6 +98,6 @@ Hope this saves someone days of frustration.
     :title: 500 Errors With 1and1 Hosting/Apache 1.x
     :description: CakePHP Article related to mod_rewrite,htaccess,error,Rewrite,apache,1and1,500,hosting,host,Tutorials
     :keywords: mod_rewrite,htaccess,error,Rewrite,apache,1and1,500,hosting,host,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 tim_m
     :category: tutorials
 

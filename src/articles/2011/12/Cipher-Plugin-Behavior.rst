@@ -1,7 +1,7 @@
 Cipher Plugin Behavior
 ======================
 
-by %s on December 29, 2011
+by jmillerdesign on December 29, 2011
 
 This plugin behavior handles encrypting and decrypting fields, to
 store information securely in the database. It uses either *mcrypt* or
@@ -64,6 +64,6 @@ Settings
     :title: Cipher Plugin Behavior
     :description: CakePHP Article related to security,plugin,behavior,cryptography,decryption,encryption,crypt,cipher,decrypt,encrypt,Plugins
     :keywords: security,plugin,behavior,cryptography,decryption,encryption,crypt,cipher,decrypt,encrypt,Plugins
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 jmillerdesign
     :category: plugins
 

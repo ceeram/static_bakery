@@ -1,7 +1,7 @@
 Filling a select tag
 ====================
 
-by %s on April 21, 2007
+by KiltOtter on April 21, 2007
 
 On my hunt for a simple explanation on how to do things in CakePHP, I
 found I was coming up with ingredients, but not getting any baking
@@ -36,6 +36,6 @@ In the view we use something like:
     :title: Filling a select tag
     :description: CakePHP Article related to select list,Tutorials
     :keywords: select list,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 KiltOtter
     :category: tutorials
 

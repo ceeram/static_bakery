@@ -1,7 +1,7 @@
 Array Structures, the Recursive Property and the Set Class
 ==========================================================
 
-by %s on May 08, 2011
+by DaveyM on May 08, 2011
 
 Even after using CakePHP for a little while, I found that I was still
 a bit confused by the structure of the arrays that are returned when
@@ -792,6 +792,6 @@ like nonsense, please leave a comment below!
     :title: Array Structures, the Recursive Property and the Set Class
     :description: CakePHP Article related to beginner,beginners,Tutorials
     :keywords: beginner,beginners,Tutorials
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 DaveyM
     :category: tutorials
 

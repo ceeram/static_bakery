@@ -1,7 +1,7 @@
 Pagination Recall
 =================
 
-by %s on February 04, 2008
+by mattc on February 04, 2008
 
 Does it drive you nuts when you edit an item on page 4 of a list, then
 when you save you're dropped back to page 1 with the list back in the
@@ -89,6 +89,6 @@ Component Class:
     :title: Pagination Recall
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 mattc
     :category: components
 

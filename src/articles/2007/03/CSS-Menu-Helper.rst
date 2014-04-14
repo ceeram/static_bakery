@@ -1,7 +1,7 @@
 CSS Menu Helper
 ===============
 
-by %s on March 16, 2007
+by reevesj on March 16, 2007
 
 This is a helper and CSS file for displaying a dropdown menu on your
 site.
@@ -273,6 +273,6 @@ Here is the CSS file, css_menu.css, to go in your webroot/css folder:
     :title: CSS Menu Helper
     :description: CakePHP Article related to menu,submenu,drop down,Helpers
     :keywords: menu,submenu,drop down,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 reevesj
     :category: helpers
 

@@ -1,7 +1,7 @@
 ZaakPay payment gateway component
 =================================
 
-by %s on May 20, 2012
+by kvijay on May 20, 2012
 
 This is another component that is get used for ZaakPay payment
 gateway.
@@ -532,6 +532,6 @@ Suggestions are welcome. Please contact me on kvijay@weboniselab.com
     :title: ZaakPay payment gateway component
     :description: CakePHP Article related to Components,payment gateway,zaakpay
     :keywords: Components,payment gateway,zaakpay
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 kvijay
     :category: components
 

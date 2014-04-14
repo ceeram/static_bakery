@@ -1,7 +1,7 @@
 Simple TimerHelper to measure rendering times
 =============================================
 
-by %s on April 12, 2008
+by eimermusic on April 12, 2008
 
 Working on a project that logs a lot of data I have found it useful to
 time the rendering-times of certain views, elements and other sections
@@ -76,6 +76,6 @@ Helper Class:
     :title: Simple TimerHelper to measure rendering times
     :description: CakePHP Article related to timer,profile,measure,bench,Helpers
     :keywords: timer,profile,measure,bench,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 eimermusic
     :category: helpers
 

@@ -1,7 +1,7 @@
 Release: CakePHP 1.2.4.8284
 ===========================
 
-by %s on August 03, 2009
+by gwoo on August 03, 2009
 
 The CakePHP development team is happy to announce the release of two
 new versions. Firstly, CakePHP 1.2.4[1] is a bug fix release of the
@@ -85,6 +85,6 @@ you a snippet right away.Â It takes less than a minute to sign up."
     :title: Release: CakePHP 1.2.4.8284
     :description: CakePHP Article related to release,News
     :keywords: release,News
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 gwoo
     :category: news
 

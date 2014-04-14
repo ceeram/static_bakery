@@ -1,7 +1,7 @@
 Sphinx Behavior
 ===============
 
-by %s on July 11, 2009
+by xumix on July 11, 2009
 
 This behavior helps to use Sphinx search engine in your projects.
 First, you need Sphinx `http://sphinxsearch.com/`_ installed and
@@ -237,6 +237,6 @@ Controller Class:
     :title: Sphinx Behavior
     :description: CakePHP Article related to sphinx,Behaviors
     :keywords: sphinx,Behaviors
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 xumix
     :category: behaviors
 

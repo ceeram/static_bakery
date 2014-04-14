@@ -1,7 +1,7 @@
 Scaffold on Bootstrap 3
 =======================
 
-by %s on February 19, 2014
+by xv1t on February 19, 2014
 
 My samples in the scaffold design using Bootstrap 3
 Nice Scaffolding for CakePHP `github.com/xv1t/cakephp-scaffold-
@@ -16,6 +16,6 @@ screenshots:`index`_, `view`_, `form`_
     :title: Scaffold on Bootstrap 3
     :description: CakePHP Article related to bootstrap,scaffold,General Interest
     :keywords: bootstrap,scaffold,General Interest
-    :copyright: Copyright 2014 
+    :copyright: Copyright 2014 xv1t
     :category: general_interest
 

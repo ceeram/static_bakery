@@ -1,7 +1,7 @@
 Release: Pure Cake Power in RC1
 ===============================
 
-by %s on June 04, 2008
+by gwoo on June 04, 2008
 
 We are very happy to announce the latest release of the best and most
 popular framework for web development. The release marks a great
@@ -88,6 +88,6 @@ Bake on.
     :title: Release: Pure Cake Power in RC1
     :description: CakePHP Article related to release,News
     :keywords: release,News
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 gwoo
     :category: news
 

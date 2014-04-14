@@ -1,7 +1,7 @@
 CakePHP product management 2.x
 ==============================
 
-by %s on March 12, 2013
+by widahead on March 12, 2013
 
 WidShop is a cahePHP based product management plugin where user can
 add/edit and manager offers.
@@ -30,6 +30,6 @@ in a single offer<br >
     :title: CakePHP product management 2.x
     :description: CakePHP Article related to CakePHP shopping cart,CakePHP product management,cakephp shopping module,cakephp shopping,cakephp shopping plugin,shop,cakephp shop,Articles
     :keywords: CakePHP shopping cart,CakePHP product management,cakephp shopping module,cakephp shopping,cakephp shopping plugin,shop,cakephp shop,Articles
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 widahead
     :category: articles
 

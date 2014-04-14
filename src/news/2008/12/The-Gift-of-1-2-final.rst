@@ -1,7 +1,7 @@
 The Gift of 1.2 final
 =====================
 
-by %s on December 25, 2008
+by gwoo on December 25, 2008
 
 History does not happen, it is made. Warning: this message is long and
 full of goodies.
@@ -274,6 +274,6 @@ fav/`_
     :title: The Gift of 1.2 final 
     :description: CakePHP Article related to release,spam comments,News
     :keywords: release,spam comments,News
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 gwoo
     :category: news
 

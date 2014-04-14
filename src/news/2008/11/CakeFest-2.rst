@@ -1,7 +1,7 @@
 CakeFest #2
 ===========
 
-by %s on November 04, 2008
+by mariano on November 04, 2008
 
 Only a few weeks before it starts, CakeFest Second Edition is shaping
 up to be the best CakePHP event. Attend the official CakePHP gathering
@@ -24,6 +24,6 @@ IT events due to its infrastructure and accessible costs.
     :title: CakeFest #2
     :description: CakePHP Article related to ,News
     :keywords: ,News
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 mariano
     :category: news
 

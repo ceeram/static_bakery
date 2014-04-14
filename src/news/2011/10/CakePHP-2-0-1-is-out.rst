@@ -1,7 +1,7 @@
 CakePHP 2.0.1 is out
 ====================
 
-by %s on October 31, 2011
+by lorenzo on October 31, 2011
 
 The first maintenance release of the 2.0 branch is out, learn what the
 changes are and start upgrading your applications now!
@@ -53,6 +53,6 @@ Links
     :title: CakePHP 2.0.1 is out
     :description: CakePHP Article related to ,News
     :keywords: ,News
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 lorenzo
     :category: news
 

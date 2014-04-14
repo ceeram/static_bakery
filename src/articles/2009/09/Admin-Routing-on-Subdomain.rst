@@ -1,7 +1,7 @@
 Admin Routing on Subdomain
 ==========================
 
-by %s on September 05, 2009
+by jonarne on September 05, 2009
 
 I've read several howtos on this topic, but never found a solution i
 liked. Until now.
@@ -51,6 +51,6 @@ results
     :title: Admin Routing on Subdomain
     :description: CakePHP Article related to admin subdomain,Tutorials
     :keywords: admin subdomain,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 jonarne
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Transaction behavior
 ====================
 
-by %s on December 19, 2010
+by Jippi on December 19, 2010
 
 A little behavior that enables you to use (nested) transactions in
 1.2+ with MySQL.
@@ -226,6 +226,6 @@ Model Class:
     :title: Transaction behavior
     :description: CakePHP Article related to actsas,transaction,behavior,rollback,unlock,transaction behavior,commit,lock,Behaviors
     :keywords: actsas,transaction,behavior,rollback,unlock,transaction behavior,commit,lock,Behaviors
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Jippi
     :category: behaviors
 

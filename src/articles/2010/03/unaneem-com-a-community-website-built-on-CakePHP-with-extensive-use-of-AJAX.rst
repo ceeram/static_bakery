@@ -2,7 +2,7 @@ unaneem.com : a community website built on CakePHP with extensive use
 of AJAX
 =======
 
-by %s on March 09, 2010
+by Kainchi on March 09, 2010
 
 [p]On April 2007 a friend and I started a project we named
 "[b]unaneem[/b]". The purpose of this project was to develop a
@@ -762,6 +762,6 @@ their contributions.
     :title: unaneem.com : a community website built on CakePHP with extensive use of AJAX 
     :description: CakePHP Article related to AJAX,CakePHP,unaneem,community website,Case Studies
     :keywords: AJAX,CakePHP,unaneem,community website,Case Studies
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 Kainchi
     :category: case_studies
 

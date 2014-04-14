@@ -1,7 +1,7 @@
 NumberFormating by locale-settings
 ==================================
 
-by %s on April 02, 2010
+by sassman on April 02, 2010
 
 loading data form database had no number formatting options for
 floating point fields. In detail i mean converting a float like 3.33
@@ -98,6 +98,6 @@ correct results.
     :title: NumberFormating by locale-settings
     :description: CakePHP Article related to behavior,in,numberformating,Behaviors
     :keywords: behavior,in,numberformating,Behaviors
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 sassman
     :category: behaviors
 

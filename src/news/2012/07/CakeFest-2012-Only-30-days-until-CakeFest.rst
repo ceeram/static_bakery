@@ -1,7 +1,7 @@
 CakeFest 2012 - Only 30 days until CakeFest!
 ============================================
 
-by %s on July 31, 2012
+by predominant on July 31, 2012
 
 With only 30 days remaining until CakeFest 2012, now is the best time
 to secure your tickets and book your travel!
@@ -48,6 +48,6 @@ Link: `Manchester Conference Centre`_
     :title: CakeFest 2012 - Only 30 days until CakeFest!
     :description: CakePHP Article related to news,conference,cakefest,News
     :keywords: news,conference,cakefest,News
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 predominant
     :category: news
 

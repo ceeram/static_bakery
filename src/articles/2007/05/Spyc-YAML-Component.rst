@@ -1,7 +1,7 @@
 Spyc YAML Component
 ===================
 
-by %s on May 10, 2007
+by c1sc0 on May 10, 2007
 
 Spyc is a simple YAML parsing class. If you don't know YAML, it's a
 sweet human-readable data serialization language. Think XML without
@@ -103,6 +103,6 @@ So, why would you want to wrap such a simple library in a component?
     :title: Spyc YAML Component
     :description: CakePHP Article related to component,spyc,yaml,Components
     :keywords: component,spyc,yaml,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 c1sc0
     :category: components
 

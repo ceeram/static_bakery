@@ -1,7 +1,7 @@
 Installing an Intrusion Detection System in your CakePHP application
 ====================================================================
 
-by %s on July 09, 2010
+by _cldrn on July 09, 2010
 
 How to install an Intrusion Detection System to protect your CakePHP
 application from hackers
@@ -260,6 +260,6 @@ application`_
     :title: Installing an Intrusion Detection System in your CakePHP application
     :description: CakePHP Article related to intrusion detection ,web security,phpids,Tutorials
     :keywords: intrusion detection ,web security,phpids,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 _cldrn
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Show and Hide Debug SQL
 =======================
 
-by %s on October 05, 2006
+by cgmartin on October 05, 2006
 
 Place an Element on your page or layout to toggle view of the SQL
 messages (DEBUG >= 2).
@@ -64,6 +64,6 @@ app/views/layouts/default.thtml :
     :title: Show and Hide Debug SQL
     :description: CakePHP Article related to Debugging,cakeSqlLog,Snippets
     :keywords: Debugging,cakeSqlLog,Snippets
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 cgmartin
     :category: snippets
 

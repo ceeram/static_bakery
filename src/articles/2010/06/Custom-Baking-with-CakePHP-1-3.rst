@@ -1,7 +1,7 @@
 Custom Baking with CakePHP 1.3
 ==============================
 
-by %s on June 02, 2010
+by rascoop on June 02, 2010
 
 Although I like CakePHP and Bake, I needed to change the basic baked
 screens and behaviors. This sent me to explore how to customize the
@@ -254,6 +254,6 @@ comments below.
     :title: Custom Baking with CakePHP 1.3
     :description: CakePHP Article related to bake cakephp,General Interest
     :keywords: bake cakephp,General Interest
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 rascoop
     :category: general_interest
 

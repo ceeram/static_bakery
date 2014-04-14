@@ -1,7 +1,7 @@
 Gravatar Helper
 ===============
 
-by %s on August 20, 2009
+by predominant on August 20, 2009
 
 From the Gravatar Website: A gravatar, or globally recognized avatar,
 is quite simply an avatar image that follows you from weblog to weblog
@@ -389,6 +389,6 @@ Goodies`_
     :title: Gravatar Helper
     :description: CakePHP Article related to image,blog,gravatar,icon,avatar,predominant,Helpers
     :keywords: image,blog,gravatar,icon,avatar,predominant,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 predominant
     :category: helpers
 

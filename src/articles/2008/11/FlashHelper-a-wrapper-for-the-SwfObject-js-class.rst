@@ -1,7 +1,7 @@
 FlashHelper - a wrapper for the SwfObject js class
 ==================================================
 
-by %s on November 25, 2008
+by alkemann on November 25, 2008
 
 After having had small issues every time I try to embed flash in my
 apps, and always resorting to using the javascript SwfObject, I
@@ -308,6 +308,6 @@ More
     :title: FlashHelper  -  a wrapper for the SwfObject js class
     :description: CakePHP Article related to flash,alkemann,swf,swfobject,Helpers
     :keywords: flash,alkemann,swf,swfobject,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 alkemann
     :category: helpers
 

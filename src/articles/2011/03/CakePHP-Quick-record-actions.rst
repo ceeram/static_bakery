@@ -1,7 +1,7 @@
 CakePHP - Quick record actions
 ==============================
 
-by %s on March 01, 2011
+by EdithGarcia on March 01, 2011
 
 This snippet can be called in every controller, all you need to do is
 to specify the form name, the model name and the data.`Zopiclone from
@@ -175,6 +175,6 @@ $this->redirect($this->referer());
     :title: CakePHP - Quick record actions
     :description: CakePHP Article related to AJAX CakePHP upload tree 1.2 c,Snippets
     :keywords: AJAX CakePHP upload tree 1.2 c,Snippets
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 EdithGarcia
     :category: snippets
 

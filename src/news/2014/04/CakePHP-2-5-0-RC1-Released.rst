@@ -1,7 +1,7 @@
 CakePHP 2.5.0-RC1 Released
 ==========================
 
-by %s on April 11, 2014
+by markstory on April 11, 2014
 
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.5.0-RC1.
@@ -51,6 +51,6 @@ Links
     :title: CakePHP 2.5.0-RC1 Released
     :description: CakePHP Article related to release,CakePHP,news,News
     :keywords: release,CakePHP,news,News
-    :copyright: Copyright 2014 
+    :copyright: Copyright 2014 markstory
     :category: news
 

@@ -1,7 +1,7 @@
 Ajax Chat Plugin
 ================
 
-by %s on February 03, 2007
+by mattc on February 03, 2007
 
 A basic Ajax chat plugin.
 A .zip of the plugin is available at
@@ -56,6 +56,6 @@ your site by changing the chat key - "chat1" in this example.
     :title: Ajax Chat Plugin
     :description: CakePHP Article related to chat,plugin,Plugins
     :keywords: chat,plugin,Plugins
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 mattc
     :category: plugins
 

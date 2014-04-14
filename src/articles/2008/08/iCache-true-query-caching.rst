@@ -1,7 +1,7 @@
 iCache - true query caching
 ===========================
 
-by %s on August 26, 2008
+by mikefloering on August 26, 2008
 
 So, you have an application. That application has a database. It also
 has a lot of users. Those users need a LOT of data from that database.
@@ -656,6 +656,6 @@ elements-and-views-with-caching`_
     :title: iCache - true query caching
     :description: CakePHP Article related to caching,query economy,mysql cache,query caching,dependent cache,censored cache,Components
     :keywords: caching,query economy,mysql cache,query caching,dependent cache,censored cache,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 mikefloering
     :category: components
 

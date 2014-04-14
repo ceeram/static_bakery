@@ -2,7 +2,7 @@ Success story: Using CakePHP at the Instituto Nacional de Educacion
 Tecnologica.
 ============
 
-by %s on February 18, 2010
+by romanmussi on February 18, 2010
 
 In this article we describe an experience of software development.
 CakePHP was critical to the projectâ€™s success. Here I emphasize what
@@ -200,6 +200,6 @@ RomÃ¡n Mussi, February 2010.
     :title: Success story: Using CakePHP at the Instituto Nacional de Educacion Tecnologica.
     :description: CakePHP Article related to CakePHP,development,Case Studies
     :keywords: CakePHP,development,Case Studies
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 romanmussi
     :category: case_studies
 

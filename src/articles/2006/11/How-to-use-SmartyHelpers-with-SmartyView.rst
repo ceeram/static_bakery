@@ -1,7 +1,7 @@
 How to use SmartyHelpers with SmartyView
 ========================================
 
-by %s on November 05, 2006
+by tclineks on November 05, 2006
 
 Direct SmartyView
 ([url]http://bakery.cakephp.org/articles/view/124[/url]) usage in Cake
@@ -127,6 +127,6 @@ Equivalent without Smarty: Straight php (thtml):
     :title: How to use SmartyHelpers with SmartyView
     :description: CakePHP Article related to smartyview,smarty,Helpers
     :keywords: smartyview,smarty,Helpers
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 tclineks
     :category: helpers
 

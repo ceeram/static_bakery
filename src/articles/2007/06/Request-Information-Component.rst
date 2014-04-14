@@ -1,7 +1,7 @@
 Request Information Component
 =============================
 
-by %s on June 07, 2007
+by SoCalCakeBaker on June 07, 2007
 
 Need more insight into how a controller structures a CakePHP request?
 This little component will log important information and variables for
@@ -72,6 +72,6 @@ Component Class:
     :title: Request Information Component
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 SoCalCakeBaker
     :category: components
 

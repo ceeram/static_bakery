@@ -1,7 +1,7 @@
 MenuHelper
 ==========
 
-by %s on February 04, 2009
+by alkemann on February 04, 2009
 
 A tool for building and rendering lists of links and elements. This
 helper will let you build up static and context sensitive links in
@@ -544,6 +544,6 @@ More
     :title: MenuHelper
     :description: CakePHP Article related to helper,list,menu,alkemann,ronnyvv,ul,Helpers
     :keywords: helper,list,menu,alkemann,ronnyvv,ul,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 alkemann
     :category: helpers
 

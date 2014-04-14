@@ -1,7 +1,7 @@
 LogableBehavior
 ===============
 
-by %s on October 21, 2008
+by alkemann on October 21, 2008
 
 This behavior is created to be a plug-and-play database changes log
 that will work out of the box as using the created and modified fields
@@ -660,6 +660,6 @@ More
     :title: LogableBehavior
     :description: CakePHP Article related to behavior,logging,logs,alkemann,Behaviors
     :keywords: behavior,logging,logs,alkemann,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 alkemann
     :category: behaviors
 

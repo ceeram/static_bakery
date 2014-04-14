@@ -1,7 +1,7 @@
 The CakePHP Blog Tutorial with SMARTY
 =====================================
 
-by %s on June 11, 2008
+by HyperCas on June 11, 2008
 
 The official cakePHP Blog tutorial converted to use smarty. I hope
 this would help people quickly setup smarty and have an example to
@@ -348,6 +348,6 @@ cakePHP, the ones who wrote the tutorials I referred to.
     :title: The CakePHP Blog Tutorial with SMARTY
     :description: CakePHP Article related to blog,smartyview,smarty,beginner,Tutorials
     :keywords: blog,smartyview,smarty,beginner,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 HyperCas
     :category: tutorials
 

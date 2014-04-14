@@ -1,7 +1,7 @@
 Ajax Chat Plugin (using jQuery)
 ===============================
 
-by %s on October 26, 2008
+by mattc on October 26, 2008
 
 This is an update to my old Ajax Chat Plugin
 ([url]http://bakery.cakephp.org/articles/view/ajax-chat-plugin[/url]).
@@ -96,6 +96,6 @@ View Template:
     :title: Ajax Chat Plugin (using jQuery)
     :description: CakePHP Article related to ,Plugins
     :keywords: ,Plugins
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 mattc
     :category: plugins
 

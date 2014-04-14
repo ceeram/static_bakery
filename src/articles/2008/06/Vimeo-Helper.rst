@@ -1,7 +1,7 @@
 Vimeo Helper
 ============
 
-by %s on June 15, 2008
+by jreeves on June 15, 2008
 
 Short and Simple helper to assist with embedding Vimeo.com videos in
 your CakePHP Projects.
@@ -67,6 +67,6 @@ passed via the second argument.
     :title: Vimeo Helper
     :description: CakePHP Article related to nice,best,good,Helpers
     :keywords: nice,best,good,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 jreeves
     :category: helpers
 

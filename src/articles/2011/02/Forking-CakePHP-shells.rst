@@ -1,7 +1,7 @@
 Forking CakePHP shells
 ======================
 
-by %s on February 21, 2011
+by webjay on February 21, 2011
 
 For `Gignal`_ I needed a way to have bots running in the background.
 Usually I would do something like `exec('command >& /dev/null &');`
@@ -30,6 +30,6 @@ $this->do_stuff($id);
     :title: Forking CakePHP shells
     :description: CakePHP Article related to fork,bot,Tutorials
     :keywords: fork,bot,Tutorials
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 webjay
     :category: tutorials
 

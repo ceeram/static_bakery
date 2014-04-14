@@ -1,7 +1,7 @@
 Color Helper with simple color scheme generation
 ================================================
 
-by %s on August 10, 2009
+by severeon on August 10, 2009
 
 So, after having to come up with a way to generate color schemes on
 the fly with only one input color I created this helper. With this
@@ -431,6 +431,6 @@ Helper Class:
     :title: Color Helper with simple color scheme generation
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 severeon
     :category: helpers
 

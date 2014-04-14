@@ -1,7 +1,7 @@
 Advanced Search
 ===============
 
-by %s on September 25, 2009
+by bmuller on September 25, 2009
 
 This project provides the easy ability to autogenerate a search form
 that allows a user to search not only on the fields of a given object,
@@ -79,6 +79,6 @@ You can also create a view to display results.
     :title: Advanced Search 
     :description: CakePHP Article related to search,Components
     :keywords: search,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 bmuller
     :category: components
 

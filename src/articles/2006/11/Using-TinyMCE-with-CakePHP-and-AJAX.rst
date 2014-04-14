@@ -1,7 +1,7 @@
 Using TinyMCE with CakePHP and AJAX
 ===================================
 
-by %s on November 08, 2006
+by TommyO on November 08, 2006
 
 jtreglos wrote an excellent article for integrating TinyMCE into your
 applications. This takes it one step further, making it possible to
@@ -145,6 +145,6 @@ challenge?
     :title: Using TinyMCE with CakePHP and AJAX
     :description: CakePHP Article related to WYSIWYG,TinyMCE,Tutorials
     :keywords: WYSIWYG,TinyMCE,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 TommyO
     :category: tutorials
 

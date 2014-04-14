@@ -1,7 +1,7 @@
 CakePHP 1.1.11.4064 thawed and redelivered better than before.
 ==============================================================
 
-by %s on December 04, 2006
+by PhpNut on December 04, 2006
 
 Well, its not often that you can take something out of the freezer and
 have it taste better than before, but that's what happened. We
@@ -49,6 +49,6 @@ Release notes[3] To download head over to CakeForge [4]
     :title: CakePHP 1.1.11.4064 thawed and redelivered better than before.
     :description: CakePHP Article related to release,News
     :keywords: release,News
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 PhpNut
     :category: news
 

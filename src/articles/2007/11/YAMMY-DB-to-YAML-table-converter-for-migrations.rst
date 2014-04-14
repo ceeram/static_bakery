@@ -1,7 +1,7 @@
 YAMMY!: DB to YAML table converter for migrations
 =================================================
 
-by %s on November 08, 2007
+by danfreak on November 08, 2007
 
 YAMMY! is the "missing puzzle piece" to the great migrations Shell
 coded by Joel Moss. YAMMY! provides a fast and convinient way to
@@ -781,6 +781,6 @@ Daniel Vecchiato
     :title: YAMMY!: DB to YAML table converter for migrations
     :description: CakePHP Article related to migrations,yaml,deployment,capistrano,yammy,Tutorials
     :keywords: migrations,yaml,deployment,capistrano,yammy,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 danfreak
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Smarty View for 1.2
 ===================
 
-by %s on January 14, 2008
+by icedcheese on January 14, 2008
 
 This expands on the Smarty View code from Version 1.1. While its only
 a beginning, I am hoping someone else will pick up from what we had in
@@ -299,6 +299,6 @@ wide)
     :title: Smarty View for 1.2
     :description: CakePHP Article related to smartyview,smarty,Template,Helpers
     :keywords: smartyview,smarty,Template,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 icedcheese
     :category: helpers
 

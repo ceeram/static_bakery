@@ -1,7 +1,7 @@
 ACL Behavior
 ============
 
-by %s on March 12, 2008
+by coeus on March 12, 2008
 
 This behavior is built off of the core Acl behavior. It fixes some
 issues with the core behavior and allows you to set a model as both an
@@ -218,6 +218,6 @@ Behavior Class
     :title: ACL Behavior
     :description: CakePHP Article related to behavior,aro,aco,Behaviors
     :keywords: behavior,aro,aco,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 coeus
     :category: behaviors
 

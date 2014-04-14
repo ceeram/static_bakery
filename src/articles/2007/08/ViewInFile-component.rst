@@ -1,7 +1,7 @@
 ViewInFile component
 ====================
 
-by %s on August 28, 2007
+by francky06l on August 28, 2007
 
 Sometimes in needed to output a view in a file. Most of the time for
 debugging, but also for some web service (xml) where you might need to
@@ -181,6 +181,6 @@ the branch). The redirection works also when it's an ajax request.
     :title: ViewInFile component
     :description: CakePHP Article related to views,Components
     :keywords: views,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 francky06l
     :category: components
 

@@ -1,7 +1,7 @@
 Disambiguate location information using Yahoo! Placemaker component
 ===================================================================
 
-by %s on March 17, 2010
+by prashant_patil on March 17, 2010
 
 This component uses Yahoo Placemaker service to disambiguate location
 information and return the best match with a geo marker. e.g. input:
@@ -586,6 +586,6 @@ e.g.
     :title: Disambiguate location information using Yahoo! Placemaker component
     :description: CakePHP Article related to component,location aware,yahoo placemaker,Components
     :keywords: component,location aware,yahoo placemaker,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 prashant_patil
     :category: components
 

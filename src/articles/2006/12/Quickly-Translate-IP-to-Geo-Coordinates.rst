@@ -1,7 +1,7 @@
 Quickly Translate IP to Geo Coordinates
 =======================================
 
-by %s on December 21, 2006
+by xeeton on December 21, 2006
 
 About six months ago I posted this on the snippets section of the
 CakePHP site. But, I felt this was more of a tutorial than a snippet
@@ -152,6 +152,6 @@ Now get started on your Google Maps mash-up...
     :title: Quickly Translate IP to Geo Coordinates
     :description: CakePHP Article related to geoip,iptolocation,Tutorials
     :keywords: geoip,iptolocation,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 xeeton
     :category: tutorials
 

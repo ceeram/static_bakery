@@ -1,7 +1,7 @@
 Model-based code insight and completion in NetBeans
 ===================================================
 
-by %s on January 21, 2009
+by SymenTimmermans on January 21, 2009
 
 As a lazy programmer I really like code completion and code insight.
 It's the only thing I do like about Visual Studio. It somehow knows
@@ -148,6 +148,6 @@ Symen Timmermans
     :title: Model-based code insight and completion in NetBeans
     :description: CakePHP Article related to ide,netbeans,code hinting,code completion,code insight,Tutorials
     :keywords: ide,netbeans,code hinting,code completion,code insight,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 SymenTimmermans
     :category: tutorials
 

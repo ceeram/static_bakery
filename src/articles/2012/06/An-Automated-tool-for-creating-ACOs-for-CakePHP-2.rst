@@ -1,7 +1,7 @@
 An Automated tool for creating ACOs for CakePHP 2
 =================================================
 
-by %s on June 11, 2012
+by csk157 on June 11, 2012
 
 There was a tool(code) for CakePHP 1.3 for creating ACOs automatically
 (http://book.cakephp.org/1.3/view/1549/An-Automated-tool-for-creating-
@@ -235,6 +235,6 @@ find it useful.
     :title: An Automated tool for creating ACOs for CakePHP 2
     :description: CakePHP Article related to acl,aco,tool,cakephp2,creating acos,automated,Code
     :keywords: acl,aco,tool,cakephp2,creating acos,automated,Code
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 csk157
     :category: code
 

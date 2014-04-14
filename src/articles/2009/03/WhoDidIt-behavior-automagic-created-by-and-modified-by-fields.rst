@@ -1,7 +1,7 @@
 WhoDidIt behavior: automagic created_by and modified_by fields
 ==============================================================
 
-by %s on March 01, 2009
+by danfreak on March 01, 2009
 
 WhoDidIt behavior is useful for tracking who has created and modified
 records: automagically!
@@ -130,6 +130,6 @@ help!
     :title: WhoDidIt behavior: automagic created_by and modified_by fields
     :description: CakePHP Article related to behavior,createdby,modifiedby,automagic,Behaviors
     :keywords: behavior,createdby,modifiedby,automagic,Behaviors
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 danfreak
     :category: behaviors
 

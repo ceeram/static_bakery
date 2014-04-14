@@ -1,7 +1,7 @@
 Prototip Helper
 ===============
 
-by %s on June 25, 2008
+by andy on June 25, 2008
 
 This is a helper for people using prototip. Prototip is available
 here: http://www.nickstakenburg.com/projects/prototip/files/prototip1.
@@ -179,6 +179,6 @@ Loosey goosey scripting languages indeed.
     :title: Prototip Helper
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 andy
     :category: helpers
 

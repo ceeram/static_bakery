@@ -1,7 +1,7 @@
 TinyAuth ACL - fast and easy
 ============================
 
-by %s on December 31, 2011
+by euromark on December 31, 2011
 
 For most simple applications with some user frontend and maybe some
 admin backend the core ACL is way too much overhead in most cases. You
@@ -74,6 +74,6 @@ year.
     :title: TinyAuth ACL - fast and easy
     :description: CakePHP Article related to Auth,authentication,Tutorials
     :keywords: Auth,authentication,Tutorials
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 euromark
     :category: tutorials
 

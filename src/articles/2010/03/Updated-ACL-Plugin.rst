@@ -1,7 +1,7 @@
 Updated ACL Plugin
 ==================
 
-by %s on March 02, 2010
+by interlock on March 02, 2010
 
 An updated ACL Plugin for 1.3. Allows creation/editing/removing of
 ACO, ARO and CRUD.
@@ -36,6 +36,6 @@ New Features/changes include:
     :title: Updated ACL Plugin
     :description: CakePHP Article related to acl,plugin,github,crud,git,Plugins
     :keywords: acl,plugin,github,crud,git,Plugins
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 interlock
     :category: plugins
 

@@ -1,7 +1,7 @@
 Dynamic GridHelper Using Cakephp
 ================================
 
-by %s on December 28, 2009
+by rws123 on December 28, 2009
 
 In this post I will describe how to integrate dynamic grid helper with
 CakePHP application. In every project, we need to develop tabular data
@@ -1037,6 +1037,6 @@ For me its: `http://www.mydomain.com/admin/users/usermanagement`_
     :title: Dynamic GridHelper Using Cakephp 
     :description: CakePHP Article related to gridview cakephp,gridhelper cakephp,grid cakephp,dynamic grid cakephp,grid in cakephp,data grid cakephp,Helpers
     :keywords: gridview cakephp,gridhelper cakephp,grid cakephp,dynamic grid cakephp,grid in cakephp,data grid cakephp,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 rws123
     :category: helpers
 

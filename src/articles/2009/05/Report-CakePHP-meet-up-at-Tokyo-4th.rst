@@ -1,7 +1,7 @@
 Report: CakePHP meet-up at Tokyo 4th
 ====================================
 
-by %s on May 24, 2009
+by yandod on May 24, 2009
 
 We had a CakePHP meet-up in tokyo. It was really exciting night.
 Special CakePHP pancake came on party! This article includes the
@@ -53,6 +53,6 @@ Lightning talks
     :title: Report: CakePHP meet-up at Tokyo 4th
     :description: CakePHP Article related to japan,events,General Interest
     :keywords: japan,events,General Interest
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 yandod
     :category: general_interest
 

@@ -1,7 +1,7 @@
 Google Weather API Datasource
 =============================
 
-by %s on November 28, 2010
+by anachronist on November 28, 2010
 
 This Datasource delivers the weather forecast based on zip and country
 using the google weather api
@@ -74,6 +74,6 @@ PHP Snippet:
     :title: Google Weather API Datasource
     :description: CakePHP Article related to Datasource weather,Models
     :keywords: Datasource weather,Models
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 anachronist
     :category: models
 

@@ -1,7 +1,7 @@
 Marinas and Yacht Sales Web Site
 ================================
 
-by %s on April 15, 2008
+by neilc on April 15, 2008
 
 The site is for a company that manages 7 marinas along the south coast
 of England and also sells yachts.
@@ -136,6 +136,6 @@ access control and authentication, with relative ease.
     :title: Marinas and Yacht Sales Web Site
     :description: CakePHP Article related to ,Case Studies
     :keywords: ,Case Studies
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 neilc
     :category: case_studies
 

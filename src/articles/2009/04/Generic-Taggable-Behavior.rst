@@ -1,7 +1,7 @@
 Generic Taggable Behavior
 =========================
 
-by %s on April 23, 2009
+by malte on April 23, 2009
 
 A solution for application wide tagging support. After a short setup
 you will be able to easily tag all models necessary for your
@@ -315,6 +315,6 @@ if (isset($div) && $div !== false) {
     :title: Generic Taggable Behavior
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 malte
     :category: tutorials
 

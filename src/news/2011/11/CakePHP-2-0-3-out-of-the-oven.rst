@@ -1,7 +1,7 @@
 CakePHP 2.0.3 out of the oven
 =============================
 
-by %s on November 14, 2011
+by lorenzo on November 14, 2011
 
 This new version of CakePHP brings improved stability to the 2.0
 branch, full compatibility with PHPUnit 3.6 and support for PHP 5.4
@@ -69,6 +69,6 @@ Links
     :title: CakePHP 2.0.3 out of the oven
     :description: CakePHP Article related to ,News
     :keywords: ,News
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 lorenzo
     :category: news
 

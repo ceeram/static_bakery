@@ -1,7 +1,7 @@
 Custom error handing for plugins
 ================================
 
-by %s on January 13, 2009
+by filippo.toso on January 13, 2009
 
 If you like to develop reusable plugins, maybe you want to create some
 custom error messages using the cakeError() method. Here is a simple
@@ -71,6 +71,6 @@ That's all! You can create your own views in
     :title: Custom error handing for plugins
     :description: CakePHP Article related to plugin,error handing,Snippets
     :keywords: plugin,error handing,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 filippo.toso
     :category: snippets
 

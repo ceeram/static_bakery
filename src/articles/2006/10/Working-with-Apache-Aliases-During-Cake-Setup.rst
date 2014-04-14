@@ -1,7 +1,7 @@
 Working with Apache Aliases During Cake Setup
 =============================================
 
-by %s on October 18, 2006
+by ChopFoo on October 18, 2006
 
 In trying to bring up an installation on our development server I ran
 into a few problems with missing CSS, JS, and Images thanks to
@@ -58,6 +58,6 @@ salt - but it worked for me.
     :title: Working with Apache Aliases During Cake Setup
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 ChopFoo
     :category: tutorials
 

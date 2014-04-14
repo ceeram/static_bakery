@@ -1,7 +1,7 @@
 Ability to select and upload multiple files at once - under 5 mins.
 ===================================================================
 
-by %s on February 15, 2009
+by crux on February 15, 2009
 
 You will learn how to implement advanced uploading in your application
 the Cake way.
@@ -482,6 +482,6 @@ References
     :title: Ability to select and upload multiple files at once - under 5 mins.
     :description: CakePHP Article related to swfupload,uploader,yui,file upload,Tutorials
     :keywords: swfupload,uploader,yui,file upload,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 crux
     :category: tutorials
 

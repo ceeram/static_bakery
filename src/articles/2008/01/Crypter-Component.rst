@@ -1,7 +1,7 @@
 Crypter Component
 =================
 
-by %s on January 15, 2008
+by Thades on January 15, 2008
 
 I never could get MySQL's encryption routines to work properly for me
 so, I created this component to help me out. This is based on the fact
@@ -124,6 +124,6 @@ information
     :title: Crypter Component
     :description: CakePHP Article related to cryptography,decryption,encryption,mcrypt,Components
     :keywords: cryptography,decryption,encryption,mcrypt,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Thades
     :category: components
 

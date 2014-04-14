@@ -1,7 +1,7 @@
 jQuery image upload & crop
 ==========================
 
-by %s on August 25, 2010
+by klagoggle.myopenid.com on August 25, 2010
 
 I was searching for a nice script with that i can upload and crop
 images. I found a nice one @ [url]http://www.webmotionuk.co.uk/php-
@@ -359,6 +359,6 @@ Big thanks to `http://www.webmotionuk.co.uk`_ for your great article!
     :title: jQuery image upload & crop
     :description: CakePHP Article related to image,thumbnail,jquery,upload,crop,manuplation,Snippets
     :keywords: image,thumbnail,jquery,upload,crop,manuplation,Snippets
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 klagoggle.myopenid.com
     :category: snippets
 

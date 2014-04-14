@@ -1,7 +1,7 @@
 DarkAuth v1.3 - an alternative Auth
 ===================================
 
-by %s on June 11, 2008
+by theChrisWalker on June 11, 2008
 
 An update to the original DarkAuth component
 (http://bakery.cakephp.org/articles/view/darkauth-another-way), with
@@ -770,6 +770,6 @@ More
     :title: DarkAuth v1.3 - an alternative Auth
     :description: CakePHP Article related to authentication,obAuth,access control,role based,roles,superuser,Components
     :keywords: authentication,obAuth,access control,role based,roles,superuser,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 theChrisWalker
     :category: components
 

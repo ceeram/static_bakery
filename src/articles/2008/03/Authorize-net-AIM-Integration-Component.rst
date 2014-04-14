@@ -1,7 +1,7 @@
 Authorize.net AIM Integration Component
 =======================================
 
-by %s on March 12, 2008
+by gstoner on March 12, 2008
 
 A simple component meant to abstract payment processing for
 Authorize.net's AIM card processing method.
@@ -383,6 +383,6 @@ GS
     :title: Authorize.net AIM Integration Component
     :description: CakePHP Article related to authorize.net,merchant gateway,payment processing,ecommerce,Components
     :keywords: authorize.net,merchant gateway,payment processing,ecommerce,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 gstoner
     :category: components
 

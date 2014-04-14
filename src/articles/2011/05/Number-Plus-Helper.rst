@@ -1,7 +1,7 @@
 Number Plus Helper
 ==================
 
-by %s on May 12, 2011
+by xsaint on May 12, 2011
 
 A helper that extends the Number Helper for more readability of large
 numbers.
@@ -39,6 +39,6 @@ setting a precision decimal value as well making 7500 look like 7.5K.
     :title: Number Plus Helper
     :description: CakePHP Article related to helper,helpers,number,Helpers
     :keywords: helper,helpers,number,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 xsaint
     :category: helpers
 

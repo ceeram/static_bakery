@@ -1,7 +1,7 @@
 Excel xls helper
 ================
 
-by %s on April 12, 2007
+by wasenbr on April 12, 2007
 
 Helper to creation of simple xls files.
 This the helper code:
@@ -118,6 +118,6 @@ View Template:
     :title: Excel xls helper
     :description: CakePHP Article related to xls,excel,Helpers
     :keywords: xls,excel,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 wasenbr
     :category: helpers
 

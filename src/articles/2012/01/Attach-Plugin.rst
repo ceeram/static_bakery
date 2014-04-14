@@ -1,7 +1,7 @@
 Attach Plugin
 =============
 
-by %s on January 27, 2012
+by krolow on January 27, 2012
 
 Attach Plugin, is easy upload in CakePHP 2.
 For several projects I have used the MeioUpload plugin and he was
@@ -189,6 +189,6 @@ at the plugin at github: `https://github.com/krolow/Attach`_
     :title: Attach Plugin
     :description: CakePHP Article related to image,thumb,plugin,upload,resize,attach,attachment,cakephp2,imagine,Plugins
     :keywords: image,thumb,plugin,upload,resize,attach,attachment,cakephp2,imagine,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 krolow
     :category: plugins
 

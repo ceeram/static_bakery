@@ -1,7 +1,7 @@
 Test
 ====
 
-by %s on September 13, 2008
+by AD7six on September 13, 2008
 
 asdfasfd asd sadf sadf asdf
 asdf a
@@ -14,6 +14,6 @@ sadf sad sf
     :title: Test
     :description: CakePHP Article related to ,Behaviors
     :keywords: ,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 AD7six
     :category: behaviors
 

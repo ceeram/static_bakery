@@ -1,7 +1,7 @@
 Serving up actions as AJAX with jQuery in a few simple steps
 ============================================================
 
-by %s on July 08, 2009
+by ProLoser on July 08, 2009
 
 How to quickly setup AJAX to call Cake actions using jQuery. (For the
 people who keep wondering when there will be a jQuery helper)
@@ -126,6 +126,6 @@ should probably put it in the layout.
     :title: Serving up actions as AJAX with jQuery in a few simple steps
     :description: CakePHP Article related to AJAX,dhtml,jquery,ajax helper,Tutorials
     :keywords: AJAX,dhtml,jquery,ajax helper,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 ProLoser
     :category: tutorials
 

@@ -1,7 +1,7 @@
 YAGMH - Yet another Google Map Helper
 =====================================
 
-by %s on June 25, 2010
+by -Ste- on June 25, 2010
 
 This is just an update of the google map helper by Mahmoud Lababidi
 (based on an older helper by gwoo). Some tweaks to let it work inside
@@ -371,6 +371,6 @@ app`_
     :title: YAGMH - Yet another Google Map Helper
     :description: CakePHP Article related to helpers,Google Maps,geocoding,Helpers
     :keywords: helpers,Google Maps,geocoding,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 -Ste-
     :category: helpers
 

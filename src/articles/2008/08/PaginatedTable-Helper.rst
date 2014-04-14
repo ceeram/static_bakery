@@ -1,7 +1,7 @@
 PaginatedTable Helper
 =====================
 
-by %s on August 26, 2008
+by linnk on August 26, 2008
 
 The PaginatedTable helper makes it easy to show your users what column
 is being sorted and the current sort direction. The outputted mark-up
@@ -123,6 +123,6 @@ I know, it's simple, but maybe someone will find it useful :)
     :title: PaginatedTable Helper
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 linnk
     :category: helpers
 

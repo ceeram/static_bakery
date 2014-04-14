@@ -1,7 +1,7 @@
 Wizard Component Tutorial
 =========================
 
-by %s on October 04, 2007
+by jaredhoyt on October 04, 2007
 
 A tutorial on using my Wizard Component which automates several
 aspects of multi-page forms including data persistence, form
@@ -117,6 +117,6 @@ called and the user is redirected to the $receiptAction.
     :title: Wizard Component Tutorial
     :description: CakePHP Article related to tutorial,component,Wizard,Tutorials
     :keywords: tutorial,component,Wizard,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 jaredhoyt
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Attempt Component
 =================
 
-by %s on July 06, 2011
+by cyberthom on July 06, 2011
 
 A simple component to protect sensitive actions from brute force
 attacks. Fork away on https://github.com/cyberthom/Attempt-Component
@@ -100,6 +100,6 @@ B0x1A7
     :title: Attempt Component
     :description: CakePHP Article related to brute,component,force,protection,Components
     :keywords: brute,component,force,protection,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 cyberthom
     :category: components
 

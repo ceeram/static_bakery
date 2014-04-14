@@ -1,7 +1,7 @@
 Skipjack Gateway Component
 ==========================
 
-by %s on April 08, 2010
+by jpablobr on April 08, 2010
 
 Cakephp component for connecting to Skipjack API and submit credit
 card orders.
@@ -454,6 +454,6 @@ socket/#line-111
     :title: Skipjack Gateway Component
     :description: CakePHP Article related to skipjack,gateway,Components
     :keywords: skipjack,gateway,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 jpablobr
     :category: components
 

@@ -1,7 +1,7 @@
 Attachments
 ===========
 
-by %s on January 27, 2009
+by davidpersson_ on January 27, 2009
 
 Even though there are already good solutions out there this project
 tries -as usual- to make things even a bit better and to provide a
@@ -348,6 +348,6 @@ filesystem and then attached to the record.
     :title: Attachments
     :description: CakePHP Article related to image,component,behavior,upload,attach,attachment,Behaviors
     :keywords: image,component,behavior,upload,attach,attachment,Behaviors
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 davidpersson_
     :category: behaviors
 

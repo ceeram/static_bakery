@@ -1,7 +1,7 @@
 Migrating a real-world application to CakePHP 1.2
 =================================================
 
-by %s on November 04, 2008
+by eimermusic on November 04, 2008
 
 [p] I thought I'd chronicle my work migrating my fist CakePHP
 application to CakePHP 1.2 (rc3 at the time of writing). The
@@ -910,6 +910,6 @@ updates.
     :title: Migrating a real-world application to CakePHP 1.2
     :description: CakePHP Article related to optimization,migration,Case Studies
     :keywords: optimization,migration,Case Studies
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 eimermusic
     :category: case_studies
 

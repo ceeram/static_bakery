@@ -1,7 +1,7 @@
 xStandard wysiwyg Helper
 ========================
 
-by %s on April 12, 2008
+by DaddyCool on April 12, 2008
 
 Based on the workaround made for fckEditor, I've made a little helper
 to render easily a wysiwyg editor that IS xHTML 1.1 compliant :) This
@@ -193,6 +193,6 @@ David
     :title: xStandard wysiwyg Helper
     :description: CakePHP Article related to WYSIWYG,editor,xhtml,Helpers
     :keywords: WYSIWYG,editor,xhtml,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 DaddyCool
     :category: helpers
 

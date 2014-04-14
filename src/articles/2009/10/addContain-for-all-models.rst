@@ -1,7 +1,7 @@
 addContain() for all models
 ===========================
 
-by %s on October 01, 2009
+by mashpie on October 01, 2009
 
 As of CakePHP 1.2 Behaviours came up and people started working with
 the "Containable" (see
@@ -87,6 +87,6 @@ models/`_
     :title: addContain() for all models
     :description: CakePHP Article related to model,appModel,containable,Snippets
     :keywords: model,appModel,containable,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 mashpie
     :category: snippets
 

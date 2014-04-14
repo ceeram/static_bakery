@@ -1,7 +1,7 @@
 BBCode Helper
 =============
 
-by %s on April 15, 2009
+by withoutnick on April 15, 2009
 
 A BBCode Helper for CakePHP 1.2.x.x
 
@@ -125,6 +125,6 @@ Helper Class:
     :title: BBCode Helper
     :description: CakePHP Article related to BBCode,Helpers
     :keywords: BBCode,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 withoutnick
     :category: helpers
 

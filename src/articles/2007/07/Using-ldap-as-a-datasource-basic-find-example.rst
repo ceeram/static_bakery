@@ -1,7 +1,7 @@
 Using ldap as a datasource: basic find example
 ==============================================
 
-by %s on July 26, 2007
+by euphrate_ylb on July 26, 2007
 
 This tutorial shows through a simple example how to perform a search
 query on a model using a [url=http://bakery.cakephp.org/articles/view
@@ -182,6 +182,6 @@ php@yahoo.fr`_
     :title: Using ldap as a datasource: basic find example
     :description: CakePHP Article related to ldap,Tutorials
     :keywords: ldap,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 euphrate_ylb
     :category: tutorials
 

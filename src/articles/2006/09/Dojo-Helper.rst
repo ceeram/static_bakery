@@ -1,7 +1,7 @@
 Dojo Helper
 ===========
 
-by %s on September 22, 2006
+by christian.trummer on September 22, 2006
 
 A Dojo Helper class for some Widgets but mainly for AJAX support like
 you know it from the AJAX Helper!
@@ -331,6 +331,6 @@ Helper Class:
     :title: Dojo Helper
     :description: CakePHP Article related to Dojo,helpers,Form widgets,Helpers
     :keywords: Dojo,helpers,Form widgets,Helpers
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 christian.trummer
     :category: helpers
 

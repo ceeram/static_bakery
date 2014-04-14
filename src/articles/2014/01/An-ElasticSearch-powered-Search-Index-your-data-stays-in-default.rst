@@ -1,7 +1,7 @@
 An ElasticSearch powered Search Index - your data stays in `default`
 ====================================================================
 
-by %s on January 11, 2014
+by zeroasterisk on January 11, 2014
 
 Use ElasticSearch for your searches, but keep your data in
 MySQL/Postgres (your default DB config). This behavior saves an
@@ -418,6 +418,6 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
     :title: An ElasticSearch powered Search Index - your data stays in `default`
     :description: CakePHP Article related to search elasticsearch index plu,Articles
     :keywords: search elasticsearch index plu,Articles
-    :copyright: Copyright 2014 
+    :copyright: Copyright 2014 zeroasterisk
     :category: articles
 

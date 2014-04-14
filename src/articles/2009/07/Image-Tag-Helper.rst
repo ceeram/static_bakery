@@ -1,7 +1,7 @@
 Image Tag Helper
 ================
 
-by %s on July 30, 2009
+by sethcardoza on July 30, 2009
 
 This helper will output an XHTML valid image tag. It will get the
 image dimensions (width and height), and add the attributes to the
@@ -75,6 +75,6 @@ Helper Class:
     :title: Image Tag Helper
     :description: CakePHP Article related to front end optimizati,image size,image helper,Helpers
     :keywords: front end optimizati,image size,image helper,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 sethcardoza
     :category: helpers
 

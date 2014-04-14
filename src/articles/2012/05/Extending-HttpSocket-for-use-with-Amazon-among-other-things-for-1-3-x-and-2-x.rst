@@ -2,7 +2,7 @@ Extending HttpSocket for use with Amazon among other things for 1.3.x
 and 2.x
 =======
 
-by %s on May 18, 2012
+by Ratty on May 18, 2012
 
 When trying to use the Amazon API, I read a lot about the Amazon rule
 of only being allowed to make 1 request a second or your web site
@@ -294,6 +294,6 @@ requests.
     :title: Extending HttpSocket for use with Amazon among other things for 1.3.x and 2.x
     :description: CakePHP Article related to cache,httpsocket,amazon,Socket,Code
     :keywords: cache,httpsocket,amazon,Socket,Code
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 Ratty
     :category: code
 

@@ -1,7 +1,7 @@
 Minify and Gzip plugin for your Javascript
 ==========================================
 
-by %s on October 15, 2010
+by connrs on October 15, 2010
 
 Hi, I wanted to share a solution to a problem I had with excessive
 javascript file size in some of my more ambitious projects. I may be
@@ -144,6 +144,6 @@ easily between the two.
     :title: Minify and Gzip plugin for your Javascript
     :description: CakePHP Article related to javascript,js,plugin,Compression,JSMin,compress,gz,Articles
     :keywords: javascript,js,plugin,Compression,JSMin,compress,gz,Articles
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 connrs
     :category: articles
 

@@ -1,7 +1,7 @@
 Set up IDE for CakePHP
 ======================
 
-by %s on August 29, 2010
+by mytnik on August 29, 2010
 
 This tutorial is about how to set up IDE to provide the best help in
 CakePHP developing.
@@ -76,6 +76,6 @@ way of CakePHP developing.
     :title: Set up IDE for CakePHP
     :description: CakePHP Article related to configuration,ide,code,proposals,Tutorials
     :keywords: configuration,ide,code,proposals,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 mytnik
     :category: tutorials
 

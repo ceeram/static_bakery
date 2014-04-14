@@ -1,7 +1,7 @@
 CakePHP 2.2.0-RC2
 =================
 
-by %s on June 20, 2012
+by lorenzo on June 20, 2012
 
 The CakePHP team is proud to announce the immediate availability of
 CakePHP 2.2.0-RC2, the final Release Candidate for this branch.
@@ -105,6 +105,6 @@ Links
     :title: CakePHP 2.2.0-RC2
     :description: CakePHP Article related to ,News
     :keywords: ,News
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 lorenzo
     :category: news
 

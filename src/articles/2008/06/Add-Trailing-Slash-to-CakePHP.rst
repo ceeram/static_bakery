@@ -1,7 +1,7 @@
 Add Trailing Slash to CakePHP
 =============================
 
-by %s on June 17, 2008
+by grabanski on June 17, 2008
 
 How to add a trailing slash to URLs in CakePHP using .htaccess and app
 helper.
@@ -58,6 +58,6 @@ however if you want to this is how I made it work.
     :title: Add Trailing Slash to CakePHP
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 grabanski
     :category: helpers
 

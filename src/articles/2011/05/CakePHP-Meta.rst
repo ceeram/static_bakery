@@ -1,7 +1,7 @@
 CakePHP Meta
 ============
 
-by %s on May 07, 2011
+by opelin on May 07, 2011
 
 This is placed at the top of the individual pages in the
 'app/views/pages' folder. Insert 'Part 2' between the title tags on
@@ -130,6 +130,6 @@ $html->meta('keywords', 'key1, key2, key3', array('type' =>
     :title: CakePHP Meta
     :description: CakePHP Article related to javascript,google,acl,pagination,WYSIWYG,image,model,AJAX,user,Auth,helper,flash,security,helpers,tree,Rss,login,search,database,configuration,session,release,CakePHP,editor,api,email,authentication,xml,news,validation,password,component,mysql,thumbnail,multiple,captcha,data,jquery,HABTM,plugin,behavior,shell,upload,form,resize,datasource,cache,windows,alkemann,Articles
     :keywords: javascript,google,acl,pagination,WYSIWYG,image,model,AJAX,user,Auth,helper,flash,security,helpers,tree,Rss,login,search,database,configuration,session,release,CakePHP,editor,api,email,authentication,xml,news,validation,password,component,mysql,thumbnail,multiple,captcha,data,jquery,HABTM,plugin,behavior,shell,upload,form,resize,datasource,cache,windows,alkemann,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 opelin
     :category: articles
 

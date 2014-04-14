@@ -1,7 +1,7 @@
 SimpleResults Behavior - Re-index results from findAll()
 ========================================================
 
-by %s on May 15, 2007
+by grigri on May 15, 2007
 
 When returning rows from a Model::findAll() call, the result array is
 indexed in a certain way. This behavior allows models to return their
@@ -209,6 +209,6 @@ Behavior Class:
     :title: SimpleResults Behavior - Re-index results from findAll()
     :description: CakePHP Article related to hasMany,behavior,1.2,findAll,association,Behaviors
     :keywords: hasMany,behavior,1.2,findAll,association,Behaviors
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 grigri
     :category: behaviors
 

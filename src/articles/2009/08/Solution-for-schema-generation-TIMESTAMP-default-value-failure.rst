@@ -1,7 +1,7 @@
 Solution for schema generation TIMESTAMP default value failure
 ==============================================================
 
-by %s on August 16, 2009
+by shulga on August 16, 2009
 
 There are several tickets (#6225, #6205, #5766) as well as relatively
 significant number of posts on the Internet devoted to the improper
@@ -100,6 +100,6 @@ soon (I hope).
     :title: Solution for schema generation TIMESTAMP default value failure
     :description: CakePHP Article related to CakePHP,generate,schema,currenttimestamp,timestamp,solution,General Interest
     :keywords: CakePHP,generate,schema,currenttimestamp,timestamp,solution,General Interest
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 shulga
     :category: general_interest
 

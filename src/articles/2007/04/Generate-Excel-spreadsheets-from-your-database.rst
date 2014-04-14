@@ -1,7 +1,7 @@
 Generate Excel spreadsheets from your database
 ==============================================
 
-by %s on April 05, 2007
+by janb on April 05, 2007
 
 With CakePHP you can easily create views from database models. At
 times, however, you need to output your database model as a
@@ -386,6 +386,6 @@ sent" error.
     :title: Generate Excel spreadsheets from your database
     :description: CakePHP Article related to helpers,excel,Tutorials
     :keywords: helpers,excel,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 janb
     :category: tutorials
 

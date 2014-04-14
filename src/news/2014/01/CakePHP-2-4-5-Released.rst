@@ -1,7 +1,7 @@
 CakePHP 2.4.5 Released
 ======================
 
-by %s on January 26, 2014
+by markstory on January 26, 2014
 
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.4.5
@@ -48,6 +48,6 @@ Links
     :title: CakePHP 2.4.5 Released
     :description: CakePHP Article related to release,CakePHP,News
     :keywords: release,CakePHP,News
-    :copyright: Copyright 2014 
+    :copyright: Copyright 2014 markstory
     :category: news
 

@@ -1,7 +1,7 @@
 Alertpay automated sales via IPN
 ================================
 
-by %s on August 31, 2010
+by in-sanity on August 31, 2010
 
 I'm going to show you how I implemented a payment module via the
 Alertpay payment processor.
@@ -241,6 +241,6 @@ Happy baking.
     :title: Alertpay automated sales via IPN
     :description: CakePHP Article related to ipn,alertpay,payments,payment gateway,Tutorials
     :keywords: ipn,alertpay,payments,payment gateway,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 in-sanity
     :category: tutorials
 

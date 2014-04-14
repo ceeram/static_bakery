@@ -1,7 +1,7 @@
 Uuid Behavior
 =============
 
-by %s on June 22, 2007
+by Divagater on June 22, 2007
 
 I have a requirement to use UUID's as primary keys. I was initially
 using MySQL triggers to call uuid() on insert but in the end decided a
@@ -308,6 +308,6 @@ click it. You will see the results of the test in your browser.
     :title: Uuid Behavior
     :description: CakePHP Article related to UUID,behaviors,Behaviors
     :keywords: UUID,behaviors,Behaviors
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Divagater
     :category: behaviors
 

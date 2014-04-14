@@ -1,7 +1,7 @@
 SMS Text Component
 ==================
 
-by %s on March 12, 2008
+by Dougshiro on March 12, 2008
 
 Simple component for sending SMS text messages to mobile devices using
 the Clickatell API (They provide free test accounts).
@@ -207,6 +207,6 @@ our company.
     :title: SMS Text Component
     :description: CakePHP Article related to text,api,mobile,clickatell,sms,cell,interface,phone,Components
     :keywords: text,api,mobile,clickatell,sms,cell,interface,phone,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Dougshiro
     :category: components
 

@@ -1,7 +1,7 @@
 How we built Twittermail in 48 hours
 ====================================
 
-by %s on February 05, 2009
+by LennieZ on February 05, 2009
 
 We started Twittermail in june 2007, last week we launched our brand-
 new website Twittermail.com, this time we built it in CakePHP 1.2, in
@@ -222,6 +222,6 @@ Lennaert Ekelmans
     :title: How we built Twittermail in 48  hours
     :description: CakePHP Article related to twitter,case study,twittermail,Case Studies
     :keywords: twitter,case study,twittermail,Case Studies
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 LennieZ
     :category: case_studies
 

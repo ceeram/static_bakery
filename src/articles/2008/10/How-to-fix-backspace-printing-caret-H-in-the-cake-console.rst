@@ -1,7 +1,7 @@
 How to fix backspace printing caret-H in the cake console
 =========================================================
 
-by %s on October 22, 2008
+by perceptes on October 22, 2008
 
 If keys such as backspace and the arrow keys are printing control
 characters instead of doing what you expect, the solution is quite
@@ -23,6 +23,6 @@ made the keys behave correctly within the Cake console.
     :title: How to fix backspace printing caret-H in the cake console
     :description: CakePHP Article related to Console,backspace,control h,terminal,terminal type,General Interest
     :keywords: Console,backspace,control h,terminal,terminal type,General Interest
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 perceptes
     :category: general_interest
 

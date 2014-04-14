@@ -1,7 +1,7 @@
 Deploying CakePHP with Capistrano
 =================================
 
-by %s on April 22, 2010
+by j15e on April 22, 2010
 
 I was looking for a good deployment solution for my CakePHP apps and
 as nothing seems to fit perfectly, Capistrano does a very good job at
@@ -149,6 +149,6 @@ symlink to
     :title: Deploying CakePHP with Capistrano 
     :description: CakePHP Article related to capistrano,Tutorials
     :keywords: capistrano,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 j15e
     :category: tutorials
 

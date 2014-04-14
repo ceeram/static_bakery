@@ -1,7 +1,7 @@
 EmailComponent in a (cake) Shell
 ================================
 
-by %s on December 02, 2007
+by Jippi on December 02, 2007
 
 This little Shell Task will allow you to use the EmailComponent from
 your shell applications like you normally do from WWW.
@@ -211,6 +211,6 @@ mariano_iglesias for proofing :)
     :title: EmailComponent in a (cake) Shell
     :description: CakePHP Article related to shell,email component,cake console email t,Tutorials
     :keywords: shell,email component,cake console email t,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Jippi
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Minimalistic group-based access control in 5 mins.
 ==================================================
 
-by %s on September 10, 2009
+by rasmuspalm on September 10, 2009
 
 Having a hard time with the ACL? This is probably one of the most
 simple group based access solutions out there. No ACL tables, no tree
@@ -224,6 +224,6 @@ Cheers, Rasmus.
     :title: Minimalistic group-based access control in 5 mins.
     :description: CakePHP Article related to acl,user,Auth,security,users,login,groups,logout,group,authorize,authorization,Tutorials
     :keywords: acl,user,Auth,security,users,login,groups,logout,group,authorize,authorization,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 rasmuspalm
     :category: tutorials
 

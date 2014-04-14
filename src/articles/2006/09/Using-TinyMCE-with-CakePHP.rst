@@ -1,7 +1,7 @@
 Using TinyMCE with CakePHP
 ==========================
 
-by %s on September 23, 2006
+by jtreglos on September 23, 2006
 
 TinyMCE is a nice WYSIWYG web editor by Moxiecode, giving your users a
 very convenient way to edit HTML content. And guess what, its very
@@ -99,6 +99,6 @@ your site's styles.
     :title: Using TinyMCE with CakePHP
     :description: CakePHP Article related to WYSIWYG,fck editor,TinyMCE,Tutorials
     :keywords: WYSIWYG,fck editor,TinyMCE,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 jtreglos
     :category: tutorials
 

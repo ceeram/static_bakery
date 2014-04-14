@@ -1,7 +1,7 @@
 File upload restriction
 =======================
 
-by %s on October 12, 2010
+by santoshgroup on October 12, 2010
 
 I have written this component which provide number of features during
 file uploading. Following is the features of this component.
@@ -249,6 +249,6 @@ return $this->showError;
     :title: File upload restriction
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 santoshgroup
     :category: components
 

@@ -1,7 +1,7 @@
 MySchemaShell - step closer to DB structure synchronization
 ===========================================================
 
-by %s on May 12, 2009
+by GrzegorzPawlik on May 12, 2009
 
 I'm struggling with DB structure versions management. Recently I tried
 SchemaShell (cake schema), but found it quite inappropriate with the
@@ -383,6 +383,6 @@ More
     :title: MySchemaShell - step closer to DB structure synchronization
     :description: CakePHP Article related to db structure,schema,Plugins
     :keywords: db structure,schema,Plugins
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 GrzegorzPawlik
     :category: plugins
 

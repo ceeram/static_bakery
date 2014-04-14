@@ -1,7 +1,7 @@
 Comfortable AjaxUploads with CakePHP
 ====================================
 
-by %s on May 08, 2009
+by Warringer on May 08, 2009
 
 After looking for a way to upload files the AJAX way using prototype
 for quite some time, I have found a very good way to do just that,
@@ -309,6 +309,6 @@ preexisting list.
     :title: Comfortable AjaxUploads with CakePHP
     :description: CakePHP Article related to AJAX,file upload,Tutorials
     :keywords: AJAX,file upload,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Warringer
     :category: tutorials
 

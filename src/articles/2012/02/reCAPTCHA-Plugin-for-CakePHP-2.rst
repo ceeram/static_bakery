@@ -1,7 +1,7 @@
 reCAPTCHA Plugin for CakePHP 2
 ==============================
 
-by %s on February 15, 2012
+by Jahdrien on February 15, 2012
 
 I have updated and improved `tbsmcd's reCAPTCHA Plugin`_ for CakePHP2.
 `https://github.com/Jahdrien/ReCaptcha-Plugin`_
@@ -79,6 +79,6 @@ echo $this->Recaptcha->error();
     :title: reCAPTCHA Plugin for CakePHP 2
     :description: CakePHP Article related to plugin,recaptcha,cakephp 2.0.x,Plugins
     :keywords: plugin,recaptcha,cakephp 2.0.x,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 Jahdrien
     :category: plugins
 

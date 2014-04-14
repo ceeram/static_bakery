@@ -1,7 +1,7 @@
 Stack Behavior
 ==============
 
-by %s on July 29, 2008
+by stupergenius on July 29, 2008
 
 This model behavior allows the use of the familiar stack data
 structure in a CakePHP database environment. Supports push, pop, top,
@@ -277,6 +277,6 @@ And the fixture to go along with it:
     :title: Stack Behavior
     :description: CakePHP Article related to ,Behaviors
     :keywords: ,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 stupergenius
     :category: behaviors
 

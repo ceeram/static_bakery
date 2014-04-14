@@ -1,7 +1,7 @@
 Getting your paths right
 ========================
 
-by %s on October 16, 2006
+by ihari on October 16, 2006
 
 The CakePHP manual is quite clear about the fact that images, style
 sheets and javascript files should commonly be put into respectively
@@ -70,6 +70,6 @@ the sole webroot helper property.
     :title: Getting your paths right
     :description: CakePHP Article related to paths webroot,Tutorials
     :keywords: paths webroot,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 ihari
     :category: tutorials
 

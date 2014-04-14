@@ -1,7 +1,7 @@
 Automatic Javascript Includer Helper
 ====================================
 
-by %s on August 14, 2009
+by predominant on August 14, 2009
 
 A quick and easy auto-magic JavaScript includer.
 
@@ -168,6 +168,6 @@ encouraged.
     :title: Automatic Javascript Includer Helper
     :description: CakePHP Article related to javascript,helper,auto,automatic,automagic,predominant,Helpers
     :keywords: javascript,helper,auto,automatic,automagic,predominant,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 predominant
     :category: helpers
 

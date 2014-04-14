@@ -1,7 +1,7 @@
 Component for Payone-API Access
 ===============================
 
-by %s on September 02, 2010
+by mashpie on September 02, 2010
 
 Payone (http://www.payone.de/) is a german payment system with several
 product options and clearings. This Component started by implementing
@@ -167,6 +167,6 @@ component-for-payone-api-access`_ . Please check here for updates.
     :title: Component for Payone-API Access
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 mashpie
     :category: components
 

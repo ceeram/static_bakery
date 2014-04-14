@@ -1,7 +1,7 @@
 Using your application svn revision number
 ==========================================
 
-by %s on February 12, 2008
+by AD7six on February 12, 2008
 
 A little snippet to show how to find and use the svn revision number -
 to your advantage.
@@ -89,6 +89,6 @@ number your code is using comments are open :)
     :title: Using your application svn revision number
     :description: CakePHP Article related to ,Snippets
     :keywords: ,Snippets
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 AD7six
     :category: snippets
 

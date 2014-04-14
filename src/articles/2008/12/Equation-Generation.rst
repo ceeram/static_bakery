@@ -1,7 +1,7 @@
 Equation Generation
 ===================
 
-by %s on December 29, 2008
+by aidan on December 29, 2008
 
 A component to convert latex mathematical equations to PNG. The
 component provides a subset of cleaned-up, cake-ised code from the
@@ -241,6 +241,6 @@ Controller Class:
     :title: Equation Generation
     :description: CakePHP Article related to component,latex,equation,Components
     :keywords: component,latex,equation,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 aidan
     :category: components
 

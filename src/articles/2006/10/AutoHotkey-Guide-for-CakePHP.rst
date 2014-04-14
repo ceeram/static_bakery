@@ -1,7 +1,7 @@
 AutoHotkey Guide for CakePHP
 ============================
 
-by %s on October 03, 2006
+by Tr0y on October 03, 2006
 
 Tired of typing "class YourModelsController extends AppController..."
 over and over? If so this, is for you.
@@ -67,6 +67,6 @@ For controllers type ]ccon
     :title: AutoHotkey Guide for CakePHP
     :description: CakePHP Article related to code-generation,autohotkey,phpeclipse,automation,Tutorials
     :keywords: code-generation,autohotkey,phpeclipse,automation,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 Tr0y
     :category: tutorials
 

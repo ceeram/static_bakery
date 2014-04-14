@@ -1,7 +1,7 @@
 Soft Deletable Behavior
 =======================
 
-by %s on April 16, 2007
+by mariano on April 16, 2007
 
 This behavior lets you implement soft delete for your records in your
 models by introducing a flag to an existing table which indicates that
@@ -702,6 +702,6 @@ results of the test on your browser.
     :title: Soft Deletable Behavior
     :description: CakePHP Article related to actsas,behavior,Delete,soft,deletable,Behaviors
     :keywords: actsas,behavior,Delete,soft,deletable,Behaviors
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 mariano
     :category: behaviors
 

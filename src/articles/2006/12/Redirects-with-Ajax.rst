@@ -1,7 +1,7 @@
 Redirects with Ajax
 ===================
 
-by %s on December 17, 2006
+by sunertl on December 17, 2006
 
 Redirects with Ajax are not really simple to do. When you redirect
 within the same controller, you can use setAction() instead but what
@@ -48,6 +48,6 @@ already :-).
     :title: Redirects with Ajax
     :description: CakePHP Article related to redirect,Snippets
     :keywords: redirect,Snippets
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 sunertl
     :category: snippets
 

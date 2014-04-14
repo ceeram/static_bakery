@@ -1,7 +1,7 @@
 Doublelist Helper
 =================
 
-by %s on August 01, 2009
+by ToxicCrack on August 01, 2009
 
 I've nowhere found a doublelist helper for cakephp...
 You need to include prototype to use it!
@@ -216,6 +216,6 @@ Put this in your Javascript file:
     :title: Doublelist Helper
     :description: CakePHP Article related to javascript,select,linked list,double list,doublelist,Helpers
     :keywords: javascript,select,linked list,double list,doublelist,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 ToxicCrack
     :category: helpers
 

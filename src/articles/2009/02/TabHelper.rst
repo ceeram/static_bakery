@@ -1,7 +1,7 @@
 TabHelper
 =========
 
-by %s on February 18, 2009
+by Henrik on February 18, 2009
 
 Okay, in the Bakery there is a lot of MenuHelper's and TabHelper's
 which tries to produce a nice way to check the controller params etc
@@ -135,6 +135,6 @@ Helper Class:
     :title: TabHelper
     :description: CakePHP Article related to helper,menu,tabs,tab,peytz,henrik,Helpers
     :keywords: helper,menu,tabs,tab,peytz,henrik,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Henrik
     :category: helpers
 

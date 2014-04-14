@@ -1,7 +1,7 @@
 Mashape Cake Plugin - API Generation
 ====================================
 
-by %s on March 11, 2011
+by mashaper on March 11, 2011
 
 Mashape is the first Marketplace for APIs. With this plugin you will
 be able to add, in minutes, a new component to
@@ -28,6 +28,6 @@ apizize yourself!
     :title: Mashape Cake Plugin - API Generation
     :description: CakePHP Article related to api,component,plugin,apizize yourself,mashape,cloud service,mashape.com,Plugins
     :keywords: api,component,plugin,apizize yourself,mashape,cloud service,mashape.com,Plugins
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 mashaper
     :category: plugins
 

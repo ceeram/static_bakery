@@ -1,7 +1,7 @@
 Optimize URL Generator
 ======================
 
-by %s on July 05, 2011
+by luisarmando on July 05, 2011
 
 Each time there is a link in some view, the Router::url() method is
 called and the URL string is computed. The idea is to cache some URL
@@ -53,6 +53,6 @@ More in:
     :title: Optimize URL Generator
     :description: CakePHP Article related to ,Snippets
     :keywords: ,Snippets
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 luisarmando
     :category: snippets
 

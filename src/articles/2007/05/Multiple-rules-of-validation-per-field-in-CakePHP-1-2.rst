@@ -1,7 +1,7 @@
 Multiple rules of validation per field in CakePHP 1.2
 =====================================================
 
-by %s on May 16, 2007
+by mariano on May 16, 2007
 
 There are many great improvements coming with CakePHP 1.2. On this
 article we'll take a look at multiple rules of validation per field,
@@ -252,6 +252,6 @@ values (such as rule or allowEmpty.)
     :title: Multiple rules of validation per field in CakePHP 1.2
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 mariano
     :category: tutorials
 

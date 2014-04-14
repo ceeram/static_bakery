@@ -1,7 +1,7 @@
 CakePHP in a subdirectory and no trailing slash
 ===============================================
 
-by %s on November 02, 2006
+by curtis.summers on November 02, 2006
 
 Are you putting CakePHP in a subdirectory and experiencing problems
 with no trailing slash and 400 Bad Request errors?
@@ -59,6 +59,6 @@ From this blog post:
     :title: CakePHP in a subdirectory and no trailing slash
     :description: CakePHP Article related to installation,htaccess,trailing slash,subdirectory,Tutorials
     :keywords: installation,htaccess,trailing slash,subdirectory,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 curtis.summers
     :category: tutorials
 

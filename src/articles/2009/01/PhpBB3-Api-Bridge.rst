@@ -1,7 +1,7 @@
 PhpBB3 Api Bridge
 =================
 
-by %s on January 13, 2009
+by wilsonsheldon on January 13, 2009
 
 Hi everyone, I recently needed to bridge between my Cake app and a
 PhpBB3 forum. When I realized the old PhpBB2 Bridge didn't work
@@ -318,6 +318,6 @@ Wilson
     :title: PhpBB3 Api Bridge
     :description: CakePHP Article related to bridge,phpbb,Components
     :keywords: bridge,phpbb,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 wilsonsheldon
     :category: components
 

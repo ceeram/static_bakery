@@ -1,7 +1,7 @@
 jQuery Multi-input for CakePHP
 ==============================
 
-by %s on January 12, 2012
+by MenOne on January 12, 2012
 
 I apologize for my English! This plugin helps you create are
 automatically added inputs. They can be used by adding a few pages of
@@ -151,6 +151,6 @@ Result
     :title: jQuery Multi-input for CakePHP 
     :description: CakePHP Article related to CakePHP,jquery,plugin,input,multi,multi input,Snippets
     :keywords: CakePHP,jquery,plugin,input,multi,multi input,Snippets
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 MenOne
     :category: snippets
 

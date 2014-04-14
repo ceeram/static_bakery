@@ -1,7 +1,7 @@
 Encrypted Cookie Component
 ==========================
 
-by %s on May 03, 2008
+by jreeves on May 03, 2008
 
 A Cookie component for Cake PHP 1.1 (which should also work in 1.2 as
 well). The aim of this component was to make saved data as secure as
@@ -362,6 +362,6 @@ Component Class:
     :title: Encrypted Cookie Component
     :description: CakePHP Article related to cookie secure login,Components
     :keywords: cookie secure login,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 jreeves
     :category: components
 

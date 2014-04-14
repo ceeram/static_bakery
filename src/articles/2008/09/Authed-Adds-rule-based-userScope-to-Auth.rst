@@ -1,7 +1,7 @@
 Authed - Adds rule based userScope to Auth
 ==========================================
 
-by %s on September 21, 2008
+by m3nt0r on September 21, 2008
 
 If you ever thought it would be nice to let the user know why the
 login wasn't successful, this component may be right for you.
@@ -227,6 +227,6 @@ Comments welcome.
     :title: Authed - Adds rule based userScope to Auth
     :description: CakePHP Article related to userscope,scope,Components
     :keywords: userscope,scope,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 m3nt0r
     :category: components
 

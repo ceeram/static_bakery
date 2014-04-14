@@ -1,7 +1,7 @@
 Integrate CakePHP with Kcaptcha
 ===============================
 
-by %s on January 14, 2007
+by stephanoff on January 14, 2007
 
 Simple way to integrate CakePHP with Kcaptcha.
 KCAPTCHA is a free and open source PHP solution to generate human
@@ -77,6 +77,6 @@ That's all :)
     :title: Integrate CakePHP with Kcaptcha
     :description: CakePHP Article related to component,captcha,Components
     :keywords: component,captcha,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 stephanoff
     :category: components
 

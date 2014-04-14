@@ -1,7 +1,7 @@
 Microsoft Windows Azure Tables Datasource
 =========================================
 
-by %s on February 02, 2010
+by Howard on February 02, 2010
 
 An easy to use Datasource for Microsoft Windows Azure Tables. Azure
 Tables is capable of storing an infinite amount of data with it's
@@ -635,6 +635,6 @@ Best of luck.
     :title: Microsoft Windows Azure Tables Datasource
     :description: CakePHP Article related to tables,datasource,azure,Models
     :keywords: tables,datasource,azure,Models
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 Howard
     :category: models
 

@@ -1,7 +1,7 @@
 GoogleChart helper
 ==================
 
-by %s on April 23, 2012
+by segy on April 23, 2012
 
 GoogleChart is a helper class for easy generating image charts using
 Google Chart API.
@@ -49,6 +49,6 @@ Download the code from `https://github.com/segy/GoogleChart`_
     :title: GoogleChart helper
     :description: CakePHP Article related to plugin,image charts,google chart api,Plugins
     :keywords: plugin,image charts,google chart api,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 segy
     :category: plugins
 

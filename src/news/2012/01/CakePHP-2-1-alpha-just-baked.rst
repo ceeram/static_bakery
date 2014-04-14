@@ -1,7 +1,7 @@
 CakePHP 2.1-alpha just baked
 ============================
 
-by %s on January 09, 2012
+by lorenzo on January 09, 2012
 
 We are excited to announce the that the next version of CakePHP just
 hit alpha state. This version adds several useful features that make
@@ -151,6 +151,6 @@ Links
     :title: CakePHP 2.1-alpha just baked
     :description: CakePHP Article related to release,2.1-alpha,News
     :keywords: release,2.1-alpha,News
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 lorenzo
     :category: news
 

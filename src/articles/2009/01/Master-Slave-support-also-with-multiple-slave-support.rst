@@ -1,7 +1,7 @@
 Master / Slave support (also with multiple slave support)
 =========================================================
 
-by %s on January 20, 2009
+by gman.php on January 20, 2009
 
 We have discovered a way how to realize master/slave support with cake
 (also with multiple slaves).
@@ -177,6 +177,6 @@ Andreas Hofmann!
     :title: Master / Slave support (also with multiple slave support)
     :description: CakePHP Article related to mysql,slave,master,replication,Tutorials
     :keywords: mysql,slave,master,replication,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 gman.php
     :category: tutorials
 

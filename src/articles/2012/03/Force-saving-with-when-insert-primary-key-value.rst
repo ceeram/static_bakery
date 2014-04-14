@@ -1,7 +1,7 @@
 Force saving with when insert primary key value
 ===============================================
 
-by %s on March 27, 2012
+by doshu on March 27, 2012
 
 Have you ever try to make a save when you manually set the primary key
 value??
@@ -51,6 +51,6 @@ See the magic!
     :title: Force saving with when insert primary key value
     :description: CakePHP Article related to model,hack,primaryKey,Articles
     :keywords: model,hack,primaryKey,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 doshu
     :category: articles
 

@@ -1,7 +1,7 @@
 Image Resize Component
 ======================
 
-by %s on October 19, 2009
+by reflashed on October 19, 2009
 
 Now it's easy to resize any jpeg, gif, or png image!
 
@@ -99,6 +99,6 @@ Example
     :title: Image Resize Component
     :description: CakePHP Article related to image,component,resize,Components
     :keywords: image,component,resize,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 reflashed
     :category: components
 

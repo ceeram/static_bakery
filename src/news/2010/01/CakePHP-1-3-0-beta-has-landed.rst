@@ -1,7 +1,7 @@
 CakePHP 1.3.0-beta has landed
 =============================
 
-by %s on January 16, 2010
+by markstory on January 16, 2010
 
 The CakePHP development team is happy to announce the release the
 CakePHP 1.3-beta.
@@ -68,6 +68,6 @@ eta`_
     :title: CakePHP 1.3.0-beta has landed
     :description: CakePHP Article related to release,CakePHP,news,github,hello,News
     :keywords: release,CakePHP,news,github,hello,News
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 markstory
     :category: news
 

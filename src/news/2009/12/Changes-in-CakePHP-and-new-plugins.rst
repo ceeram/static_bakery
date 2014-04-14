@@ -1,7 +1,7 @@
 Changes in CakePHP and new plugins
 ==================================
 
-by %s on December 09, 2009
+by markstory on December 09, 2009
 
 With the development of 1.3 and 2.0 well underway the CakePHP team has
 taken some time to re-evaluate and reconsider some of the tools we use
@@ -84,6 +84,6 @@ send any pull requests.
     :title: Changes in CakePHP and new plugins
     :description: CakePHP Article related to CakePHP,news,development,trac,News
     :keywords: CakePHP,news,development,trac,News
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 markstory
     :category: news
 

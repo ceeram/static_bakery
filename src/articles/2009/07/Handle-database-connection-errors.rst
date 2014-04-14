@@ -1,7 +1,7 @@
 Handle database connection errors
 =================================
 
-by %s on July 08, 2009
+by T0aD on July 08, 2009
 
 If like me you always wanted to handle database connection problem
 (like displaying a specific message in production or development
@@ -88,6 +88,6 @@ using cake 1.2 beta as the time of the writing of this micro tutorial.
     :title: Handle database connection errors
     :description: CakePHP Article related to database,mysql,error,connection,Snippets
     :keywords: database,mysql,error,connection,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 T0aD
     :category: snippets
 

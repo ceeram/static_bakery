@@ -1,7 +1,7 @@
 Force login on Ajax requests
 ============================
 
-by %s on December 02, 2007
+by michal on December 02, 2007
 
 Users often encounter situations when they want to perform an action
 on a web site and get redirected to login page. Applicationâ€™s task
@@ -114,6 +114,6 @@ any ideas please let me know.
     :title: Force login on Ajax requests
     :description: CakePHP Article related to redirect,login,session,controller,Snippets
     :keywords: redirect,login,session,controller,Snippets
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 michal
     :category: snippets
 

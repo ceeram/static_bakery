@@ -1,7 +1,7 @@
 Redis DataSource for cakePHP 2
 ==============================
 
-by %s on March 15, 2012
+by Iban on March 15, 2012
 
 Redis Datasource build for cakePHP 2 and above.
 If you need to connect your application with Redis database (redis.io)
@@ -14,6 +14,6 @@ Download from github
     :title: Redis DataSource for cakePHP 2
     :description: CakePHP Article related to redis,database connection,Code
     :keywords: redis,database connection,Code
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 Iban
     :category: code
 

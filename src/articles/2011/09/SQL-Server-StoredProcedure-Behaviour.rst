@@ -1,7 +1,7 @@
 SQL Server StoredProcedure Behaviour
 ====================================
 
-by %s on September 25, 2011
+by icc97 on September 25, 2011
 
 There's more than just $this->query('my_stored_proc_sp'); to calling
 stored procedures in SQL Server.
@@ -152,6 +152,6 @@ Useful links
     :title: SQL Server StoredProcedure Behaviour
     :description: CakePHP Article related to behaviour,mssql,Ms sql server,StoredProcedure,Behaviors
     :keywords: behaviour,mssql,Ms sql server,StoredProcedure,Behaviors
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 icc97
     :category: behaviors
 

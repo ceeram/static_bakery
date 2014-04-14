@@ -1,7 +1,7 @@
 Integrating cakephp with OpenId
 ===============================
 
-by %s on July 31, 2012
+by neil6502 on July 31, 2012
 
 this article tells how to integrate openid with your cake..........
 
@@ -79,6 +79,6 @@ OpenId.
     :title: Integrating cakephp with OpenId
     :description: CakePHP Article related to CakePHP,authentication,openid,Articles
     :keywords: CakePHP,authentication,openid,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 neil6502
     :category: articles
 

@@ -1,7 +1,7 @@
 Versioned DbMigrations
 ======================
 
-by %s on November 24, 2012
+by SayB on November 24, 2012
 
 Need more control than only just being able to update your database
 schema via CakePHP's Migration shell ? Well, this is a dirty quick
@@ -161,6 +161,6 @@ Find this plugin on my GitHub profile:
     :title: Versioned DbMigrations
     :description: CakePHP Article related to plugin,DB Migrations,versioning,Plugins
     :keywords: plugin,DB Migrations,versioning,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 SayB
     :category: plugins
 

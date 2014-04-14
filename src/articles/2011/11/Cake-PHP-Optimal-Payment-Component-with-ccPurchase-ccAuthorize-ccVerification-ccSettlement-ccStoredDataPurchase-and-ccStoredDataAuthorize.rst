@@ -3,7 +3,7 @@ ccVerification, ccSettlement, ccStoredDataPurchase and
 ccStoredDataAuthorize
 =====================
 
-by %s on November 17, 2011
+by subingeorge on November 17, 2011
 
 I have implemented because, I found the lack of proper PHP codes for
 Optimal Payment. Even though the implementation is too power full it
@@ -680,6 +680,6 @@ References
     :title: Cake PHP Optimal Payment Component  with ccPurchase, ccAuthorize, ccVerification, ccSettlement, ccStoredDataPurchase and ccStoredDataAuthorize
     :description: CakePHP Article related to word,Components
     :keywords: word,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 subingeorge
     :category: components
 

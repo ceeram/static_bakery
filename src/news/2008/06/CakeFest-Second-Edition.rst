@@ -1,7 +1,7 @@
 CakeFest Second Edition
 =======================
 
-by %s on June 26, 2008
+by mariano on June 26, 2008
 
 Join us at our second conference: CakeFest Second Edition. Attend the
 official CakePHP gathering to be celebrated during the first week of
@@ -58,6 +58,6 @@ information by using the following form:
     :title: CakeFest Second Edition
     :description: CakePHP Article related to ,News
     :keywords: ,News
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 mariano
     :category: news
 

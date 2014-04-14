@@ -1,7 +1,7 @@
 Multiple Display Field
 ======================
 
-by %s on November 15, 2008
+by resshin on November 15, 2008
 
 The behavior allows us to use multiple display field (such as
 "first_name" and "last_name") as a display field for generating list
@@ -134,6 +134,6 @@ Hope it helps you... :)
     :title: Multiple Display Field
     :description: CakePHP Article related to multiple,behavior,displayfield,display field,Behaviors
     :keywords: multiple,behavior,displayfield,display field,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 resshin
     :category: behaviors
 

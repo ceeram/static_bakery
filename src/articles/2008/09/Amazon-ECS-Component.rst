@@ -1,7 +1,7 @@
 Amazon ECS Component
 ====================
 
-by %s on September 18, 2008
+by m3nt0r on September 18, 2008
 
 Search, Lookup and Remote Cart management
 With this component at hand you can easily do lookups on specific
@@ -596,6 +596,6 @@ Enjoy!
     :title: Amazon ECS Component
     :description: CakePHP Article related to xml,webservice,ecommerce,httpsocket,amazon,Components
     :keywords: xml,webservice,ecommerce,httpsocket,amazon,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 m3nt0r
     :category: components
 

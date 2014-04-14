@@ -1,7 +1,7 @@
 Imagefile Helper
 ================
 
-by %s on January 04, 2007
+by blakebinkley on January 04, 2007
 
 if you don't know if an image you're about to display exists
 I was in need of a way to check if a file exists and send the viewer a
@@ -46,6 +46,6 @@ Helper Class:
     :title: Imagefile Helper
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 blakebinkley
     :category: helpers
 

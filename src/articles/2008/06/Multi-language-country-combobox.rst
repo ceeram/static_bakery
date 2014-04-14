@@ -1,7 +1,7 @@
 Multi-language country combobox
 ===============================
 
-by %s on June 25, 2008
+by davidc2p on June 25, 2008
 
 Based on the excellent article written by Tane Piper, I decided to
 take the base code and complete it with multi-language capability
@@ -156,6 +156,6 @@ Sample:
     :title: Multi-language country combobox
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 davidc2p
     :category: helpers
 

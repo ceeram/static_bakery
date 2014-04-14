@@ -1,7 +1,7 @@
 Change the position of your validation error messages
 =====================================================
 
-by %s on December 09, 2010
+by lucianobargmann on December 09, 2010
 
 I don't like the validation error messages being displayed below the
 input tag, so after not finding how to change its position on the web,
@@ -73,6 +73,6 @@ way I want it to be, with errors displayed after the label:
     :title: Change the position of your validation error messages
     :description: CakePHP Article related to order,positioning,validationerrors,after label,General Interest
     :keywords: order,positioning,validationerrors,after label,General Interest
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 lucianobargmann
     :category: general_interest
 

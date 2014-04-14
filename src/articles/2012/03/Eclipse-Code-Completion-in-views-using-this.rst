@@ -1,7 +1,7 @@
 Eclipse Code Completion in views using $this
 ============================================
 
-by %s on March 27, 2012
+by leoden on March 27, 2012
 
 If you are having problems getting eclipse to autocomplete helpers in
 views. Try this
@@ -45,6 +45,6 @@ PHP Snippet:
     :title: Eclipse Code Completion in views using $this
     :description: CakePHP Article related to autocomplete,Eclipse,intellisense,Articles
     :keywords: autocomplete,Eclipse,intellisense,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 leoden
     :category: articles
 

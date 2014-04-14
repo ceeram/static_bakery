@@ -1,7 +1,7 @@
 Improved Advance Validation with Parameters
 ===========================================
 
-by %s on September 22, 2006
+by Ludge on September 22, 2006
 
 This code allows you to perform complex validation on your Model data
 using both regular expressions and functions as well as supporting
@@ -371,6 +371,6 @@ regular expression/method to the AppController class.
     :title: Improved Advance Validation with Parameters
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 Ludge
     :category: tutorials
 

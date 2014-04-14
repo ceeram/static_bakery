@@ -1,7 +1,7 @@
 Language Select and Country Select Helper
 =========================================
 
-by %s on April 02, 2010
+by brendoncrawford on April 02, 2010
 
 [b]Up to date versions of this code can be found at
 [url=http://github.com/brendoncrawford/cakephp-lang-
@@ -744,6 +744,6 @@ Helper Class:
     :title: Language Select and Country Select Helper
     :description: CakePHP Article related to language,country,locale,Helpers
     :keywords: language,country,locale,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 brendoncrawford
     :category: helpers
 

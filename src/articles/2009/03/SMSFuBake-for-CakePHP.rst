@@ -1,7 +1,7 @@
 SMSFuBake for CakePHP
 =====================
 
-by %s on March 12, 2009
+by pascalmetrics on March 12, 2009
 
 Simple CakePHP Component and Helper for sending and receiving SMS text
 messages to/from mobile devices freely using public email to SMS
@@ -165,6 +165,6 @@ Component Class:
     :title: SMSFuBake for CakePHP
     :description: CakePHP Article related to sms,gmail,Components
     :keywords: sms,gmail,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 pascalmetrics
     :category: components
 

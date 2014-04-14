@@ -1,7 +1,7 @@
 (RSS) Feed them Cake
 ====================
 
-by %s on September 21, 2006
+by psychic on September 21, 2006
 
 If your application includes any sort of internal messaging or
 notifications, RSS is for you. For forums and blogs, feeds have become
@@ -147,6 +147,6 @@ Happy feeding.
     :title: (RSS) Feed them Cake
     :description: CakePHP Article related to feeds,Rss,xml,Tutorials
     :keywords: feeds,Rss,xml,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 psychic
     :category: tutorials
 

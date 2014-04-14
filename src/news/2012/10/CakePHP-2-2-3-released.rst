@@ -1,7 +1,7 @@
 CakePHP 2.2.3 released
 ======================
 
-by %s on October 09, 2012
+by markstory on October 09, 2012
 
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.2.3
@@ -53,6 +53,6 @@ Links
     :title: CakePHP 2.2.3 released
     :description: CakePHP Article related to release,CakePHP,news,News
     :keywords: release,CakePHP,news,News
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 markstory
     :category: news
 

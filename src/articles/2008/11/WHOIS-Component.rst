@@ -1,7 +1,7 @@
 WHOIS Component
 ===============
 
-by %s on November 28, 2008
+by Gaurav_orbit on November 28, 2008
 
 WHOIS is a query/response protocol which is widely used for querying
 an official database in order to determine the owner of a domain name,
@@ -442,6 +442,6 @@ Informations.
     :title: WHOIS Component
     :description: CakePHP Article related to domain,registrar,whois,server,ip,Components
     :keywords: domain,registrar,whois,server,ip,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Gaurav_orbit
     :category: components
 

@@ -1,7 +1,7 @@
 Session based pagination
 ========================
 
-by %s on September 21, 2010
+by avinashbangar on September 21, 2010
 
 When i was working on my project, i had to implement search
 functionality for my project's list. So i wanted to make use of
@@ -102,6 +102,6 @@ Thats it !! and you are done !!
     :title: Session based pagination
     :description: CakePHP Article related to pagination,search,paginator,pagination sorting,session based pagina,Tutorials
     :keywords: pagination,search,paginator,pagination sorting,session based pagina,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 avinashbangar
     :category: tutorials
 

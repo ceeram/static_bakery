@@ -1,7 +1,7 @@
 Simple, generic, app-wide record level access control.
 ======================================================
 
-by %s on August 02, 2007
+by neilc on August 02, 2007
 
 Record level access control for all models in your application.
 
@@ -119,6 +119,6 @@ Record level access control for all models in your application.
     :title: Simple, generic, app-wide record level access control.
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 neilc
     :category: tutorials
 

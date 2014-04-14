@@ -1,7 +1,7 @@
 Layout Component
 ================
 
-by %s on January 05, 2012
+by tpuglia on January 05, 2012
 
 Configurable Layouts for themes
 I am using Cake 2.0 (beta - havent upgraded properlly yet)
@@ -114,6 +114,6 @@ configurable.
     :title: Layout Component
     :description: CakePHP Article related to Layouts,component,Components
     :keywords: Layouts,component,Components
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 tpuglia
     :category: components
 

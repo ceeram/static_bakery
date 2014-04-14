@@ -1,7 +1,7 @@
 Creating Maps with Cake PHP
 ===========================
 
-by %s on June 11, 2008
+by map_me on June 11, 2008
 
 A social mapping application built with Cake: MAPME.com (BETA) is a
 social mapping application that allows users to create maps, add
@@ -99,6 +99,6 @@ For more information about the site, please visit:
     :title: Creating Maps with Cake PHP
     :description: CakePHP Article related to ,Case Studies
     :keywords: ,Case Studies
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 map_me
     :category: case_studies
 

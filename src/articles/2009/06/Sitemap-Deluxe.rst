@@ -1,7 +1,7 @@
 Sitemap Deluxe
 ==============
 
-by %s on June 15, 2009
+by CristianDeluxe on June 15, 2009
 
 A nice and easy way for automatically generate your sitemaps. Main
 features: generate html & xml sitemap, send your sitemap to search
@@ -643,6 +643,6 @@ Feel free to correct my English and my code.
     :title: Sitemap Deluxe
     :description: CakePHP Article related to search,seo,sitemap,engines,indexation,ping,spiders,robots,Tutorials
     :keywords: search,seo,sitemap,engines,indexation,ping,spiders,robots,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 CristianDeluxe
     :category: tutorials
 

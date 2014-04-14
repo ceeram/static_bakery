@@ -1,7 +1,7 @@
 Brief Overview of the new EmailComponent
 ========================================
 
-by %s on January 02, 2007
+by GreyCells on January 02, 2007
 
 It's often more practical (read: maintainable) to use the built in
 components and much as I like SwiftMailer, I thought it best that I
@@ -260,6 +260,6 @@ play now.
     :title: Brief Overview of the new EmailComponent
     :description: CakePHP Article related to 1.2,email component,Tutorials
     :keywords: 1.2,email component,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 GreyCells
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Single table inheritance implementation using class inheritance
 ===============================================================
 
-by %s on April 14, 2010
+by binarycrafts on April 14, 2010
 
 If you have a couple of document types that you don't want to create
 individual db tables for you can put them all in a 'documents', have
@@ -66,6 +66,6 @@ Model Class:
     :title: Single table inheritance implementation using class inheritance
     :description: CakePHP Article related to inheritance,sti,Snippets
     :keywords: inheritance,sti,Snippets
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 binarycrafts
     :category: snippets
 

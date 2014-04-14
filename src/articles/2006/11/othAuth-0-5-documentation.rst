@@ -1,7 +1,7 @@
 othAuth 0.5 documentation
 =========================
 
-by %s on November 11, 2006
+by CraZyLeGs on November 11, 2006
 
 the long awaited documentation of othAuth, this article covers the new
 version of othAuth 0.5
@@ -831,6 +831,6 @@ Cake!
     :title: othAuth 0.5 documentation
     :description: CakePHP Article related to user,access,login,othauth,permission,authentication,logout,component,restriction,Tutorials
     :keywords: user,access,login,othauth,permission,authentication,logout,component,restriction,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 CraZyLeGs
     :category: tutorials
 

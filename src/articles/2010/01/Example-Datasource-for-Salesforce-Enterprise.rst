@@ -1,7 +1,7 @@
 Example Datasource for Salesforce Enterprise
 ============================================
 
-by %s on January 26, 2010
+by cwestonr on January 26, 2010
 
 I have been looking for a datasource for Sales force for some time and
 Never found one so I constructed a Salesforce example Datasource for
@@ -458,6 +458,6 @@ result and displays the data in a table.
     :title: Example Datasource for Salesforce Enterprise 
     :description: CakePHP Article related to datasource,salesforce,Models
     :keywords: datasource,salesforce,Models
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 cwestonr
     :category: models
 

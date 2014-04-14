@@ -2,7 +2,7 @@ Got2BShoes.com - Intelligent Caching of Amazon's Product Advertising
 API
 ===
 
-by %s on January 05, 2010
+by lbmtb on January 05, 2010
 
 Intelligent Caching of Amazon's Product Advertising API provide a
 simple and elegant solution to people who are shopping for many
@@ -118,6 +118,6 @@ Comments and questions welcomeâ€¦
     :title: Got2BShoes.com - Intelligent Caching of Amazon's Product Advertising API
     :description: CakePHP Article related to api,caching,amazon,amazon product adver,shoes,footwear,Case Studies
     :keywords: api,caching,amazon,amazon product adver,shoes,footwear,Case Studies
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 lbmtb
     :category: case_studies
 

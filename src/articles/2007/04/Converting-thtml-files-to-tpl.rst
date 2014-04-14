@@ -1,7 +1,7 @@
 Converting thtml files to tpl
 =============================
 
-by %s on April 13, 2007
+by radharadhya on April 13, 2007
 
 If you are using smarty with cake, than you could find helpful this
 script to convert thtml files made by the bake script into tpl files.
@@ -33,6 +33,6 @@ That's all :)
     :title: Converting thtml files to tpl
     :description: CakePHP Article related to bake,smarty,Tutorials
     :keywords: bake,smarty,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 radharadhya
     :category: tutorials
 

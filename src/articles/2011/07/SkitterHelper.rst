@@ -1,7 +1,7 @@
 SkitterHelper
 =============
 
-by %s on July 13, 2011
+by thiagosf on July 13, 2011
 
 Place the Skitter Slideshow in his CakePHP with this simple helper!
 
@@ -284,6 +284,6 @@ return$value;
     :title: SkitterHelper
     :description: CakePHP Article related to image gallery,slideshow,slides,Helpers
     :keywords: image gallery,slideshow,slides,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 thiagosf
     :category: helpers
 

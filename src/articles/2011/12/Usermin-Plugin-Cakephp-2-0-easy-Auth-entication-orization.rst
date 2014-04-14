@@ -1,7 +1,7 @@
 Usermin Plugin: Cakephp 2.0 easy Auth{entication|orization}
 ===========================================================
 
-by %s on December 31, 2011
+by steinkel on December 31, 2011
 
 Usermin is a Plugin easy to install and easy to understand. It covers
 the basics to authenticate, manage and authorize your application with
@@ -87,6 +87,6 @@ New features will be released soon...
     :title: Usermin Plugin: Cakephp 2.0 easy Auth{entication|orization}
     :description: CakePHP Article related to Auth,authentication,plugin,Plugins
     :keywords: Auth,authentication,plugin,Plugins
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 steinkel
     :category: plugins
 

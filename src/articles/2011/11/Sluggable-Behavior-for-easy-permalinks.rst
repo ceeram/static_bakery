@@ -1,7 +1,7 @@
 Sluggable Behavior for easy permalinks
 ======================================
 
-by %s on November 25, 2011
+by vduglued on November 25, 2011
 
 I put together a CakePHP behaviour for generation of permalinks as a
 record is saved to the database.
@@ -32,6 +32,6 @@ released
     :title: Sluggable Behavior for easy permalinks
     :description: CakePHP Article related to behavior,permalink,sluggable,Behaviors
     :keywords: behavior,permalink,sluggable,Behaviors
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 vduglued
     :category: behaviors
 

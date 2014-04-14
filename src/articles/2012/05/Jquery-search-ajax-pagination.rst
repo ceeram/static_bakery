@@ -1,7 +1,7 @@
 Jquery search ajax pagination
 =============================
 
-by %s on May 31, 2012
+by geneller on May 31, 2012
 
 This is my first article, i've been working on this very component to
 build dynamics conditions for paginates based on the data entered in a
@@ -288,6 +288,6 @@ any issue like the first u
     :title: Jquery search ajax pagination
     :description: CakePHP Article related to jquery,index search,ajax paginate,Articles
     :keywords: jquery,index search,ajax paginate,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 geneller
     :category: articles
 

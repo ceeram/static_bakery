@@ -2,7 +2,7 @@ Automatically load all controllers and actions into ACO tables for ACL
 with a CakePHP Task
 ===================
 
-by %s on January 27, 2009
+by brightball on January 27, 2009
 
 If you've spent anytime wanting to use ACL on your applications, you
 know how tedious it can be to manually enter your entire controller
@@ -190,6 +190,6 @@ php cake.php task_runner acl_controllers
     :title: Automatically load all controllers and actions into ACO tables for ACL with a CakePHP Task
     :description: CakePHP Article related to acl,Auth,task,shell,permissions,aco,load,controller,action,brightball,Plugins
     :keywords: acl,Auth,task,shell,permissions,aco,load,controller,action,brightball,Plugins
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 brightball
     :category: plugins
 

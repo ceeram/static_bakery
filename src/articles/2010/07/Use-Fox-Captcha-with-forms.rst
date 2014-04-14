@@ -1,7 +1,7 @@
 Use Fox Captcha with forms
 ==========================
 
-by %s on July 25, 2010
+by saidbakr on July 25, 2010
 
 Fox_captcha is a class that I written it. It is published at
 [url=http://www.phpclasses.org]PHP Classes[/url]. It offers creating
@@ -130,6 +130,6 @@ That's all. I hope it will be useful for you.
     :title: Use Fox Captcha with forms
     :description: CakePHP Article related to security,forms,captcha,spam,Tutorials
     :keywords: security,forms,captcha,spam,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 saidbakr
     :category: tutorials
 

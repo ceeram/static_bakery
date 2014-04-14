@@ -1,7 +1,7 @@
 Multiple Undo
 =============
 
-by %s on May 12, 2010
+by shantamg on May 12, 2010
 
 This plugin adds undo/redo functionality to any app using a very
 simple database structure. I am new to cake and this is my first
@@ -175,6 +175,6 @@ Thanks for checking it out!
     :title: Multiple Undo
     :description: CakePHP Article related to ,Plugins
     :keywords: ,Plugins
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 shantamg
     :category: plugins
 

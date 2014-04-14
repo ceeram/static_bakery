@@ -1,7 +1,7 @@
 Display TYPO3 content using CakePHP
 ===================================
 
-by %s on September 22, 2010
+by olav on September 22, 2010
 
 Sometimes using TypoScript to build a website frontend is not an
 option. Reasons might be that you want to avoid learning this
@@ -31,6 +31,6 @@ The software has the following properties
     :title: Display TYPO3 content using CakePHP
     :description: CakePHP Article related to content management,typo,Snippets
     :keywords: content management,typo,Snippets
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 olav
     :category: snippets
 

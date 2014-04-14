@@ -1,7 +1,7 @@
 Separating view's markup and logic using QueryTemplates
 =======================================================
 
-by %s on January 13, 2009
+by Tobiasz.Cudnik on January 13, 2009
 
 In this article i want to show you how to split the View layer into
 more comfortable parts.
@@ -128,6 +128,6 @@ framework-independent templates on the project's wiki.
     :title: Separating view's markup and logic using QueryTemplates
     :description: CakePHP Article related to Layouts,Template,dom,Tutorials
     :keywords: Layouts,Template,dom,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Tobiasz.Cudnik
     :category: tutorials
 

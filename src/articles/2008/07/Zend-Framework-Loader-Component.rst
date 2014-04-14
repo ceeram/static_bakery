@@ -1,7 +1,7 @@
 Zend Framework Loader Component
 ===============================
 
-by %s on July 07, 2008
+by m3nt0r on July 07, 2008
 
 A simple wrapper component to Zend_Loader & adds the correct path into
 your include_path so everything works as expected by Zend Framework.
@@ -168,6 +168,6 @@ Controller Class:
     :title: Zend Framework Loader Component
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 m3nt0r
     :category: components
 

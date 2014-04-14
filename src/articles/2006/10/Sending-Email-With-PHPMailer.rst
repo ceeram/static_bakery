@@ -1,7 +1,7 @@
 Sending Email With PHPMailer
 ============================
 
-by %s on October 11, 2006
+by drayen on October 11, 2006
 
 [This is a slightly updated copy of the tutorial on now defunct
 wiki.cakephp.org] This example will show you how to send HTML mail
@@ -218,6 +218,6 @@ Drayen.
     :title: Sending Email With PHPMailer
     :description: CakePHP Article related to email,phpmailer,component,Tutorials
     :keywords: email,phpmailer,component,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 drayen
     :category: tutorials
 

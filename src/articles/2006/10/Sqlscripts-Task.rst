@@ -1,7 +1,7 @@
 Sqlscripts Task
 ===============
 
-by %s on October 25, 2006
+by dho on October 25, 2006
 
 The "Sqlscripts Task" is a simple bake task that creates "create
 table" and "drop table" statements in app/config/sql/create.sql resp.
@@ -112,6 +112,6 @@ app/config/sql/drop.sql. Installation: Copy the script to
     :title: Sqlscripts Task
     :description: CakePHP Article related to bake,sql,task,table,Snippets
     :keywords: bake,sql,task,table,Snippets
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 dho
     :category: snippets
 

@@ -1,7 +1,7 @@
 How to use ACL with Cake PHP 1.2.x?
 ===================================
 
-by %s on August 07, 2007
+by ketan on August 07, 2007
 
 This tutorial will brief you on how to use Acl in CakePHP 1.2.x
 versions. I had tough time figuring this out. But with help of Gwoo,
@@ -369,6 +369,6 @@ Ketan Patel
     :title: How to use ACL with Cake PHP 1.2.x?
     :description: CakePHP Article related to acl,aro,permissions,aco,restrictions,controlled,requester,previledges,access controll,acl initdb,initdb,user roles,user rights,acl behavior,allowed access,user permissions,Tutorials
     :keywords: acl,aro,permissions,aco,restrictions,controlled,requester,previledges,access controll,acl initdb,initdb,user roles,user rights,acl behavior,allowed access,user permissions,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 ketan
     :category: tutorials
 

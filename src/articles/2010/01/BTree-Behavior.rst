@@ -1,7 +1,7 @@
 BTree Behavior
 ==============
 
-by %s on January 05, 2010
+by busytoby on January 05, 2010
 
 The standard Tree Behavior has a problem causing add/delete based
 performance degredation bound by the size of the table. In a table of
@@ -1254,6 +1254,6 @@ More
     :title: BTree Behavior
     :description: CakePHP Article related to tree,optimization,behavior,performance,treebahavior,trees,Behaviors
     :keywords: tree,optimization,behavior,performance,treebahavior,trees,Behaviors
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 busytoby
     :category: behaviors
 

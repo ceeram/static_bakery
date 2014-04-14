@@ -1,7 +1,7 @@
 Rebuilding MySQL Tables based on Model Cache
 ============================================
 
-by %s on January 21, 2009
+by Datawalke on January 21, 2009
 
 By reading the title of this article you know something has gone
 horribly wrong. Which was the case earlier today when my development
@@ -293,6 +293,6 @@ Usage is fairly simple:
     :title: Rebuilding MySQL Tables based on Model Cache
     :description: CakePHP Article related to sql,model,mysql,cache,recovery,General Interest
     :keywords: sql,model,mysql,cache,recovery,General Interest
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Datawalke
     :category: general_interest
 

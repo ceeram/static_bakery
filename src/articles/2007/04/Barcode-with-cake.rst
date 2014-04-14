@@ -1,7 +1,7 @@
 Barcode with cake
 =================
 
-by %s on April 04, 2007
+by LazyCoder on April 04, 2007
 
 How to print barcode with cakephp and pdfb library
 These days my collegue Leonello and i had the necessity to print
@@ -230,6 +230,6 @@ PHP Snippet:
     :title: Barcode with cake
     :description: CakePHP Article related to helpers,pdf,barcode,Helpers
     :keywords: helpers,pdf,barcode,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 LazyCoder
     :category: helpers
 

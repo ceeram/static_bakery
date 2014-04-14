@@ -1,7 +1,7 @@
 CakeApp with TwitterBootstrap
 =============================
 
-by %s on April 13, 2012
+by alairock on April 13, 2012
 
 CakeApp is a preconfigured app with TwitterBootstrap and Jquery
 installed and ready to go.
@@ -26,6 +26,6 @@ Enjoy, and fork if you want to contribute! -alairock
     :title: CakeApp with TwitterBootstrap
     :description: CakePHP Article related to CakePHP,jquery,twitter bootstrap,Code
     :keywords: CakePHP,jquery,twitter bootstrap,Code
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 alairock
     :category: code
 

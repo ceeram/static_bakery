@@ -1,7 +1,7 @@
 Script Combiner Helper
 ======================
 
-by %s on September 28, 2010
+by geoff.garbers on September 28, 2010
 
 With the need to combine multiple CSS and Javascript files together, I
 started to look around for an easy-to-implement helper that can take
@@ -533,6 +533,6 @@ View Template:
     :title: Script Combiner Helper
     :description: CakePHP Article related to javascript,CSS,helpers,js,combine,combination,Helpers
     :keywords: javascript,CSS,helpers,js,combine,combination,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 geoff.garbers
     :category: helpers
 

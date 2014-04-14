@@ -1,7 +1,7 @@
 Performance comparision CakePHP and symfony
 ===========================================
 
-by %s on January 14, 2009
+by yandod on January 14, 2009
 
 We can see some benchmark. But that's only "hello world" or something
 simple codes. I compared CakePHP and symfony in real application.
@@ -60,6 +60,6 @@ more detail and codes
     :title: Performance comparision CakePHP and symfony
     :description: CakePHP Article related to use jobeet and sf lu,Case Studies
     :keywords: use jobeet and sf lu,Case Studies
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 yandod
     :category: case_studies
 

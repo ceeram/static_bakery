@@ -1,7 +1,7 @@
 Mambo-licious
 =============
 
-by %s on July 24, 2007
+by gwoo on July 24, 2007
 
 Join us in welcoming Mambo to the CakePHP community.
 On Saturday, we were pleasantly surprised to receive an email from the
@@ -36,6 +36,6 @@ Happy baking.
     :title: Mambo-licious
     :description: CakePHP Article related to CMS,mambo,News
     :keywords: CMS,mambo,News
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 gwoo
     :category: news
 

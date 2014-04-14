@@ -1,7 +1,7 @@
 CakePHP YAML Migrations and Fixtures without PEAR
 =================================================
 
-by %s on March 09, 2009
+by georgious on March 09, 2009
 
 In his article ( [url]http://bakery.cakephp.org/articles/view/cake-db-
 migrations-v2-1[/url] ) at the Bakery Joel Moss describes how to use
@@ -231,6 +231,6 @@ if you have any questions.
     :title: CakePHP YAML Migrations and Fixtures without PEAR
     :description: CakePHP Article related to migrations,fixtures,db,Plugins
     :keywords: migrations,fixtures,db,Plugins
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 georgious
     :category: plugins
 

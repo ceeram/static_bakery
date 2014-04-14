@@ -1,7 +1,7 @@
 Updated SwiftMailer(4.xx) component with attachments and plugins
 ================================================================
 
-by %s on November 07, 2009
+by sky_l3ppard on November 07, 2009
 
 This version of SwiftMailer component is built under cake conventions
 and has ability to add attachments, plugins and SMTP under TLS or SSL.
@@ -853,6 +853,6 @@ Thats it, any ideas on functionality improvements are very welcome
     :title: Updated SwiftMailer(4.xx) component with attachments and plugins
     :description: CakePHP Article related to Mail,email,component,ssl,smtp,plugins,swift mailer,tls,email shell,sky leppard,attachments,Components
     :keywords: Mail,email,component,ssl,smtp,plugins,swift mailer,tls,email shell,sky leppard,attachments,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 sky_l3ppard
     :category: components
 

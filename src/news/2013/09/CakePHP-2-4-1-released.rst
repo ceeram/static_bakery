@@ -1,7 +1,7 @@
 CakePHP 2.4.1 released
 ======================
 
-by %s on September 15, 2013
+by markstory on September 15, 2013
 
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.4.1[1]. 2.4.1 is a bugfix release for the 2.4 release
@@ -75,6 +75,6 @@ Links
     :title: CakePHP 2.4.1 released
     :description: CakePHP Article related to release,CakePHP,news,News
     :keywords: release,CakePHP,news,News
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 markstory
     :category: news
 

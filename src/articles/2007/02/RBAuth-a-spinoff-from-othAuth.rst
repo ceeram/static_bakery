@@ -1,7 +1,7 @@
 RBAuth (a spinoff from othAuth)
 ===============================
 
-by %s on February 25, 2007
+by yellow1912 on February 25, 2007
 
 I want to say thanks to othman ouahbi for his wonderful Authentication
 Component, this subversion is just a spin-off of othAuth. I also need
@@ -1070,6 +1070,6 @@ guys as possible to improve this Component!
     :title: RBAuth (a spinoff from othAuth)
     :description: CakePHP Article related to othauth,authentication,Components
     :keywords: othauth,authentication,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 yellow1912
     :category: components
 

@@ -1,7 +1,7 @@
 Toggle behavior
 ===============
 
-by %s on April 05, 2007
+by Jippi on April 05, 2007
 
 A small snippet to toggle an ENUM field in a SQL :)
 
@@ -91,6 +91,6 @@ Model Class:
     :title: Toggle behavior
     :description: CakePHP Article related to behavior toggle mode,Behaviors
     :keywords: behavior toggle mode,Behaviors
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Jippi
     :category: behaviors
 

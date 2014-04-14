@@ -1,7 +1,7 @@
 Sphinx Search Behavior for Cake 2.0+
 ====================================
 
-by %s on February 21, 2012
+by nabeel on February 21, 2012
 
 I've updated the previous CakePHP behavior to work for Cake 2.0, and
 also optimized it down to one query, versus two
@@ -14,6 +14,6 @@ also optimized it down to one query, versus two
     :title: Sphinx Search Behavior for Cake 2.0+
     :description: CakePHP Article related to search,behavior,sphinx,Behaviors
     :keywords: search,behavior,sphinx,Behaviors
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 nabeel
     :category: behaviors
 

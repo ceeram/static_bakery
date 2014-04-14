@@ -1,7 +1,7 @@
 SOPA Blackout component
 =======================
 
-by %s on January 13, 2012
+by eagerterrier2 on January 13, 2012
 
 On the Tuesday 24th January 2012, the US Senate will vote on the
 internet censorship bill. Whilst it is an American law, it has far
@@ -119,6 +119,6 @@ Suggestions welcomed...
     :title: SOPA Blackout component
     :description: CakePHP Article related to pipa,SOPA,Components
     :keywords: pipa,SOPA,Components
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 eagerterrier2
     :category: components
 

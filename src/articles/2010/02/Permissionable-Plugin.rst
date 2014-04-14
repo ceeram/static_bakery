@@ -1,7 +1,7 @@
 Permissionable Plugin
 =====================
 
-by %s on February 12, 2010
+by jmcneese on February 12, 2010
 
 A CakePHP 1.3 plugin that provides UNIX-like row-level permissions for
 model data.
@@ -132,6 +132,6 @@ Component Class:
     :title: Permissionable Plugin
     :description: CakePHP Article related to acl,permissions,access control,rowlevel,posix,unix,Plugins
     :keywords: acl,permissions,access control,rowlevel,posix,unix,Plugins
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 jmcneese
     :category: plugins
 

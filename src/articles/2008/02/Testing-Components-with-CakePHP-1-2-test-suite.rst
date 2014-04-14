@@ -1,7 +1,7 @@
 Testing Components with CakePHP 1.2 test suite
 ==============================================
 
-by %s on February 18, 2008
+by erik_sternerson on February 18, 2008
 
 This tutorial discusses how to use the CakePHP test suit to test
 components. It builds upon the excellent work of Mariano Iglesias
@@ -160,6 +160,6 @@ can identify! Thanks!
     :title: Testing Components with CakePHP 1.2 test suite
     :description: CakePHP Article related to test,component,1.2,Tutorials
     :keywords: test,component,1.2,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 erik_sternerson
     :category: tutorials
 

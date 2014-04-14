@@ -1,7 +1,7 @@
 CSV Helper (PHP 5)
 ==================
 
-by %s on September 10, 2007
+by ifunk on September 10, 2007
 
 I was recently outputting some comma-delimited data and thought I
 would benefit from a simple csv helper. I hope this helper benefits
@@ -131,6 +131,6 @@ Helper Class:
     :title: CSV Helper (PHP 5)
     :description: CakePHP Article related to csv,Helpers
     :keywords: csv,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 ifunk
     :category: helpers
 

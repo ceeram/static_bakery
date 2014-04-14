@@ -1,7 +1,7 @@
 A new "automagic" for CakePHP layouts with the CustomLayouts component
 ======================================================================
 
-by %s on November 15, 2008
+by filippo.toso on November 15, 2008
 
 If you distribute your CakePHP web application to others and they ask
 you how to personalize the layout of a specific controller or, with
@@ -74,6 +74,6 @@ already exists :)
     :title: A new "automagic" for CakePHP layouts with the CustomLayouts component
     :description: CakePHP Article related to Layouts,automagic,Components
     :keywords: Layouts,automagic,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 filippo.toso
     :category: components
 

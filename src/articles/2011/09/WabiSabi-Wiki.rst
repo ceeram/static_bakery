@@ -1,7 +1,7 @@
 WabiSabi Wiki
 =============
 
-by %s on September 27, 2011
+by lenadro on September 27, 2011
 
 Este plugin para CakePHP integra el motor WabiSabi para la creación de
 documentación Wiki.
@@ -28,6 +28,6 @@ WabiSabi para la creación de documentación Wiki. Instalación
     :title: WabiSabi Wiki
     :description: CakePHP Article related to wabisabi wiki engine,Articles
     :keywords: wabisabi wiki engine,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 lenadro
     :category: articles
 

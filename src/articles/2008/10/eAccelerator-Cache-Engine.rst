@@ -1,7 +1,7 @@
 eAccelerator Cache Engine
 =========================
 
-by %s on October 26, 2008
+by stevebest on October 26, 2008
 
 eAccelerator ([url]http://eaccelerator.net/[/url]) is a free open-
 source PHP accelerator, optimizer, and dynamic content cache. It also
@@ -137,6 +137,6 @@ This makes use of the eAccelerator as the caching engine for your app.
     :title: eAccelerator Cache Engine
     :description: CakePHP Article related to eaccelerator,Snippets
     :keywords: eaccelerator,Snippets
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 stevebest
     :category: snippets
 

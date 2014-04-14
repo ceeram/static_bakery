@@ -1,7 +1,7 @@
 String localization with dynamic content
 ========================================
 
-by %s on June 20, 2009
+by brightball on June 20, 2009
 
 Cake has a wonderful shell script function built into it called
 extract that will run through your code and create a .po file full of
@@ -55,6 +55,6 @@ see this:
     :title: String localization with dynamic content
     :description: CakePHP Article related to Localization,Internationalization,po,brightball,il,Snippets
     :keywords: Localization,Internationalization,po,brightball,il,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 brightball
     :category: snippets
 

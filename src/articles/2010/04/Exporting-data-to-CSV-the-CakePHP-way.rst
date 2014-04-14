@@ -1,7 +1,7 @@
 Exporting data to CSV the CakePHP way
 =====================================
 
-by %s on April 23, 2010
+by jeroendenhaan on April 23, 2010
 
 After some fast and shallow searching, finding specific information on
 how to properly export data to a CSV file proved difficult. After
@@ -217,6 +217,6 @@ you might have, as it will probably make my own code better.
     :title: Exporting data to CSV the CakePHP way 
     :description: CakePHP Article related to export,csv,parseextensions,requesthandler,Tutorials
     :keywords: export,csv,parseextensions,requesthandler,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 jeroendenhaan
     :category: tutorials
 

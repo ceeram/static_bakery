@@ -2,7 +2,7 @@ SELECT FOR UPDATE (hack) (kind of ugly but it works) (PostgreSQL and
 MySql)
 ======
 
-by %s on April 14, 2012
+by arod on April 14, 2012
 
 Sometimes one needs to do a SELECT ... FOR UPDATE in order to preserve
 the integrity of our transactions. This isn't at the moment supported
@@ -115,6 +115,6 @@ UPDATE' ...)
     :title: SELECT FOR UPDATE (hack) (kind of ugly but it works) (PostgreSQL and MySql)
     :description: CakePHP Article related to postgreSQL mysql "SELECT ... F,Articles
     :keywords: postgreSQL mysql "SELECT ... F,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 arod
     :category: articles
 

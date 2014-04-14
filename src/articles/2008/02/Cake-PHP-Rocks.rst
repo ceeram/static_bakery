@@ -1,7 +1,7 @@
 Cake PHP Rocks
 ==============
 
-by %s on February 18, 2008
+by nuuvoo on February 18, 2008
 
 I have successfully created a website using Cake within a short period
 of time. It works great and cake framework simply rocks.
@@ -55,6 +55,6 @@ Sai
     :title: Cake PHP Rocks
     :description: CakePHP Article related to Cake experiences,http://www.nuuvoo.co,Cake Rocks,Framework,General Interest
     :keywords: Cake experiences,http://www.nuuvoo.co,Cake Rocks,Framework,General Interest
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 nuuvoo
     :category: general_interest
 

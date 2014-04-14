@@ -1,7 +1,7 @@
 Datasource for S3 - Amazon Simple Storage System
 ================================================
 
-by %s on July 31, 2009
+by eskil on July 31, 2009
 
 Cake in the S3 clouds. Storing files for easy access in the cloud.
 Accessing them across multiple platforms, guaranteeing up time,
@@ -54,6 +54,6 @@ problem.
     :title: Datasource for S3 - Amazon Simple Storage System
     :description: CakePHP Article related to datasource,Cloud,eskil,s,amazon web services,Case Studies
     :keywords: datasource,Cloud,eskil,s,amazon web services,Case Studies
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 eskil
     :category: case_studies
 

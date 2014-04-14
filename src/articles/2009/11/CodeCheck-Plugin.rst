@@ -1,7 +1,7 @@
 CodeCheck Plugin
 ================
 
-by %s on November 05, 2009
+by petteyg on November 05, 2009
 
 A plugin to check whether your code follows Cake conventions.
 It is unlikely that I will keep the code blocks below up to date.
@@ -199,6 +199,6 @@ plugins/code_check/vendors/shells/tasks/code_whitespace.php
     :title: CodeCheck Plugin
     :description: CakePHP Article related to code,coding,convention,Plugins
     :keywords: code,coding,convention,Plugins
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 petteyg
     :category: plugins
 

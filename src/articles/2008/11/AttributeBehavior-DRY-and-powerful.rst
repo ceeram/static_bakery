@@ -1,7 +1,7 @@
 AttributeBehavior - DRY and powerful
 ====================================
 
-by %s on November 04, 2008
+by taylor.luk on November 04, 2008
 
 Another piece taken inspiration from a somewhat similar AliasBehavior,
 but most of the time u to do more than aliasing. What about a simple
@@ -290,6 +290,6 @@ Model Class:
     :title: AttributeBehavior - DRY and powerful
     :description: CakePHP Article related to model,behavior,attribute,dry,attributes,callback,virtual,computed,Behaviors
     :keywords: model,behavior,attribute,dry,attributes,callback,virtual,computed,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 taylor.luk
     :category: behaviors
 

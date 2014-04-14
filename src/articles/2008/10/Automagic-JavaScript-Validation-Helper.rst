@@ -1,7 +1,7 @@
 Automagic JavaScript Validation Helper
 ======================================
 
-by %s on October 26, 2008
+by mattc on October 26, 2008
 
 This helper takes your model validation rules and converts them to
 JavaScript so they can be applied in the client's browser before
@@ -408,6 +408,6 @@ this feature set the list in your bootstrap.php:
     :title: Automagic JavaScript Validation Helper
     :description: CakePHP Article related to validation,jquery,Helpers
     :keywords: validation,jquery,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 mattc
     :category: helpers
 

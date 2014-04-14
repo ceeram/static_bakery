@@ -1,7 +1,7 @@
 Improve apache perfomance by .htaccess
 ======================================
 
-by %s on September 02, 2011
+by luisarmando on September 02, 2011
 
 Here is some idea in improving apache performance by adding some lines
 in the app/webroot/.htacces.
@@ -49,6 +49,6 @@ caching.html`_
     :title: Improve apache perfomance by .htaccess
     :description: CakePHP Article related to ,Articles
     :keywords: ,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 luisarmando
     :category: articles
 

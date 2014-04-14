@@ -1,7 +1,7 @@
 Configure Plugin
 ================
 
-by %s on August 22, 2010
+by interlock on August 22, 2010
 
 Override and set new values from an admin interface. Allowing you to
 distribute a default /app/configs/core.php and then customize it for a
@@ -252,6 +252,6 @@ More
     :title: Configure Plugin
     :description: CakePHP Article related to admin,plugin,configure,Plugins
     :keywords: admin,plugin,configure,Plugins
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 interlock
     :category: plugins
 

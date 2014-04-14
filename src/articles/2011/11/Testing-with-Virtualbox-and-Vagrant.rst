@@ -1,7 +1,7 @@
 Testing with Virtualbox and Vagrant
 ===================================
 
-by %s on November 04, 2011
+by connrs on November 04, 2011
 
 Getting a good test environment running on your machine can be a chore
 when you have to worry about OS upgrades that break paths and
@@ -189,6 +189,6 @@ it eg:
     :title: Testing with Virtualbox and Vagrant
     :description: CakePHP Article related to testing,Tutorials
     :keywords: testing,Tutorials
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 connrs
     :category: tutorials
 

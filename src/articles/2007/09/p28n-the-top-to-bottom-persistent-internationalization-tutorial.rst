@@ -1,7 +1,7 @@
 p28n, the top to bottom persistent internationalization tutorial.
 =================================================================
 
-by %s on September 12, 2007
+by p0windah on September 12, 2007
 
 For some developers, allowing a website to support multiple languages
 is essential. Luckily cakePHP 1.2 has the foundations available to
@@ -320,6 +320,6 @@ it'll reciprocate.
     :title: p28n, the top to bottom persistent internationalization tutorial.
     :description: CakePHP Article related to i18n,UTF8,multibyte,l10n,language support,p28n,multiple languages,Tutorials
     :keywords: i18n,UTF8,multibyte,l10n,language support,p28n,multiple languages,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 p0windah
     :category: tutorials
 

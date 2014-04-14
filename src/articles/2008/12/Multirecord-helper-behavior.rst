@@ -1,7 +1,7 @@
 Multirecord helper/behavior
 ===========================
 
-by %s on December 29, 2008
+by eskil on December 29, 2008
 
 Edit and add multiple record forms. A behavior and helper working
 together to create multiple records form in the same way
@@ -666,6 +666,6 @@ More
     :title: Multirecord helper/behavior
     :description: CakePHP Article related to behavior,form,multirecord,eskil,Case Studies
     :keywords: behavior,form,multirecord,eskil,Case Studies
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 eskil
     :category: case_studies
 

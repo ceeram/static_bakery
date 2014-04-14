@@ -1,7 +1,7 @@
 Cakephp V2 without a database (Fixed)
 =====================================
 
-by %s on January 19, 2012
+by Primordial on January 19, 2012
 
 This bug has now been fixed https://github.com/cakephp/cakephp/commit/
 6aa08b5f52955d15fb7e44ed28efcd8156c958d2
@@ -56,6 +56,6 @@ That’s all folks.
     :title: Cakephp V2 without a database (Fixed)
     :description: CakePHP Article related to no database,Articles
     :keywords: no database,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 Primordial
     :category: articles
 

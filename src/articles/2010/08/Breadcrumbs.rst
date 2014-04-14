@@ -1,7 +1,7 @@
 Breadcrumbs
 ===========
 
-by %s on August 14, 2010
+by rees on August 14, 2010
 
 This is my first contribution to cake's bakery. Here is Easy to use
 breadcrumbs, Adding this functionality to your website is 'peace of
@@ -169,6 +169,6 @@ Controller Class:
     :title: Breadcrumbs
     :description: CakePHP Article related to navigation,Breadcrumbs,Components
     :keywords: navigation,Breadcrumbs,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 rees
     :category: components
 

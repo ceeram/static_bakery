@@ -1,7 +1,7 @@
 PluginHandler to load configuration and callbacks for plugins
 =============================================================
 
-by %s on January 31, 2010
+by sky_l3ppard on January 31, 2010
 
 Purpose of this component is to make plugins more powerful by adding a
 callbacks from any controller to trigger before or after any
@@ -258,6 +258,6 @@ Any improvements and ideas are very welcome, enjoy.
     :title: PluginHandler to load configuration and callbacks for plugins
     :description: CakePHP Article related to plugins,plugin config,sky leppard,hooks,callbacks,plugin component,Components
     :keywords: plugins,plugin config,sky leppard,hooks,callbacks,plugin component,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 sky_l3ppard
     :category: components
 

@@ -1,7 +1,7 @@
 Tree Helper
 ===========
 
-by %s on September 24, 2006
+by MrRio on September 24, 2006
 
 A helper to format the output from findAllThreaded() into a HTML list.
 
@@ -74,6 +74,6 @@ Helper Class:
     :title: Tree Helper
     :description: CakePHP Article related to tree,threaded,thread,list,Helpers
     :keywords: tree,threaded,thread,list,Helpers
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 MrRio
     :category: helpers
 

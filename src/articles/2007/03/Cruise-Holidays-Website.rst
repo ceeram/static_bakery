@@ -1,7 +1,7 @@
 Cruise Holidays Website
 =======================
 
-by %s on March 29, 2007
+by neilc on March 29, 2007
 
 The site is for a cruise company that has 2 ships and offers about 125
 cruises per year around the Mediterranean and across the Atlantic.
@@ -64,6 +64,6 @@ application will be developed twice as rapidly!
     :title: Cruise Holidays Website
     :description: CakePHP Article related to ,Case Studies
     :keywords: ,Case Studies
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 neilc
     :category: case_studies
 

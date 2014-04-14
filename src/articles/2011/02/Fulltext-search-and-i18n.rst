@@ -1,7 +1,7 @@
 Fulltext search and i18n
 ========================
 
-by %s on February 17, 2011
+by macjoost on February 17, 2011
 
 Fulltext MySQL search using MATCH () AGAINST () and the i18n tables
 requires a more complex search query.
@@ -41,6 +41,6 @@ That should be it!
     :title: Fulltext search and i18n
     :description: CakePHP Article related to i18n,fulltext,mysql,match against,Tutorials
     :keywords: i18n,fulltext,mysql,match against,Tutorials
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 macjoost
     :category: tutorials
 

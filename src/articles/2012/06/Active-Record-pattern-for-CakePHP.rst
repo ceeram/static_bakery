@@ -1,7 +1,7 @@
 Active Record pattern for CakePHP
 =================================
 
-by %s on June 29, 2012
+by brunob on June 29, 2012
 
 I wanted to build a state engine with CakePHP, and I realize that I
 needed a kind of Active Record pattern. So I first built a behavior
@@ -269,6 +269,6 @@ needed I could have set it to another one.
     :title: Active Record pattern for CakePHP
     :description: CakePHP Article related to ActiveRecord Behavior,Articles
     :keywords: ActiveRecord Behavior,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 brunob
     :category: articles
 

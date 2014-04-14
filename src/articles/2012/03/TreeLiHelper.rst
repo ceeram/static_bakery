@@ -1,7 +1,7 @@
 TreeLiHelper
 ============
 
-by %s on March 15, 2012
+by filippi on March 15, 2012
 
 Helper para criar lista html com links nos nós sem filhos gerados por
 uma tree->generateTreeList() no cakephp 2.1
@@ -113,6 +113,6 @@ PHP Snippet:
     :title: TreeLiHelper 
     :description: CakePHP Article related to tree,list,generateList,tree behavior,Helpers
     :keywords: tree,list,generateList,tree behavior,Helpers
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 filippi
     :category: helpers
 

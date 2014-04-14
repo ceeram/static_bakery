@@ -1,7 +1,7 @@
 SQL INSERT with known primaryKey from CakePHP Model::save()
 ===========================================================
 
-by %s on November 23, 2010
+by Iiridayn on November 23, 2010
 
 I've asked myself and others quite a number of times if this is even
 possible in CakePHP, and always, always the answer has been that since
@@ -57,6 +57,6 @@ find it.
     :title: SQL INSERT with known primaryKey from CakePHP Model::save()
     :description: CakePHP Article related to model,save,id,hack,primaryKey,Articles
     :keywords: model,save,id,hack,primaryKey,Articles
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 Iiridayn
     :category: articles
 

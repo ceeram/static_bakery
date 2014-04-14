@@ -1,7 +1,7 @@
 Clean urls with isapi rewrite on iis
 ====================================
 
-by %s on January 11, 2007
+by Yuka on January 11, 2007
 
 Forced to deal with a windows based server, without apache and
 effectively also mod_rewrite? But, after much complaining and begging
@@ -45,6 +45,6 @@ servers docroot, as it should be.
     :title: Clean urls with isapi rewrite on iis
     :description: CakePHP Article related to installation,behaviour,rewrties routes url,Snippets
     :keywords: installation,behaviour,rewrties routes url,Snippets
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Yuka
     :category: snippets
 

@@ -2,7 +2,7 @@ AuthExt a small Auth extension to set permission on user belonging to
 several groups/roles.
 =====================
 
-by %s on July 29, 2008
+by francky06l on July 29, 2008
 
 On google group I have seen many question about Auth-Acl usage for
 users having several roles or belonging to different groups. There are
@@ -324,6 +324,6 @@ I hope that can help, remarks and comments are welcome.
     :title: AuthExt a small Auth extension to set permission on user belonging to several groups/roles.
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 francky06l
     :category: components
 

@@ -1,7 +1,7 @@
 Creating PDF files with Html2ps/Html2pdf
 ========================================
 
-by %s on June 26, 2010
+by Casmo on June 26, 2010
 
 Html2ps (also known as Html2pdf) is a free PHP tool wich allows users
 to create their own PDF files from a complete designed html page. The
@@ -183,6 +183,6 @@ article please submit them!
     :title: Creating PDF files with Html2ps/Html2pdf
     :description: CakePHP Article related to pdf,htmlps,invoices,htmlpdf,Components
     :keywords: pdf,htmlps,invoices,htmlpdf,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 Casmo
     :category: components
 

@@ -1,7 +1,7 @@
 Flow Player Video Helper
 ========================
 
-by %s on June 13, 2008
+by Stas on June 13, 2008
 
 This helper will add Flowplayer flash video player to your page. Note:
 With this helper you can add only one player. Though, this helper is
@@ -118,6 +118,6 @@ Thats all, falks!
     :title: Flow Player Video Helper
     :description: CakePHP Article related to flv,Helpers
     :keywords: flv,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Stas
     :category: helpers
 

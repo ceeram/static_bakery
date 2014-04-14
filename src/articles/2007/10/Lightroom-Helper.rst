@@ -1,7 +1,7 @@
 Lightroom Helper
 ================
 
-by %s on October 10, 2007
+by drswank on October 10, 2007
 
 This is a simple helper for people who want to use the
 [b]lightbox.js[/b]
@@ -96,6 +96,6 @@ drswank
     :title: Lightroom Helper
     :description: CakePHP Article related to image,helpers,img,lightbox.js,lightbox,Helpers
     :keywords: image,helpers,img,lightbox.js,lightbox,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 drswank
     :category: helpers
 

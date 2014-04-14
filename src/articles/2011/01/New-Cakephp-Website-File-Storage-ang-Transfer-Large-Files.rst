@@ -1,7 +1,7 @@
 New Cakephp Website : File Storage ang Transfer Large Files
 ===========================================================
 
-by %s on January 04, 2011
+by AppsBender10 on January 04, 2011
 
 In making this website flexibility and efficiency of use be developed,
 I continuously work to make its navigation faster and more accessible
@@ -26,6 +26,6 @@ Preview:`http://www.appsbender.com/blog/a-whole-new-application`_
     :title: New Cakephp Website : File Storage ang Transfer Large Files 
     :description: CakePHP Article related to file storage,cakephp website,appsbender,file transfer,Articles
     :keywords: file storage,cakephp website,appsbender,file transfer,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 AppsBender10
     :category: articles
 

@@ -1,7 +1,7 @@
 Code Authors, Please mention the CakePHP version!
 =================================================
 
-by %s on October 22, 2011
+by saidbakr on October 22, 2011
 
 Currently, we have four versions of CakePHP. I think that it is very
 important and time saving for developers to mention the target version
@@ -29,6 +29,6 @@ possible to be as the following: -N/A -CakePHP 1.2.x -CakePHP 1.3.x
     :title: Code Authors, Please mention the CakePHP version!
     :description: CakePHP Article related to CakePHP,code,versions,General Interest
     :keywords: CakePHP,code,versions,General Interest
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 saidbakr
     :category: general_interest
 

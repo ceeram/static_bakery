@@ -1,7 +1,7 @@
 Captcha component with PhpCaptcha
 =================================
 
-by %s on June 09, 2007
+by spout on June 09, 2007
 
 PhpCaptcha is a library for generating visual and audio CAPTCHAs
 (completely automated public Turing test to tell computers and humans
@@ -170,6 +170,6 @@ And voilï¿½
     :title: Captcha component with PhpCaptcha
     :description: CakePHP Article related to image,captcha,form,audio,Components
     :keywords: image,captcha,form,audio,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 spout
     :category: components
 

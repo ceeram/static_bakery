@@ -1,7 +1,7 @@
 Tripeo - Reviews website powered by Cakephp
 ===========================================
 
-by %s on March 10, 2010
+by PumpInteractive on March 10, 2010
 
 Tripeo is a community for travellers to share their experiences and
 reviews for hotels, resorts, and accommodations.
@@ -108,6 +108,6 @@ Partner/Pump Interactive
     :title: Tripeo - Reviews website powered by Cakephp
     :description: CakePHP Article related to CakePHP,hotel reviews,facebook connect,sifr,Case Studies
     :keywords: CakePHP,hotel reviews,facebook connect,sifr,Case Studies
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 PumpInteractive
     :category: case_studies
 

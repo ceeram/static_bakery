@@ -1,7 +1,7 @@
 Little FacebookHelper
 =====================
 
-by %s on September 30, 2010
+by Tidus on September 30, 2010
 
 Hello Cakers and Bakers! I've built a little FacebookHelper. Actually
 the API has two functions wich you can use to integrate some cool
@@ -319,6 +319,6 @@ Have fun with it, please comment.
     :title: Little FacebookHelper
     :description: CakePHP Article related to helper,social media,facebook,like,Helpers
     :keywords: helper,social media,facebook,like,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 Tidus
     :category: helpers
 

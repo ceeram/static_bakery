@@ -1,7 +1,7 @@
 CakeFest 2014: Madrid, Spain
 ============================
 
-by %s on February 18, 2014
+by jameswatts on February 18, 2014
 
 Join us at CakeFest 2014, the annual CakePHP conference, held this
 year in Madrid, Spain, from the 21st until the 24th of August, and
@@ -81,6 +81,6 @@ well as the sponsor packages currently available.
     :title: CakeFest 2014: Madrid, Spain
     :description: CakePHP Article related to CakePHP,cakefest,News
     :keywords: CakePHP,cakefest,News
-    :copyright: Copyright 2014 
+    :copyright: Copyright 2014 jameswatts
     :category: news
 

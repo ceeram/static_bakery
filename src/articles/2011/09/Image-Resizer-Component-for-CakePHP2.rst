@@ -1,7 +1,7 @@
 Image Resizer Component for CakePHP2
 ====================================
 
-by %s on September 20, 2011
+by mdunham918 on September 20, 2011
 
 This is a very easy to use image resize component that was built for
 cakephp 2. Download the files or follow the progress at
@@ -23,6 +23,6 @@ Get the source and usage instructions here:
     :title: Image Resizer Component for CakePHP2
     :description: CakePHP Article related to component,resize image,cakephp2,Components
     :keywords: component,resize image,cakephp2,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 mdunham918
     :category: components
 

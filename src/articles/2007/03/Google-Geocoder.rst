@@ -1,7 +1,7 @@
 Google Geocoder
 ===============
 
-by %s on March 16, 2007
+by SayB on March 16, 2007
 
 This is a wonderful component that will retrieve the latitude and
 longitude of any given address.
@@ -144,6 +144,6 @@ longitudes and latitudes of your addresses.
     :title: Google Geocoder
     :description: CakePHP Article related to google,component,Geocoder,Google Maps,google-component,Components
     :keywords: google,component,Geocoder,Google Maps,google-component,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 SayB
     :category: components
 

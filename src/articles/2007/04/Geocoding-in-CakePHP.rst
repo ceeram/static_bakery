@@ -1,7 +1,7 @@
 Geocoding in CakePHP
 ====================
 
-by %s on April 13, 2007
+by nate on April 13, 2007
 
 A couple of weeks ago, I was building an event management system which
 required that people be able to search events near them. I found
@@ -282,6 +282,6 @@ more code examples and API integrations will be appearing shortly.
     :title: Geocoding in CakePHP
     :description: CakePHP Article related to google,api,Google Maps,geolocation,geocode,yahoo,latitude,coordinates,longitude,intabox,Tutorials
     :keywords: google,api,Google Maps,geolocation,geocode,yahoo,latitude,coordinates,longitude,intabox,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 nate
     :category: tutorials
 

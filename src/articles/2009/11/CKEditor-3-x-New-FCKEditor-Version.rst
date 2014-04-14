@@ -1,7 +1,7 @@
 CKEditor 3.x - New FCKEditor Version
 ====================================
 
-by %s on November 08, 2009
+by Valkum on November 08, 2009
 
 Now FCKEditor is called CKEditor. And here is an running Version of
 CKEditor and CakePHP. CKEditor is an WYSIWYG Javascript Editor.
@@ -103,6 +103,6 @@ Javascript helper must be included. ($helpers)
     :title: CKEditor 3.x - New FCKEditor Version
     :description: CakePHP Article related to WYSIWYG,helper,session,fck,editor,authentication,ck,Helpers
     :keywords: WYSIWYG,helper,session,fck,editor,authentication,ck,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Valkum
     :category: helpers
 

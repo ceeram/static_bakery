@@ -1,7 +1,7 @@
 Debugging with FirePHP
 ======================
 
-by %s on August 20, 2010
+by HeathNail on August 20, 2010
 
 Don't use this. Use [url]http://github.com/cakephp/debug_kit[/url]
 
@@ -260,6 +260,6 @@ Heath
     :title: Debugging with FirePHP
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 HeathNail
     :category: tutorials
 

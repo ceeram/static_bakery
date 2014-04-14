@@ -1,7 +1,7 @@
 Paginating with Fulltext Searches
 =================================
 
-by %s on August 17, 2008
+by britg on August 17, 2008
 
 This a short tutorial on how to implement pagination with MYSQL full
 text searches. Requirements to use this implementation are CakePHP 1.2
@@ -45,6 +45,6 @@ normally handle a paginated variable.
     :title: Paginating with Fulltext Searches
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 britg
     :category: tutorials
 

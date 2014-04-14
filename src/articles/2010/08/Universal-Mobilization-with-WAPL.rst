@@ -1,7 +1,7 @@
 Universal Mobilization with WAPL
 ================================
 
-by %s on August 25, 2010
+by petteyg on August 25, 2010
 
 Some potential future users of my current project requested mobile
 accessibility. Your users might appreciate the same. I found WAPL to
@@ -321,6 +321,6 @@ I'll be updating it :)
     :title: Universal Mobilization with WAPL
     :description: CakePHP Article related to mobile,wml,wapl,Tutorials
     :keywords: mobile,wml,wapl,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 petteyg
     :category: tutorials
 

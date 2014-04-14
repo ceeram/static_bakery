@@ -1,7 +1,7 @@
 Jquery Validation Helper
 ========================
 
-by %s on March 12, 2014
+by abdulkhaliq on March 12, 2014
 
 Hi, I'm using Cakephp 2.4.2. I want to validate my form using Jquery
 Validation. I have 3 different forms on a page. Please help me to
@@ -14,6 +14,6 @@ Controller, Model, view
     :title: Jquery Validation Helper
     :description: CakePHP Article related to helper,jquery validation,Helpers
     :keywords: helper,jquery validation,Helpers
-    :copyright: Copyright 2014 
+    :copyright: Copyright 2014 abdulkhaliq
     :category: helpers
 

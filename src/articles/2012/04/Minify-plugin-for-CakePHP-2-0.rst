@@ -1,7 +1,7 @@
 Minify plugin for CakePHP 2.0+
 ==============================
 
-by %s on April 04, 2012
+by maurymmarques on April 04, 2012
 
 `Minify`_ is an application that combines multiple CSS or Javascript
 files, removes unnecessary whitespace and comments, and serves them
@@ -96,6 +96,6 @@ Any criticism or suggestion is welcome on
     :title: Minify plugin for CakePHP 2.0+
     :description: CakePHP Article related to javascript,CSS,CakePHP,plugin,Compression,performance,minify,Plugins
     :keywords: javascript,CSS,CakePHP,plugin,Compression,performance,minify,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 maurymmarques
     :category: plugins
 

@@ -1,7 +1,7 @@
 Another Jamal Helper
 ====================
 
-by %s on June 25, 2008
+by guva23 on June 25, 2008
 
 Jamal is an MVC framework for Javascript; it sounds stupid, but it
 makes it easy to understand code in retrospect. This helper is based
@@ -274,6 +274,6 @@ Helper Class:
     :title: Another Jamal Helper
     :description: CakePHP Article related to mvc,jamal,Helpers
     :keywords: mvc,jamal,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 guva23
     :category: helpers
 

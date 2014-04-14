@@ -1,7 +1,7 @@
 Getting Tidy.
 =============
 
-by %s on January 14, 2008
+by zeRUS on January 14, 2008
 
 5 minutes job to get a fair markup validation implant.
 
@@ -136,6 +136,6 @@ Later.
     :title: Getting Tidy.
     :description: CakePHP Article related to markup,xhtml,tidy,Tutorials
     :keywords: markup,xhtml,tidy,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 zeRUS
     :category: tutorials
 

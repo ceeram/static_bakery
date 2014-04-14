@@ -1,7 +1,7 @@
 Use different configs for different environments
 ================================================
 
-by %s on August 29, 2010
+by stevena0 on August 29, 2010
 
 Coming from Rails, I was surprised that I couldn't find any support
 for multiple configuration environments in CakePHP. There were a
@@ -64,6 +64,6 @@ there is to it.
     :title: Use different configs for different environments
     :description: CakePHP Article related to multiple,config,Snippets
     :keywords: multiple,config,Snippets
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 stevena0
     :category: snippets
 

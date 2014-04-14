@@ -1,7 +1,7 @@
 JSMin Helper Compress and cache javascript
 ==========================================
 
-by %s on December 26, 2007
+by markstory on December 26, 2007
 
 JSMinHelper offers an easy to use interface for compressing and
 caching javascript files, reducing bandwidth and server load.
@@ -291,6 +291,6 @@ how to improve the helper I would love to hear them.
     :title: JSMin Helper Compress and cache javascript
     :description: CakePHP Article related to JSMin,Helpers
     :keywords: JSMin,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 markstory
     :category: helpers
 

@@ -1,7 +1,7 @@
 Happy Holiday yule cake - CakePHP 2.0-dev released
 ==================================================
 
-by %s on December 26, 2010
+by markstory on December 26, 2010
 
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.0.0-dev. This is the first packaged release of the 2.x
@@ -91,6 +91,6 @@ Links
     :title: Happy Holiday yule cake - CakePHP 2.0-dev released 
     :description: CakePHP Article related to CakePHP,releases,News
     :keywords: CakePHP,releases,News
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 markstory
     :category: news
 

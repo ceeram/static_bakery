@@ -1,7 +1,7 @@
 Flexible controller and modelpaths
 ==================================
 
-by %s on May 09, 2007
+by Dyflexis on May 09, 2007
 
 This short tutorial will show you how to organize your model and
 controller in subfolders of the controllers and models folders!
@@ -44,6 +44,6 @@ I hope this is useful to you!
     :title: Flexible controller and modelpaths
     :description: CakePHP Article related to subfolders,organize,bootstrap,Tutorials
     :keywords: subfolders,organize,bootstrap,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Dyflexis
     :category: tutorials
 

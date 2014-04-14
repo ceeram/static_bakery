@@ -1,7 +1,7 @@
 SecureGet Component
 ===================
 
-by %s on September 10, 2007
+by francky06l on September 10, 2007
 
 I was searching a simple way to "secure" a bit the links in my cake
 application. Indeed everyone had this question "what if someone types
@@ -254,6 +254,6 @@ welcome.
     :title: SecureGet Component
     :description: CakePHP Article related to security,Components
     :keywords: security,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 francky06l
     :category: components
 

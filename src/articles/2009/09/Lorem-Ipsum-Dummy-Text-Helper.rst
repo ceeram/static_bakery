@@ -1,7 +1,7 @@
 Lorem Ipsum (Dummy Text) Helper
 ===============================
 
-by %s on September 23, 2009
+by skylersully on September 23, 2009
 
 This helper will help display dummy text throughout your application!
 Why would this be helpful to you? If you're building an app, it's nice
@@ -198,6 +198,6 @@ Enjoy. :)
     :title: Lorem Ipsum (Dummy Text) Helper
     :description: CakePHP Article related to helper,text,dummy,lorem,ipsum,Helpers
     :keywords: helper,text,dummy,lorem,ipsum,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 skylersully
     :category: helpers
 

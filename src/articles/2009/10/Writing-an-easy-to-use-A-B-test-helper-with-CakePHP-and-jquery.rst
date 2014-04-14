@@ -1,7 +1,7 @@
 Writing an easy to use A/B test helper with CakePHP and jquery
 ==============================================================
 
-by %s on October 22, 2009
+by hendler on October 22, 2009
 
 Knowing what is driving the user experience is key to the success of
 an application. Subtle changes in the interface can cause dramatic
@@ -602,6 +602,6 @@ Thanks to the CakePHP community on IRC for reviewing the article.
     :title: Writing an easy to use A/B test helper with CakePHP and jquery
     :description: CakePHP Article related to helpers,testing,jquery,abtests,Helpers
     :keywords: helpers,testing,jquery,abtests,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 hendler
     :category: helpers
 

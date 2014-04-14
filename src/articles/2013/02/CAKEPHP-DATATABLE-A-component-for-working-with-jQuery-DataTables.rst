@@ -1,7 +1,7 @@
 CAKEPHP-DATATABLE - A component for working with jQuery DataTables
 ==================================================================
 
-by %s on February 18, 2013
+by systematical on February 18, 2013
 
 CakePHP-Datables provides server-side interoperability between CakePHP
 2.x and the jQuery DataTables plugin.
@@ -40,6 +40,6 @@ jquery-datatables/`_
     :title: CAKEPHP-DATATABLE - A component for working with jQuery DataTables
     :description: CakePHP Article related to datatables,Components
     :keywords: datatables,Components
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 systematical
     :category: components
 

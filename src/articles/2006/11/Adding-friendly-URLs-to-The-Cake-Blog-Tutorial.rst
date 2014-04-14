@@ -1,7 +1,7 @@
 Adding friendly URLs to The Cake Blog Tutorial
 ==============================================
 
-by %s on November 27, 2006
+by mariano on November 27, 2006
 
 On this tutorial we'll learn how to modify The Cake Blog Tutorial to
 allow friendly URLs when accessing posts.
@@ -313,6 +313,6 @@ BAKE ON
     :title: Adding friendly URLs to The Cake Blog Tutorial
     :description: CakePHP Article related to model,url,blog,post,friendly,seo,beforeSave,Tutorials
     :keywords: model,url,blog,post,friendly,seo,beforeSave,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 mariano
     :category: tutorials
 

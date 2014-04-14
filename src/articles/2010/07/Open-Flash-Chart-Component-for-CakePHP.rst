@@ -1,7 +1,7 @@
 Open Flash Chart Component for CakePHP
 ======================================
 
-by %s on July 03, 2010
+by cakephpvn on July 03, 2010
 
 This is my first component for CakePHP. This component help to draw
 chart using open flash chart. The first version support line,
@@ -272,6 +272,6 @@ Controller Class:
     :title: Open Flash Chart Component for CakePHP
     :description: CakePHP Article related to chart,ofc,open flash chart,Components
     :keywords: chart,ofc,open flash chart,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 cakephpvn
     :category: components
 

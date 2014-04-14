@@ -2,7 +2,7 @@ Combinator Plugin: Combine, minify and cache CSS and JS files in
 CakePHP 2.1
 ===========
 
-by %s on May 19, 2012
+by joshua.paling on May 19, 2012
 
 Easily combine, minify and cache Javascript and CSS files for faster
 load times.
@@ -36,6 +36,6 @@ and open source. Please let me know if not.
     :title: Combinator Plugin: Combine, minify and cache CSS and JS files in CakePHP 2.1
     :description: CakePHP Article related to javascript,CSS,helper,cache,minify,combine,Plugins
     :keywords: javascript,CSS,helper,cache,minify,combine,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 joshua.paling
     :category: plugins
 

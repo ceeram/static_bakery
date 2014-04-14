@@ -1,7 +1,7 @@
 StarSchema (OLAP) setup for reporting
 =====================================
 
-by %s on June 04, 2009
+by eimermusic on June 04, 2009
 
 When you need to gather statistics and reporting data from a large
 number of transactions (easily >1'000'000 rows) you need to transfer
@@ -579,6 +579,6 @@ anyone has any questions. Enjoy.
     :title: StarSchema (OLAP) setup for reporting
     :description: CakePHP Article related to model,schema,olap,statistics,report,star,Tutorials
     :keywords: model,schema,olap,statistics,report,star,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 eimermusic
     :category: tutorials
 

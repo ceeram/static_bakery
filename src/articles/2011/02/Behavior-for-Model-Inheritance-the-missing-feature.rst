@@ -1,7 +1,7 @@
 Behavior for Model Inheritance: the missing feature
 ===================================================
 
-by %s on February 19, 2011
+by santino83 on February 19, 2011
 
 After searching all around google and backery, reading the few
 articles that I've found, I've wrote my own class to implement model
@@ -427,6 +427,6 @@ Thank you for your reading
     :title: Behavior for Model Inheritance: the missing feature
     :description: CakePHP Article related to model,table,multiple,behavior,ORM,inheritance,sti,Single,MTI,Behaviors
     :keywords: model,table,multiple,behavior,ORM,inheritance,sti,Single,MTI,Behaviors
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 santino83
     :category: behaviors
 

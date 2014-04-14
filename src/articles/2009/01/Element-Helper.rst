@@ -1,7 +1,7 @@
 Element Helper
 ==============
 
-by %s on January 13, 2009
+by ping_ch on January 13, 2009
 
 I needed a simple, yet flexible way for backend users to add certain
 pre-defined HTML elements like Youtube videos to posts. I came up with
@@ -159,6 +159,6 @@ Helper Class:
     :title: Element Helper
     :description: CakePHP Article related to markup,elements,formatting,Helpers
     :keywords: markup,elements,formatting,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 ping_ch
     :category: helpers
 

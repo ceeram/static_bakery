@@ -1,7 +1,7 @@
 Creating Reusable Elements with requestAction
 =============================================
 
-by %s on April 12, 2007
+by gwoo on April 12, 2007
 
 This is a brief tutorial on using requestAction to produce reusable
 elements. Code samples for 1.1 and 1.2 are provided.
@@ -122,6 +122,6 @@ create reusable elements for your site, then this is the way to go.
     :title: Creating Reusable Elements with requestAction
     :description: CakePHP Article related to requestAction,elements,intabox,Tutorials
     :keywords: requestAction,elements,intabox,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 gwoo
     :category: tutorials
 

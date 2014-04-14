@@ -1,7 +1,7 @@
 session setflash with cool jquery effects
 =========================================
 
-by %s on December 07, 2010
+by webdevbit on December 07, 2010
 
 Hi, I am Gautam Lakum. I am a php web developer and love to use
 cakephp for custom applications. I love to share and post something
@@ -74,6 +74,6 @@ all. Let me know your feedback or changes in this.
     :title: session setflash with cool jquery effects
     :description: CakePHP Article related to session,session flash,setflash,Tutorials
     :keywords: session,session flash,setflash,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 webdevbit
     :category: tutorials
 

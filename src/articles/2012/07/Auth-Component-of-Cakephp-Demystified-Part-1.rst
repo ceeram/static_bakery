@@ -1,7 +1,7 @@
 Auth Component of Cakephp Demystified Part-1
 ============================================
 
-by %s on July 27, 2012
+by neil6502 on July 27, 2012
 
 how to setup basic authentication system...
 `Complete Toutorial....`_ *In today's Internet era most of the web
@@ -200,6 +200,6 @@ submit it with data to create new user...
     :title: Auth Component of Cakephp Demystified Part-1
     :description: CakePHP Article related to CakePHP,authcomponent,Articles
     :keywords: CakePHP,authcomponent,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 neil6502
     :category: articles
 

@@ -1,7 +1,7 @@
 HABTM Searching
 ===============
 
-by %s on October 22, 2008
+by Kumazatheef on October 22, 2008
 
 Some helpful HABTM magic for searching on the associations using a web
 form to pass the parameters.
@@ -548,6 +548,6 @@ Please leave some comments.
     :title: HABTM Searching
     :description: CakePHP Article related to HABTM,searching,Snippets
     :keywords: HABTM,searching,Snippets
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Kumazatheef
     :category: snippets
 

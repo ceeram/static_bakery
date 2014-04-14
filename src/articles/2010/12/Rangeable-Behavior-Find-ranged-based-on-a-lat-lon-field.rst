@@ -1,7 +1,7 @@
 Rangeable Behavior: Find ranged based on a lat/lon field
 ========================================================
 
-by %s on December 10, 2010
+by zeroasterisk on December 10, 2010
 
 After some really shoddy implementations of this functionality as
 components and whatnot, I finally made a clean and simple behavior
@@ -73,6 +73,6 @@ Offered under an MIT license. Do what you need.
     :title: Rangeable Behavior: Find ranged based on a lat/lon field
     :description: CakePHP Article related to behaviour,Zip,zipcode,range,radius,distance,Behaviors
     :keywords: behaviour,Zip,zipcode,range,radius,distance,Behaviors
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 zeroasterisk
     :category: behaviors
 

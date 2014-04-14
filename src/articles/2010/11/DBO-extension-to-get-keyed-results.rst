@@ -1,7 +1,7 @@
 DBO extension to get keyed results
 ==================================
 
-by %s on November 29, 2010
+by mbates on November 29, 2010
 
 I have often found the need to have the result of a find( 'all' )
 keyed to the tables id. I had been doing this in the code with an,
@@ -208,6 +208,6 @@ with the custom find instead of modifying the core find( 'all' ).
     :title: DBO extension to get keyed results
     :description: CakePHP Article related to dbo extension,Behaviors
     :keywords: dbo extension,Behaviors
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 mbates
     :category: behaviors
 

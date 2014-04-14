@@ -1,7 +1,7 @@
 Simple and Native MySQL Fulltext Behavior
 =========================================
 
-by %s on February 08, 2011
+by SMarek on February 08, 2011
 
 I will provide you simple Fulltext behavior. It's quite a simple. We
 can get it working in four steps
@@ -50,6 +50,6 @@ article. Thanks
     :title: Simple and Native MySQL Fulltext Behavior
     :description: CakePHP Article related to fulltext,behaviour,mysql,behavior,Articles
     :keywords: fulltext,behaviour,mysql,behavior,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 SMarek
     :category: articles
 

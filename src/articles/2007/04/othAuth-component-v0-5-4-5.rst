@@ -1,7 +1,7 @@
 othAuth component v0.5.4.5
 ==========================
 
-by %s on April 19, 2007
+by CraZyLeGs on April 19, 2007
 
 the component part of othAuth changes: 0.5.4.5: - Fixed a bug that was
 introduced by lately, missing / - Fixed a bug ( not really bug but oh
@@ -1502,6 +1502,6 @@ Component Class:
     :title: othAuth component v0.5.4.5
     :description: CakePHP Article related to user,access,login,othauth,permission,logout,component,restriction,Components
     :keywords: user,access,login,othauth,permission,logout,component,restriction,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 CraZyLeGs
     :category: components
 

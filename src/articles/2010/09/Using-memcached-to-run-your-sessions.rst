@@ -1,7 +1,7 @@
 Using memcached to run your sessions
 ====================================
 
-by %s on September 10, 2010
+by rynop on September 10, 2010
 
 This tutorial is intended for cakers who intend to make a scalable web
 app. Being familiar with php.ini, memcached and sessions is
@@ -133,6 +133,6 @@ leave a comment and i'll try to help you out. Good luck.
     :title: Using memcached to run your sessions
     :description: CakePHP Article related to memcached,cache,performance,scaling,optcode,sessions,Tutorials
     :keywords: memcached,cache,performance,scaling,optcode,sessions,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 rynop
     :category: tutorials
 

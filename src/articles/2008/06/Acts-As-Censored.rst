@@ -1,7 +1,7 @@
 Acts As Censored
 ================
 
-by %s on June 17, 2008
+by jmbennett on June 17, 2008
 
 Censor words from content.
 I needed to remove swearing etc from DB content for a recent charity
@@ -177,6 +177,6 @@ Usage:
     :title: Acts As Censored
     :description: CakePHP Article related to ,Behaviors
     :keywords: ,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 jmbennett
     :category: behaviors
 

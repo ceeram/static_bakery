@@ -1,7 +1,7 @@
 How to make CakePHP and 1&1 linux hosting bake together
 =======================================================
 
-by %s on April 22, 2007
+by glite on April 22, 2007
 
 In late 2003, [url=http://www.1and1.com]1&1 Internet, Inc.[/url]
 stormed the country with their US debut by offering free professional
@@ -49,6 +49,6 @@ classy.
     :title: How to make CakePHP and 1&1 linux hosting bake together
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 glite
     :category: tutorials
 

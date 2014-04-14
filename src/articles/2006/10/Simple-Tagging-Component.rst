@@ -1,7 +1,7 @@
 Simple Tagging Component
 ========================
 
-by %s on October 03, 2006
+by bgmill on October 03, 2006
 
 This is a quick and easy tagging component that allows you to handle
 text field, comma-separated input.
@@ -89,6 +89,6 @@ cakephp/`_)
     :title: Simple Tagging Component
     :description: CakePHP Article related to tag,tagging,tags,component,Components
     :keywords: tag,tagging,tags,component,Components
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 bgmill
     :category: components
 

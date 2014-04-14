@@ -1,7 +1,7 @@
 Oilfield App Needed in a Hurry
 ==============================
 
-by %s on September 23, 2006
+by BlenderStyle on September 23, 2006
 
 I was hired to design a new web application for an oilfield company.
 The trick was, they needed it in a hurry. After reading CakePHP's
@@ -47,6 +47,6 @@ reflection, I realize that everything about CakePHP is simply fast.
     :title: Oilfield App Needed in a Hurry
     :description: CakePHP Article related to inspiration,motivation,webapp,oilfield,experience,development,agile,Case Studies
     :keywords: inspiration,motivation,webapp,oilfield,experience,development,agile,Case Studies
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 BlenderStyle
     :category: case_studies
 

@@ -1,7 +1,7 @@
 Confirm the admin route usage https
 ===================================
 
-by %s on March 13, 2007
+by darkhero on March 13, 2007
 
 While entering the admin route, needing to be confirmed must use https
 to carry on an on-line, in order not to the user neglect, and use the
@@ -24,6 +24,6 @@ In app_controller.php
     :title: Confirm the admin route usage https
     :description: CakePHP Article related to admin,https,ssl,Snippets
     :keywords: admin,https,ssl,Snippets
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 darkhero
     :category: snippets
 

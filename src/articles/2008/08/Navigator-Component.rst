@@ -1,7 +1,7 @@
 Navigator Component
 ===================
 
-by %s on August 17, 2008
+by joebeeson on August 17, 2008
 
 A component to allow for URLs based off a Tree structure in your model
 I built this component to allow for URLs such as
@@ -70,6 +70,6 @@ For a more detailed explanation, please visit
     :title: Navigator Component
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 joebeeson
     :category: components
 

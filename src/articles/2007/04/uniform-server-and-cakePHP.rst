@@ -1,7 +1,7 @@
 uniform server and cakePHP
 ==========================
 
-by %s on April 12, 2007
+by yeastinflexion on April 12, 2007
 
 I wrote the tutorial about this on the cake wiki before it was taken
 down and i noticed a lot of links to that tutorial on the web which
@@ -111,6 +111,6 @@ it useful.
     :title: uniform server and cakePHP
     :description: CakePHP Article related to wamp,Tutorials
     :keywords: wamp,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 yeastinflexion
     :category: tutorials
 

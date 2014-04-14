@@ -1,7 +1,7 @@
 PHPMailer and Cake
 ==================
 
-by %s on May 27, 2011
+by scoutmastershake on May 27, 2011
 
 I was looking around eveywhere trying to find a some info on PHPMailer
 and cake the problem I was having was that when PHPMailer threw an
@@ -74,6 +74,6 @@ Example:
     :title: PHPMailer and Cake
     :description: CakePHP Article related to Email PHPMailer,CakePHP,phpmailer,cakephp 1.3,Tutorials
     :keywords: Email PHPMailer,CakePHP,phpmailer,cakephp 1.3,Tutorials
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 scoutmastershake
     :category: tutorials
 

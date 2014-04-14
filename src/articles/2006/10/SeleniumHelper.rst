@@ -1,7 +1,7 @@
 SeleniumHelper
 ==============
 
-by %s on October 04, 2006
+by dho on October 04, 2006
 
 A helper to make writing Selenium tests easier. See
 http://www.openqa.org/selenium-core/
@@ -26,6 +26,6 @@ For more information, see `http://cakebaker.42dh.com/tags/selenium`_
     :title: SeleniumHelper
     :description: CakePHP Article related to selenium,testing,Helpers
     :keywords: selenium,testing,Helpers
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 dho
     :category: helpers
 

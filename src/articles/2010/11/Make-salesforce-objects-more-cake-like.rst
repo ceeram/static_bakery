@@ -1,7 +1,7 @@
 Make salesforce objects more cake like
 ======================================
 
-by %s on November 30, 2010
+by mbates on November 30, 2010
 
 I've just started to use the salesforce datasource created by
 [url=http://bakery.cakephp.org/articles/cwestonr/2010/01/26/example-
@@ -86,6 +86,6 @@ salesforce after sending it some soql
     :title: Make salesforce objects more cake like
     :description: CakePHP Article related to datasource,salesforce,convert to cake array,Models
     :keywords: datasource,salesforce,convert to cake array,Models
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 mbates
     :category: models
 

@@ -1,7 +1,7 @@
 Digg Style Pagination
 =====================
 
-by %s on May 03, 2007
+by mattpuchlerz on May 03, 2007
 
 Looking for a fairly simple way to create pagination in a style
 similar to Digg? Check this out.
@@ -195,6 +195,6 @@ suggestions, comments are always welcome.
     :title: Digg Style Pagination
     :description: CakePHP Article related to digg,web2.0,Helpers
     :keywords: digg,web2.0,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 mattpuchlerz
     :category: helpers
 

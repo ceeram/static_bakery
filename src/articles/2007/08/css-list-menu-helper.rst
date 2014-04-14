@@ -1,7 +1,7 @@
 css list-menu helper
 ====================
 
-by %s on August 28, 2007
+by burzum on August 28, 2007
 
 A helper (method) to create a css formatable list-menu.
 I was looking for a good way to creating css formated list-menus that
@@ -78,6 +78,6 @@ I hope this helps not only me :)
     :title: css list-menu helper
     :description: CakePHP Article related to menu helper,menu,css-menu,menus,list-menu,Helpers
     :keywords: menu helper,menu,css-menu,menus,list-menu,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 burzum
     :category: helpers
 

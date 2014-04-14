@@ -1,7 +1,7 @@
 Adding a Google Map to your App
 ===============================
 
-by %s on June 23, 2007
+by lababidi on June 23, 2007
 
 For anyone looking to easily pop a Google Map into their CakePHP App,
 you've found the right spot.
@@ -477,6 +477,6 @@ lababidi (atat) mooder.org. Enjoy.
     :title: Adding a Google Map to your App
     :description: CakePHP Article related to google,map,Google Maps,geocoding,Tutorials
     :keywords: google,map,Google Maps,geocoding,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 lababidi
     :category: tutorials
 

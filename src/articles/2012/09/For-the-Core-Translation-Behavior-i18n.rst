@@ -1,7 +1,7 @@
 For the Core Translation Behavior (i18n)
 ========================================
 
-by %s on September 01, 2012
+by arod on September 01, 2012
 
 I started using the Core Translation Behavior. I discovered that if I
 added a record, it was only being added in ONE language. I don't know
@@ -86,6 +86,6 @@ me know if there's a better way to do it... or if you have troubles...
     :title: For the Core Translation Behavior (i18n)
     :description: CakePHP Article related to i18n translation behavior,Snippets
     :keywords: i18n translation behavior,Snippets
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 arod
     :category: snippets
 

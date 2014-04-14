@@ -1,7 +1,7 @@
 FileStorage plugin with optional Image Processing
 =================================================
 
-by %s on August 09, 2012
+by burzum on August 09, 2012
 
 This plugin is giving you the possibility to store files in virtually
 any kind of storage backend. This plugin is wrapping the Gaufrette
@@ -175,6 +175,6 @@ to report them.
     :title: FileStorage plugin with optional Image Processing
     :description: CakePHP Article related to plugin,upload,Files,file,amazon,image processing,storage,Plugins
     :keywords: plugin,upload,Files,file,amazon,image processing,storage,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 burzum
     :category: plugins
 

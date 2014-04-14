@@ -1,7 +1,7 @@
 MeioUpload Behavior
 ===================
 
-by %s on October 22, 2008
+by vbmendes on October 22, 2008
 
 A behavior to make the file uploads as simple as defining variables.
 After about one year trying to make the upload simple in CakePHP, I
@@ -51,6 +51,6 @@ And here id the link to the documentation:
     :title: MeioUpload Behavior
     :description: CakePHP Article related to behavior,upload,file upload,Behaviors
     :keywords: behavior,upload,file upload,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 vbmendes
     :category: behaviors
 

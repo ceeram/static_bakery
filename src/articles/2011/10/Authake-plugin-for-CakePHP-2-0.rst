@@ -1,7 +1,7 @@
 Authake plugin for CakePHP 2.0
 ==============================
 
-by %s on October 27, 2011
+by mxkocak on October 27, 2011
 
 Authake is finally arrived to CakePHP 2.0 and is (another) solution to
 manage users and groups and their rights in a CakePHP platform, as
@@ -75,6 +75,6 @@ $this->Authake->beforeFilter($this); }
     :title: Authake plugin for CakePHP 2.0
     :description: CakePHP Article related to plugin,authake,Plugins
     :keywords: plugin,authake,Plugins
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 mxkocak
     :category: plugins
 

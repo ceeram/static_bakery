@@ -1,7 +1,7 @@
 Baking Cakes with FirePHP
 =========================
 
-by %s on September 21, 2008
+by Warringer on September 21, 2008
 
 Some days ago I discovered the Firebug extension FirePHP while looking
 around for Firefox addons. The way to use Firebug to log Error and
@@ -106,6 +106,6 @@ I'm a little to new to Cake to be able to create one...
     :title: Baking Cakes with FirePHP
     :description: CakePHP Article related to debug,firephp,Tutorials
     :keywords: debug,firephp,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Warringer
     :category: tutorials
 

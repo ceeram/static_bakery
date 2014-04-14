@@ -1,7 +1,7 @@
 XSL transforms as a controller component
 ========================================
 
-by %s on July 28, 2007
+by yjaques on July 28, 2007
 
 If you're looking for how to conveniently perform XML/XSL transforms
 in cake this article is for you. There are several things to consider:
@@ -126,6 +126,6 @@ easy, just a line like this does the trick:
     :title: XSL transforms as a controller component
     :description: CakePHP Article related to Rss,xml,wordpress,xsl,Tutorials
     :keywords: Rss,xml,wordpress,xsl,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 yjaques
     :category: tutorials
 

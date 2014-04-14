@@ -1,7 +1,7 @@
 RESTful Web Services With CakePHP
 =================================
 
-by %s on January 22, 2007
+by sdevore.myopenid.com on January 22, 2007
 
 From [url]http://en.wikipedia.org/wiki/REST[/url] [quote]
 Representational State Transfer (REST) is a software architectural
@@ -180,6 +180,6 @@ information to the CakePHP backend.
     :title: RESTful Web Services With CakePHP
     :description: CakePHP Article related to REST,webservice,Tutorials
     :keywords: REST,webservice,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 sdevore.myopenid.com
     :category: tutorials
 

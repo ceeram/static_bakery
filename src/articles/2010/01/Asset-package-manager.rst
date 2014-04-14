@@ -1,7 +1,7 @@
 Asset package manager
 =====================
 
-by %s on January 05, 2010
+by mattalexx on January 05, 2010
 
 Manage asset packages like a Linux package manager
 
@@ -285,6 +285,6 @@ Helper Class:
     :title: Asset package manager
     :description: CakePHP Article related to assets,linux,package,Helpers
     :keywords: assets,linux,package,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 mattalexx
     :category: helpers
 

@@ -1,7 +1,7 @@
 Twilio Datasource
 =================
 
-by %s on June 07, 2010
+by aaroninfidel on June 07, 2010
 
 This is a basic Twilio Datasource for reading/creating text messages.
 
@@ -159,6 +159,6 @@ Similarly, saving a new text message:
     :title: Twilio Datasource
     :description: CakePHP Article related to api,REST,datasource,twilio,Models
     :keywords: api,REST,datasource,twilio,Models
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 aaroninfidel
     :category: models
 

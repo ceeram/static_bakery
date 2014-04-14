@@ -1,7 +1,7 @@
 CakePHP 2.1 Release Candidate is out
 ====================================
 
-by %s on February 20, 2012
+by lorenzo on February 20, 2012
 
 The first, and hopefully only, release candidate for CakePHP 2.1 was
 released. If you have an application running on 2.0 or planning to
@@ -119,6 +119,6 @@ Links
     :title: CakePHP 2.1 Release Candidate is out
     :description: CakePHP Article related to release,2.1.0,News
     :keywords: release,2.1.0,News
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 lorenzo
     :category: news
 

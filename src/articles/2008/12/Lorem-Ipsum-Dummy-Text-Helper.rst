@@ -1,7 +1,7 @@
 Lorem Ipsum - Dummy Text Helper
 ===============================
 
-by %s on December 29, 2008
+by pointlessjon on December 29, 2008
 
 [p]Tired of toggling between your widget, or lipsum.org, or your text
 file, etc. to pull in placeholder text?[/p] [p]Then [b]this helper is
@@ -158,6 +158,6 @@ trolls for making this helper possible
     :title: Lorem Ipsum - Dummy Text Helper
     :description: CakePHP Article related to greeking,dummy text,lorem ipsum,placeholder text,lipsum,Helpers
     :keywords: greeking,dummy text,lorem ipsum,placeholder text,lipsum,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 pointlessjon
     :category: helpers
 

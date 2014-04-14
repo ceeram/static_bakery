@@ -1,7 +1,7 @@
 Load Balancing and MySQL Master and Slaves
 ==========================================
 
-by %s on May 26, 2007
+by eagerterrier on May 26, 2007
 
 If you are currently using MySql master/slave replication for load
 balancing and wish to transport to cakePHP, it really couldn't be
@@ -84,6 +84,6 @@ With thanks to Nate and gwoo
     :title: Load Balancing and MySQL Master and Slaves
     :description: CakePHP Article related to useDbConfig,load balancing,slave,master,Tutorials
     :keywords: useDbConfig,load balancing,slave,master,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 eagerterrier
     :category: tutorials
 

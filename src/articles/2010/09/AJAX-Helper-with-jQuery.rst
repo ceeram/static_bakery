@@ -1,7 +1,7 @@
 AJAX Helper with jQuery
 =======================
 
-by %s on September 21, 2010
+by jozek000 on September 21, 2010
 
 AJAX Helper with jQuery. Some documentation and many examples on
 projects site.
@@ -83,6 +83,6 @@ Contact me if you find any problems.
     :title: AJAX Helper with jQuery
     :description: CakePHP Article related to javascript,AJAX,autocomplete,jquery,date picker,user interface,ui,dialog,Helpers
     :keywords: javascript,AJAX,autocomplete,jquery,date picker,user interface,ui,dialog,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 jozek000
     :category: helpers
 

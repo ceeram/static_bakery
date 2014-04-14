@@ -1,7 +1,7 @@
 Using CAKE_ADMIN for multiple user types
 ========================================
 
-by %s on May 09, 2007
+by skrebbel on May 09, 2007
 
 A simple hack allowing to use the functionality of CAKE_ADMIN for more
 than one usertype.
@@ -63,6 +63,6 @@ would cause BananaController::member_peel(3) to be invoked.
     :title: Using CAKE_ADMIN for multiple user types
     :description: CakePHP Article related to url,admin,members section,Snippets
     :keywords: url,admin,members section,Snippets
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 skrebbel
     :category: snippets
 

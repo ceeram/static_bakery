@@ -1,7 +1,7 @@
 Mod Rewrite on Godaddy Shared Hosting
 =====================================
 
-by %s on October 18, 2009
+by cguyer on October 18, 2009
 
 For those having trouble getting cake to work on godaddy.
 To get cake to work on a godaddy shared linux hosting account.
@@ -80,6 +80,6 @@ Let me know if this was helpful or you can build off of it!
     :title: Mod Rewrite on Godaddy Shared Hosting
     :description: CakePHP Article related to htaccess,godaddy,mod rewrite,Tutorials
     :keywords: htaccess,godaddy,mod rewrite,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 cguyer
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Showing database-errors
 =======================
 
-by %s on June 08, 2007
+by CodingisFun on June 08, 2007
 
 When the database raises an error Cake shows the text 'Please correct
 the errors below' without telling you what the error is. This tutorial
@@ -223,6 +223,6 @@ Modify your controllers to show the database-errors.
     :title: Showing database-errors
     :description: CakePHP Article related to database errors,Tutorials
     :keywords: database errors,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 CodingisFun
     :category: tutorials
 

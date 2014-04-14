@@ -1,7 +1,7 @@
 Maintaining an Application-independant Code Library
 ===================================================
 
-by %s on May 03, 2008
+by Sake on May 03, 2008
 
 As a developper for my web company, I often write cake
 components/helpers/etc that I reuse often throughout my various client
@@ -100,6 +100,6 @@ synchronization issues!
     :title: Maintaining an Application-independant Code Library
     :description: CakePHP Article related to config,configure,repository,code_management,Tutorials
     :keywords: config,configure,repository,code_management,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Sake
     :category: tutorials
 

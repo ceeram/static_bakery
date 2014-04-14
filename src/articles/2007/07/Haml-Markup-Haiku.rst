@@ -1,7 +1,7 @@
 Haml: Markup Haiku
 ==================
 
-by %s on July 15, 2007
+by chess64 on July 15, 2007
 
 Haml takes your gross, ugly templates and replaces them with veritable
 Haiku. Haml is based on one primary principal: [i]markup should be
@@ -53,6 +53,6 @@ As you can see, using helpers inside Haml is no trouble at all.
     :title: Haml: Markup Haiku
     :description: CakePHP Article related to Template,haml,Snippets
     :keywords: Template,haml,Snippets
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 chess64
     :category: snippets
 

@@ -1,7 +1,7 @@
 How to: Implement Dynamic Route in CakePHP
 ==========================================
 
-by %s on January 10, 2010
+by iworm on January 10, 2010
 
 You may want people to define the url of their site. Can we add
 dynamic route in order to send the request to corresponding
@@ -80,6 +80,6 @@ menus means the path.
     :title: How to: Implement Dynamic Route in CakePHP
     :description: CakePHP Article related to databse driven,dynamic route,Tutorials
     :keywords: databse driven,dynamic route,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 iworm
     :category: tutorials
 

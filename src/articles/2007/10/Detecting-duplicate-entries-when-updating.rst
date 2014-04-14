@@ -1,7 +1,7 @@
 Detecting duplicate entries when updating
 =========================================
 
-by %s on October 04, 2007
+by ben-xo on October 04, 2007
 
 Cake doesn't tell you the difference between an Model->save() that
 fails because of a validation error, and one that fails because of key
@@ -197,6 +197,6 @@ I hope this helps somebody!
     :title: Detecting duplicate entries when updating
     :description: CakePHP Article related to aftersave,duplicate,constraint,aftersavefailed,key,violation,mysql,Tutorials
     :keywords: aftersave,duplicate,constraint,aftersavefailed,key,violation,mysql,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 ben-xo
     :category: tutorials
 

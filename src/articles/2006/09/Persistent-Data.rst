@@ -1,7 +1,7 @@
 Persistent Data
 ===============
 
-by %s on September 23, 2006
+by jburns131 on September 23, 2006
 
 I'm going to show you how to create persistent data in your apps using
 Components, regardless of which Controller you're using. The reason
@@ -454,6 +454,6 @@ views.
     :title: Persistent Data
     :description: CakePHP Article related to component,Tutorials
     :keywords: component,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 jburns131
     :category: tutorials
 

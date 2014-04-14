@@ -1,7 +1,7 @@
 input field fixer
 =================
 
-by %s on August 23, 2007
+by sarimarton on August 23, 2007
 
 This is a small input helper function meant to check whether the input
 field's value is passed as a named URL argument. If the field is
@@ -32,6 +32,6 @@ included in the post data.
     :title: input field fixer
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 sarimarton
     :category: helpers
 

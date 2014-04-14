@@ -1,7 +1,7 @@
 Atlas kotasoft cakephp
 ======================
 
-by %s on September 25, 2009
+by atlascakephp on September 25, 2009
 
 Atlas cakephp is a generator web code, is based in bake of cakephp
 New application opensource, is now in beta version 0.1. This
@@ -20,6 +20,6 @@ Will be out next week.
     :title: Atlas kotasoft cakephp
     :description: CakePHP Article related to generator,webcode,atlascakephp,General Interest
     :keywords: generator,webcode,atlascakephp,General Interest
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 atlascakephp
     :category: general_interest
 

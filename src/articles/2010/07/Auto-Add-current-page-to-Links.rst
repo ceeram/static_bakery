@@ -1,7 +1,7 @@
 Auto Add "current_page" to Links
 ================================
 
-by %s on July 25, 2010
+by bravewhale on July 25, 2010
 
 A Helper class for automatically generating links with classes which
 are aware of their association to the current URL.
@@ -331,6 +331,6 @@ Helper Class:
     :title: Auto Add "current_page" to Links
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 bravewhale
     :category: helpers
 

@@ -1,7 +1,7 @@
 CakePHP 2.0.0 Beta && Smarty 3
 ==============================
 
-by %s on August 05, 2011
+by skler on August 05, 2011
 
 I try to integrate Smarty in cakephp 2.0 rendering.
 
@@ -109,6 +109,6 @@ var to specify that the template must be generated with smarty
     :title: CakePHP 2.0.0 Beta && Smarty 3
     :description: CakePHP Article related to smarty,cakephp 2.0,Code
     :keywords: smarty,cakephp 2.0,Code
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 skler
     :category: code
 

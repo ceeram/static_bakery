@@ -1,7 +1,7 @@
 Tag Cloud Component
 ===================
 
-by %s on August 24, 2009
+by Willyham on August 24, 2009
 
 This component will generate an associative array of tags and their
 frequency based on the models passed to it.
@@ -374,6 +374,6 @@ View Template:
     :title: Tag Cloud Component
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Willyham
     :category: components
 

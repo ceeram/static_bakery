@@ -1,7 +1,7 @@
 Building your first Twitter mash-up
 ===================================
 
-by %s on May 08, 2009
+by ics on May 08, 2009
 
 Simple tutorial to help you build your first twitter app
 
@@ -234,6 +234,6 @@ available methods.
     :title: Building your first Twitter mash-up
     :description: CakePHP Article related to twitter,mashup,Tutorials
     :keywords: twitter,mashup,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 ics
     :category: tutorials
 

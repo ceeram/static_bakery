@@ -1,7 +1,7 @@
 Maintain Static Web Pages with Adobe Contribute
 ===============================================
 
-by %s on January 17, 2009
+by Dino on January 17, 2009
 
 In a recent CakePHP 1.1 development project I needed to provide end
 users with the ability to independently maintain static web pages
@@ -117,6 +117,6 @@ please let me know
     :title: Maintain Static Web Pages with Adobe Contribute
     :description: CakePHP Article related to contribute,adobe,adobe contribute,Snippets
     :keywords: contribute,adobe,adobe contribute,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Dino
     :category: snippets
 

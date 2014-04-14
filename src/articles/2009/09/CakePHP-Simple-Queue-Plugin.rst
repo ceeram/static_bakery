@@ -1,7 +1,7 @@
 CakePHP Simple Queue Plugin
 ===========================
 
-by %s on September 04, 2009
+by MSeven on September 04, 2009
 
 This Plugin is an attempt to provide a basic, simple to use method to
 enable deferred job execution, without the hassle of setting up or
@@ -293,6 +293,6 @@ wiki at
     :title: CakePHP Simple Queue Plugin
     :description: CakePHP Article related to plugin,shell,queue,deferred,Plugins
     :keywords: plugin,shell,queue,deferred,Plugins
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 MSeven
     :category: plugins
 

@@ -2,7 +2,7 @@ Adding multilingualism to single language site without i18n and/or
 TranslateBehaviour
 ==================
 
-by %s on January 22, 2012
+by mormy on January 22, 2012
 
 I'm currently working on a site that requires multiple languages. As I
 didn't know this at the start of the project, I didn't prepare to use
@@ -249,6 +249,6 @@ fine. So if you like it, shout :)
     :title: Adding multilingualism to single language site without i18n and/or TranslateBehaviour
     :description: CakePHP Article related to translation,Internationalization,multilanguage,sessions,cakephp2,Articles
     :keywords: translation,Internationalization,multilanguage,sessions,cakephp2,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 mormy
     :category: articles
 

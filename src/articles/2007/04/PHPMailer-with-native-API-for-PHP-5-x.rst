@@ -1,7 +1,7 @@
 PHPMailer with native API for PHP 5.x
 =====================================
 
-by %s on April 10, 2007
+by kitten on April 10, 2007
 
 This tutorial on using PHPMailer with Cake
 (http://bakery.cakephp.org/articles/view/94) has a comment requesting
@@ -106,6 +106,6 @@ $this->Mailer->varName = 'value'.
     :title: PHPMailer with native API for PHP 5.x
     :description: CakePHP Article related to overload,Mail,email,phpmailer,Components
     :keywords: overload,Mail,email,phpmailer,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 kitten
     :category: components
 

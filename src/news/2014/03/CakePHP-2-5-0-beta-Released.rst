@@ -1,7 +1,7 @@
 CakePHP 2.5.0-beta Released
 ===========================
 
-by %s on March 26, 2014
+by markstory on March 26, 2014
 
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.5.0-beta.
@@ -104,6 +104,6 @@ Links
     :title: CakePHP 2.5.0-beta Released
     :description: CakePHP Article related to CakePHP,news,News
     :keywords: CakePHP,news,News
-    :copyright: Copyright 2014 
+    :copyright: Copyright 2014 markstory
     :category: news
 

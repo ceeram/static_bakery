@@ -1,7 +1,7 @@
 Fechas
 ======
 
-by %s on June 13, 2011
+by ricardosiri68 on June 13, 2011
 
 Es un helper que dertermina el tiempo que transcurre entre 2 fechas
 dando como salida una array
@@ -78,6 +78,6 @@ prueba ....
     :title: Fechas
     :description: CakePHP Article related to duration,fechas,duracion,Helpers
     :keywords: duration,fechas,duracion,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 ricardosiri68
     :category: helpers
 

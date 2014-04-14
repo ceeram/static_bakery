@@ -1,7 +1,7 @@
 Behaviour.js Helper
 ===================
 
-by %s on October 02, 2006
+by m3nt0r on October 02, 2006
 
 Helps you using the Behaviour Javacript in your App. Behaviour can be
 used to attach Javascript to Elements. With this you can easily avoid
@@ -800,6 +800,6 @@ The Helper Files
     :title: Behaviour.js Helper
     :description: CakePHP Article related to prototype,behaviour,Helpers
     :keywords: prototype,behaviour,Helpers
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 m3nt0r
     :category: helpers
 

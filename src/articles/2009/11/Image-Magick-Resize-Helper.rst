@@ -1,7 +1,7 @@
 Image Magick Resize Helper
 ==========================
 
-by %s on November 14, 2009
+by j15e on November 14, 2009
 
 I was looking for a resizing helper and found one which wasn't exactly
 what I was looking for so I tweaked it a bit.
@@ -126,6 +126,6 @@ Helper Class:
     :title: Image Magick Resize Helper
     :description: CakePHP Article related to image,imagemagick,resizer,magick,Helpers
     :keywords: image,imagemagick,resizer,magick,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 j15e
     :category: helpers
 

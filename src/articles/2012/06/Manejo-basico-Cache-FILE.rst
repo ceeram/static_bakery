@@ -1,7 +1,7 @@
 Manejo básico Cache FILE
 ========================
 
-by %s on June 25, 2012
+by aantigual on June 25, 2012
 
 Un componente simple y corto que permite manejar las funciones básicas
 de caché, así veremos que nuestra aplicación tendrá un mejor
@@ -26,6 +26,6 @@ $this->Manejocache->guardarCache('NOMBRECACHE');
     :title: Manejo básico Cache FILE
     :description: CakePHP Article related to cache,file,manejo cache,Components
     :keywords: cache,file,manejo cache,Components
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 aantigual
     :category: components
 

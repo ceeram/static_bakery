@@ -1,7 +1,7 @@
 Helper for icon retrieval
 =========================
 
-by %s on April 08, 2011
+by checkitout on April 08, 2011
 
 This helper easily can retrieve appropriate icons for a given mimetype
 or file extension.
@@ -144,6 +144,6 @@ must be relative to Cake's images folder.
     :title: Helper for icon retrieval
     :description: CakePHP Article related to file icon,Helpers
     :keywords: file icon,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 checkitout
     :category: helpers
 

@@ -1,7 +1,7 @@
 Textile 2.0.0 helper
 ====================
 
-by %s on October 17, 2006
+by walker on October 17, 2006
 
 This let's you easily use Textile to process content for your
 application. Just drop it in /views/helpers/textile.php, then
@@ -1676,6 +1676,6 @@ unreliable source.
     :title: Textile 2.0.0 helper
     :description: CakePHP Article related to textile,Helpers
     :keywords: textile,Helpers
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 walker
     :category: helpers
 

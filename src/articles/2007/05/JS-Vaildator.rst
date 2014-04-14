@@ -1,7 +1,7 @@
 JS Vaildator
 ============
 
-by %s on May 03, 2007
+by GarthDB on May 03, 2007
 
 This helper generates JavaScript validation based on the model's
 validate array, and also offers a few extra features. These features
@@ -594,6 +594,6 @@ More
     :title: JS Vaildator
     :description: CakePHP Article related to form,Helpers
     :keywords: form,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 GarthDB
     :category: helpers
 

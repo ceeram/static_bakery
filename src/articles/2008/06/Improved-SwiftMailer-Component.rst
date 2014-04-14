@@ -1,7 +1,7 @@
 Improved SwiftMailer Component
 ==============================
 
-by %s on June 11, 2008
+by mhuggins on June 11, 2008
 
 I've used the [url=http://bakery.cakephp.org/articles/view/sending-
 email-with-phpmailer]PHPMailer component[/url] previously, and it's
@@ -478,6 +478,6 @@ Controller Class:
     :title: Improved SwiftMailer Component
     :description: CakePHP Article related to swift mailer,Components
     :keywords: swift mailer,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 mhuggins
     :category: components
 

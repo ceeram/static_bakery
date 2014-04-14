@@ -1,7 +1,7 @@
 CakePHP 2 and launchd on Mac OS X 10.6
 ======================================
 
-by %s on January 12, 2012
+by benni on January 12, 2012
 
 To run i.e. maintenance jobs on a regular basis CakePHP provides the
 availability to write shells which should then be called by cron. Yet
@@ -62,6 +62,6 @@ on any of those areas! :-)
     :title: CakePHP 2 and launchd on Mac OS X 10.6
     :description: CakePHP Article related to cron,cakephp 2.0,launchd,launchctl,Tutorials
     :keywords: cron,cakephp 2.0,launchd,launchctl,Tutorials
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 benni
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Validanguage Helper for customizable Javascript form validation
 ===============================================================
 
-by %s on December 02, 2008
+by drlongghost on December 02, 2008
 
 Validanguage is a free, open source javascript library that provides a
 highly customizable, framework-independent environment for managing
@@ -1777,6 +1777,6 @@ this.requiredAlterna
     :title: Validanguage Helper for customizable Javascript form validation
     :description: CakePHP Article related to helpers,prototype,form validation,validanguage,Helpers
     :keywords: helpers,prototype,form validation,validanguage,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 drlongghost
     :category: helpers
 

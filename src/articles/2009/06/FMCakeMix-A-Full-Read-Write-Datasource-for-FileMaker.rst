@@ -1,7 +1,7 @@
 FMCakeMix: A Full Read/Write Datasource for FileMaker
 =====================================================
 
-by %s on June 12, 2009
+by alexg on June 12, 2009
 
 Use a FileMaker database as a full read/write datasource with support
 for relationships and more...
@@ -1457,6 +1457,6 @@ More
     :title: FMCakeMix: A Full Read/Write Datasource for FileMaker
     :description: CakePHP Article related to datasource,filemaker,Models
     :keywords: datasource,filemaker,Models
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 alexg
     :category: models
 

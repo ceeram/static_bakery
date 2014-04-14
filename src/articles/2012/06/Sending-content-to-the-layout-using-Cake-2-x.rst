@@ -1,7 +1,7 @@
 Sending content to the layout using Cake 2.x
 ============================================
 
-by %s on June 20, 2012
+by pollirrata on June 20, 2012
 
 This post is based on Robert Conner's code for CakePHP 1.x., and I
 made some changes to get it to work on CakePHP 2.x and add some
@@ -96,6 +96,6 @@ loading
     :title: Sending content to the layout using Cake 2.x
     :description: CakePHP Article related to layout helper,Helpers
     :keywords: layout helper,Helpers
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 pollirrata
     :category: helpers
 

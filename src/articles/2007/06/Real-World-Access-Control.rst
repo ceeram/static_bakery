@@ -1,7 +1,7 @@
 Real World Access Control
 =========================
 
-by %s on June 13, 2007
+by rtconner on June 13, 2007
 
 Cake AC is a very powerful but generic access control sytem. Lets face
 it, the only real use for Access Control is User permissions. So let
@@ -161,6 +161,6 @@ automate a lot of these things for you.
     :title: Real World Access Control
     :description: CakePHP Article related to acl,authentication,aro,1.1,aco,access control,Tutorials
     :keywords: acl,authentication,aro,1.1,aco,access control,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 rtconner
     :category: tutorials
 

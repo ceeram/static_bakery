@@ -1,7 +1,7 @@
 960 Fluid Grid System Bake Templates CakePHP 2.1
 ================================================
 
-by %s on January 30, 2012
+by Petert on January 30, 2012
 
 I found this project and made some changes to it and published it on
 Github. All the credits go to the original poster (Tom_M
@@ -58,6 +58,6 @@ https://github.com/snelweg/CakePHP-960-fluid
     :title: 960 Fluid Grid System Bake Templates CakePHP 2.1
     :description: CakePHP Article related to view,theme,fluid-960,themes,themed,CakePHP 2.1,Snippets
     :keywords: view,theme,fluid-960,themes,themed,CakePHP 2.1,Snippets
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 Petert
     :category: snippets
 

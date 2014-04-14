@@ -1,7 +1,7 @@
 Tidy Output Filtering
 =====================
 
-by %s on May 16, 2008
+by kuja on May 16, 2008
 
 If you'd like to filter all output from your application (layouts and
 views) through Tidy for cleaner markup, then this article is for you!
@@ -78,6 +78,6 @@ Happy baking!
     :title: Tidy Output Filtering
     :description: CakePHP Article related to tidy,Tutorials
     :keywords: tidy,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 kuja
     :category: tutorials
 

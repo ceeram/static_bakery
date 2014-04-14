@@ -1,7 +1,7 @@
 Image Version Component
 =======================
 
-by %s on August 25, 2010
+by tom_m on August 25, 2010
 
 Generate thumbnails from images within your app dynamically with many
 options to control how the images are resized.
@@ -77,6 +77,6 @@ deleting them manually to see updates).
     :title: Image Version Component
     :description: CakePHP Article related to image,GD,thumbnail,resize,generator,image version,Components
     :keywords: image,GD,thumbnail,resize,generator,image version,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 tom_m
     :category: components
 

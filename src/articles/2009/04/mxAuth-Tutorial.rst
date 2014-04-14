@@ -1,7 +1,7 @@
 mxAuth - Tutorial
 =================
 
-by %s on April 28, 2009
+by medianetix on April 28, 2009
 
 This is the tutorial for the component mxAuth. It explains in a step-
 by-step manner the usage of the component.
@@ -189,6 +189,6 @@ soon
     :title: mxAuth - Tutorial
     :description: CakePHP Article related to authentication,tutorial,mxauth,Tutorials
     :keywords: authentication,tutorial,mxauth,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 medianetix
     :category: tutorials
 

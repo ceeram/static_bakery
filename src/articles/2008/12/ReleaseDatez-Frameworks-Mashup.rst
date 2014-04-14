@@ -1,7 +1,7 @@
 ReleaseDatez: Frameworks Mashup
 ===============================
 
-by %s on December 29, 2008
+by goodiet on December 29, 2008
 
 A web application that helps to discover upcoming DVD and Music
 releases on Amazon.
@@ -73,6 +73,6 @@ encounter.
     :title: ReleaseDatez: Frameworks Mashup
     :description: CakePHP Article related to upcoming releases,Case Studies
     :keywords: upcoming releases,Case Studies
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 goodiet
     :category: case_studies
 

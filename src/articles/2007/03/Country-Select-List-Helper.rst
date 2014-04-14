@@ -1,7 +1,7 @@
 Country Select List Helper
 ==========================
 
-by %s on March 13, 2007
+by digitalspaghetti on March 13, 2007
 
 If you are having users register for your site, especially a customer
 - you may want to know their country of residence. Instead of having
@@ -312,6 +312,6 @@ Helper Class:
     :title: Country Select List Helper
     :description: CakePHP Article related to country,countries,form,Helpers
     :keywords: country,countries,form,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 digitalspaghetti
     :category: helpers
 

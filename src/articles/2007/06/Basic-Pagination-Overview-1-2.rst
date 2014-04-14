@@ -1,7 +1,7 @@
 Basic Pagination Overview (1.2)
 ===============================
 
-by %s on June 13, 2007
+by rtconner on June 13, 2007
 
 Just a basic introduction to the wonderful abilities of pagination in
 Cake 1.2. Gives an overview of how to use pagination to do some very
@@ -164,6 +164,6 @@ to Gwoo for this lovely little piece of code.
     :title: Basic Pagination Overview (1.2)
     :description: CakePHP Article related to pagination,helpers,1.2,beginners,Tutorials
     :keywords: pagination,helpers,1.2,beginners,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 rtconner
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Cake Bake Templates for Twitter Bootstrap
 =========================================
 
-by %s on October 12, 2012
+by Matt on October 12, 2012
 
 Templates for baking BootStrap compatible views in CakePHP.
 
@@ -24,6 +24,6 @@ Use the default.ctp layout file as a good starting point.
     :title: Cake Bake Templates for Twitter Bootstrap
     :description: CakePHP Article related to bootstrap bake templates,Snippets
     :keywords: bootstrap bake templates,Snippets
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 Matt
     :category: snippets
 

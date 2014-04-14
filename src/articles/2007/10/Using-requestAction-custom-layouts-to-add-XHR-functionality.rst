@@ -1,7 +1,7 @@
 Using requestAction & custom layouts to add XHR functionality
 =============================================================
 
-by %s on October 23, 2007
+by am_d on October 23, 2007
 
 This tutorial outlines a method for creating or modifying Cake apps
 that work swiftly for XHR(XmlHTTPRequest)-enabled clients and degrade
@@ -750,6 +750,6 @@ More
     :title: Using requestAction & custom layouts to add XHR functionality
     :description: CakePHP Article related to Layouts,Mootools,XHR,Tutorials
     :keywords: Layouts,Mootools,XHR,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 am_d
     :category: tutorials
 

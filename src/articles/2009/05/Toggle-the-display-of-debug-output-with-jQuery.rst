@@ -1,7 +1,7 @@
 Toggle the display of debug output with jQuery
 ==============================================
 
-by %s on May 04, 2009
+by mpbourque on May 04, 2009
 
 The problem:
 I love having the debug output enabled, but I don't always need it. I
@@ -63,6 +63,6 @@ Notes:
     :title: Toggle the display of debug output with jQuery
     :description: CakePHP Article related to toggle,debug,hide,jquery,queries,dump,Snippets
     :keywords: toggle,debug,hide,jquery,queries,dump,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 mpbourque
     :category: snippets
 

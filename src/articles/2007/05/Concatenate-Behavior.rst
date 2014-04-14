@@ -1,7 +1,7 @@
 Concatenate Behavior
 ====================
 
-by %s on May 22, 2007
+by bparise on May 22, 2007
 
 Using Model::afterFind($results) is a great way to modify your data to
 return newly formatted fields. But, sometimes this can become a
@@ -97,6 +97,6 @@ create new fields to use with Model::generateList() so the “value
     :title: Concatenate Behavior
     :description: CakePHP Article related to concatenation,generateList,behavior,concat,Behaviors
     :keywords: concatenation,generateList,behavior,concat,Behaviors
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 bparise
     :category: behaviors
 

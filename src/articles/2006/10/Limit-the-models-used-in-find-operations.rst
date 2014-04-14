@@ -1,7 +1,7 @@
 Limit the models used in find operations
 ========================================
 
-by %s on October 08, 2006
+by tapter on October 08, 2006
 
 Often when issuing a find, findAll or other find*-variety there's way
 too much data returned which puts unneccessary overhead to your
@@ -125,6 +125,6 @@ Model Class:
     :title: Limit the models used in find operations
     :description: CakePHP Article related to ,Snippets
     :keywords: ,Snippets
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 tapter
     :category: snippets
 

@@ -2,7 +2,7 @@ Boost performance by removing .htaccess PLUS multi-site with
 VirtualDocumentRoot
 ===================
 
-by %s on November 29, 2010
+by rynop on November 29, 2010
 
 This tutorial is intended for developers who: 1) Are creating a cake
 app that needs to scale 2) Use apache and have access to modify their
@@ -209,6 +209,6 @@ cakephp-apps/`_
     :title: Boost performance by removing .htaccess PLUS multi-site with VirtualDocumentRoot
     :description: CakePHP Article related to vendor,plugin,Template,best practice,all in one,Tutorials
     :keywords: vendor,plugin,Template,best practice,all in one,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 rynop
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Check useragent for mobile device
 =================================
 
-by %s on July 12, 2011
+by alvardos on July 12, 2011
 
 Adapted from CakePHP`Tramadol hcl 50 mg discounted. Cod Tramadol 50mg
 for saturday. Buy Tramadol for pig i`_ `Cheap Ambien canada by fedex
@@ -118,6 +118,6 @@ returnfalse;
     :title: Check useragent for mobile device
     :description: CakePHP Article related to javascript,google,acl,pagination,WYSIWYG,image,model,AJAX,user,Auth,helper,flash,security,helpers,tree,Rss,login,search,database,configuration,session,release,CakePHP,editor,api,email,authentication,xml,news,validation,password,component,mysql,thumbnail,multiple,captcha,data,jquery,HABTM,plugin,behavior,shell,upload,form,resize,datasource,cache,windows,alkemann,Snippets
     :keywords: javascript,google,acl,pagination,WYSIWYG,image,model,AJAX,user,Auth,helper,flash,security,helpers,tree,Rss,login,search,database,configuration,session,release,CakePHP,editor,api,email,authentication,xml,news,validation,password,component,mysql,thumbnail,multiple,captcha,data,jquery,HABTM,plugin,behavior,shell,upload,form,resize,datasource,cache,windows,alkemann,Snippets
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 alvardos
     :category: snippets
 

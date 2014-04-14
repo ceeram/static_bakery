@@ -1,7 +1,7 @@
 ACL Caching using Session
 =========================
 
-by %s on January 05, 2010
+by macduy on January 05, 2010
 
 ACL checks can be costly and would benefit from caching. One approach
 would be to use Cake's Caching system, as implemented in
@@ -371,6 +371,6 @@ More
     :title: ACL Caching using Session
     :description: CakePHP Article related to acl,session,component,cache,Components
     :keywords: acl,session,component,cache,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 macduy
     :category: components
 

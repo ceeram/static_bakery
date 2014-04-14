@@ -2,7 +2,7 @@ Increase contrast of an Image (Image processing, Histogram
 Equalization using gd library and cakephp)
 ==========================================
 
-by %s on March 31, 2011
+by kishorkundan on March 31, 2011
 
 !!! important !!! Php is an intrepreted language, one amongst many
 reasons to avoid using it for image processing. I personally prefer
@@ -185,6 +185,6 @@ any. for the time being i request you all to contribute. ***
     :title: Increase contrast of an Image (Image processing, Histogram Equalization using gd library and cakephp)
     :description: CakePHP Article related to image processing,gd library,histogram equalization,enhance contrast,Helpers
     :keywords: image processing,gd library,histogram equalization,enhance contrast,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 kishorkundan
     :category: helpers
 

@@ -1,7 +1,7 @@
 counterCache for HABTM relationships [INNER JOIN version]
 =========================================================
 
-by %s on August 24, 2009
+by ark0n3 on August 24, 2009
 
 Recently I had to work on a quite large db (>300k rows with >800k
 related elements). I needed to implement counterCache and found this
@@ -124,6 +124,6 @@ Helper Class:
     :title: counterCache for HABTM relationships [INNER JOIN version]
     :description: CakePHP Article related to countercache,HABTM,behavior,join,large db,inner,Behaviors
     :keywords: countercache,HABTM,behavior,join,large db,inner,Behaviors
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 ark0n3
     :category: behaviors
 

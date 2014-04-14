@@ -1,7 +1,7 @@
 CakePHP In the Enterprise
 =========================
 
-by %s on December 17, 2009
+by rikdc on December 17, 2009
 
 There are many e-commerce platforms (both open and closed source) on
 the market, however, most of these e-commerce solutions are overly
@@ -56,6 +56,6 @@ you to the developers of CakePHP!
     :title: CakePHP In the Enterprise
     :description: CakePHP Article related to Application,ecommerce,Case Studies
     :keywords: Application,ecommerce,Case Studies
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 rikdc
     :category: case_studies
 

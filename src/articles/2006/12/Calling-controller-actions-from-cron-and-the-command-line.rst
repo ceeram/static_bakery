@@ -1,7 +1,7 @@
 Calling controller actions from cron and the command line
 =========================================================
 
-by %s on December 05, 2006
+by mathew_attlee on December 05, 2006
 
 This is a very simple tutorial that shows how you can modify the
 dispatcher to call controller actions from the command line and cron.
@@ -67,6 +67,6 @@ example
     :title: Calling controller actions from cron and the command line
     :description: CakePHP Article related to command_line,cron,automate,Tutorials
     :keywords: command_line,cron,automate,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 mathew_attlee
     :category: tutorials
 

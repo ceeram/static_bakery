@@ -1,7 +1,7 @@
 MyMeeting
 =========
 
-by %s on August 26, 2008
+by abdullah on August 26, 2008
 
 Meeting management system specifically built to fulfill the
 requirements of the malaysian public sector.
@@ -22,6 +22,6 @@ rapidly as possible and produce better quality codes.
     :title: MyMeeting
     :description: CakePHP Article related to meeting,management,mymeeting,Case Studies
     :keywords: meeting,management,mymeeting,Case Studies
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 abdullah
     :category: case_studies
 

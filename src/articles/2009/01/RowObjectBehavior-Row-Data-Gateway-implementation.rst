@@ -1,7 +1,7 @@
 RowObjectBehavior Row Data Gateway implementation
 =================================================
 
-by %s on January 13, 2009
+by freenity on January 13, 2009
 
 "A Row Data Gateway gives you objects that look exactly like the
 record in your record structure but can be accessed with the regular
@@ -284,6 +284,6 @@ More
     :title: RowObjectBehavior Row Data Gateway implementation
     :description: CakePHP Article related to behavior,row object,row data gateway,rowobjectbehavior,rowobject,Behaviors
     :keywords: behavior,row object,row data gateway,rowobjectbehavior,rowobject,Behaviors
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 freenity
     :category: behaviors
 

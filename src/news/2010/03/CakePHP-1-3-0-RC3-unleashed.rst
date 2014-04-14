@@ -1,7 +1,7 @@
 CakePHP 1.3.0-RC3 unleashed
 ===========================
 
-by %s on March 28, 2010
+by markstory on March 28, 2010
 
 The CakePHP development team is happy to announce the release the
 CakePHP 1.3.0-RC3. This release is the second last release candidate
@@ -42,6 +42,6 @@ View the changelog [2]
     :title: CakePHP 1.3.0-RC3 unleashed
     :description: CakePHP Article related to release,CakePHP,news,News
     :keywords: release,CakePHP,news,News
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 markstory
     :category: news
 

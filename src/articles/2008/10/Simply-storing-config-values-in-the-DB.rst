@@ -1,7 +1,7 @@
 Simply storing config values in the DB
 ======================================
 
-by %s on October 26, 2008
+by iamcam on October 26, 2008
 
 There are many situations in web apps where site-wide configurations
 need to be accessible to users through admin interfaces, rather than
@@ -154,6 +154,6 @@ That, my friends, is a job for another tutorial.
     :title: Simply storing config values in the DB
     :description: CakePHP Article related to database,configuration,config,conf,settings,Tutorials
     :keywords: database,configuration,config,conf,settings,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 iamcam
     :category: tutorials
 

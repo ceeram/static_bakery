@@ -1,7 +1,7 @@
 Flattr Helper
 =============
 
-by %s on June 05, 2010
+by WyriHaximus on June 05, 2010
 
 After the Flattr MOD for phpBB3 release some days ago I wrote this
 simple flattr cakephp helper (basic cakephp helper knowledge is
@@ -99,6 +99,6 @@ For more information on Flattr check `http://flattr.com`_.
     :title: Flattr Helper
     :description: CakePHP Article related to helper,flattr,Helpers
     :keywords: helper,flattr,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 WyriHaximus
     :category: helpers
 

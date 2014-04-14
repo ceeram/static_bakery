@@ -1,7 +1,7 @@
 introducing something new to chew on
 ====================================
 
-by %s on November 20, 2008
+by gwoo on November 20, 2008
 
 Chaw is an application designed to help better manage version-
 controlled projects. You can read about some of the features in Chaw
@@ -46,6 +46,6 @@ message to `http://groups.google.com/group/chaw`_
     :title: introducing something new to chew on
     :description: CakePHP Article related to projects,chaw,News
     :keywords: projects,chaw,News
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 gwoo
     :category: news
 

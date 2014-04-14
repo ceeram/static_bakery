@@ -1,7 +1,7 @@
 LinkedIn Plugin
 ===============
 
-by %s on July 13, 2011
+by inlet on July 13, 2011
 
 CakePHP plugin which makes using the LinkedIn API a breeze. This
 plugin provides a simple and solid bridge between CakePHP and LinkedIn
@@ -36,6 +36,6 @@ datasource in conjunction with a database configuration.
     :title: LinkedIn Plugin
     :description: CakePHP Article related to linkedin oauth cakephp plugin ,Plugins
     :keywords: linkedin oauth cakephp plugin ,Plugins
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 inlet
     :category: plugins
 

@@ -1,7 +1,7 @@
 Using CakeAMFPHP 0.6 w/ Cake 1.2
 ================================
 
-by %s on July 29, 2008
+by morris on July 29, 2008
 
 This is intended as a guide for those out there who *were* using the
 splendid CakeAMFPHP 0.6.0 with Cake pre-1.2 and want to be able to
@@ -106,6 +106,6 @@ That should wrap things up!
     :title: Using CakeAMFPHP 0.6 w/ Cake 1.2
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 morris
     :category: tutorials
 

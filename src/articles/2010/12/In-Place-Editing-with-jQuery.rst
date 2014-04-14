@@ -1,7 +1,7 @@
 In Place Editing with jQuery
 ============================
 
-by %s on December 04, 2010
+by abalonepaul on December 04, 2010
 
 In 2008, I wrote an [url="http://bakery.cakephp.org/articles/abalonepa
 ul/2008/07/07/using_the_ajax_helper_for_inplaceeditor_and_inplacecolle
@@ -266,6 +266,6 @@ View Template:
     :title: In Place Editing with jQuery
     :description: CakePHP Article related to jquery,inplaceeditor,edit in place,inline editor,in place,Tutorials
     :keywords: jquery,inplaceeditor,edit in place,inline editor,in place,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 abalonepaul
     :category: tutorials
 

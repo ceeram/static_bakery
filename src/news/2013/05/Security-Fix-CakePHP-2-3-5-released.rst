@@ -1,7 +1,7 @@
 Security Fix: CakePHP 2.3.5 released
 ====================================
 
-by %s on May 11, 2013
+by lorenzo on May 11, 2013
 
 After conducting a security audit on our code we have patched a
 possible security risk in current CakePHP release.
@@ -47,6 +47,6 @@ Links
     :title: Security Fix: CakePHP 2.3.5 released
     :description: CakePHP Article related to release,News
     :keywords: release,News
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 lorenzo
     :category: news
 

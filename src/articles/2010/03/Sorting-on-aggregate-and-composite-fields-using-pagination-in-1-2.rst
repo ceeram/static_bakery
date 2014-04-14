@@ -1,7 +1,7 @@
 Sorting on aggregate and composite fields using pagination in 1.2
 =================================================================
 
-by %s on March 12, 2010
+by michaelc on March 12, 2010
 
 While it may not be a common problem, I ran into this while working on
 a simple website I was building, and have recieved permission to share
@@ -78,6 +78,6 @@ use a virtual field.
     :title: Sorting on aggregate and composite fields using pagination in 1.2
     :description: CakePHP Article related to pagination,paginate,fields,composite,aggregate,Tutorials
     :keywords: pagination,paginate,fields,composite,aggregate,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 michaelc
     :category: tutorials
 

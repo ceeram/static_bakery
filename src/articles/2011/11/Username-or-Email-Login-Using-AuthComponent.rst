@@ -1,7 +1,7 @@
 Username or Email Login Using AuthComponent
 ===========================================
 
-by %s on November 04, 2011
+by techlands on November 04, 2011
 
 AuthComponent 2.0 makes it very easy to develop a custom
 authentication solution. This example shows how to do username or
@@ -147,6 +147,6 @@ email columns
     :title: Username or Email Login Using AuthComponent
     :description: CakePHP Article related to ,Articles
     :keywords: ,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 techlands
     :category: articles
 

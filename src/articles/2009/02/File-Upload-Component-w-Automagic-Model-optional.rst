@@ -1,7 +1,7 @@
 File Upload Component w/ Automagic - Model optional
 ===================================================
 
-by %s on February 10, 2009
+by webtechnick on February 10, 2009
 
 I've written this FileUpload component which provides a lot of
 automagic to the file uploading process. The problem with all the
@@ -600,6 +600,6 @@ variable/function. Comments are appreciated.
     :title: File Upload Component w/ Automagic - Model optional
     :description: CakePHP Article related to component,file upload,Components
     :keywords: component,file upload,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 webtechnick
     :category: components
 

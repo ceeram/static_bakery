@@ -1,7 +1,7 @@
 Component to display more flash messages
 ========================================
 
-by %s on June 18, 2007
+by T0aD on June 18, 2007
 
 I always wondered why CakePHP didn't come right away with a method to
 store several session flash messages to be displayed later to the user
@@ -106,6 +106,6 @@ I wish CakePHP will come with something so easy to use ;)
     :title: Component to display more flash messages
     :description: CakePHP Article related to flash,session,Components
     :keywords: flash,session,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 T0aD
     :category: components
 

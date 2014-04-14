@@ -1,7 +1,7 @@
 SwfUpload and Multipurpose Uploader
 ===================================
 
-by %s on April 10, 2007
+by jrevillini on April 10, 2007
 
 SWFUpload is "a small javascript/flash library to get the best of both
 worlds - The great upload capability of flash and the accessibility
@@ -539,6 +539,6 @@ The init.js script
     :title: SwfUpload and Multipurpose Uploader
     :description: CakePHP Article related to flash,upload,swfupload,progresser,Components
     :keywords: flash,upload,swfupload,progresser,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 jrevillini
     :category: components
 

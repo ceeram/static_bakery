@@ -1,7 +1,7 @@
 HABTM Add & Delete Behavior for CakePHP 2.0
 ===========================================
 
-by %s on January 11, 2012
+by iandeth on January 11, 2012
 
 The easy way to incrementally add|delete an HABTM association records
 is to use this Behavior, written by `Brandon Parise`_:
@@ -113,6 +113,6 @@ behavior.
     :title: HABTM Add & Delete Behavior for CakePHP 2.0
     :description: CakePHP Article related to model,unbindAll,save,hasAndBelongsToMany,HABTM,behavior,Delete,update,Behaviors
     :keywords: model,unbindAll,save,hasAndBelongsToMany,HABTM,behavior,Delete,update,Behaviors
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 iandeth
     :category: behaviors
 

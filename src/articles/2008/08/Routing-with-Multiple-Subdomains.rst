@@ -1,7 +1,7 @@
 Routing with Multiple Subdomains
 ================================
 
-by %s on August 26, 2008
+by pmansion on August 26, 2008
 
 Ever want to have multiple admin routes and use subdomains?
 After wanting to integrate 3 different parts of an application I wrote
@@ -46,6 +46,6 @@ Feedback is appreciated and hope this helps other people.
     :title: Routing with Multiple Subdomains
     :description: CakePHP Article related to routing,subdomain,admin,Snippets
     :keywords: routing,subdomain,admin,Snippets
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 pmansion
     :category: snippets
 

@@ -1,7 +1,7 @@
 PippoAcl 0.3 ready to use Acl/Auth plugin
 =========================================
 
-by %s on June 20, 2009
+by fzanardo on June 20, 2009
 
 A simple but powerful Auth/Acl plugin.
 
@@ -202,6 +202,6 @@ In next page i will add some customization u can do.
     :title: PippoAcl 0.3 ready to use Acl/Auth plugin
     :description: CakePHP Article related to acl,Auth,pippoacl,Plugins
     :keywords: acl,Auth,pippoacl,Plugins
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 fzanardo
     :category: plugins
 

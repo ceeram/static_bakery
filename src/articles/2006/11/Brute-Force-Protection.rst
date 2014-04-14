@@ -1,7 +1,7 @@
 Brute Force Protection
 ======================
 
-by %s on November 04, 2006
+by aep_ on November 04, 2006
 
 This component is meant to protect you against brute force attacks on
 forms (and other types of requests).
@@ -183,6 +183,6 @@ CREATE TABLE `protects` (
     :title: Brute Force Protection
     :description: CakePHP Article related to brute,security,crack,force,Components
     :keywords: brute,security,crack,force,Components
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 aep_
     :category: components
 

@@ -1,7 +1,7 @@
 Simple access control via AuthComponent
 =======================================
 
-by %s on October 22, 2008
+by SiggiSmara on October 22, 2008
 
 Sometimes all you want is a simple action based access control. You
 can achieve that with minimal amount of effort with the AuthComponent.
@@ -147,6 +147,6 @@ unreliable results or at best that everything will be allowed.
     :title: Simple access control via AuthComponent
     :description: CakePHP Article related to access control,authcomponent,Tutorials
     :keywords: access control,authcomponent,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 SiggiSmara
     :category: tutorials
 

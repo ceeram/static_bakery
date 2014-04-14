@@ -1,7 +1,7 @@
 Google PageRank Component
 =========================
 
-by %s on March 12, 2010
+by chadsmith729 on March 12, 2010
 
 Google Page Ranking is being used less and less, but it's still out
 there and offered by accessing google's servers. When talking about
@@ -372,6 +372,6 @@ Chad
     :title: Google PageRank Component
     :description: CakePHP Article related to google,component,pagerank,Components
     :keywords: google,component,pagerank,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 chadsmith729
     :category: components
 

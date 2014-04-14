@@ -1,7 +1,7 @@
 Image resize and crop on the fly
 ================================
 
-by %s on April 11, 2010
+by matthistory on April 11, 2010
 
 I was working on a helper that could handle images that have already
 been uploaded but could create a cropped image of the size we choose
@@ -165,6 +165,6 @@ well as dynamically locate folders for future use with a CDN.
     :title: Image resize and crop on the fly
     :description: CakePHP Article related to images,resize,crop,Helpers
     :keywords: images,resize,crop,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 matthistory
     :category: helpers
 

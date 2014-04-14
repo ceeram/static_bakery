@@ -1,7 +1,7 @@
 Update ARO alias on save
 ========================
 
-by %s on May 26, 2011
+by carbontwelve on May 26, 2011
 
 After much searching through google on how to set the alias of my
 ARO's using parentNode only to eventually figure out that it was a
@@ -67,6 +67,6 @@ Groups models:
     :title: Update ARO alias on save
     :description: CakePHP Article related to aftersave,aro,alias,acl behavior,Snippets
     :keywords: aftersave,aro,alias,acl behavior,Snippets
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 carbontwelve
     :category: snippets
 

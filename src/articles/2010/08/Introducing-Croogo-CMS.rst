@@ -1,7 +1,7 @@
 Introducing Croogo CMS
 ======================
 
-by %s on August 23, 2010
+by fahad19 on August 23, 2010
 
 Croogo is a free, open source, content management system powered by
 CakePHP framework.
@@ -113,6 +113,6 @@ Links
     :title: Introducing Croogo CMS
     :description: CakePHP Article related to CMS,croogo,Case Studies
     :keywords: CMS,croogo,Case Studies
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 fahad19
     :category: case_studies
 

@@ -1,7 +1,7 @@
 Taking Advantage of the Pages Controller
 ========================================
 
-by %s on May 02, 2007
+by joelstein on May 02, 2007
 
 Looking for a few tips on how to make the Pages Controller your new
 friend? Out-of-the-box it automatically maps incoming requests to
@@ -76,6 +76,6 @@ Got any more snazzy ways to jazz up the Pages Controller?
     :title: Taking Advantage of the Pages Controller
     :description: CakePHP Article related to routes,urls,pages,Snippets
     :keywords: routes,urls,pages,Snippets
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 joelstein
     :category: snippets
 

@@ -1,7 +1,7 @@
 Baking with Markdown and dp.SyntaxHighlighter
 =============================================
 
-by %s on February 18, 2008
+by lecterror on February 18, 2008
 
 Creating a content editor with has never been easier. All you need is
 Markdown and dp.SyntaxHighlighter!
@@ -245,6 +245,6 @@ Happy baking!
     :title: Baking with Markdown and dp.SyntaxHighlighter
     :description: CakePHP Article related to textarea,syntaxhighlighter,markdown,Tutorials
     :keywords: textarea,syntaxhighlighter,markdown,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 lecterror
     :category: tutorials
 

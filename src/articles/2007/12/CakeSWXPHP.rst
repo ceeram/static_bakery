@@ -1,7 +1,7 @@
 CakeSWXPHP
 ==========
 
-by %s on December 18, 2007
+by wouter on December 18, 2007
 
 SWX is the native data format for Flash. It uses SWF files to store
 and exchange data. It is also an implementation of an RPC gateway
@@ -42,6 +42,6 @@ Enjoy!
     :title: CakeSWXPHP
     :description: CakePHP Article related to flash,cakeswxphp,remoting,json,swx,cakeamfphp,amfphp,Plugins
     :keywords: flash,cakeswxphp,remoting,json,swx,cakeamfphp,amfphp,Plugins
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 wouter
     :category: plugins
 

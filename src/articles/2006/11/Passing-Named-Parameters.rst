@@ -1,7 +1,7 @@
 Passing Named Parameters
 ========================
 
-by %s on November 01, 2006
+by TommyO on November 01, 2006
 
 This simple tutorial will add the ability to pass named parameters to
 your actions. Named Parameters are beneficial because they: * Make for
@@ -141,6 +141,6 @@ controller like:
     :title: Passing Named Parameters
     :description: CakePHP Article related to Named Parameters,Tutorials
     :keywords: Named Parameters,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 TommyO
     :category: tutorials
 

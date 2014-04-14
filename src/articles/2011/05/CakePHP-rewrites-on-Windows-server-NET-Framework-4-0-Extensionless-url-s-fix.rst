@@ -2,7 +2,7 @@ CakePHP rewrites on Windows server (.NET Framework 4.0 Extensionless
 url's fix)
 ==========
 
-by %s on May 08, 2011
+by vanremortele on May 08, 2011
 
 For a recent project of mine I had to deploy cakephp on a windows
 server which had .NET Framework 4.0 running. Due to this framework all
@@ -66,6 +66,6 @@ I hope this article may be of some use to other people.
     :title: CakePHP rewrites on Windows server (.NET Framework 4.0 Extensionless url's fix)
     :description: CakePHP Article related to mod_rewrite,CakePHP,Rewrite,pretty urls,windows server,ISAPI,eurl.axd,url rewrite,Articles
     :keywords: mod_rewrite,CakePHP,Rewrite,pretty urls,windows server,ISAPI,eurl.axd,url rewrite,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 vanremortele
     :category: articles
 

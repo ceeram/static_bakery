@@ -1,7 +1,7 @@
 How to Add AutoComplete to Eclipse/Aptana
 =========================================
 
-by %s on July 23, 2009
+by gravyface on July 23, 2009
 
 In this article I'll show you how to add autocomplete to
 Eclipse/Aptana for models, components, and helpers. Thanks goes out to
@@ -120,6 +120,6 @@ You're good to go. Have fun!
     :title: How to Add AutoComplete to Eclipse/Aptana
     :description: CakePHP Article related to autocomplete,Eclipse,syntax highlighting,code complete,intellisense,General Interest
     :keywords: autocomplete,Eclipse,syntax highlighting,code complete,intellisense,General Interest
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 gravyface
     :category: general_interest
 

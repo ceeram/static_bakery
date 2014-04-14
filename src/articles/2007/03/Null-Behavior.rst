@@ -1,7 +1,7 @@
 Null Behavior
 =============
 
-by %s on March 25, 2007
+by Jippi on March 25, 2007
 
 Problems with default NULL fields not being very NULL'ish ?
 This is just a small script to make sure some values arent saved if
@@ -79,6 +79,6 @@ Model Class:
     :title: Null Behavior
     :description: CakePHP Article related to behavior null model,Behaviors
     :keywords: behavior null model,Behaviors
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Jippi
     :category: behaviors
 

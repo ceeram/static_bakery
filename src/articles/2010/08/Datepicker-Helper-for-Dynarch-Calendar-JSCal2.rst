@@ -1,7 +1,7 @@
 Datepicker Helper for Dynarch Calendar (JSCal2)
 ===============================================
 
-by %s on August 01, 2010
+by chrmina on August 01, 2010
 
 Datepicker, now with more [b]cowbell[/b]!
 Wanted a nice datepicker for my application. I decided to google
@@ -176,6 +176,6 @@ Enjoy!
     :title: Datepicker Helper for Dynarch Calendar (JSCal2)
     :description: CakePHP Article related to date picker,dynarch calendar,jscal,Helpers
     :keywords: date picker,dynarch calendar,jscal,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 chrmina
     :category: helpers
 

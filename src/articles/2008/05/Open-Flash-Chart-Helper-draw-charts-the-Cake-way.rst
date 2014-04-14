@@ -1,7 +1,7 @@
 Open Flash Chart Helper: draw charts the Cake way
 =================================================
 
-by %s on May 03, 2008
+by joaquin_win on May 03, 2008
 
 Open Flash Chart ([url]http://teethgrinder.co.uk/open-flash-
 chart/[/url]) is a nice solution to drawing charts from data on your
@@ -360,6 +360,6 @@ If you find anything missing, please report it:
     :title: Open Flash Chart Helper: draw charts the Cake way
     :description: CakePHP Article related to flash,graph,chart,charts,FlashChart,FlashChartHelper,Helpers
     :keywords: flash,graph,chart,charts,FlashChart,FlashChartHelper,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 joaquin_win
     :category: helpers
 

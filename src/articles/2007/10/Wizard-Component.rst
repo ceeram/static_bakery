@@ -1,7 +1,7 @@
 Wizard Component
 ================
 
-by %s on October 04, 2007
+by jaredhoyt on October 04, 2007
 
 Automates several aspects of multi-page forms including data
 persistence, form preparation, wizard resetting (manual and
@@ -237,6 +237,6 @@ Component Class:
     :title: Wizard Component
     :description: CakePHP Article related to forms,component,Wizard,Components
     :keywords: forms,component,Wizard,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 jaredhoyt
     :category: components
 

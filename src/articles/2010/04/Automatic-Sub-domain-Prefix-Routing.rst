@@ -1,7 +1,7 @@
 Automatic Sub-domain Prefix Routing
 ===================================
 
-by %s on April 19, 2010
+by Techie42 on April 19, 2010
 
 Have you ever wished you could automatically link a sub-domain to
 prefix routing? Well, this short listing provides that functionality.
@@ -120,6 +120,6 @@ required.
     :title: Automatic Sub-domain Prefix Routing
     :description: CakePHP Article related to ,Snippets
     :keywords: ,Snippets
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 Techie42
     :category: snippets
 

@@ -1,7 +1,7 @@
 SimpleUrl to write url quicker
 ==============================
 
-by %s on September 08, 2011
+by Kalt on September 08, 2011
 
 Tired of passing massive arrays to create links in CakePHP views or
 controllers ? This plugin provides a quicker way to generate url
@@ -136,6 +136,6 @@ Examples
     :title: SimpleUrl to write url quicker
     :description: CakePHP Article related to url,plugin,Plugins
     :keywords: url,plugin,Plugins
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 Kalt
     :category: plugins
 

@@ -1,7 +1,7 @@
 NeptunIDE - CakePHP dedicated IDE is now available for everyone!
 ================================================================
 
-by %s on July 23, 2013
+by neptunide on July 23, 2013
 
 `Two years ago I posted`_ here about my new project - NeptunIDE, a
 cloud-based IDE supporting CakePHP.
@@ -46,6 +46,6 @@ up! Free Beta subscription is available only until the end of July
     :title: NeptunIDE - CakePHP dedicated IDE is now available for everyone!
     :description: CakePHP Article related to autocomplete,ide,development environment,General Interest
     :keywords: autocomplete,ide,development environment,General Interest
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 neptunide
     :category: general_interest
 

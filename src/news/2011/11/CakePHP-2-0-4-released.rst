@@ -1,7 +1,7 @@
 CakePHP 2.0.4 released
 ======================
 
-by %s on November 28, 2011
+by lorenzo on November 28, 2011
 
 This new version incorporates an important security fix for the 2.x
 branch. People are highly encouraged to upgrade their apps as soon as
@@ -58,6 +58,6 @@ Links
     :title: CakePHP 2.0.4 released
     :description: CakePHP Article related to release,2.0.4,News
     :keywords: release,2.0.4,News
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 lorenzo
     :category: news
 

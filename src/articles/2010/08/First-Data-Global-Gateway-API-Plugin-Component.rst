@@ -1,7 +1,7 @@
 First Data Global Gateway API Plugin Component
 ==============================================
 
-by %s on August 29, 2010
+by chronon on August 29, 2010
 
 The Ggapi component simplifies credit card processing using the First
 Data/Yourpay/Linkpoint Global Gateway API. It supports testing and
@@ -58,6 +58,6 @@ Download/git clone at `http://github.com/chronon/ggapi`_.
     :title: First Data Global Gateway API Plugin Component
     :description: CakePHP Article related to yourpay,payment processing,linkpoint,global gateway,first data,Components
     :keywords: yourpay,payment processing,linkpoint,global gateway,first data,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 chronon
     :category: components
 

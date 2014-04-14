@@ -1,7 +1,7 @@
 VMWare LabManager CakePHP SOAP API Component
 ============================================
 
-by %s on January 13, 2010
+by tristann9 on January 13, 2010
 
 This component is used to interact with VMWare LabManager 4.0 via
 CakePHP using VMWare Lab Manager SOAP API. It is assumed that the user
@@ -543,6 +543,6 @@ Component Class:
     :title: VMWare LabManager CakePHP SOAP API Component
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 tristann9
     :category: components
 

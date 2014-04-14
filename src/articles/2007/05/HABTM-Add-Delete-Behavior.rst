@@ -1,7 +1,7 @@
 HABTM Add & Delete Behavior
 ===========================
 
-by %s on May 09, 2007
+by bparise on May 09, 2007
 
 Many people gripe about the HABTM associations in CakePHP and how
 difficult it is to add or delete a single record. This behavior takes
@@ -347,6 +347,6 @@ meantime this should suffice!
     :title: HABTM Add  & Delete Behavior
     :description: CakePHP Article related to unbindAll,save,hasAndBelongsToMany,HABTM,behavior,Delete,update,Behaviors
     :keywords: unbindAll,save,hasAndBelongsToMany,HABTM,behavior,Delete,update,Behaviors
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 bparise
     :category: behaviors
 

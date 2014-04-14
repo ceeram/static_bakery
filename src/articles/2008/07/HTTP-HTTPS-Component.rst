@@ -1,7 +1,7 @@
 HTTP/HTTPS Component
 ====================
 
-by %s on July 01, 2008
+by Daniel. on July 01, 2008
 
 A simple component to manage http and https requests.
 
@@ -179,6 +179,6 @@ Component Class:
     :title: HTTP/HTTPS Component
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Daniel.
     :category: components
 

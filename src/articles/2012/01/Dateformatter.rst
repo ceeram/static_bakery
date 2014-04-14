@@ -1,7 +1,7 @@
 Dateformatter
 =============
 
-by %s on January 27, 2012
+by rikkin on January 27, 2012
 
 Hi!, Im new on the bakery, this is my first article, I hope this will
 be helpfull. This is a behaviors for dateformat, I was looking for
@@ -72,6 +72,6 @@ español tambien)
     :title: Dateformatter
     :description: CakePHP Article related to behaviors,date,change date,Dateformat,database date,Behaviors
     :keywords: behaviors,date,change date,Dateformat,database date,Behaviors
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 rikkin
     :category: behaviors
 

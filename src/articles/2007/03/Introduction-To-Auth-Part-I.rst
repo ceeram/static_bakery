@@ -1,7 +1,7 @@
 Introduction To Auth, Part I
 ============================
 
-by %s on March 13, 2007
+by nate on March 13, 2007
 
 This is the first in a series of tutorials covering the Auth
 component, released in CakePHP 1.2 (the tutorial is based on version
@@ -220,6 +220,6 @@ Controller Class:
     :title: Introduction To Auth, Part I
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 nate
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Google Translate Helper
 =======================
 
-by %s on January 05, 2010
+by alkavan on January 05, 2010
 
 needed this for a soccer site i'm developing, really easy to use.
 tested it with 200,500,700 chars, works fast with 200, less fast with
@@ -97,6 +97,6 @@ GoogleTranslateApi v1.1
     :title: Google Translate Helper
     :description: CakePHP Article related to google,Translate,Helpers
     :keywords: google,Translate,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 alkavan
     :category: helpers
 

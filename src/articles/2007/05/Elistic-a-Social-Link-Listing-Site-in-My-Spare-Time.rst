@@ -1,7 +1,7 @@
 Elistic: a Social Link-Listing Site in My Spare Time
 ====================================================
 
-by %s on May 19, 2007
+by frankp on May 19, 2007
 
 Another example of how CakePHP allows you to create complex web
 applications quickly by giving you the tools to focus on the relevant
@@ -158,6 +158,6 @@ framework like CakePHP. I look forward to seeing you there!
     :title: Elistic: a Social Link-Listing Site in My Spare Time
     :description: CakePHP Article related to social,links,Case Studies
     :keywords: social,links,Case Studies
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 frankp
     :category: case_studies
 

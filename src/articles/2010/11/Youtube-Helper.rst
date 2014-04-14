@@ -1,7 +1,7 @@
 Youtube Helper
 ==============
 
-by %s on November 20, 2010
+by cmarie on November 20, 2010
 
 As the title suggests this helper will return an embedded Youtube
 video and/or its thumbnail images.
@@ -168,6 +168,6 @@ class.
     :title: Youtube Helper
     :description: CakePHP Article related to youtube,Helpers
     :keywords: youtube,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 cmarie
     :category: helpers
 

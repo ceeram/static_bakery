@@ -1,7 +1,7 @@
 Website Title and Character Set Component
 =========================================
 
-by %s on September 05, 2011
+by abailiss on September 05, 2011
 
 This component allows you to pass a URL to one of its functions and
 retrieve an external page's and character set.
@@ -62,6 +62,6 @@ the page title and convert to UTF-8 $matches = array(); preg_match('#
     :title: Website Title and Character Set Component
     :description: CakePHP Article related to encoding,page title,charset,website,Components
     :keywords: encoding,page title,charset,website,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 abailiss
     :category: components
 

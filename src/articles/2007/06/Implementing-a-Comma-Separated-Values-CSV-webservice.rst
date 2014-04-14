@@ -1,7 +1,7 @@
 Implementing a Comma Separated Values (CSV) "webservice"
 ========================================================
 
-by %s on June 22, 2007
+by aitch on June 22, 2007
 
 A simple howto for beginners (by a beginner!) on rendering CSV output
 in a consistent manner with XML, RSS etc.
@@ -122,6 +122,6 @@ CakePHP Manual on Advanced Routing:
     :title: Implementing a Comma Separated Values (CSV) "webservice"
     :description: CakePHP Article related to webservices,beginner,csv,Tutorials
     :keywords: webservices,beginner,csv,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 aitch
     :category: tutorials
 

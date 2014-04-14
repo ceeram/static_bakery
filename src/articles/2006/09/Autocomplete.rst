@@ -1,7 +1,7 @@
 Autocomplete
 ============
 
-by %s on September 27, 2006
+by gwoo on September 27, 2006
 
 The AutocompleteComponent originally submitted by Nate to CakeForge.
 With a nice intro at http://cakebaker.42dh.com/2006/06/06
@@ -157,6 +157,6 @@ Component Class:
     :title: Autocomplete
     :description: CakePHP Article related to autocomplete,Components
     :keywords: autocomplete,Components
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 gwoo
     :category: components
 

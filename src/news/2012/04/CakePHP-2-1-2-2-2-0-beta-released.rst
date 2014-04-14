@@ -1,7 +1,7 @@
 CakePHP 2.1.2 & 2.2.0-beta released
 ===================================
 
-by %s on April 30, 2012
+by markstory on April 30, 2012
 
 The CakePHP core team is proud to announce the immediate availability
 of both CakePHP 2.1.2 [1], and 2.2.0-beta [2]. 2.1.2 is a bugfix
@@ -202,6 +202,6 @@ CakePHP!
     :title: CakePHP 2.1.2 & 2.2.0-beta released
     :description: CakePHP Article related to release,CakePHP,News
     :keywords: release,CakePHP,News
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 markstory
     :category: news
 

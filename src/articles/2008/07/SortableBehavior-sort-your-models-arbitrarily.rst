@@ -1,7 +1,7 @@
 SortableBehavior: sort your models arbitrarily
 ==============================================
 
-by %s on July 29, 2008
+by dardosordi on July 29, 2008
 
 This behavior allow us to sort records arbitrarily.
 
@@ -438,6 +438,6 @@ Here is the latest version of the behavior code and the test case:
     :title: SortableBehavior: sort your models arbitrarily
     :description: CakePHP Article related to ,Behaviors
     :keywords: ,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 dardosordi
     :category: behaviors
 

@@ -1,7 +1,7 @@
 mysq_query, Undefined function..!!
 ==================================
 
-by %s on June 01, 2010
+by _i0n on June 01, 2010
 
 How to solve PHP Fatal error: Call to undefined function mysql_query()
 and others buit-in functions.
@@ -71,6 +71,6 @@ Good. Problem Solved.. :)
     :title: mysq_query,  Undefined function..!!
     :description: CakePHP Article related to error,shell,in,undefined function,Helpers
     :keywords: error,shell,in,undefined function,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 _i0n
     :category: helpers
 

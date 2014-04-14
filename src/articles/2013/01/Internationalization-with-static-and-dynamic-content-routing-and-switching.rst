@@ -2,7 +2,7 @@ Internationalization with static and dynamic content, routing and
 switching
 =========
 
-by %s on January 27, 2013
+by kicaj on January 27, 2013
 
 Many times, when I prepare a new website I always think how to solve
 better internationalization. Mainly how resolve displaying dynamic
@@ -233,6 +233,6 @@ kicaj
     :title: Internationalization with static and dynamic content, routing and switching
     :description: CakePHP Article related to route,i18n,routing,url,Localization,Internationalization,l10n,switching,Articles
     :keywords: route,i18n,routing,url,Localization,Internationalization,l10n,switching,Articles
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 kicaj
     :category: articles
 

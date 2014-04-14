@@ -1,7 +1,7 @@
 Getting started quickly with Scriptaculous effects
 ==================================================
 
-by %s on January 03, 2008
+by janb on January 03, 2008
 
 CakePHP's AJAX helper offers you direct access to the Sciptaculous
 library. If you have little AJAX experience, the usage of this helper
@@ -183,6 +183,6 @@ References
     :title: Getting started quickly with Scriptaculous effects
     :description: CakePHP Article related to scriptaculous,Tutorials
     :keywords: scriptaculous,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 janb
     :category: tutorials
 

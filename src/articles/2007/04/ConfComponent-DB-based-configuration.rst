@@ -1,7 +1,7 @@
 ConfComponent DB based configuration
 ====================================
 
-by %s on April 10, 2007
+by CraZyLeGs on April 10, 2007
 
 DB based configuration, allows you to set and retrieve values
 organized into conf categories. Now with caching.
@@ -265,6 +265,6 @@ Component Class:
     :title: ConfComponent  DB based configuration
     :description: CakePHP Article related to database,configuration,component,config,conf,Components
     :keywords: database,configuration,component,config,conf,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 CraZyLeGs
     :category: components
 

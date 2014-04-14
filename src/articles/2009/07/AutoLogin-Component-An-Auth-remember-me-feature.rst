@@ -1,7 +1,7 @@
 AutoLogin Component - An Auth remember me feature
 =================================================
 
-by %s on July 05, 2009
+by milesj on July 05, 2009
 
 A user can save their login information by ticking off a checkbox in
 the login form and AutoLogin will store their information in a cookie
@@ -295,6 +295,6 @@ if the method exists.
     :title: AutoLogin Component - An Auth remember me feature
     :description: CakePHP Article related to Auth,login,session,component,autologin,milesj,cookie,Components
     :keywords: Auth,login,session,component,autologin,milesj,cookie,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 milesj
     :category: components
 

@@ -1,7 +1,7 @@
 OpenInviter for CakePHP
 =======================
 
-by %s on March 08, 2010
+by Kainchi on March 08, 2010
 
 [p] A few months ago, I've published a case study on the bakery about
 a website made with Cake. [/p] [ulist] [li]
@@ -94,6 +94,6 @@ framework and to all the community for its contributions.
     :title: OpenInviter for CakePHP
     :description: CakePHP Article related to component,Contact,openinviter,open,inviter,importer,Components
     :keywords: component,Contact,openinviter,open,inviter,importer,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 Kainchi
     :category: components
 

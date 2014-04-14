@@ -1,7 +1,7 @@
 ImageFiles-to-Selectbox Helper
 ==============================
 
-by %s on July 28, 2007
+by ArcadeTV on July 28, 2007
 
 Little Helper that generates a dropdown selectbox containing the names
 of image-files within your webroot/img folder. Great for admin-sites
@@ -66,6 +66,6 @@ useful.
     :title: ImageFiles-to-Selectbox Helper
     :description: CakePHP Article related to images,form,filenames,selectbox,Helpers
     :keywords: images,form,filenames,selectbox,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 ArcadeTV
     :category: helpers
 

@@ -1,7 +1,7 @@
 Memcache wrapper class
 ======================
 
-by %s on April 17, 2007
+by jiri on April 17, 2007
 
 A simple wrapper for PHP's Memcache functions
 Used by the Memcache `component`_ and `helper`_. You can get the `full
@@ -104,6 +104,6 @@ Following goes in /app/vendors/Memcache.php:
     :title: Memcache wrapper class
     :description: CakePHP Article related to caching,wrapper,vendor,memcached,memcache,Snippets
     :keywords: caching,wrapper,vendor,memcached,memcache,Snippets
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 jiri
     :category: snippets
 

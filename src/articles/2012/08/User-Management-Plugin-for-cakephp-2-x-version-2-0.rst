@@ -1,7 +1,7 @@
 User Management Plugin for cakephp 2.x version 2.0
 ==================================================
 
-by %s on August 20, 2012
+by Jimmy on August 20, 2012
 
 I have launched a new version(2.0) of my plugin for user management.
 Demo at http://umpremium.ektasoftwares.com
@@ -51,6 +51,6 @@ of this plugin.
     :title: User Management Plugin for cakephp 2.x version 2.0
     :description: CakePHP Article related to AJAX,login,authentication,twitter,registration,facebook,Plugins
     :keywords: AJAX,login,authentication,twitter,registration,facebook,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 Jimmy
     :category: plugins
 

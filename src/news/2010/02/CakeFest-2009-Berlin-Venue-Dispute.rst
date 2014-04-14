@@ -1,7 +1,7 @@
 CakeFest 2009 Berlin Venue Dispute
 ==================================
 
-by %s on February 10, 2010
+by CakeFoundation on February 10, 2010
 
 A recent posting by Felix GeisendÃ¶rfer of Debuggable[1] has resulted
 in some concerns amongst the CakePHP[2] community after payment
@@ -65,6 +65,6 @@ events are managed internally to avoid such issues.
     :title: CakeFest 2009 Berlin Venue Dispute
     :description: CakePHP Article related to sad,News
     :keywords: sad,News
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 CakeFoundation
     :category: news
 

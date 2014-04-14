@@ -1,7 +1,7 @@
 An improvement to unbindModel on model side
 ===========================================
 
-by %s on March 25, 2007
+by mariano on March 25, 2007
 
 Not long ago I saw Tom OReilly's great tutorial entitled "Keeping
 bindModel and unbindModel out of your Controllers." While he showed us
@@ -448,6 +448,6 @@ this functionality from your controllers.
     :title: An improvement to unbindModel on model side
     :description: CakePHP Article related to relationships,unbind,expects,relation,Tutorials
     :keywords: relationships,unbind,expects,relation,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 mariano
     :category: tutorials
 

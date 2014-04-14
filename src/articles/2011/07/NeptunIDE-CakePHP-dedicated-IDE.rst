@@ -1,7 +1,7 @@
 NeptunIDE: CakePHP dedicated IDE
 ================================
 
-by %s on July 25, 2011
+by jakubl on July 25, 2011
 
 NetBeans supports Symfony, Zend Studio supports Zend Framework, but no
 IDE has support for CakePHP, one of the most popular PHP frameworks.
@@ -40,6 +40,6 @@ to getting feedback from you.
     :title: NeptunIDE: CakePHP dedicated IDE
     :description: CakePHP Article related to ide,cakephp tools,General Interest
     :keywords: ide,cakephp tools,General Interest
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 jakubl
     :category: general_interest
 

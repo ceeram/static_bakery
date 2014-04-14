@@ -1,7 +1,7 @@
 Really Simple Auth Component
 ============================
 
-by %s on January 13, 2011
+by afterxleep on January 13, 2011
 
 Since the first releases of CakePHP, the authentication component
 seemed overkill for small projects, where simple
@@ -32,6 +32,6 @@ page, here: `http://code.google.com/p/cakephp-bauth/`_
     :title: Really Simple Auth Component
     :description: CakePHP Article related to authentication,component,simple,Components
     :keywords: authentication,component,simple,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 afterxleep
     :category: components
 

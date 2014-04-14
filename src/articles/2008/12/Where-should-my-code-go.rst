@@ -1,7 +1,7 @@
 Where should my code go?
 ========================
 
-by %s on December 29, 2008
+by Auzigog on December 29, 2008
 
 This article helps you understand where you should place new code
 within the model-view-controller design pattern.
@@ -125,6 +125,6 @@ Elements
     :title: Where should my code go?
     :description: CakePHP Article related to guide,mvc,reference,coding,conventions,General Interest
     :keywords: guide,mvc,reference,coding,conventions,General Interest
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Auzigog
     :category: general_interest
 

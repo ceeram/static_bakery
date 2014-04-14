@@ -1,7 +1,7 @@
 10 confusions with their solutions before you start using CakePHP
 =================================================================
 
-by %s on November 16, 2006
+by gigapromoters on November 16, 2006
 
 Most of the new developers are afraid of spending time with new stuff
 in market. This article will guide you about the confusions and how to
@@ -224,6 +224,6 @@ Author: Abhimanyu Grover
     :title: 10 confusions with their solutions before you start using CakePHP
     :description: CakePHP Article related to frameworks,learn,new developers,implementing,plug,about,starter,promote,General Interest
     :keywords: frameworks,learn,new developers,implementing,plug,about,starter,promote,General Interest
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 gigapromoters
     :category: general_interest
 

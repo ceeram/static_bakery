@@ -1,7 +1,7 @@
 dAuth v0.3 helper
 =================
 
-by %s on November 15, 2006
+by Dieter_be on November 15, 2006
 
 helper for dAuth v0.3
 Iirc, the only real change i made for v0.3 is improving the names of
@@ -148,6 +148,6 @@ more info about dAuth @ `http://bakery.cakephp.org/articles/view/147`_
     :title: dAuth v0.3 helper
     :description: CakePHP Article related to login,dauth,challenge response,secure,Helpers
     :keywords: login,dauth,challenge response,secure,Helpers
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 Dieter_be
     :category: helpers
 

@@ -1,7 +1,7 @@
 Sidebar Helper
 ==============
 
-by %s on January 05, 2010
+by ebotunes on January 05, 2010
 
 The Sidebar helper allows you to insert a sidebar with multiple
 content blocks into your layouts, similar to Wordpress widgets. Also
@@ -267,6 +267,6 @@ Helper Class:
     :title: Sidebar Helper
     :description: CakePHP Article related to sidebar,sidebox,widget,Helpers
     :keywords: sidebar,sidebox,widget,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 ebotunes
     :category: helpers
 

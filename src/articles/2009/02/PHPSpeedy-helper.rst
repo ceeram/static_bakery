@@ -1,7 +1,7 @@
 PHPSpeedy helper
 ================
 
-by %s on February 10, 2009
+by Marcelius on February 10, 2009
 
 So I needed a nice package that minifies/gzips all assets like
 js/css/html and combines them into as less http requests possible.
@@ -176,6 +176,6 @@ Enjoy!
     :title: PHPSpeedy helper
     :description: CakePHP Article related to helper,helpers,performance,minify,phpspeedy,Helpers
     :keywords: helper,helpers,performance,minify,phpspeedy,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Marcelius
     :category: helpers
 

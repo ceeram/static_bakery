@@ -1,7 +1,7 @@
 How to use Smarty with Cake (SmartyView)
 ========================================
 
-by %s on October 27, 2006
+by tclineks on October 27, 2006
 
 The SmartyView package sits here:
 [url]http://cakeforge.org/snippet/detail.php?type=snippet=6[/url] But
@@ -121,6 +121,6 @@ view class that uses '.tpl' as its extension.
     :title: How to use Smarty with Cake (SmartyView)
     :description: CakePHP Article related to smartyview,smarty,Tutorials
     :keywords: smartyview,smarty,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 tclineks
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Yahoo weather component
 =======================
 
-by %s on January 29, 2008
+by arash.hemmat on January 29, 2008
 
 Yahoo! developer network provides a RSS based API to access weather
 information for locations all around the world. The component has a
@@ -164,6 +164,6 @@ Component Class:
     :title: Yahoo weather component
     :description: CakePHP Article related to api,component,yahoo,weather,Components
     :keywords: api,component,yahoo,weather,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 arash.hemmat
     :category: components
 

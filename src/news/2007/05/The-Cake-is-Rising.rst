@@ -1,7 +1,7 @@
 The Cake is Rising
 ==================
 
-by %s on May 20, 2007
+by PhpNut on May 20, 2007
 
 The latest bug fix release of 1.1.15.5134 is ready [1]. Check out the
 changelog[2] to see what was fixed. The latest release of
@@ -72,6 +72,6 @@ change log: `https://trac.cakephp.org/wiki/changelog/1.2.x.x`_
     :title: The Cake is Rising
     :description: CakePHP Article related to ,News
     :keywords: ,News
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 PhpNut
     :category: news
 

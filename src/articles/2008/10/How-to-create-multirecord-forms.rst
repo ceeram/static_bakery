@@ -1,7 +1,7 @@
 How to create multirecord forms
 ===============================
 
-by %s on October 22, 2008
+by Marcelius on October 22, 2008
 
 One of the things I found a bit difficult to accomplish was the
 ability to create, update and delete multiple records in one HTML
@@ -433,6 +433,6 @@ Component Class:
     :title: How to create multirecord forms
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Marcelius
     :category: tutorials
 

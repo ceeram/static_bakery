@@ -1,7 +1,7 @@
 ExtendableBehavior
 ==================
 
-by %s on June 12, 2008
+by kuja on June 12, 2008
 
 ExtendableBehavior allows you to subclass models and use them to
 categorize different types of model data in the same table.
@@ -170,6 +170,6 @@ the comments area please! ;)
     :title: ExtendableBehavior
     :description: CakePHP Article related to ,Behaviors
     :keywords: ,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 kuja
     :category: behaviors
 

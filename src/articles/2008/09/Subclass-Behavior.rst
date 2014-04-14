@@ -1,7 +1,7 @@
 Subclass Behavior
 =================
 
-by %s on September 18, 2008
+by eldonbite on September 18, 2008
 
 This behavior simulates an Entity-Relationship database model's ISA
 relationship and which demonstrates the subclassing concept inherent
@@ -263,6 +263,6 @@ HAPPY BAKING! ;-)
     :title: Subclass Behavior
     :description: CakePHP Article related to database,behavior,isa relationship,inheritance,object oriented,subclass,Behaviors
     :keywords: database,behavior,isa relationship,inheritance,object oriented,subclass,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 eldonbite
     :category: behaviors
 

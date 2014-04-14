@@ -1,7 +1,7 @@
 Extended beforeFilter() snippet
 ===============================
 
-by %s on April 07, 2007
+by Natcon67 on April 07, 2007
 
 This is a simple addition to app_controller.php to allow a more
 customized beforeFilter() callback.
@@ -137,6 +137,6 @@ Controller Class:
     :title: Extended beforeFilter() snippet
     :description: CakePHP Article related to extend beforeFilter(,beforeFilter,Snippets
     :keywords: extend beforeFilter(,beforeFilter,Snippets
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Natcon67
     :category: snippets
 

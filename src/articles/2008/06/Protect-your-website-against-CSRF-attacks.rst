@@ -1,7 +1,7 @@
 Protect your website against CSRF attacks
 =========================================
 
-by %s on June 11, 2008
+by T0aD on June 11, 2008
 
 CSRF attacks take advantage of the fact that if an authenticated
 client opens a page with a link , the browser will treat it as a
@@ -230,6 +230,6 @@ know about the issue ;)
     :title: Protect your website against CSRF attacks
     :description: CakePHP Article related to security,1.2,csrf,Components
     :keywords: security,1.2,csrf,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 T0aD
     :category: components
 

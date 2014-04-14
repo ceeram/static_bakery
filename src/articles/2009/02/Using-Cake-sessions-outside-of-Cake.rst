@@ -1,7 +1,7 @@
 Using Cake sessions outside of Cake
 ===================================
 
-by %s on February 18, 2009
+by brightball on February 18, 2009
 
 While recently working on a CMS tool, I needed to pass some in-session
 information. I was using Cake's database sessions and it wasn't
@@ -39,6 +39,6 @@ your cake session.
     :title: Using Cake sessions outside of Cake
     :description: CakePHP Article related to database,session,placeniceoutsideofca,brightball,Tutorials
     :keywords: database,session,placeniceoutsideofca,brightball,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 brightball
     :category: tutorials
 

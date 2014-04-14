@@ -1,7 +1,7 @@
 Barcode Helper
 ==============
 
-by %s on April 30, 2010
+by ixu38 on April 30, 2010
 
 In my project I needed a helper to generate different types of
 barcodes
@@ -975,6 +975,6 @@ Helper Class:
     :title: Barcode Helper
     :description: CakePHP Article related to helper,CakePHP,barcode,Helpers
     :keywords: helper,CakePHP,barcode,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 ixu38
     :category: helpers
 

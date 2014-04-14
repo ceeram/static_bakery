@@ -1,7 +1,7 @@
 Coding a self-join in a cake application
 ========================================
 
-by %s on April 10, 2007
+by CodingisFun on April 10, 2007
 
 This tutorial shows how to code your model, controller and views in
 case of a self join. A self-join is a query in which a table is joined
@@ -256,6 +256,6 @@ reference the right array (parent or child).
     :title: Coding a self-join in a cake application
     :description: CakePHP Article related to self-join,parent,Tutorials
     :keywords: self-join,parent,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 CodingisFun
     :category: tutorials
 

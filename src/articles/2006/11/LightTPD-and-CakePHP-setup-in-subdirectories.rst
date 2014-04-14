@@ -1,7 +1,7 @@
 LightTPD and CakePHP setup in subdirectories
 ============================================
 
-by %s on November 23, 2006
+by baverman on November 23, 2006
 
 I faced the challenge to install CakePHP under LightTPD. All works
 smoothly as long as I deploy projects in document root of domain. But
@@ -49,6 +49,6 @@ looks like `http://example.com/project1/controller/action`_
     :title: LightTPD and CakePHP setup in subdirectories
     :description: CakePHP Article related to lighttpd,subdirectories,Tutorials
     :keywords: lighttpd,subdirectories,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 baverman
     :category: tutorials
 

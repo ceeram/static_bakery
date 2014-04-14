@@ -1,7 +1,7 @@
 Easy links in admin...
 ======================
 
-by %s on May 08, 2009
+by dogmatic69 on May 08, 2009
 
 sick of making links every were that are hard to maintain.. this may
 be for you. easily generate your CRUD links in admin with this handy
@@ -265,6 +265,6 @@ before its even generated.
     :title: Easy links in admin... 
     :description: CakePHP Article related to helper,automagic links,crud,Helpers
     :keywords: helper,automagic links,crud,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 dogmatic69
     :category: helpers
 

@@ -1,7 +1,7 @@
 Htmlcleaner Helper
 ==================
 
-by %s on April 17, 2010
+by phudgins on April 17, 2010
 
 Based on HTMLCleaner by Lucian Sabo, this helper is used for removing
 unwanted and/or invalid html markup from a provided string. By
@@ -393,6 +393,6 @@ configure. I hope others can find this as useful as I do.
     :title: Htmlcleaner Helper
     :description: CakePHP Article related to tidy,ms word cleaning,htmlcleaner,Helpers
     :keywords: tidy,ms word cleaning,htmlcleaner,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 phudgins
     :category: helpers
 

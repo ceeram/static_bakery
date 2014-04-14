@@ -1,7 +1,7 @@
 Image handler component
 =======================
 
-by %s on December 22, 2010
+by nicho12 on December 22, 2010
 
 This is an attempt to make a previously published article more
 readable, the article is found here: http://bakery.cakephp.org/article
@@ -650,6 +650,6 @@ to be included in the comments at the top.
     :title: Image handler component
     :description: CakePHP Article related to image,resize,crop,flip,watermark,Articles
     :keywords: image,resize,crop,flip,watermark,Articles
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 nicho12
     :category: articles
 

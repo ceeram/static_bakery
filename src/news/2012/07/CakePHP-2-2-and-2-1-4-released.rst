@@ -1,7 +1,7 @@
 CakePHP 2.2 and 2.1.4 released
 ==============================
 
-by %s on July 01, 2012
+by lorenzo on July 01, 2012
 
 The CakePHP core team is proud to announce the immediate availability
 of both CakePHP 2.2.0 stable and 2.1.4 which is the final bugfix
@@ -130,6 +130,6 @@ Links
     :title: CakePHP 2.2 and 2.1.4 released
     :description: CakePHP Article related to release,2.2,News
     :keywords: release,2.2,News
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 lorenzo
     :category: news
 

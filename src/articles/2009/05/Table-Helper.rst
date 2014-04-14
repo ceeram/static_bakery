@@ -1,7 +1,7 @@
 Table Helper
 ============
 
-by %s on May 08, 2009
+by scottsanders on May 08, 2009
 
 The following code allows you to rapidly create nice tables. Complete
 with pagination controls, and a host of options to allow you to
@@ -331,6 +331,6 @@ Helper Class:
     :title: Table Helper
     :description: CakePHP Article related to helper,table,Helpers
     :keywords: helper,table,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 scottsanders
     :category: helpers
 

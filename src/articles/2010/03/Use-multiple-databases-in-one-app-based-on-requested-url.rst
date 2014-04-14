@@ -1,7 +1,7 @@
 Use multiple databases in one app based on requested url
 ========================================================
 
-by %s on March 12, 2010
+by doze on March 12, 2010
 
 I needed to build an application where there are multiple customers
 (companies) using the application and each have their own database,
@@ -281,6 +281,6 @@ Thanks a lot to everyone who helped me at CakePHP google groups and in
     :title: Use multiple databases in one app based on requested url
     :description: CakePHP Article related to routing,dynamic datasource,Tutorials
     :keywords: routing,dynamic datasource,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 doze
     :category: tutorials
 

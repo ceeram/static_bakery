@@ -1,7 +1,7 @@
 CSV Reader Model
 ================
 
-by %s on September 25, 2009
+by CakePOWER on September 25, 2009
 
 This morning I have had to access some csv files and I went into
 panic: I found some helpers to create but nothing to read! So I
@@ -363,6 +363,6 @@ Let me show you my code:
     :title: CSV Reader Model
     :description: CakePHP Article related to csv,read csv,access csv,Models
     :keywords: csv,read csv,access csv,Models
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 CakePOWER
     :category: models
 

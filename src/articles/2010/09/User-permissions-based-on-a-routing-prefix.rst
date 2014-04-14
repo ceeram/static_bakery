@@ -1,7 +1,7 @@
 User permissions based on a routing prefix
 ==========================================
 
-by %s on September 23, 2010
+by watermark86 on September 23, 2010
 
 You want to limit users to specific parts of the site, but the using
 ACLs seems like overkill. It's pretty simple to limit a few groups to
@@ -80,6 +80,6 @@ rest to another day.
     :title: User permissions based on a routing prefix
     :description: CakePHP Article related to acl,Auth,prefix,routing,permissions,authenticate,Tutorials
     :keywords: acl,Auth,prefix,routing,permissions,authenticate,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 watermark86
     :category: tutorials
 

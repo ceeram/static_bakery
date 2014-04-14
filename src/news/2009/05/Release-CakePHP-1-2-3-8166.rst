@@ -1,7 +1,7 @@
 Release: CakePHP 1.2.3.8166
 ===========================
 
-by %s on May 04, 2009
+by gwoo on May 04, 2009
 
 I am happy to announce another release of CakePHP 1.2. CakePHP
 1.2.3.8166[1] includes several bug fixes and most importantly a
@@ -36,6 +36,6 @@ PS. CakeFest Tickets. `http://cakefest.org`_
     :title: Release: CakePHP 1.2.3.8166
     :description: CakePHP Article related to release,CakePHP,core fix,News
     :keywords: release,CakePHP,core fix,News
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 gwoo
     :category: news
 

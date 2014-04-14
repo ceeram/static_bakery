@@ -1,7 +1,7 @@
 Zip Component
 =============
 
-by %s on July 18, 2007
+by SeanCallan on July 18, 2007
 
 I am currently building a web 2.0 implementation of Bake that allows
 users to create their entire application in a friendly web environment
@@ -306,6 +306,6 @@ issues.
     :title: Zip Component
     :description: CakePHP Article related to component,Compression,Zip,Archive,1.2,Components
     :keywords: component,Compression,Zip,Archive,1.2,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 SeanCallan
     :category: components
 

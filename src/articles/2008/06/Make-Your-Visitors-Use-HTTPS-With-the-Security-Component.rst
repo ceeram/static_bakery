@@ -1,7 +1,7 @@
 Make Your Visitors Use HTTPS With the Security Component
 ========================================================
 
-by %s on June 05, 2008
+by pr1001 on June 05, 2008
 
 You can easily force visitors to use an SSL connection to your Cake
 site with the Security Component. Here's how.
@@ -50,6 +50,6 @@ Auth component's login page. Any advice would be appreciated.
     :title: Make Your Visitors Use HTTPS With the Security Component
     :description: CakePHP Article related to redirect,security,HTTP,component,https,ssl,Tutorials
     :keywords: redirect,security,HTTP,component,https,ssl,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 pr1001
     :category: tutorials
 

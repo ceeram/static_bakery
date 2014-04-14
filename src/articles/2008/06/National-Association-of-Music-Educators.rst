@@ -1,7 +1,7 @@
 National Association of Music Educators
 =======================================
 
-by %s on June 11, 2008
+by leveille on June 11, 2008
 
 When the National Association for Music Education came to us for
 development, and they didn't balk at PHP, Cake was a no brainer.
@@ -104,6 +104,6 @@ first application, and I'm sure future apps will only get better.
     :title: National Association of Music Educators
     :description: CakePHP Article related to ,Case Studies
     :keywords: ,Case Studies
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 leveille
     :category: case_studies
 

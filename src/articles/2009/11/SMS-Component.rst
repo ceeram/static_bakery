@@ -1,7 +1,7 @@
 SMS Component
 =============
 
-by %s on November 07, 2009
+by webtechnick on November 07, 2009
 
 A simple and free SMS gateway component based on the information
 provided in
@@ -414,6 +414,6 @@ More
     :title: SMS Component
     :description: CakePHP Article related to Components,sms,text messages
     :keywords: Components,sms,text messages
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 webtechnick
     :category: components
 

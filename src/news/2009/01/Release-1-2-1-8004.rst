@@ -1,7 +1,7 @@
 Release: 1.2.1.8004
 ===================
 
-by %s on January 16, 2009
+by gwoo on January 16, 2009
 
 The response to CakePHP 1.2 Final has been amazing. In less than a
 month, we have seen over 40,000 downloads. These numbers go along
@@ -40,6 +40,6 @@ php/browse_thread/thread/659682805f3d71d7`_
     :title: Release: 1.2.1.8004
     :description: CakePHP Article related to release,News
     :keywords: release,News
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 gwoo
     :category: news
 

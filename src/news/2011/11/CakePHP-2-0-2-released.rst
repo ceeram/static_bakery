@@ -1,7 +1,7 @@
 CakePHP 2.0.2 released
 ======================
 
-by %s on November 03, 2011
+by lorenzo on November 03, 2011
 
 A new version for the 2.0 branch has been released, containing a fix
 for a regression introduced in 2.0.1, people using this version are
@@ -47,6 +47,6 @@ Links
     :title: CakePHP 2.0.2 released
     :description: CakePHP Article related to release,2.0.2,News
     :keywords: release,2.0.2,News
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 lorenzo
     :category: news
 

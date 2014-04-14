@@ -1,7 +1,7 @@
 Running CakePHP using the Facebook's HipHop compiler
 ====================================================
 
-by %s on January 30, 2012
+by lorenzo on January 30, 2012
 
 I always had the curiosity of trying to compile CakePHP to C++ code,
 but never had the time. This year I decided to give it a go...
@@ -317,6 +317,6 @@ applications? Leave your thoughts in the comments section!
     :title: Running CakePHP using the Facebook's HipHop compiler
     :description: CakePHP Article related to performance,compile,hiphop,Tutorials
     :keywords: performance,compile,hiphop,Tutorials
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 lorenzo
     :category: tutorials
 

@@ -1,7 +1,7 @@
 CakePHP-Twitter-Plugin
 ======================
 
-by %s on September 19, 2011
+by nitsche on September 19, 2011
 
 I have created an easy plugin for CakePHP to use the main methods of
 the Twitter API with OAuth.
@@ -33,6 +33,6 @@ the repro an GitHub or send me a message/email.
     :title: CakePHP-Twitter-Plugin
     :description: CakePHP Article related to twitter,oauth,twitter plugin,cake oauth,twitter apip,twitter oauth,Plugins
     :keywords: twitter,oauth,twitter plugin,cake oauth,twitter apip,twitter oauth,Plugins
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 nitsche
     :category: plugins
 

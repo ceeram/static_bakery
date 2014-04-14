@@ -1,7 +1,7 @@
 Thumbnails generation with phpThumb
 ===================================
 
-by %s on May 09, 2007
+by spout on May 09, 2007
 
 phpThumb is a great thumbnail generator, it can generate thumbs with
 GD, GD2 or ImageMagick. There are many features like crop, rotate,
@@ -126,6 +126,6 @@ the controller: max width=100, max height=150.
     :title: Thumbnails generation with phpThumb
     :description: CakePHP Article related to thumb,thumbnail,phpThumb,Snippets
     :keywords: thumb,thumbnail,phpThumb,Snippets
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 spout
     :category: snippets
 

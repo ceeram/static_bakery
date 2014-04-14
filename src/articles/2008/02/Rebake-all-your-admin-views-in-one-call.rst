@@ -1,7 +1,7 @@
 Rebake all your admin views in one call
 =======================================
 
-by %s on February 27, 2008
+by AD7six on February 27, 2008
 
 A console script to recreate all admin views in a single call. To
 install ensure you are able to run the cake console commands copy the
@@ -183,6 +183,6 @@ bake_admin all
     :title: Rebake all your admin views in one call
     :description: CakePHP Article related to ,Snippets
     :keywords: ,Snippets
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 AD7six
     :category: snippets
 

@@ -1,7 +1,7 @@
 AddressFinderHelper, a widget for cakephp 2.x forms
 ===================================================
 
-by %s on April 06, 2012
+by -Ste- on April 06, 2012
 
 This helper encapsulates a nice javascript, providing client side
 address autocomplete from google maps, geocoding, and reverse
@@ -24,6 +24,6 @@ for cakephp 2.x.. suggestions are welcome!
     :title: AddressFinderHelper, a widget for cakephp 2.x forms
     :description: CakePHP Article related to javascript,helper,helpers,googlemap,Google Maps,geolocation,Helpers
     :keywords: javascript,helper,helpers,googlemap,Google Maps,geolocation,Helpers
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 -Ste-
     :category: helpers
 

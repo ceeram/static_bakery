@@ -1,7 +1,7 @@
 unbindAll
 =========
 
-by %s on December 10, 2006
+by cornernote on December 10, 2006
 
 Here is a simple way to unbind all models. Just put this function into
 your app_model.php
@@ -41,6 +41,6 @@ Model Class:
     :title: unbindAll
     :description: CakePHP Article related to unbindAll,unbind,Snippets
     :keywords: unbindAll,unbind,Snippets
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 cornernote
     :category: snippets
 

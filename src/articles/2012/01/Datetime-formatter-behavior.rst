@@ -1,7 +1,7 @@
 Datetime formatter behavior
 ===========================
 
-by %s on January 30, 2012
+by adael on January 30, 2012
 
 Taking the idea from previous post, I have made a Behavior that
 formats date and datetime fields.
@@ -66,6 +66,6 @@ Here's the code: (pasted here: `http://bin.cakephp.org/saved/72238)`_
     :title: Datetime formatter behavior
     :description: CakePHP Article related to behaviors,Articles
     :keywords: behaviors,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 adael
     :category: articles
 

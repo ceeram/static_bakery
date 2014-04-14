@@ -1,7 +1,7 @@
 Image Toolbox Wrapper
 =====================
 
-by %s on August 14, 2007
+by sintaks on August 14, 2007
 
 This is a very simple wrapper for the very-excellent Image_Toolbox
 class.
@@ -87,6 +87,6 @@ Controller Class:
     :title: Image Toolbox Wrapper
     :description: CakePHP Article related to image,resize,image_toolbox,resizing,image manipulation,Components
     :keywords: image,resize,image_toolbox,resizing,image manipulation,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 sintaks
     :category: components
 

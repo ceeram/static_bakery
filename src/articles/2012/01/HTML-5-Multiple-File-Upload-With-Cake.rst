@@ -1,7 +1,7 @@
 HTML 5 Multiple File Upload With Cake
 =====================================
 
-by %s on January 31, 2012
+by veganista on January 31, 2012
 
 A quick tutorial on how to use HTML5's multiple file upload with
 CakePHP
@@ -66,6 +66,6 @@ You can then loop through the files array and process them as usual.
     :title: HTML 5 Multiple File Upload With Cake
     :description: CakePHP Article related to html5 multiple file upload,Snippets
     :keywords: html5 multiple file upload,Snippets
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 veganista
     :category: snippets
 

@@ -1,7 +1,7 @@
 IE6 PNG transparency fix Helper
 ===============================
 
-by %s on August 26, 2008
+by Jay.Salvat on August 26, 2008
 
 Use this helper instead of the original Html->image() to get Png
 pictures with alpha transparency working properly on Internet Explorer
@@ -118,6 +118,6 @@ Helper Class:
     :title: IE6 PNG transparency fix Helper
     :description: CakePHP Article related to transparency,fix,internet explorer,png,hack,Helpers
     :keywords: transparency,fix,internet explorer,png,hack,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Jay.Salvat
     :category: helpers
 

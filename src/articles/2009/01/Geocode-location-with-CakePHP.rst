@@ -1,7 +1,7 @@
 Geocode location with CakePHP
 =============================
 
-by %s on January 24, 2009
+by Firecreek on January 24, 2009
 
 Locate postcodes and addresses with this CakePHP model.
 
@@ -273,6 +273,6 @@ Model Class:
     :title: Geocode location with CakePHP
     :description: CakePHP Article related to geolocation,geocode,google maps,latitude,longitude,longlat,lnglat,multimap,yahoo maps,Models
     :keywords: geolocation,geocode,google maps,latitude,longitude,longlat,lnglat,multimap,yahoo maps,Models
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Firecreek
     :category: models
 

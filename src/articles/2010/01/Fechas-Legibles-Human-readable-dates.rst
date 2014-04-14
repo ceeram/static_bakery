@@ -1,7 +1,7 @@
 Fechas Legibles (Human readable dates)
 ======================================
 
-by %s on January 31, 2010
+by chakuako on January 31, 2010
 
 Un sencillo helper que convierte una fecha en formato de base de
 datos: yyyy-mm-dd en un formato legible para usuarios, por ejemplo: 29
@@ -58,6 +58,6 @@ Helper Class:
     :title: Fechas Legibles (Human readable dates)
     :description: CakePHP Article related to date,fechas legibles,fechas,human readable dates,dingler,readable,legible,dates,fecha,Helpers
     :keywords: date,fechas legibles,fechas,human readable dates,dingler,readable,legible,dates,fecha,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 chakuako
     :category: helpers
 

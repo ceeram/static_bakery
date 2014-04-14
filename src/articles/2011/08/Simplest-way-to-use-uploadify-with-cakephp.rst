@@ -1,7 +1,7 @@
 Simplest way to use uploadify with cakephp
 ==========================================
 
-by %s on August 19, 2011
+by instatutorial on August 19, 2011
 
 I have posted a tutorial on how to use uploadify with cakephp on my
 blog you can it...
@@ -88,6 +88,6 @@ for more details you can visit complete tutorial here
     :title: Simplest way to use uploadify with cakephp
     :description: CakePHP Article related to CakePHP,jquery,upload,Articles
     :keywords: CakePHP,jquery,upload,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 instatutorial
     :category: articles
 

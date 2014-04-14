@@ -1,7 +1,7 @@
 ACL Management Plugin
 =====================
 
-by %s on January 25, 2008
+by phishy on January 25, 2008
 
 A simple, easy, AJAXY, solution for managing your access control
 lists.
@@ -59,6 +59,6 @@ Bakery.
     :title: ACL Management Plugin
     :description: CakePHP Article related to acl,plugin,Plugins
     :keywords: acl,plugin,Plugins
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 phishy
     :category: plugins
 

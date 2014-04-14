@@ -1,7 +1,7 @@
 ShortenComponent - A Component for URL Shortening
 =================================================
 
-by %s on September 13, 2011
+by ViZi0naRy on September 13, 2011
 
 I needed a way to generate Short URL's for my blog posts (like
 WordPress is able to do) on-the-fly, this ShortenComponent was what I
@@ -39,6 +39,6 @@ Feel free to fork it on GitHub, or suggest changes.
     :title: ShortenComponent - A Component for URL Shortening
     :description: CakePHP Article related to component,short url,Components
     :keywords: component,short url,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 ViZi0naRy
     :category: components
 

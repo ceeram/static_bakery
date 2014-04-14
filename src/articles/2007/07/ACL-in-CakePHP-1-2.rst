@@ -1,7 +1,7 @@
 ACL in CakePHP 1.2
 ==================
 
-by %s on July 04, 2007
+by AcidMaX on July 04, 2007
 
 The ACL/Auth components have left many people screaming for help. Here
 are some simple basic examples on how to get auth working from
@@ -86,6 +86,6 @@ command:
     :title: ACL in CakePHP 1.2
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 AcidMaX
     :category: tutorials
 

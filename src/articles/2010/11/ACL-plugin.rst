@@ -1,7 +1,7 @@
 ACL plugin
 ==========
 
-by %s on November 21, 2010
+by alaxos on November 21, 2010
 
 The core of CakePHP contains a system to control access rights based
 on Access Control List. This mechanism is very useful, but I have to
@@ -80,6 +80,6 @@ page`_.
     :title: ACL plugin
     :description: CakePHP Article related to acl plugin,Plugins
     :keywords: acl plugin,Plugins
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 alaxos
     :category: plugins
 

@@ -1,7 +1,7 @@
 dAuth v0.3 component
 ====================
 
-by %s on November 15, 2006
+by Dieter_be on November 15, 2006
 
 the component for dAuth v0.3
 
@@ -467,6 +467,6 @@ more info about dAuth @ `http://bakery.cakephp.org/articles/view/147`_
     :title: dAuth v0.3 component
     :description: CakePHP Article related to login,dauth,challenge response,secure,Components
     :keywords: login,dauth,challenge response,secure,Components
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 Dieter_be
     :category: components
 

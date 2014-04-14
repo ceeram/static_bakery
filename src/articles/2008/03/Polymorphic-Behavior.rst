@@ -1,7 +1,7 @@
 Polymorphic Behavior
 ====================
 
-by %s on March 13, 2008
+by AD7six on March 13, 2008
 
 A behavior which will allow a model to be associated with any other
 model.
@@ -278,6 +278,6 @@ Bake on!
     :title: Polymorphic Behavior
     :description: CakePHP Article related to ,Behaviors
     :keywords: ,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 AD7six
     :category: behaviors
 

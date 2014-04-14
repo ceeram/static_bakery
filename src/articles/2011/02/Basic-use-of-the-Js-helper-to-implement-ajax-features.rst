@@ -1,7 +1,7 @@
 Basic use of the Js helper to implement ajax features
 =====================================================
 
-by %s on February 26, 2011
+by casualman on February 26, 2011
 
 An overview on how to use the new Js helper to implement ajax
 features.
@@ -69,6 +69,6 @@ efficient way.
     :title: Basic use of the Js helper to implement ajax features
     :description: CakePHP Article related to AJAX,helper,js,JsHelper,Helpers
     :keywords: AJAX,helper,js,JsHelper,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 casualman
     :category: helpers
 

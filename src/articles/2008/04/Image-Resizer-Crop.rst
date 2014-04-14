@@ -1,7 +1,7 @@
 Image Resizer / Crop
 ====================
 
-by %s on April 12, 2008
+by Perkster on April 12, 2008
 
 A handy-dandy resize, crop component to be used in controllers rather
 than view.
@@ -279,6 +279,6 @@ Hope y'all find this useful.
     :title: Image Resizer / Crop
     :description: CakePHP Article related to image,component,resize,crop,Components
     :keywords: image,component,resize,crop,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Perkster
     :category: components
 

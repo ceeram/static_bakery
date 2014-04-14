@@ -1,7 +1,7 @@
 Quick fix for HABTM Validation
 ==============================
 
-by %s on January 13, 2010
+by kogalex on January 13, 2010
 
 I was looking for a simple solution for HABTM validation, and
 struggled to find one that didn't required me to write a lot of code.
@@ -81,6 +81,6 @@ more info about the multiple validation rule here
     :title: Quick fix for HABTM Validation
     :description: CakePHP Article related to validation,validate,hasAndBelongsToMany,HABTM,Tutorials
     :keywords: validation,validate,hasAndBelongsToMany,HABTM,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 kogalex
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Threaded Lists
 ==============
 
-by %s on September 24, 2006
+by MrRio on September 24, 2006
 
 Ever needed a tree of sections with an unlimited depth? Here's a quick
 guide to findAllThreaded().
@@ -332,6 +332,6 @@ Hope you enjoyed the article and happy baking!
     :title: Threaded Lists
     :description: CakePHP Article related to hierarchical,lists,helpers,tree,threaded,MrRio,Tutorials
     :keywords: hierarchical,lists,helpers,tree,threaded,MrRio,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 MrRio
     :category: tutorials
 

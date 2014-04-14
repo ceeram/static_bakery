@@ -1,7 +1,7 @@
 Rewrite a plugin's paths to look nicer.
 =======================================
 
-by %s on May 13, 2007
+by bparise on May 13, 2007
 
 Plugins are a fantastic and vastly underused tool in CakePHP! But
 their default paths can be strange sometimes. This article describes
@@ -86,6 +86,6 @@ A few things to note:
     :title: Rewrite a plugin's paths to look nicer.
     :description: CakePHP Article related to plugin,Rewrite,bootstrap,plugins,Snippets
     :keywords: plugin,Rewrite,bootstrap,plugins,Snippets
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 bparise
     :category: snippets
 

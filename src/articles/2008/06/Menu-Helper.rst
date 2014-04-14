@@ -1,7 +1,7 @@
 Menu Helper
 ===========
 
-by %s on June 11, 2008
+by AD7six on June 11, 2008
 
 An easy to use helper capitalizing on the awesome tree helper
 (http://bakery.cakephp.org/articles/view/tree-helper-1) to make menus
@@ -427,6 +427,6 @@ Helper Class:
     :title: Menu Helper
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 AD7six
     :category: helpers
 

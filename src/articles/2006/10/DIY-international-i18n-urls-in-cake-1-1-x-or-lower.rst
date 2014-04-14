@@ -1,7 +1,7 @@
 DIY international (i18n) urls in cake 1.1.x or lower
 ====================================================
 
-by %s on October 25, 2006
+by Dieter_be on October 25, 2006
 
 CakePHP 1.2 will have decent i18n functionality, but until you switch
 you can use the simple but decent solution that i have created. It
@@ -108,6 +108,6 @@ the right array.
     :title: DIY international (i18n) urls in cake 1.1.x or lower
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 Dieter_be
     :category: tutorials
 

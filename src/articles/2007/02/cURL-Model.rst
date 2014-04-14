@@ -1,7 +1,7 @@
 cURL Model
 ==========
 
-by %s on February 25, 2007
+by MrRio on February 25, 2007
 
 This is a wrapper for cURL. Ideal if you need to grab data from
 another site or integrate into a system that uses GET or POST
@@ -346,6 +346,6 @@ Model Class:
     :title: cURL Model
     :description: CakePHP Article related to HTTP,MrRio,remote data,curl,Models
     :keywords: HTTP,MrRio,remote data,curl,Models
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 MrRio
     :category: models
 

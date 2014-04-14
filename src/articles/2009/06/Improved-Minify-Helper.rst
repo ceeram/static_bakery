@@ -1,7 +1,7 @@
 Improved Minify Helper
 ======================
 
-by %s on June 20, 2009
+by sdewald on June 20, 2009
 
 [p]Basically I started out using the minify helper from
 http://bakery.cakephp.org/articles/view/minify-helper-for-cakephp[/p]
@@ -174,6 +174,6 @@ helpers with inline=false and the minify helper will handle the rest!
     :title: Improved Minify Helper
     :description: CakePHP Article related to javascript,CSS,packer,asset,minify,Helpers
     :keywords: javascript,CSS,packer,asset,minify,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 sdewald
     :category: helpers
 

@@ -1,7 +1,7 @@
 ImageBehavior - best from database blobs and file storage
 =========================================================
 
-by %s on March 04, 2009
+by GrzegorzPawlik on March 04, 2009
 
 I've always had problem with uploaded images that were stored just as
 files. They shouldn't go to repository and wasn't in database either.
@@ -306,6 +306,6 @@ More
     :title: ImageBehavior - best from database blobs and file storage
     :description: CakePHP Article related to image,upload,Behaviors
     :keywords: image,upload,Behaviors
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 GrzegorzPawlik
     :category: behaviors
 

@@ -1,7 +1,7 @@
 Color Helper (Random)
 =====================
 
-by %s on September 27, 2007
+by jefkin on September 27, 2007
 
 This is by no means the answer to all your color woes, as it only has
 one function at this time. But the function can be handy. Need a way
@@ -174,6 +174,6 @@ do to improve it for you.
     :title: Color Helper (Random)
     :description: CakePHP Article related to random,Color,Helpers
     :keywords: random,Color,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 jefkin
     :category: helpers
 

@@ -1,7 +1,7 @@
 Make Minify helper work with themed assets
 ==========================================
 
-by %s on August 23, 2011
+by tpuglia on August 23, 2011
 
 Make Minify helper work with themed assets
 
@@ -63,6 +63,6 @@ $this->Minify->css(array('core', '/theme/<mytheme>/css/site'));
     :title: Make Minify helper work with themed assets
     :description: CakePHP Article related to minify,Articles
     :keywords: minify,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 tpuglia
     :category: articles
 

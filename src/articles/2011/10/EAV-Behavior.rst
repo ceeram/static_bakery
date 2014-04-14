@@ -1,7 +1,7 @@
 EAV Behavior
 ============
 
-by %s on October 11, 2011
+by abalonepaul on October 11, 2011
 
 [b]Background[/b] As software developers, many projects that we work
 on require us to store "variable variable data". This means that we
@@ -1034,6 +1034,6 @@ Add the behavior to your models/behaviors folder.
     :title: EAV Behavior
     :description: CakePHP Article related to entity-attribute-value eav,Behaviors
     :keywords: entity-attribute-value eav,Behaviors
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 abalonepaul
     :category: behaviors
 

@@ -1,7 +1,7 @@
 Modified Preorder Tree Traversal Component
 ==========================================
 
-by %s on December 02, 2007
+by mpatek on December 02, 2007
 
 A component for retrieving, printing, inserting nodes into, and
 deleting nodes from trees stored in mptt form.
@@ -157,6 +157,6 @@ of the current node.
     :title: Modified Preorder Tree Traversal Component
     :description: CakePHP Article related to tree,mptt,traversal,modified,preorder,Components
     :keywords: tree,mptt,traversal,modified,preorder,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 mpatek
     :category: components
 

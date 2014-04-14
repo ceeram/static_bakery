@@ -1,7 +1,7 @@
 Easy peasy database config
 ==========================
 
-by %s on November 16, 2006
+by joelmoss on November 16, 2006
 
 Like a lot of developers out there, I use Subversion to keep control
 of my code and projects, and I also use a different database for
@@ -61,6 +61,6 @@ please see my Blog at http://joelmoss.info
     :title: Easy peasy database config
     :description: CakePHP Article related to database,Snippets
     :keywords: database,Snippets
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 joelmoss
     :category: snippets
 

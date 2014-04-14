@@ -1,7 +1,7 @@
 Webservice Behavior
 ===================
 
-by %s on August 26, 2008
+by markstory on August 26, 2008
 
 The webservice behavior allows you to easily make requests to
 webservices and remote addresses, via GET POST and XMLRPC.
@@ -1015,6 +1015,6 @@ Test Case
     :title: Webservice Behavior
     :description: CakePHP Article related to behavior,webservice,Behaviors
     :keywords: behavior,webservice,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 markstory
     :category: behaviors
 

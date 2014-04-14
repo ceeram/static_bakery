@@ -1,7 +1,7 @@
 OthAuth's NAO Mode
 ==================
 
-by %s on August 13, 2007
+by chewie124 on August 13, 2007
 
 I needed to support users belonging to multiple groups, and today I
 delved into the underworkings of OthAuth's 'nao' mode.
@@ -57,6 +57,6 @@ method: inGroup()
     :title: OthAuth's NAO Mode
     :description: CakePHP Article related to othauth,authentication,component,Tutorials
     :keywords: othauth,authentication,component,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 chewie124
     :category: tutorials
 

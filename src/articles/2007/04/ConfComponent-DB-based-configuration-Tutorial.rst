@@ -1,7 +1,7 @@
 ConfComponent DB based configuration Tutorial
 =============================================
 
-by %s on April 10, 2007
+by CraZyLeGs on April 10, 2007
 
 ConfComponent allows you to store your configuration into the db, set
 and retrieve values organized into categories very easily.Now with
@@ -244,6 +244,6 @@ are welcome.
     :title: ConfComponent  DB based configuration Tutorial
     :description: CakePHP Article related to database,configuration,component,config,conf,buggy,Tutorials
     :keywords: database,configuration,component,config,conf,buggy,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 CraZyLeGs
     :category: tutorials
 

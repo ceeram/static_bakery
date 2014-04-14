@@ -1,7 +1,7 @@
 Validation in another controller
 ================================
 
-by %s on August 17, 2007
+by drayen on August 17, 2007
 
 You have 2 controllers, posts and comments, you want to be able to
 have a form on a posts view which submits to the comments controller,
@@ -190,6 +190,6 @@ let me know and i will update the tutorial.
     :title: Validation in another controller
     :description: CakePHP Article related to redirect,session,validation,Tutorials
     :keywords: redirect,session,validation,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 drayen
     :category: tutorials
 

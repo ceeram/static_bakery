@@ -1,7 +1,7 @@
 Paypal Datasource
 =================
 
-by %s on December 29, 2008
+by toste on December 29, 2008
 
 Simple datasource to communicate with the Paypal NVP api.
 Simple datasource to communicate with the Paypal NVP api.
@@ -279,6 +279,6 @@ app/models/datasources folder
     :title: Paypal Datasource
     :description: CakePHP Article related to datasource paypal,Tutorials
     :keywords: datasource paypal,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 toste
     :category: tutorials
 

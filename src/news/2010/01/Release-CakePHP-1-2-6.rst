@@ -1,7 +1,7 @@
 Release: CakePHP 1.2.6
 ======================
 
-by %s on January 29, 2010
+by markstory on January 29, 2010
 
 The CakePHP development team is happy to announce CakePHP 1.2.6
 The CakePHP development team is happy to announce CakePHP 1.2.6[1].
@@ -69,6 +69,6 @@ And as always, thank you for helping us make a great framework.
     :title: Release: CakePHP 1.2.6
     :description: CakePHP Article related to release,CakePHP,news,News
     :keywords: release,CakePHP,news,News
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 markstory
     :category: news
 

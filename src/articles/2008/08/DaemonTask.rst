@@ -1,7 +1,7 @@
 DaemonTask
 ==========
 
-by %s on August 26, 2008
+by reconbot on August 26, 2008
 
 DaemonTask will help you "deamonize" any cake shell allowing you to
 schedule it to run with cron (say every minute) and make sure only one
@@ -89,6 +89,6 @@ Enjoy!
     :title: DaemonTask
     :description: CakePHP Article related to task,shell,daemon,Components
     :keywords: task,shell,daemon,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 reconbot
     :category: components
 

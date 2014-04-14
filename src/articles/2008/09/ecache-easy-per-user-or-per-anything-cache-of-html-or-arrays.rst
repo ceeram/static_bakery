@@ -1,7 +1,7 @@
 ecache - easy per user or per anything cache of html or arrays
 ==============================================================
 
-by %s on September 21, 2008
+by zeroasterisk on September 21, 2008
 
 Caching is basically required for any data-heavy or interaction-heavy
 site... but you need to be in control of who gets what cache; more
@@ -396,6 +396,6 @@ Component Class:
     :title: ecache - easy per user or per anything cache of html or arrays
     :description: CakePHP Article related to user,peruser,seperate cache,cache files,dependent cache,Components
     :keywords: user,peruser,seperate cache,cache files,dependent cache,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 zeroasterisk
     :category: components
 

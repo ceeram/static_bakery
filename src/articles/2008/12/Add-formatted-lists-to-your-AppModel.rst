@@ -1,7 +1,7 @@
 Add formatted lists to your AppModel
 ====================================
 
-by %s on December 29, 2008
+by mushookies on December 29, 2008
 
 This code will add formatted list functionallity to find you can easy
 replace the $this->Model->find('list'); with
@@ -85,6 +85,6 @@ That is all..
     :title: Add formatted lists to your AppModel
     :description: CakePHP Article related to find list formatted ,Snippets
     :keywords: find list formatted ,Snippets
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 mushookies
     :category: snippets
 

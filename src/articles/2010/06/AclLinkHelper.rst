@@ -1,7 +1,7 @@
 AclLinkHelper
 =============
 
-by %s on June 26, 2010
+by joel.stein on June 26, 2010
 
 This helper automatically hides links to controllers/actions not
 available to the currently authenticated user.
@@ -90,6 +90,6 @@ Helper Class:
     :title: AclLinkHelper
     :description: CakePHP Article related to acl,[link],Helpers
     :keywords: acl,[link],Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 joel.stein
     :category: helpers
 

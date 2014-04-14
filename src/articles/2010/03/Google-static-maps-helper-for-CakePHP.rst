@@ -1,7 +1,7 @@
 Google static maps helper for CakePHP
 =====================================
 
-by %s on March 12, 2010
+by kmendes on March 12, 2010
 
 This is a simple CakePHP helper to create static maps using google
 API. For more information on the api and how to get an api key consult
@@ -196,6 +196,6 @@ More
     :title: Google static maps helper for CakePHP
     :description: CakePHP Article related to helper,google maps,google static api,Helpers
     :keywords: helper,google maps,google static api,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 kmendes
     :category: helpers
 

@@ -1,7 +1,7 @@
 introduction to dAuth v0.3
 ==========================
 
-by %s on November 11, 2006
+by Dieter_be on November 11, 2006
 
 This article introduces dAuth V0.3: the authentication (not
 authorisation) system with a focus on security, using techniques such
@@ -330,6 +330,6 @@ To-do
     :title: introduction to dAuth v0.3
     :description: CakePHP Article related to login,dauth,challenge response,secure,auth dAuth challenge,General Interest
     :keywords: login,dauth,challenge response,secure,auth dAuth challenge,General Interest
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 Dieter_be
     :category: general_interest
 

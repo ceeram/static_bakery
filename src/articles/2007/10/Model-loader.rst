@@ -1,7 +1,7 @@
 Model loader
 ============
 
-by %s on October 23, 2007
+by imhuy on October 23, 2007
 
 This component helps you to load your models on the fly ( I mean in
 your actions, whenever).
@@ -162,6 +162,6 @@ Have fun !
     :title: Model loader
     :description: CakePHP Article related to component,model_loader,Components
     :keywords: component,model_loader,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 imhuy
     :category: components
 

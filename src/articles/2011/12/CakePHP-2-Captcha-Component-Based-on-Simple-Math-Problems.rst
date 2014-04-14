@@ -1,7 +1,7 @@
 CakePHP 2 Captcha Component Based on Simple Math Problems
 =========================================================
 
-by %s on December 29, 2011
+by KonstantinKo on December 29, 2011
 
 In reference to jnay's [Simple Math Question Captcha
 Component](http://bakery.cakephp.org/articles/jnay/2010/01/20/simple-
@@ -111,6 +111,6 @@ And in the View:
     :title: CakePHP 2 Captcha Component Based on Simple Math Problems
     :description: CakePHP Article related to forms,component,captcha,captcha component,spam,spam protection,Simple Captcha,Components
     :keywords: forms,component,captcha,captcha component,spam,spam protection,Simple Captcha,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 KonstantinKo
     :category: components
 

@@ -1,7 +1,7 @@
 LogUtil Component
 =================
 
-by %s on June 05, 2011
+by milad.jafary on June 05, 2011
 
 LogUtil is a useful component for having logs in your application.By
 this component you could saved your application logs in database so
@@ -252,6 +252,6 @@ Email Address: ` * milad.jafary@gmail.com *`_
     :title: LogUtil Component
     :description: CakePHP Article related to CakePHP,component,log,Components
     :keywords: CakePHP,component,log,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 milad.jafary
     :category: components
 

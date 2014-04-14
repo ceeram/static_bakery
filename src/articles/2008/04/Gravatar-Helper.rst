@@ -1,7 +1,7 @@
 Gravatar Helper
 ===============
 
-by %s on April 12, 2008
+by bdude on April 12, 2008
 
 Gravatars are very popular way for users to maintain the same avatar
 across multiple site using just their email address. This helpful
@@ -111,6 +111,6 @@ The Code
     :title: Gravatar Helper
     :description: CakePHP Article related to gravatar,Helpers
     :keywords: gravatar,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 bdude
     :category: helpers
 

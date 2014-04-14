@@ -1,7 +1,7 @@
 Checking for duplicate records (unique record)
 ==============================================
 
-by %s on January 22, 2007
+by maruska on January 22, 2007
 
 Expanded tutorial from CakePHPWiki:
 http://wiki.cakephp.org/tutorials:duplicate_record_validation [list]
@@ -85,6 +85,6 @@ returns false.
     :title: Checking for duplicate records (unique record)
     :description: CakePHP Article related to unique record,duplicate records,Tutorials
     :keywords: unique record,duplicate records,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 maruska
     :category: tutorials
 

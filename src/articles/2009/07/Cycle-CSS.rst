@@ -1,7 +1,7 @@
 Cycle CSS
 =========
 
-by %s on July 18, 2009
+by markgandolfo on July 18, 2009
 
 Cycle CSS is a helper that will output alternating text, its very
 useful for doing alternating row colors in a table.
@@ -90,6 +90,6 @@ View Template:
     :title: Cycle CSS
     :description: CakePHP Article related to CSS,Color,colors,colours,alternating,cycle,alternate,Helpers
     :keywords: CSS,Color,colors,colours,alternating,cycle,alternate,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 markgandolfo
     :category: helpers
 

@@ -1,7 +1,7 @@
 960 Fluid Grid System Bake Templates
 ====================================
 
-by %s on May 26, 2010
+by tom_m on May 26, 2010
 
 Want to use 960 grid system in your baked app? Ever see this "fluid"
 template that uses it?
@@ -46,6 +46,6 @@ baked-templates`_
     :title: 960 Fluid Grid System Bake Templates
     :description: CakePHP Article related to CSS,templates,bake template,gs,fluid grid system,view template,cake console,bake view templates,Tutorials
     :keywords: CSS,templates,bake template,gs,fluid grid system,view template,cake console,bake view templates,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 tom_m
     :category: tutorials
 

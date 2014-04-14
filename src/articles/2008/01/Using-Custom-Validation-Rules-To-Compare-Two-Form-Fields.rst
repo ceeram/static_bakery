@@ -1,7 +1,7 @@
 Using Custom Validation Rules To Compare Two Form Fields
 ========================================================
 
-by %s on January 14, 2008
+by aranworld on January 14, 2008
 
 Want to make sure that two submitted form fields have the same value?
 Use the ability to write your own validation rules, to add this
@@ -243,6 +243,6 @@ other checks on the password field you can do those as well.
     :title: Using Custom Validation Rules To Compare Two Form Fields
     :description: CakePHP Article related to email,password,rule,form,identical,custom,fields,Tutorials
     :keywords: email,password,rule,form,identical,custom,fields,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 aranworld
     :category: tutorials
 

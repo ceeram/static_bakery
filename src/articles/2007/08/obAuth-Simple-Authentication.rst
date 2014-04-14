@@ -1,7 +1,7 @@
 obAuth Simple Authentication
 ============================
 
-by %s on August 17, 2007
+by coeus on August 17, 2007
 
 Authenticate your users and secure your controller actions from users
 belonging to certain groups. Or simply secure your controller actions
@@ -140,6 +140,6 @@ Component Class:
     :title: obAuth Simple Authentication
     :description: CakePHP Article related to authentication,component,obAuth,Components
     :keywords: authentication,component,obAuth,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 coeus
     :category: components
 

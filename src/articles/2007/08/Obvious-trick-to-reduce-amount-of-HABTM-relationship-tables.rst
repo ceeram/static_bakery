@@ -1,7 +1,7 @@
 Obvious trick to reduce amount of HABTM relationship tables
 ===========================================================
 
-by %s on August 17, 2007
+by syegorov on August 17, 2007
 
 Trick howto reduce amount of HABTM tables in complex application
 
@@ -145,6 +145,6 @@ with others types of relationships.
     :title: Obvious trick to reduce amount of HABTM relationship tables
     :description: CakePHP Article related to mysql,HABTM,Models
     :keywords: mysql,HABTM,Models
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 syegorov
     :category: models
 

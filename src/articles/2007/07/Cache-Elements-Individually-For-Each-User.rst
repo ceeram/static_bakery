@@ -1,7 +1,7 @@
 Cache Elements Individually For Each User.
 ==========================================
 
-by %s on July 19, 2007
+by ketan on July 19, 2007
 
 Caching elements in general has been discussed before on bakery and
 this article takes caching of an element to a higher level. This
@@ -102,6 +102,6 @@ Ketan Patel
     :title: Cache Elements Individually For Each User.
     :description: CakePHP Article related to elements,cache,todo,Tutorials
     :keywords: elements,cache,todo,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 ketan
     :category: tutorials
 

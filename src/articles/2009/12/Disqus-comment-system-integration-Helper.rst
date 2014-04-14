@@ -1,7 +1,7 @@
 Disqus comment system integration Helper
 ========================================
 
-by %s on December 09, 2009
+by Toss on December 09, 2009
 
 Integrating a disqus comment system (http://disqus.com/about/) with
 cakephp is really simple. To make it simpler, here is an Helper that
@@ -120,6 +120,6 @@ counter (eg. 0 comments, 3 comments)
     :title: Disqus comment system integration Helper
     :description: CakePHP Article related to comments,disqus,Helpers
     :keywords: comments,disqus,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Toss
     :category: helpers
 

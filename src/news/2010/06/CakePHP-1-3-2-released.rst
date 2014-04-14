@@ -1,7 +1,7 @@
 CakePHP 1.3.2 released
 ======================
 
-by %s on June 06, 2010
+by predominant on June 06, 2010
 
 The core team have actioned a number of important bug reports since
 the release of CakePHP 1.3.1[1]. These reports address issues with
@@ -41,6 +41,6 @@ delicious-sprinkles`_
     :title: CakePHP 1.3.2 released
     :description: CakePHP Article related to ,News
     :keywords: ,News
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 predominant
     :category: news
 

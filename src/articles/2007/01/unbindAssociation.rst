@@ -1,7 +1,7 @@
 unbindAssociation
 =================
 
-by %s on January 22, 2007
+by SeanCallan on January 22, 2007
 
 I needed a quick dynamic way to remove numerous associations I had in
 recent application. I decided the best to do that was through
@@ -102,6 +102,6 @@ static arrays.
     :title: unbindAssociation
     :description: CakePHP Article related to unbindAssociation,Snippets
     :keywords: unbindAssociation,Snippets
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 SeanCallan
     :category: snippets
 

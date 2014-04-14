@@ -1,7 +1,7 @@
 Petit four, the quick and easy online CakePHP baking tool
 =========================================================
 
-by %s on March 27, 2013
+by ccadere on March 27, 2013
 
 Petit four is an online application that allows you to design the
 models of your applications and then automatically generate a SQL
@@ -55,6 +55,6 @@ the `pâtisserie`_ or by email at contact@keensoftware.com .
     :title: Petit four, the quick and easy online CakePHP baking tool
     :description: CakePHP Article related to bake,CakePHP,tool,online,automated,Articles
     :keywords: bake,CakePHP,tool,online,automated,Articles
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 ccadere
     :category: articles
 

@@ -1,7 +1,7 @@
 After 3 years, looking back and moving ahead
 ============================================
 
-by %s on April 22, 2008
+by gwoo on April 22, 2008
 
 On April 15 2005, the first version of Cake was released by Michal
 Tatarynowicz. On April 15, 2008, three years from this auspicious day
@@ -73,6 +73,6 @@ Bake On.
     :title: After 3 years, looking back and moving ahead
     :description: CakePHP Article related to ,News
     :keywords: ,News
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 gwoo
     :category: news
 

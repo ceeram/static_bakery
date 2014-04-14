@@ -1,7 +1,7 @@
 Mobilize your cake app in minutes
 =================================
 
-by %s on December 11, 2008
+by rgubby on December 11, 2008
 
 Whilst cake provides you with basic mobile detection, it doesn't cut
 it in the real world, there are literally thousands of mobile devices
@@ -213,6 +213,6 @@ mobileshoppingreview.com
     :title: Mobilize your cake app in minutes
     :description: CakePHP Article related to mobile,web services,Tutorials
     :keywords: mobile,web services,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 rgubby
     :category: tutorials
 

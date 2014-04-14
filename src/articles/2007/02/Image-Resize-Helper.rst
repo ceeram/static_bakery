@@ -1,7 +1,7 @@
 Image Resize Helper
 ===================
 
-by %s on February 16, 2007
+by hundleyj on February 16, 2007
 
 I am in the process of writing an online store with Cake and needed a
 helper that would automatically resize images into thumbnails.
@@ -100,6 +100,6 @@ To use:
     :title: Image Resize Helper
     :description: CakePHP Article related to image,auto thumbnail,image resize,resize,Helpers
     :keywords: image,auto thumbnail,image resize,resize,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 hundleyj
     :category: helpers
 

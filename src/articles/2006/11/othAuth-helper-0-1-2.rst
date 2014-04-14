@@ -1,7 +1,7 @@
 othAuth helper 0.1.2
 ====================
 
-by %s on November 11, 2006
+by CraZyLeGs on November 11, 2006
 
 Helper part of othAuth changes: 0.1.2: - Fixed another bug in getData
 ( wasn't calling init()) - Added support for 1.2 - Added a function
@@ -172,6 +172,6 @@ Helper Class:
     :title: othAuth helper 0.1.2
     :description: CakePHP Article related to user,access,login,othauth,permission,logout,restriction,Helpers
     :keywords: user,access,login,othauth,permission,logout,restriction,Helpers
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 CraZyLeGs
     :category: helpers
 

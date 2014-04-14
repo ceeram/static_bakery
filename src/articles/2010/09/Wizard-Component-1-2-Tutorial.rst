@@ -1,7 +1,7 @@
 Wizard Component 1.2 Tutorial
 =============================
 
-by %s on September 10, 2010
+by jaredhoyt on September 10, 2010
 
 Automates several aspects of multi-page forms including data
 persistence, form preparation and unique data processing, wizard
@@ -592,6 +592,6 @@ More
     :title: Wizard Component 1.2 Tutorial
     :description: CakePHP Article related to forms,wizard component,Wizard,multistep,multipage,Tutorials
     :keywords: forms,wizard component,Wizard,multistep,multipage,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 jaredhoyt
     :category: tutorials
 

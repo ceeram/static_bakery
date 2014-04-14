@@ -1,7 +1,7 @@
 Cakephp SwiftMailer4.X.X Component with batch send
 ==================================================
 
-by %s on February 23, 2011
+by rajibahmed on February 23, 2011
 
 i have published a modification of swiftmailer component by
 sky_l3ppard at
@@ -23,6 +23,6 @@ credit goes to sky_l3ppard :)
     :title: Cakephp SwiftMailer4.X.X Component with batch send
     :description: CakePHP Article related to Mail,swift mailer,"batch mailing",newsletters,General Interest
     :keywords: Mail,swift mailer,"batch mailing",newsletters,General Interest
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 rajibahmed
     :category: general_interest
 

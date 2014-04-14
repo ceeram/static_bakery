@@ -1,7 +1,7 @@
 Like plugin
 ===========
 
-by %s on August 10, 2012
+by aschelch on August 10, 2012
 
 Add a Facebook-like 'Like' feature to your CakePHP 2.x powered web
 application.
@@ -125,6 +125,6 @@ And, in your view:
     :title: Like plugin
     :description: CakePHP Article related to like,cakephp2,Plugins
     :keywords: like,cakephp2,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 aschelch
     :category: plugins
 

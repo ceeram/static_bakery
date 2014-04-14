@@ -1,7 +1,7 @@
 CakePHP 1.3.14 and 2.0.5 released
 =================================
 
-by %s on December 29, 2011
+by markstory on December 29, 2011
 
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.0.5 [1] and CakePHP 1.3.14 [2].
@@ -87,6 +87,6 @@ Links
     :title: CakePHP 1.3.14 and 2.0.5 released
     :description: CakePHP Article related to CakePHP,news,releases,Articles
     :keywords: CakePHP,news,releases,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 markstory
     :category: articles
 

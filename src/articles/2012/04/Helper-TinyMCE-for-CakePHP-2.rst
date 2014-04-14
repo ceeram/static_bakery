@@ -1,7 +1,7 @@
 Helper TinyMCE for CakePHP 2
 ============================
 
-by %s on April 11, 2012
+by galitul on April 11, 2012
 
 Helper TinyMCE for CakePHP 2 with preset fuction.
 
@@ -250,6 +250,6 @@ helper-1`_
     :title: Helper TinyMCE for CakePHP 2
     :description: CakePHP Article related to helper,CakePHP,TinyMCE,Helpers
     :keywords: helper,CakePHP,TinyMCE,Helpers
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 galitul
     :category: helpers
 

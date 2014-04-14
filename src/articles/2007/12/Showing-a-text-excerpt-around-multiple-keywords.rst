@@ -1,7 +1,7 @@
 Showing a text excerpt around multiple keywords
 ===============================================
 
-by %s on December 26, 2007
+by grigri on December 26, 2007
 
 On a typical search results page, you want to display an excerpt of
 each matching item, showing the keywords. TextHelper::excerpt() works,
@@ -325,6 +325,6 @@ View Template:
     :title: Showing a text excerpt around multiple keywords
     :description: CakePHP Article related to text,summary,excerpt,Helpers
     :keywords: text,summary,excerpt,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 grigri
     :category: helpers
 

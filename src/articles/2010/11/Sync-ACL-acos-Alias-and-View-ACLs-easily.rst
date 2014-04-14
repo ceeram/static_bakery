@@ -1,7 +1,7 @@
 Sync ACL acos Alias and View ACLs easily
 ========================================
 
-by %s on November 01, 2010
+by jtsage on November 01, 2010
 
 While following the tutorial at http://book.cakephp.org/view/1543
 /Simple-Acl-controlled-Application , I found it very frustrating that
@@ -49,6 +49,6 @@ done.
     :title: Sync ACL acos Alias and View ACLs easily
     :description: CakePHP Article related to acl,authentication,acl auth permissions,Tutorials
     :keywords: acl,authentication,acl auth permissions,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 jtsage
     :category: tutorials
 

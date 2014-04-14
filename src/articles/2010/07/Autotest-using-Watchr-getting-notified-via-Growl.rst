@@ -1,7 +1,7 @@
 Autotest using Watchr getting notified via Growl
 ================================================
 
-by %s on July 09, 2010
+by amitsamtani on July 09, 2010
 
 [p]I was taking a look at ZenTest a while ago, especially the autotest
 functionality. As stated in the ZenTest site, autotest:[/p] [ulist]
@@ -103,6 +103,6 @@ alternativ-2511.html`_
     :title: Autotest using Watchr getting notified via Growl
     :description: CakePHP Article related to testing,autotest,growl,watchr,zentest,Tutorials
     :keywords: testing,autotest,growl,watchr,zentest,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 amitsamtani
     :category: tutorials
 

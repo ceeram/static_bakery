@@ -1,7 +1,7 @@
 Ticket Model for CakePHP
 ========================
 
-by %s on January 05, 2010
+by Firecreek on January 05, 2010
 
 This model will create a simple one-off ticket which can be used for
 user password resetting to activation and moderation. With an activate
@@ -178,6 +178,6 @@ Model Class:
     :title: Ticket Model for CakePHP
     :description: CakePHP Article related to model,Ticket,forgotten password,activate account,token,forgotten,Models
     :keywords: model,Ticket,forgotten password,activate account,token,forgotten,Models
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 Firecreek
     :category: models
 

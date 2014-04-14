@@ -1,7 +1,7 @@
 getDSN
 ======
 
-by %s on September 27, 2006
+by jzimmerman on September 27, 2006
 
 This returns the database connection details in the form of a DSN.
 driver://username:password@hostname/database This is useful if you
@@ -42,6 +42,6 @@ Controller Class:
     :title: getDSN
     :description: CakePHP Article related to dsn database connect,Snippets
     :keywords: dsn database connect,Snippets
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 jzimmerman
     :category: snippets
 

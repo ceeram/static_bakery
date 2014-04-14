@@ -2,7 +2,7 @@ User Management Plugin with Twitter Bootstrap for cakephp 2.x version
 2.2
 ===
 
-by %s on April 06, 2013
+by Jimmy on April 06, 2013
 
 I have released a new version(2.2) of my plugin for user management.
 Demo at http://umpremium.ektanjali.com. This plugin has total 85
@@ -57,6 +57,6 @@ here you can find all features of this plugin.
     :title: User Management Plugin with Twitter Bootstrap for cakephp 2.x version 2.2
     :description: CakePHP Article related to AJAX,login,authentication,twitter,registration,facebook,Plugins
     :keywords: AJAX,login,authentication,twitter,registration,facebook,Plugins
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 Jimmy
     :category: plugins
 

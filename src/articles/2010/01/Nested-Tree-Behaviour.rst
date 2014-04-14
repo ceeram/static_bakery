@@ -1,7 +1,7 @@
 Nested Tree Behaviour
 =====================
 
-by %s on January 13, 2010
+by superkruger on January 13, 2010
 
 I quite like the Tree Behaviour. But unfortunately the 'separator'
 idea is a little too primitive for flexible HTML. The problem lies in
@@ -189,6 +189,6 @@ Set:combine on it in a way that would yield the same structure.
     :title: Nested Tree Behaviour
     :description: CakePHP Article related to tree,category,nested,categories,treebehaviour,Tutorials
     :keywords: tree,category,nested,categories,treebehaviour,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 superkruger
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Mpdf component for generating PDF files from HTML
 =================================================
 
-by %s on January 19, 2012
+by segy on January 19, 2012
 
 Mpdf consists only from one component class that uses mPDF class
 (located in vendors) to generate PDF file instead of standard output.
@@ -34,6 +34,6 @@ Download the code from `https://github.com/segy/Mpdf`_
     :title: Mpdf component for generating PDF files from HTML
     :description: CakePHP Article related to plugin,pdf,mpdf,Plugins
     :keywords: plugin,pdf,mpdf,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 segy
     :category: plugins
 

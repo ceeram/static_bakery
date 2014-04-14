@@ -1,7 +1,7 @@
 CakePHP 1.3.13 Released
 =======================
 
-by %s on October 15, 2011
+by markstory on October 15, 2011
 
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 1.3.13 [1]. 1.3.13 is a bugfix/maintenance release for the
@@ -60,6 +60,6 @@ Links
     :title: CakePHP 1.3.13 Released
     :description: CakePHP Article related to cakephp release,News
     :keywords: cakephp release,News
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 markstory
     :category: news
 

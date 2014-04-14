@@ -1,7 +1,7 @@
 Efficient caching with NamespaceFileEngine
 ==========================================
 
-by %s on March 27, 2009
+by Frank on March 27, 2009
 
 In my attempt to cache ACL permissions I stumbled upon a limitation of
 the current FileEngine. It is unable to drop a group of keys, only all
@@ -85,6 +85,6 @@ me a pull request.
     :title: Efficient caching with NamespaceFileEngine
     :description: CakePHP Article related to caching,efficient,file,alternative,phally,namespace,Snippets
     :keywords: caching,efficient,file,alternative,phally,namespace,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Frank
     :category: snippets
 

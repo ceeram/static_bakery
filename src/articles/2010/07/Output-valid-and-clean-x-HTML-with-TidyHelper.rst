@@ -1,7 +1,7 @@
 Output valid and clean (x)HTML with TidyHelper
 ==============================================
 
-by %s on July 09, 2010
+by TiuTalk on July 09, 2010
 
 Small helper that you can use to output valid, minified and clean
 (x)HTML automatically!
@@ -100,6 +100,6 @@ Helper Class:
     :title: Output valid and clean (x)HTML with TidyHelper
     :description: CakePHP Article related to html,xhtml,tidy,clean,valid,tidyhtml,output,Helpers
     :keywords: html,xhtml,tidy,clean,valid,tidyhtml,output,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 TiuTalk
     :category: helpers
 

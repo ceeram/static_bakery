@@ -1,7 +1,7 @@
 AliasBehavior
 =============
 
-by %s on June 23, 2008
+by kuja on June 23, 2008
 
 The behavior allows you to create pseudo field names for actual
 fields, and allows you to use those fields as if they were actual
@@ -256,6 +256,6 @@ Thanks.
     :title: AliasBehavior
     :description: CakePHP Article related to ,Behaviors
     :keywords: ,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 kuja
     :category: behaviors
 

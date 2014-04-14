@@ -1,7 +1,7 @@
 Adding a TinyMCE image browser to CakePHP 2.+
 =============================================
 
-by %s on January 04, 2012
+by jwilcox09 on January 04, 2012
 
 This is just and update to `Adding a TinyMCE image browser the CakePHP
 way`_ as applicable to the 2.+ versions of Cake. Nothing major, just
@@ -317,6 +317,6 @@ Cheers!
     :title: Adding a TinyMCE image browser to CakePHP 2.+
     :description: CakePHP Article related to wysiwyg TinyMCE AJAX,TinyMCE,TinyMCE Helper,Articles
     :keywords: wysiwyg TinyMCE AJAX,TinyMCE,TinyMCE Helper,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 jwilcox09
     :category: articles
 

@@ -1,7 +1,7 @@
 Cipher Behavior
 ===============
 
-by %s on August 26, 2008
+by xemle on August 26, 2008
 
 The Cipher Behavior encrypts/decrypts model properties to protect
 passwords, emails, etc via symmetric encryption BlowFish. This
@@ -619,6 +619,6 @@ Controller Class:
     :title: Cipher Behavior
     :description: CakePHP Article related to database,pear,behavior,cryptography,decryption,encryption,blowfish,cipher,Behaviors
     :keywords: database,pear,behavior,cryptography,decryption,encryption,blowfish,cipher,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 xemle
     :category: behaviors
 

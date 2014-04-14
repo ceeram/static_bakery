@@ -1,7 +1,7 @@
 CakePHP 1.3-RC1 freshly sliced
 ==============================
 
-by %s on February 28, 2010
+by markstory on February 28, 2010
 
 The CakePHP development team is happy to announce the release the
 CakePHP 1.3.0-RC1. Since 1.3-beta was released we've been hard at work
@@ -50,6 +50,6 @@ View the changelog [3]
     :title: CakePHP 1.3-RC1 freshly sliced
     :description: CakePHP Article related to release,CakePHP,news,News
     :keywords: release,CakePHP,news,News
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 markstory
     :category: news
 

@@ -1,7 +1,7 @@
 A gift for all to enjoy
 =======================
 
-by %s on December 25, 2006
+by PhpNut on December 25, 2006
 
 Everyone loves gifts. So, we have CakePHP 1.1.12.4205[1] and
 1.2.0.4206_dev[2] packaged and available on CakeForge. CakePHP
@@ -95,6 +95,6 @@ CakePHP Development Team.
     :title: A gift for all to enjoy
     :description: CakePHP Article related to release,news,cake gift,News
     :keywords: release,news,cake gift,News
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 PhpNut
     :category: news
 

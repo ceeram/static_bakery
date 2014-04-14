@@ -1,7 +1,7 @@
 SessionPaginate
 ===============
 
-by %s on June 24, 2011
+by lenadro on June 24, 2011
 
 **Paginador por sesión, mantiene las condiciones para poder realizar
 paginaciones con formularios de filtros.**
@@ -90,6 +90,6 @@ return$this->controller->paginate($object,$scope,$whitelist);
     :title: SessionPaginate
     :description: CakePHP Article related to filters search buscador filtro,Articles
     :keywords: filters search buscador filtro,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 lenadro
     :category: articles
 

@@ -1,7 +1,7 @@
 Security Release - CakePHP 1.2.12, 1.3.16, 2.2.8 and 2.3.4
 ==========================================================
 
-by %s on April 28, 2013
+by markstory on April 28, 2013
 
 If you are using CakePHP's PaginatorComponent without whitelisted sort
 fields you should upgrade as soon as possible to prevent possible SQL
@@ -63,6 +63,6 @@ Links
     :title: Security Release - CakePHP 1.2.12, 1.3.16, 2.2.8 and 2.3.4
     :description: CakePHP Article related to release,CakePHP,News
     :keywords: release,CakePHP,News
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 markstory
     :category: news
 

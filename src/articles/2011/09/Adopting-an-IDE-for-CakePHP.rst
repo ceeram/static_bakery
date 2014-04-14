@@ -1,7 +1,7 @@
 Adopting an IDE for CakePHP
 ===========================
 
-by %s on September 19, 2011
+by saidbakr on September 19, 2011
 
 It is a just a wishing! I hope that the CakePHP community able to
 surprise us with adopting a free PHP IDE such as Eclipse or Netbeans
@@ -26,6 +26,6 @@ downloadable media of documentation and API
     :title: Adopting an IDE for CakePHP
     :description: CakePHP Article related to autocomplete,Eclipse,ide,netbeans,full support,General Interest
     :keywords: autocomplete,Eclipse,ide,netbeans,full support,General Interest
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 saidbakr
     :category: general_interest
 

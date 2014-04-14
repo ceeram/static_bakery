@@ -1,7 +1,7 @@
 Easy Syntax Highlighting in UltraEdit
 =====================================
 
-by %s on September 15, 2007
+by paulredmond59 on September 15, 2007
 
 UltraEdit was my answer for enabling .thtml syntax highlighting
 without hassle. Change two lines in the UltraEdit config. file, and
@@ -62,6 +62,6 @@ default attribute value color for HTML (grey by default)
     :title: Easy Syntax Highlighting in UltraEdit
     :description: CakePHP Article related to thtml,syntax highlighting,UltraEdit,General Interest
     :keywords: thtml,syntax highlighting,UltraEdit,General Interest
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 paulredmond59
     :category: general_interest
 

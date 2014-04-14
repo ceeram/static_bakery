@@ -1,7 +1,7 @@
 WYSIWYGPro Helper and tutorial
 ==============================
 
-by %s on June 14, 2009
+by brightball on June 14, 2009
 
 I couldn't find any resources on setting up WYSIWYGPro with Cake so I
 developed this helper along with instructions for total integration
@@ -416,6 +416,6 @@ More
     :title: WYSIWYGPro Helper and tutorial
     :description: CakePHP Article related to WYSIWYG,editor,TinyMCE,form,wysiwygpro,brightball,Helpers
     :keywords: WYSIWYG,editor,TinyMCE,form,wysiwygpro,brightball,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 brightball
     :category: helpers
 

@@ -1,7 +1,7 @@
 markItUp! jQuery universal markup editor Helper
 ===============================================
 
-by %s on July 22, 2009
+by Jay.Salvat on July 22, 2009
 
 markItUp! is a JavaScript plugin built on the jQuery library. It
 allows you to turn any textarea into a markup editor. Html, Textile,
@@ -479,6 +479,6 @@ Feel free to correct my english and post comments.
     :title: markItUp! jQuery universal markup editor Helper
     :description: CakePHP Article related to editor,textile,BBCode,markup,markitup,markdown,texy,xbbcode,Helpers
     :keywords: editor,textile,BBCode,markup,markitup,markdown,texy,xbbcode,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Jay.Salvat
     :category: helpers
 

@@ -1,7 +1,7 @@
 SmoothTranslate to make smooth translations
 ===========================================
 
-by %s on January 05, 2010
+by sky_l3ppard on January 05, 2010
 
 Usage of this behavior does not modify a real Translate behavior, it
 extends it`s functionality in two cases: 1) Core Translate behavior,
@@ -408,6 +408,6 @@ additional SmoothTranslate functionality are very welcome
     :title: SmoothTranslate to make smooth translations
     :description: CakePHP Article related to Translate,save original,default translations,sky leppard,persist,smoothtranslation,multi language,Behaviors
     :keywords: Translate,save original,default translations,sky leppard,persist,smoothtranslation,multi language,Behaviors
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 sky_l3ppard
     :category: behaviors
 

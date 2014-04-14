@@ -1,7 +1,7 @@
 CakeGrid
 ========
 
-by %s on May 02, 2011
+by robertross on May 02, 2011
 
 CakeGrid is an easy way to easily generate tables from results. It
 uses elements so changing the design is easy.
@@ -26,6 +26,6 @@ The README in the repo has everything you should need to know.
     :title: CakeGrid
     :description: CakePHP Article related to tables,tabular,Helpers
     :keywords: tables,tabular,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 robertross
     :category: helpers
 

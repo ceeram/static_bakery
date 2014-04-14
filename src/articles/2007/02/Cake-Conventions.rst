@@ -1,7 +1,7 @@
 Cake Conventions
 ================
 
-by %s on February 25, 2007
+by sajt on February 25, 2007
 
 This is the Cake Conventions from the old wiki site.
 
@@ -33,6 +33,6 @@ This is the Cake Conventions from the old wiki site.
     :title: Cake Conventions
     :description: CakePHP Article related to Cake Conventions,General Interest
     :keywords: Cake Conventions,General Interest
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 sajt
     :category: general_interest
 

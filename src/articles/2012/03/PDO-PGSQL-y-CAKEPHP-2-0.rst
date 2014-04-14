@@ -1,7 +1,7 @@
 PDO_PGSQL y CAKEPHP 2.0
 =======================
 
-by %s on March 13, 2012
+by archermax on March 13, 2012
 
 Solución a los problemas de conexión a la base de datos con objetos
 PDO con cakephp 2.x
@@ -37,6 +37,6 @@ saludos
     :title: PDO_PGSQL y CAKEPHP 2.0
     :description: CakePHP Article related to PDO SQLSTATE[08006] [7],Articles
     :keywords: PDO SQLSTATE[08006] [7],Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 archermax
     :category: articles
 

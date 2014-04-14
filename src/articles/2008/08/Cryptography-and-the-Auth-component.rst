@@ -1,7 +1,7 @@
 Cryptography and the Auth component
 ===================================
 
-by %s on August 17, 2008
+by achew22 on August 17, 2008
 
 Learn how, and why the auth component is so secure for your passwords.
 I'm going to start this by doing an abbreviated, without explanation,
@@ -150,6 +150,6 @@ the castle. 500dfc5af2012f9e0af3d7faa5cd62db2e113fa7
     :title: Cryptography and the Auth component
     :description: CakePHP Article related to cryptography auth co,General Interest
     :keywords: cryptography auth co,General Interest
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 achew22
     :category: general_interest
 

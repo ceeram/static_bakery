@@ -1,7 +1,7 @@
 An Akismet Behavior
 ===================
 
-by %s on March 09, 2009
+by TommyO on March 09, 2009
 
 There have been a lot of tools written in the past to help CakePHP
 apps deal with comment spam. This is yet another.
@@ -369,6 +369,6 @@ More
     :title: An Akismet Behavior
     :description: CakePHP Article related to comment,akismet,spam detection,Behaviors
     :keywords: comment,akismet,spam detection,Behaviors
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 TommyO
     :category: behaviors
 

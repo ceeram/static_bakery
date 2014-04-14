@@ -1,7 +1,7 @@
 Login, logout and register to mediawiki
 =======================================
 
-by %s on April 21, 2010
+by imran on April 21, 2010
 
 Using Mediawiki and common login for cakephp and mediawiki.
 To user mediawiki with cakephp install mediawiki in the webroot. At
@@ -69,6 +69,6 @@ SWORD}={RPASSWORD}={EMAIL}={REALNAME}=Create+account`_
     :title: Login, logout and register to mediawiki
     :description: CakePHP Article related to wiki,mediawiki,login hack,Tutorials
     :keywords: wiki,mediawiki,login hack,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 imran
     :category: tutorials
 

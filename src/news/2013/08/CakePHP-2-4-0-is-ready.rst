@@ -1,7 +1,7 @@
 CakePHP 2.4.0 is ready
 ======================
 
-by %s on August 30, 2013
+by markstory on August 30, 2013
 
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.4.0 and 2.3.10[1]. There have been a few small
@@ -107,6 +107,6 @@ Links
     :title: CakePHP 2.4.0 is ready
     :description: CakePHP Article related to release,CakePHP,news,News
     :keywords: release,CakePHP,news,News
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 markstory
     :category: news
 

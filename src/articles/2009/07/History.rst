@@ -1,7 +1,7 @@
 History
 =======
 
-by %s on July 14, 2009
+by adam_dunkley on July 14, 2009
 
 For a recent project I needed Wikipedia style history for all of my
 content. Therefore all major content models (articles, pages, forum
@@ -154,6 +154,6 @@ compatible PHP functions that aren't ridiculous let me know.
     :title: History
     :description: CakePHP Article related to history,diff,patch,Behaviors
     :keywords: history,diff,patch,Behaviors
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 adam_dunkley
     :category: behaviors
 

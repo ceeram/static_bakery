@@ -1,7 +1,7 @@
 Document Manager Plugin for CakePHP 2.x
 =======================================
 
-by %s on July 18, 2013
+by ccadere on July 18, 2013
 
 This plugin offers the the possibility to have an online browser
 allowing to manage files inside a directory tree. You can upload,
@@ -35,6 +35,6 @@ More informations at `La Pâtisserie`_.
     :title: Document Manager Plugin for CakePHP 2.x
     :description: CakePHP Article related to document management,Plugins
     :keywords: document management,Plugins
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 ccadere
     :category: plugins
 

@@ -1,7 +1,7 @@
 Tag Cloud
 =========
 
-by %s on October 06, 2006
+by tompouce on October 06, 2006
 
 Here's a nice way to do a simple and customizable tag cloud.
 First add a tag column to your table.
@@ -94,6 +94,6 @@ Hope you like this!
     :title: Tag Cloud
     :description: CakePHP Article related to php,tags,tag cloud,component,Cloud,cake php,xavi,ks,india,ram,wonderful cake,Components
     :keywords: php,tags,tag cloud,component,Cloud,cake php,xavi,ks,india,ram,wonderful cake,Components
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 tompouce
     :category: components
 

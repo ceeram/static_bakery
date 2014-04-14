@@ -1,7 +1,7 @@
 Syslog Component
 ================
 
-by %s on June 07, 2010
+by rikdc on June 07, 2010
 
 This article provides the code for a SysLog class for use with Cake
 v1.3.1 to enable
@@ -125,6 +125,6 @@ NOT put this in your core.php - it won't work!
     :title: Syslog Component
     :description: CakePHP Article related to logging,logs,Snippets
     :keywords: logging,logs,Snippets
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 rikdc
     :category: snippets
 

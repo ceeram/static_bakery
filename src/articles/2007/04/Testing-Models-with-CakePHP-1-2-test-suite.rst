@@ -1,7 +1,7 @@
 Testing Models with CakePHP 1.2 test suite
 ==========================================
 
-by %s on April 13, 2007
+by mariano on April 13, 2007
 
 CakePHP test suite is a powerful environment that lets you test small
 to large applications testing for isolated portions of your code. It
@@ -366,6 +366,6 @@ saying that your test succeded.
     :title: Testing Models with CakePHP 1.2 test suite
     :description: CakePHP Article related to test,suite,case,1.2,Tutorials
     :keywords: test,suite,case,1.2,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 mariano
     :category: tutorials
 

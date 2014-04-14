@@ -1,7 +1,7 @@
 Rails-like Data Validation
 ==========================
 
-by %s on May 16, 2007
+by chess64 on May 16, 2007
 
 Validate your data like in rails: http://rails.rubyonrails.com/classes
 /ActiveRecord/Validations/ClassMethods.html
@@ -319,6 +319,6 @@ Please comment!
     :title: Rails-like Data Validation
     :description: CakePHP Article related to data,form,Models
     :keywords: data,form,Models
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 chess64
     :category: models
 

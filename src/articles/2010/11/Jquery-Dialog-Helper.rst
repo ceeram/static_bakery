@@ -1,7 +1,7 @@
 Jquery Dialog Helper
 ====================
 
-by %s on November 18, 2010
+by milad.jafary on November 18, 2010
 
 Jquery dialog Helper is a useful helper.It help you to write only
 native PHP code and get a JQuery dialog box.
@@ -90,6 +90,6 @@ Email Address: ` * milad.jafary@gmail.com *`_
     :title: Jquery Dialog Helper
     :description: CakePHP Article related to helper,helpers,jquery,dialog,jquery helper,Helpers
     :keywords: helper,helpers,jquery,dialog,jquery helper,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 milad.jafary
     :category: helpers
 

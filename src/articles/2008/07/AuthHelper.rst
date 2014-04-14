@@ -1,7 +1,7 @@
 AuthHelper
 ==========
 
-by %s on July 29, 2008
+by ragrawal on July 29, 2008
 
 This AuthHelper provide access to user information on view side. If
 you have used OthAuth helper before, this helper replicate exactly the
@@ -144,6 +144,6 @@ cakephp-auth/`_
     :title: AuthHelper
     :description: CakePHP Article related to authentication,Helpers
     :keywords: authentication,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 ragrawal
     :category: helpers
 

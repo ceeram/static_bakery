@@ -1,7 +1,7 @@
 How I Built a Web 2.0 Dating Site in 66.5 Hours
 ===============================================
 
-by %s on April 01, 2007
+by Mingle2 on April 01, 2007
 
 Let this be a testament to Web 2.0 and the effectiveness of rapid
 development frameworks such as CakePHP: I built a full-featured dating
@@ -190,6 +190,6 @@ night, it was only 66.5 hours out of my life.
     :title: How I Built a Web 2.0 Dating Site in 66.5 Hours
     :description: CakePHP Article related to design development p,Case Studies
     :keywords: design development p,Case Studies
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Mingle2
     :category: case_studies
 

@@ -1,7 +1,7 @@
 Custom Filters
 ==============
 
-by %s on July 28, 2007
+by Dimitry on July 28, 2007
 
 Learn to implement an easily extensible filtering system.
 Filters are classes executed before the logic within a controllers
@@ -234,6 +234,6 @@ What kind of filters would you like to see?
     :title: Custom Filters
     :description: CakePHP Article related to render,beforeFilter,filters,Tutorials
     :keywords: render,beforeFilter,filters,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Dimitry
     :category: tutorials
 

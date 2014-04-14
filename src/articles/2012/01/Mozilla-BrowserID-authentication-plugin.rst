@@ -1,7 +1,7 @@
 Mozilla BrowserID authentication plugin
 =======================================
 
-by %s on January 22, 2012
+by overflow636 on January 22, 2012
 
 I just stumbled on Mozilla's new OpenID competitor
 (http://browserid.org ) and liked it. I figured I would be albe to
@@ -56,6 +56,6 @@ B0x1A0
     :title: Mozilla BrowserID authentication plugin
     :description: CakePHP Article related to AJAX,login,authentication,curl,Plugins
     :keywords: AJAX,login,authentication,curl,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 overflow636
     :category: plugins
 

@@ -1,7 +1,7 @@
 Sanitizer Plugin
 ================
 
-by %s on September 28, 2010
+by jharris on September 28, 2010
 
 When you're dealing with a lot of user submitted data, it's important
 to sanitize it. CakePHP provides a Sanitizer class that provides much
@@ -153,6 +153,6 @@ rules.
     :title: Sanitizer Plugin
     :description: CakePHP Article related to behaviour,data,santize,Plugins
     :keywords: behaviour,data,santize,Plugins
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 jharris
     :category: plugins
 

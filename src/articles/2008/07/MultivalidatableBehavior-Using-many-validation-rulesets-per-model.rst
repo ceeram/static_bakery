@@ -1,7 +1,7 @@
 MultivalidatableBehavior: Using many validation rulesets per model
 ==================================================================
 
-by %s on July 29, 2008
+by dardosordi on July 29, 2008
 
 In this article I present the MultivalidatableBehavior, which allow us
 to have multiple sets of validation rules for each model.
@@ -215,6 +215,6 @@ Finally, this is the behavior:
     :title: MultivalidatableBehavior: Using many validation rulesets per model
     :description: CakePHP Article related to validation,multiple validation,Behaviors
     :keywords: validation,multiple validation,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 dardosordi
     :category: behaviors
 

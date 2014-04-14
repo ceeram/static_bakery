@@ -1,7 +1,7 @@
 Making the standard date/time fields a little smoother with jQuery
 ==================================================================
 
-by %s on April 22, 2009
+by brightball on April 22, 2009
 
 While working with the date/time input fields in Cake I got tired of
 having to select 3/6 drop down boxes to choose all of the date/time
@@ -42,6 +42,6 @@ Now just drop in this jQuery code and you should be good to go.
     :title: Making the standard date/time fields a little smoother with jQuery
     :description: CakePHP Article related to jquery,form,datetime,date,time,brightball,Snippets
     :keywords: jquery,form,datetime,date,time,brightball,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 brightball
     :category: snippets
 

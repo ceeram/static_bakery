@@ -1,7 +1,7 @@
 Component to send SMS/text messages
 ===================================
 
-by %s on August 14, 2010
+by donald_jackson on August 14, 2010
 
 This is a quick guide demonstrating the use of the PanaceaSms
 component (written for the Panacea Mobile SMS Gateway /
@@ -85,6 +85,6 @@ how to deal with this in your controller.
     :title: Component to send SMS/text messages
     :description: CakePHP Article related to sms,text message,panacea mobile,http sms,Components
     :keywords: sms,text message,panacea mobile,http sms,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 donald_jackson
     :category: components
 

@@ -1,7 +1,7 @@
 Easy BelongsTo Filtering For Pagination
 =======================================
 
-by %s on August 23, 2010
+by thinkingmedia on August 23, 2010
 
 This component makes it easy to filter data by a belongsTo
 association. Allows you to display pagination results narrowed by the
@@ -360,6 +360,6 @@ Source code provided by `http://www.thinkingmedia.ca`_
     :title: Easy BelongsTo Filtering For Pagination
     :description: CakePHP Article related to paginate,belongsto,filtering,named,Components
     :keywords: paginate,belongsto,filtering,named,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 thinkingmedia
     :category: components
 

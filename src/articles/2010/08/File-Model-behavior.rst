@@ -1,7 +1,7 @@
 File Model behavior
 ===================
 
-by %s on August 25, 2010
+by thedilab on August 25, 2010
 
 File Model behavior is a CakePHP behavior which is able to handle file
 uploads automatically.
@@ -230,6 +230,6 @@ there as well for more information about this behavior.
     :title: File Model behavior
     :description: CakePHP Article related to behavior,upload,file,Behaviors
     :keywords: behavior,upload,file,Behaviors
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 thedilab
     :category: behaviors
 

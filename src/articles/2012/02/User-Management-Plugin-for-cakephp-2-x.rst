@@ -1,7 +1,7 @@
 User Management Plugin for cakephp 2.x
 ======================================
 
-by %s on February 11, 2012
+by chetanvarshney on February 11, 2012
 
 Hey I have launched a new user management plugin for cakephp 2.x
 checkout demo Free Version http://usermgmt.ektasoftwares.com/ Premium
@@ -46,6 +46,6 @@ Management-Plugin-for-Cakephp-2.x`_
     :title: User Management Plugin for cakephp 2.x
     :description: CakePHP Article related to login,registration,user management,Plugins
     :keywords: login,registration,user management,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 chetanvarshney
     :category: plugins
 

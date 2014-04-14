@@ -1,7 +1,7 @@
 Youtube Helper using Youtube iFrame Player API
 ==============================================
 
-by %s on September 09, 2011
+by pavlatka on September 09, 2011
 
 I had some free time so I decided to play with Youtube API. I started
 with [url=http://code.google.com/apis/youtube/iframe_api_reference.htm
@@ -253,6 +253,6 @@ without control panel using light theme. Video will start playing at
     :title: Youtube Helper using Youtube iFrame Player API
     :description: CakePHP Article related to api,youtube,youtube player,is_numeric,iframe api,parse_url,youtube helper,array_merge,Helpers
     :keywords: api,youtube,youtube player,is_numeric,iframe api,parse_url,youtube helper,array_merge,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 pavlatka
     :category: helpers
 

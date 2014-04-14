@@ -1,7 +1,7 @@
 UTF8 Multibyte behavior
 =======================
 
-by %s on March 24, 2007
+by Jippi on March 24, 2007
 
 Simple way to make sure all your persisted data is in utf8 / same
 encoding
@@ -309,6 +309,6 @@ Model Class:
     :title: UTF8 Multibyte behavior
     :description: CakePHP Article related to i18n,UTF8,behavior,multibyte,l10n,Behaviors
     :keywords: i18n,UTF8,behavior,multibyte,l10n,Behaviors
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Jippi
     :category: behaviors
 

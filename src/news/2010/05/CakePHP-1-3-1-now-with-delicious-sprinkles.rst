@@ -1,7 +1,7 @@
 CakePHP 1.3.1 now with delicious sprinkles
 ==========================================
 
-by %s on May 29, 2010
+by markstory on May 29, 2010
 
 The CakePHP development team is happy to announce the release of
 CakePHP 1.3.1[1]. 1.3.1 is the first maintenance release for 1.3 and
@@ -62,6 +62,6 @@ View the changelog [2]
     :title: CakePHP 1.3.1 now with delicious sprinkles
     :description: CakePHP Article related to release,CakePHP,news,News
     :keywords: release,CakePHP,news,News
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 markstory
     :category: news
 

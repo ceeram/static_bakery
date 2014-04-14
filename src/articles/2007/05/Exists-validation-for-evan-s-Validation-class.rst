@@ -1,7 +1,7 @@
 'Exists' validation for evan's Validation class
 ===============================================
 
-by %s on May 26, 2007
+by farez on May 26, 2007
 
 'Add-on' method for evan's validation class to check for existence of
 value in database.
@@ -73,6 +73,6 @@ Here's the code. Hope it's useful :)
     :title: 'Exists' validation for evan's Validation class
     :description: CakePHP Article related to validation exists 1.,Snippets
     :keywords: validation exists 1.,Snippets
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 farez
     :category: snippets
 

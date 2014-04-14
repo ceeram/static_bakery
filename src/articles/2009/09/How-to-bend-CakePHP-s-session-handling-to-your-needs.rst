@@ -1,7 +1,7 @@
 How to bend CakePHP's session handling to your needs
 ====================================================
 
-by %s on September 02, 2009
+by ADmad on September 02, 2009
 
 This article is an attempt to break the myth that Cakephp's current
 session handling is not easily customizable.
@@ -78,6 +78,6 @@ problem either. Please feel to point out any mistakes on my part.
     :title: How to bend CakePHP's session handling to your needs
     :description: CakePHP Article related to session,session handling,admad,session customizatio,Tutorials
     :keywords: session,session handling,admad,session customizatio,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 ADmad
     :category: tutorials
 

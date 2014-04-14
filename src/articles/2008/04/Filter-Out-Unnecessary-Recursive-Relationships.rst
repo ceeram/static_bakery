@@ -1,7 +1,7 @@
 Filter Out Unnecessary Recursive Relationships
 ==============================================
 
-by %s on April 12, 2008
+by marklap on April 12, 2008
 
 Add a small function to your AppModel to filter out those recursive
 relationships that are unnecessary for a particular controller action.
@@ -89,6 +89,6 @@ Controller Class:
     :title: Filter Out Unnecessary Recursive Relationships
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 marklap
     :category: tutorials
 

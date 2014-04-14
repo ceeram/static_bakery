@@ -1,7 +1,7 @@
 Building an iPhone app in a day
 ===============================
 
-by %s on July 06, 2007
+by gwoo on July 06, 2007
 
 The iPhone changed the way I work and made my life easier. Read about
 the application that adds one more feature to an already great device.
@@ -96,6 +96,6 @@ Bake on.
     :title: Building an iPhone app in a day
     :description: CakePHP Article related to Rss,iPhone,Case Studies
     :keywords: Rss,iPhone,Case Studies
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 gwoo
     :category: case_studies
 

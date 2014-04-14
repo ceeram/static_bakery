@@ -1,7 +1,7 @@
 Report Creator Component
 ========================
 
-by %s on November 09, 2006
+by Gkelly on November 09, 2006
 
 Under most circumstances web-based intranet applications call for some
 type of flexible reporting for its users. Report design is often times
@@ -684,6 +684,6 @@ reports that utilize aggregate functions.
     :title: Report Creator Component
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 Gkelly
     :category: components
 

@@ -1,7 +1,7 @@
 AggregateCache Behavior
 =======================
 
-by %s on August 23, 2010
+by vincentm8 on August 23, 2010
 
 AggregateCache behavior caches the result of aggregate calculations
 (min, max, avg, sum) in tables that are joined by a hasMany /
@@ -284,6 +284,6 @@ aggregate_cache.php
     :title: AggregateCache Behavior
     :description: CakePHP Article related to countercache,behavior,cache,aggregate,Behaviors
     :keywords: countercache,behavior,cache,aggregate,Behaviors
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 vincentm8
     :category: behaviors
 

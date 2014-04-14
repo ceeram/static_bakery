@@ -1,7 +1,7 @@
 Simple 3rd-party provider authentication with Opauth plugin
 ===========================================================
 
-by %s on June 25, 2012
+by uzyn on June 25, 2012
 
 Opauth is a multi-provider authentication framework for PHP, inspired
 by OmniAuth for Ruby. Opauth enables PHP applications to perform user
@@ -177,6 +177,6 @@ Issues & questions
     :title: Simple 3rd-party provider authentication with Opauth plugin
     :description: CakePHP Article related to google,Auth,login,authentication,plugin,twitter,oauth,openid,facebook,opauth,Tutorials
     :keywords: google,Auth,login,authentication,plugin,twitter,oauth,openid,facebook,opauth,Tutorials
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 uzyn
     :category: tutorials
 

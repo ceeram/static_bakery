@@ -1,7 +1,7 @@
 HTTP basic authentication with users from database
 ==================================================
 
-by %s on January 18, 2009
+by eimermusic on January 18, 2009
 
 This is a few lines of code and explanations explaining how to get
 HTTP Auth to check against your normal users table.
@@ -111,6 +111,6 @@ will provide pretty good security for your API access.
     :title: HTTP basic authentication with users from database
     :description: CakePHP Article related to Auth,security,login,database,HTTP,authentication,Snippets
     :keywords: Auth,security,login,database,HTTP,authentication,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 eimermusic
     :category: snippets
 

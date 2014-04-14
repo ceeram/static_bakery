@@ -1,7 +1,7 @@
 Validati18n Behavior
 ====================
 
-by %s on October 29, 2009
+by ceeram on October 29, 2009
 
 This Behavior will add country based validation rules to your model.
 The inspiration for the behavior came from the
@@ -273,6 +273,6 @@ And finally the code itself:
     :title: Validati18n Behavior
     :description: CakePHP Article related to validation,behavior,Behaviors
     :keywords: validation,behavior,Behaviors
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 ceeram
     :category: behaviors
 

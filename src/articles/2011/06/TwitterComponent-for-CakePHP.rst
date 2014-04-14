@@ -1,7 +1,7 @@
 TwitterComponent for CakePHP
 ============================
 
-by %s on June 30, 2011
+by nitsche on June 30, 2011
 
 Since longer time I searched for solution to connect my app with
 Twitter via their OAuth-Authentication. But there was nothing what was
@@ -87,6 +87,6 @@ controller.
     :title: TwitterComponent for CakePHP
     :description: CakePHP Article related to HTTP,twitter,oauth,twitter api,Components
     :keywords: HTTP,twitter,oauth,twitter api,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 nitsche
     :category: components
 

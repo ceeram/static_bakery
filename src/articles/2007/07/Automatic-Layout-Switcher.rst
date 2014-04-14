@@ -1,7 +1,7 @@
 Automatic Layout Switcher
 =========================
 
-by %s on July 24, 2007
+by mattc on July 24, 2007
 
 This component allows you to have two layouts for one site and
 switches between them automatically based on the domain.
@@ -116,6 +116,6 @@ Component Class:
     :title: Automatic Layout Switcher
     :description: CakePHP Article related to component,switch,Components
     :keywords: component,switch,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 mattc
     :category: components
 

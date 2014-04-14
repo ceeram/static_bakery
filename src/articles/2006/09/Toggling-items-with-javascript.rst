@@ -1,7 +1,7 @@
 Toggling items with javascript
 ==============================
 
-by %s on September 22, 2006
+by Dieter_be on September 22, 2006
 
 This tutorial explains how you can toggle (expand/collapse) certain
 items on your webpage using javascript (without the need of new
@@ -116,6 +116,6 @@ right here: `http://www.w3schools.com/css/pr_class_display.asp`_
     :title: Toggling items with javascript
     :description: CakePHP Article related to expand,toggle,unhide,collapse,prototype,hide,toggle hide expand u,General Interest
     :keywords: expand,toggle,unhide,collapse,prototype,hide,toggle hide expand u,General Interest
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 Dieter_be
     :category: general_interest
 

@@ -1,7 +1,7 @@
 Form posting with '_GET' parameters
 ===================================
 
-by %s on October 26, 2008
+by Marcelius on October 26, 2008
 
 A while ago, I was working on a searchengine for my site. When a
 search is performed, the url should show all the parameters so it is
@@ -99,6 +99,6 @@ Controller Class:
     :title: Form posting with '_GET' parameters
     :description: CakePHP Article related to GET,form,posting,Snippets
     :keywords: GET,form,posting,Snippets
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Marcelius
     :category: snippets
 

@@ -1,7 +1,7 @@
 ThumbnailHelper, a thumbnail generator with cache dynamic
 =========================================================
 
-by %s on February 13, 2012
+by emersonsoares on February 13, 2012
 
 A helper that generates thumbnails of images and uses a cache to store
 them.
@@ -41,6 +41,6 @@ folder inside the app/View/Helper.
     :title: ThumbnailHelper, a thumbnail generator with cache dynamic
     :description: CakePHP Article related to thumbnail,Helpers
     :keywords: thumbnail,Helpers
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 emersonsoares
     :category: helpers
 

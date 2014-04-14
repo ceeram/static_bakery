@@ -1,7 +1,7 @@
 Javascript Unit Testing with Jasmine
 ====================================
 
-by %s on March 06, 2011
+by jboesch on March 06, 2011
 
 Unit testing your JavaScript is something that doesn't come easy.
 Luckily, I've compiled a dummy project on GitHub.com that will allow
@@ -17,6 +17,6 @@ Unit-Testing`_
     :title: Javascript Unit Testing with Jasmine
     :description: CakePHP Article related to javascript,unit testing,junit,jasmine,Articles
     :keywords: javascript,unit testing,junit,jasmine,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 jboesch
     :category: articles
 

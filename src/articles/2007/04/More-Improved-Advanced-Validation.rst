@@ -1,7 +1,7 @@
 More Improved Advanced Validation
 =================================
 
-by %s on April 17, 2007
+by evan on April 17, 2007
 
 Here's a way to perform a cleaner and better way of validating your
 model data in CakePHP.
@@ -964,6 +964,6 @@ Fini.
     :title: More Improved Advanced Validation
     :description: CakePHP Article related to forms,errors,1.1,Tutorials
     :keywords: forms,errors,1.1,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 evan
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Visualize - Generate a graphic of your models/tables
 ====================================================
 
-by %s on January 24, 2008
+by AD7six on January 24, 2008
 
 Based upon the script published by cakeexplorer
 (http://cakeexplorer.wordpress.com/2007/12/14/build-image-of-current-
@@ -325,6 +325,6 @@ http://www.ad7six.com/files/visualize.mpeg
     :title: Visualize - Generate a graphic of your models/tables
     :description: CakePHP Article related to ,Snippets
     :keywords: ,Snippets
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 AD7six
     :category: snippets
 

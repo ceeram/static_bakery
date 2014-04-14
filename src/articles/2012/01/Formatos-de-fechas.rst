@@ -1,7 +1,7 @@
 Formatos de fechas
 ==================
 
-by %s on January 27, 2012
+by rikkin on January 27, 2012
 
 Hola, soy nuevo en Bakery, les dejo un comportamiento que hice para
 dar vuelta la fecha, algo así como un dateformat. lo que hace es muy
@@ -75,6 +75,6 @@ comentarios son bienvenidos.
     :title: Formatos de fechas
     :description: CakePHP Article related to datetime,date,fechas,Dateformat,comportamiento,base de datos,Behaviors
     :keywords: datetime,date,fechas,Dateformat,comportamiento,base de datos,Behaviors
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 rikkin
     :category: behaviors
 

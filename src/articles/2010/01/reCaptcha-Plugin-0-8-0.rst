@@ -1,7 +1,7 @@
 reCaptcha Plugin - 0.8.0
 ========================
 
-by %s on January 05, 2010
+by fenux on January 05, 2010
 
 reCaptcha is a plugin to allow the easy use of reCaptcha.net's captcha
 library.
@@ -62,6 +62,6 @@ Download
     :title: reCaptcha Plugin - 0.8.0
     :description: CakePHP Article related to captcha,plugin,recaptcha,Plugins
     :keywords: captcha,plugin,recaptcha,Plugins
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 fenux
     :category: plugins
 

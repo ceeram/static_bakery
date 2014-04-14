@@ -1,7 +1,7 @@
 Caching ACL permissions with CachedAclComponent
 ===============================================
 
-by %s on April 15, 2009
+by Frank on April 15, 2009
 
 When you set up ACL with a bunch of groups with subgroups, you will
 end up with five or maybe more queries per request. When you have a
@@ -166,6 +166,6 @@ More
     :title: Caching ACL permissions with CachedAclComponent
     :description: CakePHP Article related to acl,cache,phally,Components
     :keywords: acl,cache,phally,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Frank
     :category: components
 

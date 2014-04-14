@@ -1,7 +1,7 @@
 Release: CakePHP RC3 - The RC of Triumph!
 =========================================
 
-by %s on October 02, 2008
+by nate on October 02, 2008
 
 It's finally here: the final release before the final release of
 CakePHP 1.2.
@@ -63,6 +63,6 @@ So thanks again everyone, and merry Mark Story Day!
     :title: Release: CakePHP RC3 - The RC of Triumph!
     :description: CakePHP Article related to release,News
     :keywords: release,News
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 nate
     :category: news
 

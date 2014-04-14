@@ -1,7 +1,7 @@
 Cake Meet Pie
 =============
 
-by %s on January 14, 2008
+by rloaderro on January 14, 2008
 
 A Helper class that integrates EQ Smooth Pie Graph with your Cake
 application. EQ Smooth Pie Graph generates pie charts with smooth
@@ -309,6 +309,6 @@ of the legend key will be retained!
     :title: Cake Meet Pie
     :description: CakePHP Article related to pie chart,smooth pie graph,Helpers
     :keywords: pie chart,smooth pie graph,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 rloaderro
     :category: helpers
 

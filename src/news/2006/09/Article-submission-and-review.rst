@@ -1,7 +1,7 @@
 Article submission and review
 =============================
 
-by %s on September 27, 2006
+by gwoo on September 27, 2006
 
 Here we attempt to explain the process of submitting articles and the
 process of reviewing the submissions.
@@ -36,6 +36,6 @@ dont forget to stop by #cakephp@irc.freenode.net,
     :title: Article submission and review
     :description: CakePHP Article related to review process,News
     :keywords: review process,News
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 gwoo
     :category: news
 

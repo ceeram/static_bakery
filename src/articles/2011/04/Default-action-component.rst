@@ -1,7 +1,7 @@
 Default action component
 ========================
 
-by %s on April 27, 2011
+by tomas_maly on April 27, 2011
 
 I created a component to fallback onto a default action (if not
 found), so arbitrary URLs could be handled for pretty URLs (slug-
@@ -53,6 +53,6 @@ method_exists($controller, $controller->defaultAction)) { # Use the
     :title: Default action component
     :description: CakePHP Article related to default action slug,Components
     :keywords: default action slug,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 tomas_maly
     :category: components
 

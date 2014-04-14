@@ -1,7 +1,7 @@
 CakePHP Query Builder
 =====================
 
-by %s on June 09, 2008
+by mjamesd on June 09, 2008
 
 This is a basic query builder for the select method. I didn't need to
 do insert,update, or delete operations for what I was building it for,
@@ -559,6 +559,6 @@ explanation.
     :title: CakePHP Query Builder
     :description: CakePHP Article related to 1.2,query,custom,Helpers
     :keywords: 1.2,query,custom,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 mjamesd
     :category: helpers
 

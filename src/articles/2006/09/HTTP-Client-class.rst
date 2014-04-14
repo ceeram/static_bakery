@@ -1,7 +1,7 @@
 HTTP Client class
 =================
 
-by %s on September 22, 2006
+by rossoft on September 22, 2006
 
 Http Client Class Uses Pear or Curl for a HTTP/HTTPS GET/POST request.
 Handles cookies and HTTP auth test
@@ -461,6 +461,6 @@ Component Class:
     :title: HTTP Client class
     :description: CakePHP Article related to Cookies,HTTP,Components
     :keywords: Cookies,HTTP,Components
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 rossoft
     :category: components
 

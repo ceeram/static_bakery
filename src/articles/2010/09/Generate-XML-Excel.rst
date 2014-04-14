@@ -1,7 +1,7 @@
 Generate XML Excel
 ==================
 
-by %s on September 28, 2010
+by makio on September 28, 2010
 
 This is a helper that will help you to create a valid XML Excel
 without using any vendor classes, after this you can save this XML to
@@ -227,6 +227,6 @@ helper, I tested the result file on Excel 2010.
     :title: Generate XML Excel
     :description: CakePHP Article related to helper,xml,export,excel,Helpers
     :keywords: helper,xml,export,excel,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 makio
     :category: helpers
 

@@ -1,7 +1,7 @@
 Auth Component of Cakephp Demystified Part-2
 ============================================
 
-by %s on July 28, 2012
+by neil6502 on July 28, 2012
 
 Auth Component Variables Properly explained....
 
@@ -198,6 +198,6 @@ Final words...
     :title: Auth Component of Cakephp Demystified Part-2
     :description: CakePHP Article related to CakePHP,authcomponent,Variables,Articles
     :keywords: CakePHP,authcomponent,Variables,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 neil6502
     :category: articles
 

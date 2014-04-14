@@ -1,7 +1,7 @@
 Symlinking to svn copies
 ========================
 
-by %s on September 29, 2006
+by gwoo on September 29, 2006
 
 If you want to keep one install of CakePHP for all your applications,
 then you may want to use a symlink to make it easier when you want to
@@ -76,6 +76,6 @@ The code in /app/webroot/index.php might look like:
     :title: Symlinking to svn copies
     :description: CakePHP Article related to symlink,osx,svn,subversion,General Interest
     :keywords: symlink,osx,svn,subversion,General Interest
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 gwoo
     :category: general_interest
 

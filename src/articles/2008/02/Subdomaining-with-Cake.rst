@@ -1,7 +1,7 @@
 Subdomaining with Cake
 ======================
 
-by %s on February 04, 2008
+by Mum_Chamber on February 04, 2008
 
 In this article, following a practical approach to subdomaining, we
 will make one model available through subdomains. Can be inspiring for
@@ -65,6 +65,6 @@ for virtual host documentation
     :title: Subdomaining with Cake
     :description: CakePHP Article related to user,subdomain,Tutorials
     :keywords: user,subdomain,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Mum_Chamber
     :category: tutorials
 

@@ -1,7 +1,7 @@
 ExcelHelper
 ===========
 
-by %s on May 27, 2011
+by thiagosf on May 27, 2011
 
 Simply export your data to Excel. Based on code:
 http://code.google.com/p/php-excel/
@@ -94,6 +94,6 @@ $excel->render($file);
     :title: ExcelHelper
     :description: CakePHP Article related to export,excel,Helpers
     :keywords: export,excel,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 thiagosf
     :category: helpers
 

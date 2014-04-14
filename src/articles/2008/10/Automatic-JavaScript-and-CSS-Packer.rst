@@ -1,7 +1,7 @@
 Automatic JavaScript and CSS Packer
 ===================================
 
-by %s on October 26, 2008
+by mattc on October 26, 2008
 
 Another JavaScript/CSS combiner and packer was recently posted to the
 Bakery. I felt it was a little configuration heavy and required too
@@ -282,6 +282,6 @@ Helper Class:
     :title: Automatic JavaScript and CSS Packer
     :description: CakePHP Article related to packer,asset,Helpers
     :keywords: packer,asset,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 mattc
     :category: helpers
 

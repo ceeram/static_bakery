@@ -1,7 +1,7 @@
 HOWTO Setup Eclipse 3.6 to get the most out of CakePHP 1.3 Development
 ======================================================================
 
-by %s on November 11, 2010
+by rynop on November 11, 2010
 
 This article explains step-by-step on how to setup your CakePHP dev
 environment to get the most out of open source tooling.
@@ -77,6 +77,6 @@ The most up to date version of this can be found on my blog at
     :title: HOWTO Setup Eclipse 3.6 to get the most out of CakePHP 1.3 Development
     :description: CakePHP Article related to svn,Eclipse,ide,plugin,PDT,Tutorials
     :keywords: svn,Eclipse,ide,plugin,PDT,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 rynop
     :category: tutorials
 

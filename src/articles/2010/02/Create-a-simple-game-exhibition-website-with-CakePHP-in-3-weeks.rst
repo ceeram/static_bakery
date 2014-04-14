@@ -1,7 +1,7 @@
 Create a simple game exhibition website with CakePHP in 3 weeks
 ===============================================================
 
-by %s on February 18, 2010
+by ashong on February 18, 2010
 
 This is my first website work using CakePHP. I spent 3 days to learn
 about cakephp at the beginning. And I got so much help from the
@@ -93,6 +93,6 @@ The final result
     :title: Create a simple game exhibition website with CakePHP in 3 weeks
     :description: CakePHP Article related to ,Case Studies
     :keywords: ,Case Studies
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 ashong
     :category: case_studies
 

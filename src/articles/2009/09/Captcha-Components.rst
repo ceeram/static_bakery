@@ -1,7 +1,7 @@
 Captcha Components
 ==================
 
-by %s on September 23, 2009
+by samestory on September 23, 2009
 
 Here is a sample of code for a captcha component we made for the site
 http://www.same-story.com/ Feel free to use, copy and redistribute !!
@@ -115,6 +115,6 @@ Enjoy!
     :title: Captcha Components
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 samestory
     :category: components
 

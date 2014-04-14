@@ -1,7 +1,7 @@
 Check Member / User Online or Offline Status
 ============================================
 
-by %s on March 12, 2010
+by imran7000 on March 12, 2010
 
 The following piece of code will calculate the last visited time of a
 Member/User and calulate the time difference with current time. And if
@@ -90,6 +90,6 @@ View Template:
     :title: Check Member / User Online or Offline Status
     :description: CakePHP Article related to user,online,offline,online user status,offline user status,General Interest
     :keywords: user,online,offline,online user status,offline user status,General Interest
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 imran7000
     :category: general_interest
 

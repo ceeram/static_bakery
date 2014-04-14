@@ -1,7 +1,7 @@
 Multistep forms
 ===============
 
-by %s on September 09, 2012
+by antoniomad on September 09, 2012
 
 One of the features I really love about PHP frameworks is form
 management. Coding forms in plain PHP can easily become a pain if not
@@ -331,6 +331,6 @@ comments below.
     :title: Multistep forms
     :description: CakePHP Article related to form,multistep,Tutorials
     :keywords: form,multistep,Tutorials
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 antoniomad
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Generating Tree compatible with twitter bootstrap nav subnav
 ============================================================
 
-by %s on August 28, 2013
+by cybercoder on August 28, 2013
 
 I needed a helper which show my Menu items in twitter bootstrap
 navigation bar format with unlimited deep. First i did google for
@@ -59,6 +59,6 @@ Regards
     :title: Generating Tree compatible with twitter bootstrap nav subnav
     :description: CakePHP Article related to helper,tree,bootstrap,Helpers
     :keywords: helper,tree,bootstrap,Helpers
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 cybercoder
     :category: helpers
 

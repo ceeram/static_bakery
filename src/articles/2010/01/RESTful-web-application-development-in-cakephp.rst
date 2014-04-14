@@ -1,7 +1,7 @@
 RESTful web application development in cakephp
 ==============================================
 
-by %s on January 11, 2010
+by rightwayindia on January 11, 2010
 
 Nowadays RESTful architecture based API (web services) development is
 accepted across the Web as a simpler alternative to SOAP - and Web
@@ -122,6 +122,6 @@ develop a REST based web application using cakephp framework.
     :title: RESTful web application development in cakephp 
     :description: CakePHP Article related to CakePHP,REST,web services,api development,restful web developm,restful development,restful web service,Tutorials
     :keywords: CakePHP,REST,web services,api development,restful web developm,restful development,restful web service,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 rightwayindia
     :category: tutorials
 

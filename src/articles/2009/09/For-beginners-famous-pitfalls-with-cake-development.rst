@@ -1,7 +1,7 @@
 For beginners: famous pitfalls with cake development
 ====================================================
 
-by %s on September 28, 2009
+by alexdd55 on September 28, 2009
 
 Starting from scratch in cakephp is not always easy, especially when
 you are not used to MVC frameworks. I hope this will help other
@@ -133,6 +133,6 @@ again, after having some weeks experience with developing in cake.
     :title: For beginners: famous pitfalls with cake development
     :description: CakePHP Article related to tips,beginner,basic,advice,how to,General Interest
     :keywords: tips,beginner,basic,advice,how to,General Interest
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 alexdd55
     :category: general_interest
 

@@ -1,7 +1,7 @@
 Get Next Auto Increment
 =======================
 
-by %s on October 26, 2006
+by jsconnell on October 26, 2006
 
 A small hack that returns the auto increment id for the current model.
 I wanted to know before hand what the next auto_increment id for a
@@ -53,6 +53,6 @@ Model Class:
     :title: Get Next Auto Increment
     :description: CakePHP Article related to auto_increment model,Snippets
     :keywords: auto_increment model,Snippets
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 jsconnell
     :category: snippets
 

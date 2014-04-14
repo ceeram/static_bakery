@@ -1,7 +1,7 @@
 LastRSS CakePHP Component
 =========================
 
-by %s on March 12, 2008
+by jimmygle on March 12, 2008
 
 LastRSS is a PHP class for retrieval and parsing of RSS feeds. This is
 a wrapper to that class making it easy to use in the CakePHP framwork.
@@ -130,6 +130,6 @@ View Template:
     :title: LastRSS CakePHP Component
     :description: CakePHP Article related to Rss,component,lastrss,Components
     :keywords: Rss,component,lastrss,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 jimmygle
     :category: components
 

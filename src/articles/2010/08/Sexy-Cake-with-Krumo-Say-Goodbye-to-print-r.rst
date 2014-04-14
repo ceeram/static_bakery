@@ -1,7 +1,7 @@
 Sexy Cake with Krumo: Say Goodbye to print_r()
 ==============================================
 
-by %s on August 22, 2010
+by stac80 on August 22, 2010
 
 Debugging nested arrays with print_r() can be wicked tough but
 [url=http://krumo.sourceforge.net/]Krumo[/url] makes this task a
@@ -193,6 +193,6 @@ Word!..erm String!
     :title: Sexy Cake with Krumo: Say Goodbye to print_r()
     :description: CakePHP Article related to krumo,array,print_r,Helpers
     :keywords: krumo,array,print_r,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 stac80
     :category: helpers
 

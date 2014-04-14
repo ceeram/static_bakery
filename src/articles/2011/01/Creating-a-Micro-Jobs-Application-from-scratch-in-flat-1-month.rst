@@ -1,7 +1,7 @@
 Creating a Micro Jobs Application from scratch in flat 1 month
 ==============================================================
 
-by %s on January 13, 2011
+by nanobazaar on January 13, 2011
 
 Considering the growth in freelance and micro jobs industry, we built
 an application using Cake PHP (Below I've explained why) which will
@@ -52,6 +52,6 @@ see Nano Bazaar in action at `http://demo.nano-bazaar.com`_
     :title: Creating a Micro Jobs Application from scratch in flat 1 month
     :description: CakePHP Article related to AJAX,cakephp 1.2,Case Studies
     :keywords: AJAX,cakephp 1.2,Case Studies
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 nanobazaar
     :category: case_studies
 

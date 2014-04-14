@@ -1,7 +1,7 @@
 Store and Resize Images
 =======================
 
-by %s on January 06, 2007
+by lababidi on January 06, 2007
 
 This guide should help you learn how to store images into your
 database as well as use the powerful GD library to resize your images.
@@ -43,6 +43,6 @@ the image later on.
     :title: Store and Resize Images
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 lababidi
     :category: tutorials
 

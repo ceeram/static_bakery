@@ -1,7 +1,7 @@
 IP based authentication and session tracking.
 =============================================
 
-by %s on February 19, 2010
+by roeften on February 19, 2010
 
 This is my approach in IP based authentication and Session tracking
 for cake. My goal was to leave cake untouched.
@@ -231,6 +231,6 @@ app/views/controller_name/snom/action_name.ctp
     :title: IP based authentication and session tracking.
     :description: CakePHP Article related to Auth,session,ip,snom,Tutorials
     :keywords: Auth,session,ip,snom,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 roeften
     :category: tutorials
 

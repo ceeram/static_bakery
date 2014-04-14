@@ -1,7 +1,7 @@
 PDF helper using pdf php
 ========================
 
-by %s on January 18, 2007
+by sdevore.myopenid.com on January 18, 2007
 
 This Article is strongly based on the old wiki entry by Ozly all
 credit goes to him all errors can be attributed to me. "This class is
@@ -205,6 +205,6 @@ Happy Baking ! - Ozly
     :title: PDF helper using pdf php
     :description: CakePHP Article related to pdf,Helpers
     :keywords: pdf,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 sdevore.myopenid.com
     :category: helpers
 

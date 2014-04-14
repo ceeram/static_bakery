@@ -1,7 +1,7 @@
 Integrating Zend Framework Lucene with your Cake Application
 ============================================================
 
-by %s on October 16, 2006
+by andremedeiros on October 16, 2006
 
 This is a short tutorial that teaches you how to integrate Zend
 Framework's Lucene implementation (100% PHP) to your application. It
@@ -226,6 +226,6 @@ Good luck, and let me know how it worked out for you.
     :title: Integrating Zend Framework Lucene with your Cake Application
     :description: CakePHP Article related to search,lucene,Tutorials
     :keywords: search,lucene,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 andremedeiros
     :category: tutorials
 

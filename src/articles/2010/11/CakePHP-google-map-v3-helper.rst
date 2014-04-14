@@ -1,7 +1,7 @@
 CakePHP google map v3 helper
 ============================
 
-by %s on May 20, 2010
+by rajibahmed on May 20, 2010
 
 CakePHP google map v3 helper / wrapper This is my first piece of code
 to cakePHP community. I have just drafted this one i will add more
@@ -144,6 +144,6 @@ finally, now time to make the script
     :title: CakePHP google map v3 helper
     :description: CakePHP Article related to google,helpers,Google Maps,google maps v3,Helpers
     :keywords: google,helpers,Google Maps,google maps v3,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 rajibahmed
     :category: helpers
 

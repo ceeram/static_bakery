@@ -1,7 +1,7 @@
 Using the Unobtrusive Date Picker Widget in CakePHP
 ===================================================
 
-by %s on April 12, 2008
+by mmanning on April 12, 2008
 
 The default CakePHP date selection boxes are rather a pain in the
 rear. Wouldn't it be nice if you could use a Date-Picker in your
@@ -198,6 +198,6 @@ picker.jpg`_`http://www.nexgentec.com/bakery/date-picker2.jpg`_
     :title: Using the Unobtrusive Date Picker Widget in CakePHP
     :description: CakePHP Article related to popup calendar,date picker,Tutorials
     :keywords: popup calendar,date picker,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 mmanning
     :category: tutorials
 

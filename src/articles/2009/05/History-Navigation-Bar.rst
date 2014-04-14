@@ -1,7 +1,7 @@
 History Navigation Bar
 ======================
 
-by %s on May 06, 2009
+by khbohm on May 06, 2009
 
 This component is intended to be used in cases where as we go sailing,
 go deeper into the pages, starting from a home page.It show the path
@@ -186,6 +186,6 @@ Comments regarding more functionality and bugs are welcome.
     :title: History Navigation Bar
     :description: CakePHP Article related to component,history,navigator,Components
     :keywords: component,history,navigator,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 khbohm
     :category: components
 

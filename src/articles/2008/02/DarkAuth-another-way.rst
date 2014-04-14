@@ -1,7 +1,7 @@
 DarkAuth - another way...
 =========================
 
-by %s on February 18, 2008
+by theChrisWalker on February 18, 2008
 
 I wrote this initially for Cake 1.1 - basing it on ideas from "obAuth"
 by Steve Oliveira, but upgraded it to 1.2 rather than using the built
@@ -743,6 +743,6 @@ More
     :title: DarkAuth - another way...
     :description: CakePHP Article related to authentication,obAuth,access control,superuser,Components
     :keywords: authentication,obAuth,access control,superuser,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 theChrisWalker
     :category: components
 

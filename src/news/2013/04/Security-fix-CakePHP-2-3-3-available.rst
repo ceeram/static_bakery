@@ -1,7 +1,7 @@
 Security fix: CakePHP 2.3.3 available
 =====================================
 
-by %s on April 24, 2013
+by lorenzo on April 24, 2013
 
 We have found a severe security issue that affects all applications
 running CakePHP version 2.3.0 and above that are using user
@@ -57,6 +57,6 @@ Links
     :title: Security fix: CakePHP 2.3.3 available
     :description: CakePHP Article related to ,News
     :keywords: ,News
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 lorenzo
     :category: news
 

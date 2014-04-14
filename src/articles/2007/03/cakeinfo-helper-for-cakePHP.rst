@@ -1,7 +1,7 @@
 cakeinfo() helper for cakePHP
 =============================
 
-by %s on March 13, 2007
+by Siegfried on March 13, 2007
 
 As a newbie in cakePHP it is often hard to get all the constants right
 and not always easy to recognise, what is already defined in the
@@ -90,6 +90,6 @@ Helper Class:
     :title: cakeinfo() helper for cakePHP
     :description: CakePHP Article related to configuration,cake,config,constants,Helpers
     :keywords: configuration,cake,config,constants,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Siegfried
     :category: helpers
 

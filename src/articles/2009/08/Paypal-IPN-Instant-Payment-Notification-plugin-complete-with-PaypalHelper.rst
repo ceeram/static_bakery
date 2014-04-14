@@ -2,7 +2,7 @@ Paypal IPN (Instant Payment Notification) plugin complete with
 PaypalHelper
 ============
 
-by %s on August 11, 2009
+by webtechnick on August 11, 2009
 
 I've created a PayPal IPN (Instant Payment Notification) plugin that
 includes a handy helper that will build your paypal buttons for you
@@ -214,6 +214,6 @@ post a comment. =)
     :title: Paypal IPN (Instant Payment Notification) plugin complete with PaypalHelper
     :description: CakePHP Article related to paypal,plugin,cart,shopping,Plugins
     :keywords: paypal,plugin,cart,shopping,Plugins
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 webtechnick
     :category: plugins
 

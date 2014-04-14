@@ -1,7 +1,7 @@
 BBcode Helper with PEAR's Bbcode parser
 =======================================
 
-by %s on January 30, 2011
+by kishorkundan on January 30, 2011
 
 This is simple helper that converts
 [url=http://en.wikipedia.org/wiki/BBCode]Bbcode[/url] tags into its
@@ -79,6 +79,6 @@ To use it in view simply
     :title: BBcode Helper with PEAR's Bbcode parser
     :description: CakePHP Article related to helpers,pear,BBCode,Helpers
     :keywords: helpers,pear,BBCode,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 kishorkundan
     :category: helpers
 

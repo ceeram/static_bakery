@@ -1,7 +1,7 @@
 Paypal Pro Component
 ====================
 
-by %s on September 14, 2011
+by Jagjit on September 14, 2011
 
 I was just doing a project where my client ask me to implement Paypal
 Pro(To make the payment on the site without redirecting to paypal),
@@ -291,6 +291,6 @@ CakePHP: Paypal Pro Component for Credit Card Payments
     :title: Paypal Pro Component
     :description: CakePHP Article related to Paypal Pro Component,Components
     :keywords: Paypal Pro Component,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 Jagjit
     :category: components
 

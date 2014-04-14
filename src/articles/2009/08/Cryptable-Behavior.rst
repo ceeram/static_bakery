@@ -1,7 +1,7 @@
 Cryptable Behavior
 ==================
 
-by %s on August 01, 2009
+by utoxin on August 01, 2009
 
 A behavior that will automatically encrypt/decrypt specified fields in
 a model, using your choice of cipher, key, and IV.
@@ -119,6 +119,6 @@ the string that needs worked on.
     :title: Cryptable Behavior
     :description: CakePHP Article related to behavior,encryption,Behaviors
     :keywords: behavior,encryption,Behaviors
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 utoxin
     :category: behaviors
 

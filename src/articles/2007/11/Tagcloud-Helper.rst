@@ -1,7 +1,7 @@
 Tagcloud Helper
 ===============
 
-by %s on November 12, 2007
+by Alakazam on November 12, 2007
 
 This is an intro on how to create well made tag clouds that are
 normalized based on relative scores. Feel free to use in your
@@ -103,6 +103,6 @@ Some example usage:
     :title: Tagcloud Helper
     :description: CakePHP Article related to tag,tag cloud,Cloud,Helpers
     :keywords: tag,tag cloud,Cloud,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Alakazam
     :category: helpers
 

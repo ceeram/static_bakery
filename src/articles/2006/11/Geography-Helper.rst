@@ -1,7 +1,7 @@
 Geography Helper
 ================
 
-by %s on November 03, 2006
+by motoole on November 03, 2006
 
 The geography helper allows you to easily produce arrays of states and
 countries for convenient use within the form helper select function,
@@ -455,6 +455,6 @@ Helper Class:
     :title: Geography Helper
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 motoole
     :category: helpers
 

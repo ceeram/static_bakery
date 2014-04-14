@@ -1,7 +1,7 @@
 Pagination Helper for Long Content
 ==================================
 
-by %s on April 05, 2007
+by ebeyrent on April 05, 2007
 
 In one of my CMS projects, I ran across a case where the user created
 a post of very long content that scrolled endlessly down the page. In
@@ -158,6 +158,6 @@ content will be visible.
     :title: Pagination Helper for Long Content
     :description: CakePHP Article related to seo,scriptaculous,Helpers
     :keywords: seo,scriptaculous,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 ebeyrent
     :category: helpers
 

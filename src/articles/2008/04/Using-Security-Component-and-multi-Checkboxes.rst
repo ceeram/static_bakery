@@ -1,7 +1,7 @@
 Using Security Component and multi Checkboxes
 =============================================
 
-by %s on April 12, 2008
+by foxmask on April 12, 2008
 
 As i did not find the way to do it with the Cake FormHelper i will
 detail what i did and why. The helper PcformHelper is usefull when you
@@ -168,6 +168,6 @@ the Security component will not work correclty.
     :title: Using Security Component and multi Checkboxes
     :description: CakePHP Article related to security,component,form,Helpers
     :keywords: security,component,form,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 foxmask
     :category: helpers
 

@@ -1,7 +1,7 @@
 Talking to multiple databases from single cakePHP application
 =============================================================
 
-by %s on September 02, 2008
+by mithesh on September 02, 2008
 
 This is a small tutorial on how to talk to multiple databases from a
 single cakePHP application. Generally say a scenario arises when we
@@ -70,6 +70,6 @@ $this->set('logs', $logs);
     :title: Talking to multiple databases from single cakePHP application
     :description: CakePHP Article related to database,Tutorials
     :keywords: database,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 mithesh
     :category: tutorials
 

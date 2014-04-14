@@ -1,7 +1,7 @@
 JSON with your tables
 =====================
 
-by %s on October 09, 2012
+by lucaswxp on October 09, 2012
 
 Be able to easily save and retrieve PHP arrays to/from a database's
 column
@@ -165,6 +165,6 @@ Have fun!
     :title: JSON with your tables
     :description: CakePHP Article related to behavior,json,encode,decode,column,Models
     :keywords: behavior,json,encode,decode,column,Models
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 lucaswxp
     :category: models
 

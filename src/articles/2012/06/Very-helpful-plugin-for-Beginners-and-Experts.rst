@@ -1,7 +1,7 @@
 Very helpful plugin for Beginners and Experts
 =============================================
 
-by %s on June 06, 2012
+by Jimmy on June 06, 2012
 
 I have launched a new version(1.1) of my plugin for user management.
 Demo at http://umpremium.ektasoftwares.com
@@ -52,6 +52,6 @@ of this plugin.
     :title: Very helpful plugin for Beginners and Experts
     :description: CakePHP Article related to AJAX,authentication,Login. Registration,Plugins
     :keywords: AJAX,authentication,Login. Registration,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 Jimmy
     :category: plugins
 

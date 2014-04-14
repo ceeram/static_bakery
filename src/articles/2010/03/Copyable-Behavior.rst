@@ -1,7 +1,7 @@
 Copyable Behavior
 =================
 
-by %s on March 08, 2010
+by jnay on March 08, 2010
 
 Copyable Behavior adds the ability to copy a model record, including
 all hasMany and hasAndBelongsToMany associations. Copyable relies on
@@ -355,6 +355,6 @@ More
     :title: Copyable Behavior
     :description: CakePHP Article related to hasMany,data,HABTM,copying,duplication,hasone,Behaviors
     :keywords: hasMany,data,HABTM,copying,duplication,hasone,Behaviors
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 jnay
     :category: behaviors
 

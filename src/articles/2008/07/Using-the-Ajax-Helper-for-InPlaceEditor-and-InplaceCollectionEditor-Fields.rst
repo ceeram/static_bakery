@@ -2,7 +2,7 @@ Using the Ajax Helper for InPlaceEditor and InplaceCollectionEditor
 Fields
 ======
 
-by %s on July 07, 2008
+by abalonepaul on July 07, 2008
 
 Although there is quite a bit of information available for using the
 Scriptaculous InPlacEditor, there is not much information for using it
@@ -405,6 +405,6 @@ View Template:
     :title: Using the Ajax Helper for InPlaceEditor and InplaceCollectionEditor Fields
     :description: CakePHP Article related to scriptaculous,inplaceeditor,edit in place,inplacecollectioneditor,Tutorials
     :keywords: scriptaculous,inplaceeditor,edit in place,inplacecollectioneditor,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 abalonepaul
     :category: tutorials
 

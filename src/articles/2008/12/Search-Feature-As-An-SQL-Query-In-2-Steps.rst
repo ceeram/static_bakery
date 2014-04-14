@@ -1,7 +1,7 @@
 Search Feature As An SQL Query In 2 Steps
 =========================================
 
-by %s on December 29, 2008
+by ChrisA9 on December 29, 2008
 
 This tutorial is aimed at beginner CakePHP users who might be looking
 for a quick and easy way to perform searches on a database they are
@@ -102,6 +102,6 @@ Don's excellent tutorial: `http://bakery.cakephp.org/articles/view
     :title: Search Feature As An SQL Query In 2 Steps
     :description: CakePHP Article related to database,sql query,Tutorials
     :keywords: database,sql query,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 ChrisA9
     :category: tutorials
 

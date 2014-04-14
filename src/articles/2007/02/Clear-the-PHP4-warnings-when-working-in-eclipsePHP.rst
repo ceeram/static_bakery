@@ -1,7 +1,7 @@
 Clear the PHP4 warnings when working in eclipsePHP
 ==================================================
 
-by %s on February 16, 2007
+by salamander on February 16, 2007
 
 A series of search-and-replace that you can run on the latest alpha
 release to clear the majority of EclipsePHP's warnings, without
@@ -32,6 +32,6 @@ as case-sensitive matches. This follows the
     :title: Clear the PHP4 warnings when working in eclipsePHP
     :description: CakePHP Article related to php5,eclipsephp,alpha,ide,General Interest
     :keywords: php5,eclipsephp,alpha,ide,General Interest
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 salamander
     :category: general_interest
 

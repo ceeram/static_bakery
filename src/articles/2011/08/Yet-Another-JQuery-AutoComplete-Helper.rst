@@ -1,7 +1,7 @@
 Yet Another JQuery AutoComplete Helper
 ======================================
 
-by %s on August 07, 2011
+by Matt on August 07, 2011
 
 I created this helper as an exercise to learn some more about JQuery
 and CakePHP. Although there is an AutoComplete available in CakePHP,
@@ -277,6 +277,6 @@ selected.
     :title: Yet Another JQuery AutoComplete Helper
     :description: CakePHP Article related to helper,autocomplete,jquery,Helpers
     :keywords: helper,autocomplete,jquery,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 Matt
     :category: helpers
 

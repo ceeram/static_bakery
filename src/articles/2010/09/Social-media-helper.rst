@@ -1,7 +1,7 @@
 Social media helper
 ===================
 
-by %s on September 10, 2010
+by stolkchris on September 10, 2010
 
 This helpers allows you to simply add buttons using AddThis. I created
 this out of the need to simply add social media bookmarking to one of
@@ -116,6 +116,6 @@ View Template:
     :title: Social media helper
     :description: CakePHP Article related to helper,social,media,twitter,facebook,addthis,Helpers
     :keywords: helper,social,media,twitter,facebook,addthis,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 stolkchris
     :category: helpers
 

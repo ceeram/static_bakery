@@ -1,7 +1,7 @@
 Habtm hacks to menage columns in both models
 ============================================
 
-by %s on September 10, 2007
+by mess on September 10, 2007
 
 After searching a lot, i haven't found what i need. I had a habtm
 relationship between two models and when i did a "findall" in a model
@@ -140,6 +140,6 @@ I hope this can help someone...
     :title: Habtm hacks to menage columns in both models
     :description: CakePHP Article related to Cake HABTM findall,Tutorials
     :keywords: Cake HABTM findall,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 mess
     :category: tutorials
 

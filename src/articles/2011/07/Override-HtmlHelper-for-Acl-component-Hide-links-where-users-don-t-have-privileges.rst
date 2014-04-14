@@ -2,7 +2,7 @@ Override HtmlHelper for Acl component. Hide links where users don't
 have privileges.
 ================
 
-by %s on July 27, 2011
+by aalexgabi on July 27, 2011
 
 Here is a way to hide links where users are not authorized. Rights are
 cached in session.
@@ -85,6 +85,6 @@ Login code can be improved for faster performance.
     :title: Override HtmlHelper for Acl component. Hide links where users don't have privileges.
     :description: CakePHP Article related to acl,helper,HtmlHelper,user rights,hide links,Helpers
     :keywords: acl,helper,HtmlHelper,user rights,hide links,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 aalexgabi
     :category: helpers
 

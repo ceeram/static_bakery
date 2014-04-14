@@ -1,7 +1,7 @@
 CakePHP with EZPDO
 ==================
 
-by %s on June 04, 2007
+by benben on June 04, 2007
 
 This article describe the work I have done to integrate EZPDO with
 CakePHP.
@@ -14,6 +14,6 @@ still needs improvement but is however quite satisfying.
     :title: CakePHP with EZPDO
     :description: CakePHP Article related to ,Models
     :keywords: ,Models
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 benben
     :category: models
 

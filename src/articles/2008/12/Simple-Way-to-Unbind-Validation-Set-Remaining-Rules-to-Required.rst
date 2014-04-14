@@ -1,7 +1,7 @@
 Simple Way to Unbind Validation & Set Remaining Rules to Required
 =================================================================
 
-by %s on December 29, 2008
+by kiger on December 29, 2008
 
 I have messed around with various ways to unbind certain validation
 and you know what, sometimes the mantra K.I.S.S. really hits home. I
@@ -191,6 +191,6 @@ $this->User->validate and sets all remaining fields to
     :title: Simple Way to Unbind Validation & Set Remaining Rules to Required
     :description: CakePHP Article related to unbind,Snippets
     :keywords: unbind,Snippets
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 kiger
     :category: snippets
 

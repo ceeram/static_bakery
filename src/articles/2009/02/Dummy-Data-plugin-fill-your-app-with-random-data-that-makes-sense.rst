@@ -1,7 +1,7 @@
 Dummy Data plugin - fill your app with random data that makes sense
 ===================================================================
 
-by %s on February 17, 2009
+by ronnyvv on February 17, 2009
 
 Easy to use plugin for generating "realistic" random data for your
 app. It fully supports models with associations, behaviors, callbacks
@@ -295,6 +295,6 @@ More
     :title: Dummy Data plugin - fill your app with random data that makes sense
     :description: CakePHP Article related to testing,data,plugin,alkemann,data generation,ronnyvv,prototyping,Plugins
     :keywords: testing,data,plugin,alkemann,data generation,ronnyvv,prototyping,Plugins
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 ronnyvv
     :category: plugins
 

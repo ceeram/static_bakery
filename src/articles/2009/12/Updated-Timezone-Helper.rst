@@ -1,7 +1,7 @@
 Updated: Timezone Helper
 ========================
 
-by %s on December 17, 2009
+by MarkAlanEvans on December 17, 2009
 
 This is an updated Timezone Helper. Originally found here: Pulled,
 then updated from this blog post:
@@ -95,6 +95,6 @@ Helper Class:
     :title: Updated: Timezone Helper
     :description: CakePHP Article related to helper,select,timezone,Helpers
     :keywords: helper,select,timezone,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 MarkAlanEvans
     :category: helpers
 

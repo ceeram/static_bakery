@@ -2,7 +2,7 @@ Javascript/CSS/LESS module loader + dependency calculator plugin
 ("ResourcesController")
 =======================
 
-by %s on June 22, 2012
+by gfarrell on June 22, 2012
 
 ResourcesController is a module loader for resource files (e.g.
 javascript, LESS, CSS). It can handle both inter- and intra- package
@@ -51,6 +51,6 @@ know if you use it/what you think/if you encounter bugs.
     :title: Javascript/CSS/LESS module loader + dependency calculator plugin ("ResourcesController")
     :description: CakePHP Article related to javascript,CSS,Modules,module loader,less,Plugins
     :keywords: javascript,CSS,Modules,module loader,less,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 gfarrell
     :category: plugins
 

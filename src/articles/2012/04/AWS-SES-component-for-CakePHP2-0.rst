@@ -1,7 +1,7 @@
 AWS SES component for CakePHP2.0 +
 ==================================
 
-by %s on April 24, 2012
+by kvijay on April 24, 2012
 
 This is an Amazon SES component. Developed to help developers to move
 & integrate faster the AWS services. In future we will come up with
@@ -231,6 +231,6 @@ in email view.
     :title: AWS SES component for CakePHP2.0 +
     :description: CakePHP Article related to CakePHP,email,component,aws,Ses,Components
     :keywords: CakePHP,email,component,aws,Ses,Components
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 kvijay
     :category: components
 

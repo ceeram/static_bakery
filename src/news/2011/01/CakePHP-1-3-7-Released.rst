@@ -1,7 +1,7 @@
 CakePHP 1.3.7 Released
 ======================
 
-by %s on January 19, 2011
+by markstory on January 19, 2011
 
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP release 1.3.7.
@@ -91,6 +91,6 @@ Links
     :title: CakePHP 1.3.7 Released
     :description: CakePHP Article related to release,CakePHP,News
     :keywords: release,CakePHP,News
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 markstory
     :category: news
 

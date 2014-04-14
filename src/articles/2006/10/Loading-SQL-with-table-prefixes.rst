@@ -1,7 +1,7 @@
 Loading SQL with table prefixes
 ===============================
 
-by %s on October 08, 2006
+by zomg on October 08, 2006
 
 Your project uses a table prefix because you share a database, or you
 donâ€™t want to clash table names. Maybe you just like the groupings
@@ -44,6 +44,6 @@ Tips
     :title: Loading SQL with table prefixes
     :description: CakePHP Article related to sql,prefix,General Interest
     :keywords: sql,prefix,General Interest
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 zomg
     :category: general_interest
 

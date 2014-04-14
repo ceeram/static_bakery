@@ -1,7 +1,7 @@
 A simple contextual help system
 ===============================
 
-by %s on January 13, 2007
+by KiltOtter on January 13, 2007
 
 I wanted to show how to create a simple contextual help system in
 CakePHP. It should work in pretty much any application and works a bit
@@ -51,6 +51,6 @@ var $useTable = 'help'; //Comment by Repsah: “var $useTable = ‘help’;
     :title: A simple contextual help system
     :description: CakePHP Article related to context sensitive he,contextual help,help,Tutorials
     :keywords: context sensitive he,contextual help,help,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 KiltOtter
     :category: tutorials
 

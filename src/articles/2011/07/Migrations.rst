@@ -1,7 +1,7 @@
 Migrations
 ==========
 
-by %s on July 01, 2011
+by Thaissa on July 01, 2011
 
 A rails-like migrations script.
 
@@ -97,6 +97,6 @@ idea! =)
     :title: Migrations
     :description: CakePHP Article related to database,migrations,mysql,DB Migrations,migration,Snippets
     :keywords: database,migrations,mysql,DB Migrations,migration,Snippets
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 Thaissa
     :category: snippets
 

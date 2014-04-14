@@ -1,7 +1,7 @@
 Vimeo Datasource
 ================
 
-by %s on May 08, 2009
+by pointlessjon on May 08, 2009
 
 Vimeo is the most awesomest video site and filmmaker community on the
 internets. Utilizing Vimeo data and content with your favorite CakePHP
@@ -284,6 +284,6 @@ DataSource Class:
     :title: Vimeo Datasource
     :description: CakePHP Article related to video,datasource,vimeo,oembed,Models
     :keywords: video,datasource,vimeo,oembed,Models
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 pointlessjon
     :category: models
 

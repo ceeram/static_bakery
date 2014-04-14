@@ -1,7 +1,7 @@
 CakePHP 2.4.4 released
 ======================
 
-by %s on December 24, 2013
+by markstory on December 24, 2013
 
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.4.4.
@@ -58,6 +58,6 @@ Links
     :title: CakePHP 2.4.4 released
     :description: CakePHP Article related to release,CakePHP,news,News
     :keywords: release,CakePHP,news,News
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 markstory
     :category: news
 

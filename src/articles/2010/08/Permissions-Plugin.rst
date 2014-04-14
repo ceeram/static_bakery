@@ -1,7 +1,7 @@
 Permissions Plugin
 ==================
 
-by %s on August 23, 2010
+by jonbradley on August 23, 2010
 
 The Permission plugin is a simple variation of the classic ACL
 permissions structure for the CakePHP framework. This allows a simple
@@ -75,6 +75,6 @@ following from the beforeFilter in your app_controller.php
     :title: Permissions Plugin
     :description: CakePHP Article related to acl,plugin,permissions,Plugins
     :keywords: acl,plugin,permissions,Plugins
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 jonbradley
     :category: plugins
 

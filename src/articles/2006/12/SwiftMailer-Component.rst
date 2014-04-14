@@ -1,7 +1,7 @@
 SwiftMailer Component
 =====================
 
-by %s on December 18, 2006
+by CraZyLeGs on December 18, 2006
 
 This is a component that does encapsulate but not hide swift mailer.
 In addition, it adds some nifty features. In short, this is just a
@@ -314,6 +314,6 @@ Component Class:
     :title: SwiftMailer Component
     :description: CakePHP Article related to Mail,email,component,native mail,sendmail,smtp,mailer,send,swift mailer,Components
     :keywords: Mail,email,component,native mail,sendmail,smtp,mailer,send,swift mailer,Components
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 CraZyLeGs
     :category: components
 

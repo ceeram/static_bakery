@@ -1,7 +1,7 @@
 Url shorten behavior
 ====================
 
-by %s on June 11, 2010
+by WyriHaximus on June 11, 2010
 
 A while ago I started working on some twitter services and I needed an
 automatic urlshortner. This first started as a model that would
@@ -349,6 +349,6 @@ Behavior Class:
     :title: Url shorten behavior
     :description: CakePHP Article related to behavior,isgd,zeroxtc,bitly,unu,Behaviors
     :keywords: behavior,isgd,zeroxtc,bitly,unu,Behaviors
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 WyriHaximus
     :category: behaviors
 

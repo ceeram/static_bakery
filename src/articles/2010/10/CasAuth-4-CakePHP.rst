@@ -1,7 +1,7 @@
 CasAuth 4 CakePHP
 =================
 
-by %s on October 12, 2010
+by pietro.brignola on October 12, 2010
 
 Imagine you want to provide your application with CAS (Central
 Authentication Service) support. Consider enhancing wonderful CakePHP
@@ -185,6 +185,6 @@ enjoy ;-)
     :title: CasAuth 4 CakePHP
     :description: CakePHP Article related to CAS SSO authentication,Articles
     :keywords: CAS SSO authentication,Articles
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 pietro.brignola
     :category: articles
 

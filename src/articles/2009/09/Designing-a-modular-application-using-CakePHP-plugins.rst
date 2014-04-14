@@ -1,7 +1,7 @@
 Designing a modular application using CakePHP plugins
 =====================================================
 
-by %s on September 02, 2009
+by eimermusic on September 02, 2009
 
 This article will try to explain how I build a modular application
 using plugins. I will cover how I implement them and integrate them
@@ -315,6 +315,6 @@ features.
     :title: Designing a modular application using CakePHP plugins
     :description: CakePHP Article related to plugin,plugins,modular,Tutorials
     :keywords: plugin,plugins,modular,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 eimermusic
     :category: tutorials
 

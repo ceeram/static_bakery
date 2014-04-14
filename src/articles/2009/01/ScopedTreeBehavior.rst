@@ -1,7 +1,7 @@
 ScopedTreeBehavior
 ==================
 
-by %s on January 23, 2009
+by masom on January 23, 2009
 
 ScopedTreeBehavior let's you manage several different tree within the
 same table, each tree being separated by a 'scope' such as another
@@ -631,6 +631,6 @@ The fixture:
     :title: ScopedTreeBehavior
     :description: CakePHP Article related to tree,behavior,scope,Behaviors
     :keywords: tree,behavior,scope,Behaviors
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 masom
     :category: behaviors
 

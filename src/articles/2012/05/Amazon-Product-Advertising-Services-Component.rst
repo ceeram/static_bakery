@@ -1,7 +1,7 @@
 Amazon Product Advertising Services Component
 =============================================
 
-by %s on May 18, 2012
+by Ratty on May 18, 2012
 
 A CakePHP 2.x component for using the Amazon PAS
 The source for this component is available from `Github`_
@@ -30,6 +30,6 @@ I hope it is of use to someone other than myself !!!
     :title: Amazon Product Advertising Services Component
     :description: CakePHP Article related to service,component,amazon,advertising,product,Components
     :keywords: service,component,amazon,advertising,product,Components
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 Ratty
     :category: components
 

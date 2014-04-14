@@ -1,7 +1,7 @@
 Form Helper: Enum Fields to Select Boxes
 ========================================
 
-by %s on September 09, 2010
+by christian.kilb on September 09, 2010
 
 This Form Helper extension chooses select boxes as input fields for
 enumeration database fields automatically.
@@ -91,6 +91,6 @@ View Template:
     :title: Form Helper: Enum Fields to Select Boxes
     :description: CakePHP Article related to sql,helper,enum,mysql,form,enumeration,form helper,enums,enumerations,Helpers
     :keywords: sql,helper,enum,mysql,form,enumeration,form helper,enums,enumerations,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 christian.kilb
     :category: helpers
 

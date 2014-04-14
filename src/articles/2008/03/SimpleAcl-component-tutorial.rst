@@ -1,7 +1,7 @@
 SimpleAcl component tutorial
 ============================
 
-by %s on March 12, 2008
+by unigue_ on March 12, 2008
 
 This component follows the traditional way of acl only slightly
 modifying it. In example there's an inheritance feature, which will
@@ -923,6 +923,6 @@ requests.
     :title: SimpleAcl component tutorial
     :description: CakePHP Article related to component,access control,SimpleAcl,Components
     :keywords: component,access control,SimpleAcl,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 unigue_
     :category: components
 

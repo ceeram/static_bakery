@@ -1,7 +1,7 @@
 text Query by Example using CakePHP 1.2
 =======================================
 
-by %s on January 27, 2009
+by otter117 on January 27, 2009
 
 Here is how to build a simple query interface using the CakePHP 1.2
 framework. It allows you to query text in any field in a table.
@@ -127,6 +127,6 @@ Hats off the the bakers at CakePHP for providing a great set of tools!
     :title: text Query by Example using CakePHP 1.2
     :description: CakePHP Article related to search,session,paginate,psql,qbe,postgresql,postconditions,setfilter,Snippets
     :keywords: search,session,paginate,psql,qbe,postgresql,postconditions,setfilter,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 otter117
     :category: snippets
 

@@ -1,7 +1,7 @@
 CKSource Helper for CKEditor
 ============================
 
-by %s on August 31, 2010
+by wernerhp on August 31, 2010
 
 CKEditor is a text editor to be used inside web pages. It's a WYSIWYG
 editor, which means that the text being edited on it looks as similar
@@ -128,6 +128,6 @@ View Template:
     :title: CKSource Helper for CKEditor
     :description: CakePHP Article related to WYSIWYG,editor,fck editor,ckeditor,cksource,ckfinder,Helpers
     :keywords: WYSIWYG,editor,fck editor,ckeditor,cksource,ckfinder,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 wernerhp
     :category: helpers
 

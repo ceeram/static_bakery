@@ -1,7 +1,7 @@
 Habtm Validatable Behavior
 ==========================
 
-by %s on July 01, 2010
+by nachopitt on July 01, 2010
 
 A behavior to validate HABTM input fields (multi select or checkbox)
 and save at the same time with just one instruction.
@@ -136,6 +136,6 @@ better, pointing me out that this is kind of useless.
     :title: Habtm Validatable Behavior
     :description: CakePHP Article related to model,validation,multiple,HABTM,Models
     :keywords: model,validation,multiple,HABTM,Models
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 nachopitt
     :category: models
 

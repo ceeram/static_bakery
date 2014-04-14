@@ -1,7 +1,7 @@
 Override/Extend Core Acl Component and DbAcl Class
 ==================================================
 
-by %s on November 03, 2011
+by cakemonster on November 03, 2011
 
 I recently needed to override a core Acl function (in Cake 1.2)
 because I added custom audit fields into the aros_acos table, which
@@ -161,6 +161,6 @@ trouble.
     :title: Override/Extend Core Acl Component and DbAcl Class
     :description: CakePHP Article related to acl,1.2,extend,core,override,DbAcl,Snippets
     :keywords: acl,1.2,extend,core,override,DbAcl,Snippets
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 cakemonster
     :category: snippets
 

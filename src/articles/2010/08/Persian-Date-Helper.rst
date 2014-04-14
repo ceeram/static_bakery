@@ -1,7 +1,7 @@
 Persian Date Helper
 ===================
 
-by %s on August 23, 2010
+by arash.hemmat on August 23, 2010
 
 As there is no method for using Persian dates in PHP we had to use
 some codes to convert the dates. Using this helper you can convert the
@@ -432,6 +432,6 @@ Helper Class:
     :title: Persian Date Helper
     :description: CakePHP Article related to convert,persian,date,time,Helpers
     :keywords: convert,persian,date,time,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 arash.hemmat
     :category: helpers
 

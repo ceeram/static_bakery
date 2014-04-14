@@ -1,7 +1,7 @@
 iCalendar event generator
 =========================
 
-by %s on January 27, 2009
+by immersionit on January 27, 2009
 
 I was looking for a way to export data in an iCalendar (RFC 2445)
 compatible format. To accomplish this I created a helper class that
@@ -185,6 +185,6 @@ program or you can paste that URL in Google calendar.
     :title: iCalendar event generator
     :description: CakePHP Article related to calendar,export,ics,icalendar,Helpers
     :keywords: calendar,export,ics,icalendar,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 immersionit
     :category: helpers
 

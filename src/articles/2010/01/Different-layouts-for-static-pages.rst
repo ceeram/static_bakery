@@ -1,7 +1,7 @@
 Different layouts for static pages
 ==================================
 
-by %s on January 31, 2010
+by raheel.dharolia on January 31, 2010
 
 This simple tutorial tends to explain how easy it is to use different
 layouts for static pages in your website using the built-in pages
@@ -76,6 +76,6 @@ That's all. Hope this helps.
     :title: Different layouts for static pages
     :description: CakePHP Article related to pages controller,static pages,Tutorials
     :keywords: pages controller,static pages,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 raheel.dharolia
     :category: tutorials
 

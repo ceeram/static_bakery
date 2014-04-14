@@ -1,7 +1,7 @@
 A Super Release
 ===============
 
-by %s on February 05, 2007
+by PhpNut on February 05, 2007
 
 Here in the US, the national holiday of Super Sunday has brought more
 than just the Super Bowl.
@@ -71,6 +71,6 @@ The CakePHP Dev Team
     :title: A Super Release
     :description: CakePHP Article related to release,new release,1.2,News
     :keywords: release,new release,1.2,News
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 PhpNut
     :category: news
 

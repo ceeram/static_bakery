@@ -1,7 +1,7 @@
 Plugin development tips and tricks
 ==================================
 
-by %s on January 31, 2010
+by sky_l3ppard on January 31, 2010
 
 This tutorial is for users who are already familiar with plugins. The
 main objective of it is to show the power of plugins and to make them
@@ -411,6 +411,6 @@ Any ideas on functionality improvements are very welcome, enjoy
     :title: Plugin development tips and tricks
     :description: CakePHP Article related to tips,tricks,config,plugins,plugin css,sky leppard,trigger,locale,plugin configuration,callback,Tutorials
     :keywords: tips,tricks,config,plugins,plugin css,sky leppard,trigger,locale,plugin configuration,callback,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 sky_l3ppard
     :category: tutorials
 

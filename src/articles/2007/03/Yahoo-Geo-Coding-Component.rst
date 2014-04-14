@@ -1,7 +1,7 @@
 Yahoo Geo Coding Component
 ==========================
 
-by %s on March 16, 2007
+by stutter on March 16, 2007
 
 I've been looking around the Bakery, and I noticed that there was at
 least one Google Geo Coding Component, and no Yahoo equivilants. I
@@ -346,6 +346,6 @@ Let me know what you all think, or if you have any enhancement ideas!
     :title: Yahoo Geo Coding Component
     :description: CakePHP Article related to component,yahoo geo location,geolocation,yahoo geo coder,yahoo,Components
     :keywords: component,yahoo geo location,geolocation,yahoo geo coder,yahoo,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 stutter
     :category: components
 

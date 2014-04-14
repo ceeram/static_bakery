@@ -1,7 +1,7 @@
 What's Up, Docs?
 ================
 
-by %s on February 12, 2008
+by psychic on February 12, 2008
 
 If CakePHP is the best framework out there, why aren't the
 documentation efforts up to par? Ever wondered how you can help? Find
@@ -86,6 +86,6 @@ CakePHP Documentation
     :title: What's Up, Docs?
     :description: CakePHP Article related to ,General Interest
     :keywords: ,General Interest
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 psychic
     :category: general_interest
 

@@ -1,7 +1,7 @@
 Flex remoting with cakePHP - CpAmf plugin
 =========================================
 
-by %s on June 28, 2009
+by vernerd on June 28, 2009
 
 The goal of this project was to use cakePHP controllers, as flash
 remoting services.The basic idea was to use AMFPHP 1.9, because we
@@ -120,6 +120,6 @@ Flex: `http://carrotplant.com/en/blog/cpamf-flex-example`_ Php:
     :title: Flex remoting with cakePHP - CpAmf plugin 
     :description: CakePHP Article related to Flex,CakePHP,remoting,amf,amfphp,cpamf,Plugins
     :keywords: Flex,CakePHP,remoting,amf,amfphp,cpamf,Plugins
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 vernerd
     :category: plugins
 

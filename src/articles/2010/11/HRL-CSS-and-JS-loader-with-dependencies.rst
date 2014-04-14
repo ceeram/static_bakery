@@ -1,7 +1,7 @@
 HRL - CSS and JS loader with dependencies
 =========================================
 
-by %s on November 12, 2010
+by RobertWHurst on November 12, 2010
 
 # The Hierarchical Resource Loader ## Introduction This is the
 Hierarchical Resource Loader or HRL. It is cakePHP3 helper created to
@@ -179,6 +179,6 @@ Cheers and enjoy.
     :title: HRL - CSS and JS loader with dependencies
     :description: CakePHP Article related to javascript,CSS,dependencies,Includer,Loader,Helpers
     :keywords: javascript,CSS,dependencies,Includer,Loader,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 RobertWHurst
     :category: helpers
 

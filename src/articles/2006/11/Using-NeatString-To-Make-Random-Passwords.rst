@@ -1,7 +1,7 @@
 Using NeatString To Make Random Passwords
 =========================================
 
-by %s on November 11, 2006
+by seventoes on November 11, 2006
 
 In my hunt for a simpler way to generate a random password, I ran
 across a little class that CakePHP already has.
@@ -64,6 +64,6 @@ roman ones.
     :title: Using NeatString To Make Random Passwords
     :description: CakePHP Article related to neatstring,random,password,Snippets
     :keywords: neatstring,random,password,Snippets
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 seventoes
     :category: snippets
 

@@ -1,7 +1,7 @@
 GoogleMapHelper
 ===============
 
-by %s on December 18, 2006
+by lababidi on December 18, 2006
 
 Use this helper to add a GoogleMap to your application. For a tutorial
 on how to use it, check out
@@ -153,6 +153,6 @@ Helper Class:
     :title: GoogleMapHelper
     :description: CakePHP Article related to google,googlemap,map,maps,geo,Helpers
     :keywords: google,googlemap,map,maps,geo,Helpers
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 lababidi
     :category: helpers
 

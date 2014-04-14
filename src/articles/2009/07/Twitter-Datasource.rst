@@ -1,7 +1,7 @@
 Twitter Datasource
 ==================
 
-by %s on July 25, 2009
+by ics on July 25, 2009
 
 Datasource for Twitter API
 Basic usage tutorial:
@@ -515,6 +515,6 @@ twitter_source.php:
     :title: Twitter Datasource
     :description: CakePHP Article related to datasource,twitter,datasource twitter,Tutorials
     :keywords: datasource,twitter,datasource twitter,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 ics
     :category: tutorials
 

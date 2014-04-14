@@ -1,7 +1,7 @@
 Layout your cake with jOOmla templates
 ======================================
 
-by %s on April 05, 2007
+by LazyCoder on April 05, 2007
 
 Want free professional layouts for your cake? How to translate a
 jOOmla template to a cakephp layout with very little effort.
@@ -188,6 +188,6 @@ on `different browser`_
     :title: Layout your cake with jOOmla templates
     :description: CakePHP Article related to Layouts,stylesheet,Template,Tutorials
     :keywords: Layouts,stylesheet,Template,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 LazyCoder
     :category: tutorials
 

@@ -1,7 +1,7 @@
 star rating helper with jQuery
 ==============================
 
-by %s on May 21, 2011
+by infest696 on May 21, 2011
 
 I was looking for a simple widget that allows me to implement a star
 rating functionality. Because I didn't found something, that fits my
@@ -101,6 +101,6 @@ Roadmap:
     :title: star rating helper with jQuery
     :description: CakePHP Article related to jQuery helper star rating,Helpers
     :keywords: jQuery helper star rating,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 infest696
     :category: helpers
 

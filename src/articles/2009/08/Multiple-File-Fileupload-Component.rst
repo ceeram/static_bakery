@@ -1,7 +1,7 @@
 Multiple File Fileupload Component
 ==================================
 
-by %s on August 17, 2009
+by halladesign on August 17, 2009
 
 This component allows you to upload multiple files at the same time,
 and assign them to a record. You can upload into the directory or into
@@ -1978,6 +1978,6 @@ Component Class:
     :title: Multiple File Fileupload Component
     :description: CakePHP Article related to multiple file upload,Components
     :keywords: multiple file upload,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 halladesign
     :category: components
 

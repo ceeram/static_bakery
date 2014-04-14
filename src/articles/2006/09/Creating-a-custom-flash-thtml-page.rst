@@ -1,7 +1,7 @@
 Creating a custom flash.thtml page
 ==================================
 
-by %s on September 26, 2006
+by jburns131 on September 26, 2006
 
 This tutorial will show you how to create a custom flash.thtml page,
 instead of just having a blank page for your flash messages.
@@ -103,6 +103,6 @@ it here:
     :title: Creating a custom flash.thtml page
     :description: CakePHP Article related to Layouts,Tutorials
     :keywords: Layouts,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 jburns131
     :category: tutorials
 

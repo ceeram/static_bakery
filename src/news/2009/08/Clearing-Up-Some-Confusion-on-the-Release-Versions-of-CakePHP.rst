@@ -1,7 +1,7 @@
 Clearing Up Some Confusion on the Release Versions of CakePHP
 =============================================================
 
-by %s on August 31, 2009
+by jperras on August 31, 2009
 
 There seems to be a bit of confusion as to what version of PHP will be
 supported in what CakePHP releases, and where to find which projects
@@ -66,6 +66,6 @@ I hope this clears up some of the confusion.
     :title: Clearing Up Some Confusion on the Release Versions of CakePHP
     :description: CakePHP Article related to CakePHP,cake,releases,git,News
     :keywords: CakePHP,cake,releases,git,News
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 jperras
     :category: news
 

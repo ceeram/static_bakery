@@ -1,7 +1,7 @@
 MySQL collation behavior
 ========================
 
-by %s on April 12, 2008
+by prond on April 12, 2008
 
 A simple behavior that sets proper collation for order by SQL
 statements based on the current localization.
@@ -141,6 +141,6 @@ Behavior Class:
     :title: MySQL collation behavior
     :description: CakePHP Article related to i18n,mysql,behavior,l10n,collation,Behaviors
     :keywords: i18n,mysql,behavior,l10n,collation,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 prond
     :category: behaviors
 

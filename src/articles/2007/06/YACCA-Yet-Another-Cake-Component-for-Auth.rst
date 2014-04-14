@@ -1,7 +1,7 @@
 YACCA Yet Another Cake Component for Auth
 =========================================
 
-by %s on June 11, 2007
+by LazyCoder on June 11, 2007
 
 A simple but powerful Cake Auth Component
 When I have finished my first application I had the necessity to
@@ -489,6 +489,6 @@ password: view
     :title: YACCA Yet Another Cake Component for Auth
     :description: CakePHP Article related to authentication,component,Tutorials
     :keywords: authentication,component,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 LazyCoder
     :category: tutorials
 

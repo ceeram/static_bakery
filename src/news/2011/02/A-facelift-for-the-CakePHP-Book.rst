@@ -1,7 +1,7 @@
 A facelift for the CakePHP Book
 ===============================
 
-by %s on February 03, 2011
+by predominant on February 03, 2011
 
 The CakePHP Book[1] has undergone a major facelift and incorporates a
 whole range of changes to make the book more accessible and usable for
@@ -55,6 +55,6 @@ We hope you enjoy the facelift, and happy baking!
     :title: A facelift for the CakePHP Book
     :description: CakePHP Article related to documentation,manual,cookbook,book,News
     :keywords: documentation,manual,cookbook,book,News
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 predominant
     :category: news
 

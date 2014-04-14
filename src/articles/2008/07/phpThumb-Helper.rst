@@ -1,7 +1,7 @@
 phpThumb Helper
 ===============
 
-by %s on July 29, 2008
+by DanielMedia on July 29, 2008
 
 Here's a simple phpThumb helper with built in cache support. If an
 image is already cached when using this helper, it just displays the
@@ -174,6 +174,6 @@ Helper Class:
     :title: phpThumb Helper
     :description: CakePHP Article related to thumb,thumbnail,phpThumb,Helpers
     :keywords: thumb,thumbnail,phpThumb,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 DanielMedia
     :category: helpers
 

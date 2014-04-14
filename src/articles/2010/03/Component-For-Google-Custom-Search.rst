@@ -1,7 +1,7 @@
 Component For Google Custom Search
 ==================================
 
-by %s on March 12, 2010
+by rpupkin77 on March 12, 2010
 
 This is a pretty simple component for retrieving your Google Custom
 Search Engine results and returning them to cake wrapped in an array.
@@ -276,6 +276,6 @@ View Template:
     :title: Component For Google Custom Search
     :description: CakePHP Article related to google,search,component,google custom search,Components
     :keywords: google,search,component,google custom search,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 rpupkin77
     :category: components
 

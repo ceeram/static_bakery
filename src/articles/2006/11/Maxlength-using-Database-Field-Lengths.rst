@@ -1,7 +1,7 @@
 Maxlength using Database Field Lengths
 ======================================
 
-by %s on November 27, 2006
+by cornernote on November 27, 2006
 
 I wanted to have a maxlength="something" in my forms, but I needed the
 value to come from the database at least during development. When it
@@ -64,6 +64,6 @@ View Template:
     :title: Maxlength using Database Field Lengths
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 cornernote
     :category: components
 

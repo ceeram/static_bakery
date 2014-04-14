@@ -1,7 +1,7 @@
 Clean your HTML output
 ======================
 
-by %s on June 11, 2008
+by T0aD on June 11, 2008
 
 Sometimes you'd like to clean your HTML output to remove useless stuff
 that may slow down the loading of your page. Here is a little trick to
@@ -57,6 +57,6 @@ You can check out the results on my website
     :title: Clean your HTML output
     :description: CakePHP Article related to html output,Tutorials
     :keywords: html output,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 T0aD
     :category: tutorials
 

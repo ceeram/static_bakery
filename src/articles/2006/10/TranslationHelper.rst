@@ -1,7 +1,7 @@
 TranslationHelper
 =================
 
-by %s on October 13, 2006
+by m3nt0r on October 13, 2006
 
 This uses the HTTP_ACCEPT_LANGUAGE to determine the current users most
 accepted language. It takes the the first one of all accepted, then
@@ -137,6 +137,6 @@ Code
     :title: TranslationHelper
     :description: CakePHP Article related to language,text,i18n,translation,Helpers
     :keywords: language,text,i18n,translation,Helpers
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 m3nt0r
     :category: helpers
 

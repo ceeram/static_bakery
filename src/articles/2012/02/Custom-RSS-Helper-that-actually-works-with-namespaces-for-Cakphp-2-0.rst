@@ -1,7 +1,7 @@
 Custom RSS-Helper that actually works with namespaces for Cakphp 2.0
 ====================================================================
 
-by %s on February 08, 2012
+by benni on February 08, 2012
 
 I had a hard time using cakes built in rss helper to create a podcast-
 feed for iTunes/iTunes U, because Apple wants us to use custom tags
@@ -39,6 +39,6 @@ comment if you have troubles running it.
     :title: Custom RSS-Helper that actually works with namespaces for Cakphp 2.0
     :description: CakePHP Article related to helper,Rss,cakephp 2.0,podcast,itunes,Helpers
     :keywords: helper,Rss,cakephp 2.0,podcast,itunes,Helpers
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 benni
     :category: helpers
 

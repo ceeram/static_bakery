@@ -1,7 +1,7 @@
 Tracking navigation history of a user
 =====================================
 
-by %s on September 10, 2007
+by janb on September 10, 2007
 
 Many times it can be very useful to track the navigation history of a
 user. Especially if you want to redirect the user to a page where he
@@ -110,6 +110,6 @@ Comments regarding more functionality and bugs are welcome.
     :title: Tracking navigation history of a user
     :description: CakePHP Article related to redirect,component,navigation,history,Components
     :keywords: redirect,component,navigation,history,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 janb
     :category: components
 

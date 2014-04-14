@@ -1,7 +1,7 @@
 Table Optimize
 ==============
 
-by %s on February 10, 2009
+by WyriHaximus on February 10, 2009
 
 While developing a simple wiki bot with a queue table I noticed that
 sometimes the table kept it's old data as overhead. For that I
@@ -56,6 +56,6 @@ returns the result.
     :title: Table Optimize
     :description: CakePHP Article related to model,optimize,Snippets
     :keywords: model,optimize,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 WyriHaximus
     :category: snippets
 

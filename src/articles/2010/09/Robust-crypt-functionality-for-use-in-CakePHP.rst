@@ -1,7 +1,7 @@
 Robust crypt functionality for use in CakePHP
 =============================================
 
-by %s on September 20, 2010
+by ndejong on September 20, 2010
 
 Robust and flexible data encryption functionality inside your web
 application is an essential part of your toolkit when developing your
@@ -336,6 +336,6 @@ cakephp-and-other-frameworks`_
     :title: Robust crypt functionality for use in CakePHP
     :description: CakePHP Article related to view,encryption,controller,crypt,Snippets
     :keywords: view,encryption,controller,crypt,Snippets
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 ndejong
     :category: snippets
 

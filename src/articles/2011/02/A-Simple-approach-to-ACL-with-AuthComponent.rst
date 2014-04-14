@@ -1,7 +1,7 @@
 A Simple approach to ACL with AuthComponent
 ===========================================
 
-by %s on February 03, 2014
+by ibejohn818 on February 03, 2014
 
 A simple example of how I use the AuthComponent to build an easier to
 use and easier read ACL to control access to controller actions.
@@ -17,6 +17,6 @@ I have used
     :title: A Simple approach to ACL with AuthComponent
     :description: CakePHP Article related to ,Articles
     :keywords: ,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 ibejohn818
     :category: articles
 

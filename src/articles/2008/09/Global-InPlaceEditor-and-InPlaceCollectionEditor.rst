@@ -1,7 +1,7 @@
 Global InPlaceEditor and InPlaceCollectionEditor
 ================================================
 
-by %s on September 18, 2008
+by andy on September 18, 2008
 
 Edit in place is a nice feature to offer, especially on the backend or
 admin side of the site. By adding your ajax update methods in the
@@ -97,6 +97,6 @@ first, then the collection editing.
     :title: Global InPlaceEditor and InPlaceCollectionEditor
     :description: CakePHP Article related to prototype,scriptaculous,inplaceeditor,edit in place,Tutorials
     :keywords: prototype,scriptaculous,inplaceeditor,edit in place,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 andy
     :category: tutorials
 

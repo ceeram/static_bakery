@@ -1,7 +1,7 @@
 MailChimp API Component w/ helper
 =================================
 
-by %s on October 22, 2008
+by hapascott on October 22, 2008
 
 MailChimp (http://www.mailchimp.com/) is an awesome service that makes
 it easy for you to manage your email campaigns and integrate it into
@@ -416,6 +416,6 @@ Okay enjoy!
     :title: MailChimp API Component w/ helper
     :description: CakePHP Article related to Mail,newsletter,mailchimp,Components
     :keywords: Mail,newsletter,mailchimp,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 hapascott
     :category: components
 

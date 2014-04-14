@@ -1,7 +1,7 @@
 CakePHP 2.1.0 just landed
 =========================
 
-by %s on March 05, 2012
+by lorenzo on March 05, 2012
 
 Checkout the new version on the popular PHP framework. Cool surprises
 included!
@@ -225,6 +225,6 @@ Links
     :title: CakePHP 2.1.0 just landed
     :description: CakePHP Article related to release,2.1.0,News
     :keywords: release,2.1.0,News
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 lorenzo
     :category: news
 

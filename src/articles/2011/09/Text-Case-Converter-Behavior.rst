@@ -1,7 +1,7 @@
 Text Case Converter Behavior
 ============================
 
-by %s on September 06, 2011
+by eliasfa on September 06, 2011
 
 This behavior is designed to convert text to all capital letters,
 lower case or with the first letter capitalized words, having the
@@ -124,6 +124,6 @@ returntrue;
     :title: Text Case Converter Behavior
     :description: CakePHP Article related to text,behavior,lower,upper,Articles
     :keywords: text,behavior,lower,upper,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 eliasfa
     :category: articles
 

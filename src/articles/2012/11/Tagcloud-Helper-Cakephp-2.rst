@@ -1,7 +1,7 @@
 Tagcloud Helper Cakephp 2
 =========================
 
-by %s on November 14, 2012
+by syl-via on November 14, 2012
 
 Adjustable Helper to build a word/tag cloud.
 
@@ -155,6 +155,6 @@ Adjustable Helper to build a word/tag cloud.
     :title: Tagcloud Helper Cakephp 2
     :description: CakePHP Article related to tag cloud,word cloud,word-cloud,tagcloud helper,Helpers
     :keywords: tag cloud,word cloud,word-cloud,tagcloud helper,Helpers
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 syl-via
     :category: helpers
 

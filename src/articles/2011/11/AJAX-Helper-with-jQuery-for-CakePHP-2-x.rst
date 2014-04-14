@@ -1,7 +1,7 @@
 AJAX Helper with jQuery (for CakePHP 2.x)
 =========================================
 
-by %s on November 23, 2011
+by jozek000 on November 23, 2011
 
 New version of my `AJAX Helper with jQuery`_ (for CakePHP 2.x) has
 arrived.
@@ -77,6 +77,6 @@ Contact me if you find any problems.
     :title: AJAX Helper with jQuery (for CakePHP 2.x)
     :description: CakePHP Article related to javascript,AJAX,autocomplete,jquery,sortable,date picker,jqueryui,ui,dialog,user interface,progressbar,slider,Helpers
     :keywords: javascript,AJAX,autocomplete,jquery,sortable,date picker,jqueryui,ui,dialog,user interface,progressbar,slider,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 jozek000
     :category: helpers
 

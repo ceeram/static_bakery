@@ -1,7 +1,7 @@
 Test article. delete
 ====================
 
-by %s on July 18, 2008
+by andy-testing on July 18, 2008
 
 sadfsadf sad fsadf updated
 asdf sadf asdf sadf
@@ -10,6 +10,6 @@ asdf sadf asdf sadf
     :title: Test article. delete
     :description: CakePHP Article related to ,Case Studies
     :keywords: ,Case Studies
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 andy-testing
     :category: case_studies
 

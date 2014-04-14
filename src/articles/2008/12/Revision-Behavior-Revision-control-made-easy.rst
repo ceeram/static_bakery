@@ -1,7 +1,7 @@
 Revision Behavior - Revision control made easy
 ==============================================
 
-by %s on December 18, 2008
+by alkemann on December 18, 2008
 
 Take full control of any changes your users makes, while also giving
 them features like undo. Keep a history of previous versions of any
@@ -1055,6 +1055,6 @@ More
     :title: Revision Behavior - Revision control made easy
     :description: CakePHP Article related to version,behavior,alkemann,ronnyvv,revision,Behaviors
     :keywords: version,behavior,alkemann,ronnyvv,revision,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 alkemann
     :category: behaviors
 

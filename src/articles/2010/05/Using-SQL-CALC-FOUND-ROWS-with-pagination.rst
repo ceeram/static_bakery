@@ -1,7 +1,7 @@
 Using SQL_CALC_FOUND_ROWS with pagination
 =========================================
 
-by %s on May 18, 2010
+by techlands on May 18, 2010
 
 A quick and dirty way to get SQL_CALC_FOUND_ROWS / found_rows()
 working with cakes pagination feature
@@ -283,6 +283,6 @@ correct the last page number.
     :title: Using SQL_CALC_FOUND_ROWS with pagination
     :description: CakePHP Article related to pagination,sqlcalcfoundrows,General Interest
     :keywords: pagination,sqlcalcfoundrows,General Interest
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 techlands
     :category: general_interest
 

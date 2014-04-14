@@ -1,7 +1,7 @@
 Vendor Branching
 ================
 
-by %s on June 11, 2008
+by grant_cox on June 11, 2008
 
 Vendor Branching provides a robust method of ensuring your application
 repository is always in a stable state with regards to third party
@@ -347,6 +347,6 @@ Components/Helpers etc that are used in multiple applications).
     :title: Vendor Branching
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 grant_cox
     :category: tutorials
 

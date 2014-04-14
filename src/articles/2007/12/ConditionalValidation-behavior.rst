@@ -1,7 +1,7 @@
 ConditionalValidation behavior
 ==============================
 
-by %s on December 26, 2007
+by francky06l on December 26, 2007
 
 [Update]: as suggested few modifications : - model method can be set
 in the condition - syntax for fields in the condition can be
@@ -223,6 +223,6 @@ more sophisticated.
     :title: ConditionalValidation behavior
     :description: CakePHP Article related to behavior,Behaviors
     :keywords: behavior,Behaviors
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 francky06l
     :category: behaviors
 

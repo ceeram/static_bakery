@@ -1,7 +1,7 @@
 Changing Auth to involve username in hashing
 ============================================
 
-by %s on June 13, 2011
+by emicd on June 13, 2011
 
 Changing Auth to involve username in hashing
 After reading `http://book.cakephp.org/#!/view/1250/Authentication`_
@@ -55,6 +55,6 @@ i hope this to be usefull, sorry abut my ugly english :S
     :title: Changing Auth to involve username in hashing
     :description: CakePHP Article related to Auth,security,login,hash,Articles
     :keywords: Auth,security,login,hash,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 emicd
     :category: articles
 

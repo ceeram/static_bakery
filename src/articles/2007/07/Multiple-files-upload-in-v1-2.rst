@@ -1,7 +1,7 @@
 Multiple files upload in v1.2
 =============================
 
-by %s on July 19, 2007
+by omeck on July 19, 2007
 
 Are you wondering how to upload more than one file by CakePHP? Today I
 wrote this component
@@ -373,6 +373,6 @@ Component Class:
     :title: Multiple files upload in v1.2
     :description: CakePHP Article related to multiple,upload,1.2,Components
     :keywords: multiple,upload,1.2,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 omeck
     :category: components
 

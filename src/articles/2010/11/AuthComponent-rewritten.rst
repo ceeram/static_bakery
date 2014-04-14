@@ -1,7 +1,7 @@
 AuthComponent rewritten
 =======================
 
-by %s on November 27, 2010
+by prond on November 27, 2010
 
 The AuthComponent::startup() method is not eanough readable and
 extendable. Also it does not handle bare requests as it should.
@@ -261,6 +261,6 @@ Component Class:
     :title: AuthComponent rewritten
     :description: CakePHP Article related to Auth,component,Components
     :keywords: Auth,component,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 prond
     :category: components
 

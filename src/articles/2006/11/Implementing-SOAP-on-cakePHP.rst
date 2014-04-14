@@ -1,7 +1,7 @@
 Implementing SOAP on cakePHP
 ============================
 
-by %s on November 04, 2006
+by scook on November 04, 2006
 
 I have recently (last week) started using cakePHP. I choose cake
 because it works with AMFPHP and because I thought cake had built in
@@ -454,6 +454,6 @@ More
     :title: Implementing SOAP on cakePHP
     :description: CakePHP Article related to soap,wsdl,webservices,php5,Tutorials
     :keywords: soap,wsdl,webservices,php5,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 scook
     :category: tutorials
 

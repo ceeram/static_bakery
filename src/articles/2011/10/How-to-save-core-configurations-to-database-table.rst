@@ -1,7 +1,7 @@
 How to save core configurations to database table
 =================================================
 
-by %s on October 28, 2011
+by ihs1301 on October 28, 2011
 
 This will enable `config.php` settings to be managed from admin panel.
 CREATE TABLE IF NOT EXISTS `settings` (
@@ -48,6 +48,6 @@ stock".', 1)
     :title: How to save core configurations to database table
     :description: CakePHP Article related to database,configuration,save,Tutorials
     :keywords: database,configuration,save,Tutorials
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 ihs1301
     :category: tutorials
 

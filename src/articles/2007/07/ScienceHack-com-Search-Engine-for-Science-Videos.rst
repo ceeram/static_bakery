@@ -1,7 +1,7 @@
 ScienceHack.com Search Engine for Science Videos
 ================================================
 
-by %s on July 06, 2007
+by rami on July 06, 2007
 
 A brief article describing how I learned CakePHP, and how I
 development the first prototype of http://ScienceHack.com in a very
@@ -78,6 +78,6 @@ ScienceHack.
     :title: ScienceHack.com Search Engine for Science Videos
     :description: CakePHP Article related to video,Case Studies
     :keywords: video,Case Studies
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 rami
     :category: case_studies
 

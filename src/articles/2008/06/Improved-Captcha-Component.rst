@@ -1,7 +1,7 @@
 Improved Captcha Component
 ==========================
 
-by %s on June 23, 2008
+by mikeyjsa on June 23, 2008
 
 I have created a very good and strong capture component for cakephp
 which has additional filters and various image format outputs and
@@ -546,6 +546,6 @@ Okay now you are done and you are protected now with captcha.
     :title: Improved Captcha Component
     :description: CakePHP Article related to captcha,Components
     :keywords: captcha,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 mikeyjsa
     :category: components
 

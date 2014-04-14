@@ -1,7 +1,7 @@
 CakePHP 2.2.2 release
 =====================
 
-by %s on September 01, 2012
+by markstory on September 01, 2012
 
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.2.2[1]. This is a bugfix/maintenance release for the
@@ -52,6 +52,6 @@ Links
     :title: CakePHP 2.2.2 release
     :description: CakePHP Article related to release,CakePHP,news,News
     :keywords: release,CakePHP,news,News
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 markstory
     :category: news
 

@@ -1,7 +1,7 @@
 Announcing CakePHP 1.3.0 Stable
 ===============================
 
-by %s on April 24, 2010
+by predominant on April 24, 2010
 
 The CakePHP development team presents CakePHP 1.3.0. After a solid
 release candidate cycle, we're happy to announce the release of the
@@ -70,6 +70,6 @@ CakePHP-1-2-to-1-3`_
     :title: Announcing CakePHP 1.3.0 Stable
     :description: CakePHP Article related to ,News
     :keywords: ,News
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 predominant
     :category: news
 

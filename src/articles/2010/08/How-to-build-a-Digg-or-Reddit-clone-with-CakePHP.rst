@@ -1,7 +1,7 @@
 How to build a Digg or Reddit clone with CakePHP
 ================================================
 
-by %s on August 22, 2010
+by sbefort on August 22, 2010
 
 Bump or dump? Thatâ€™s the theme behind the newly launched Link Bump
 (http://www.linkbump.com), where users "bump" the most interesting
@@ -104,6 +104,6 @@ linkbump[at]gmail[dot]com
     :title: How to build a Digg or Reddit clone with CakePHP
     :description: CakePHP Article related to CakePHP,digg,rating,social media,reddit,Case Studies
     :keywords: CakePHP,digg,rating,social media,reddit,Case Studies
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 sbefort
     :category: case_studies
 

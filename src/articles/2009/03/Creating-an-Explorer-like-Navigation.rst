@@ -1,7 +1,7 @@
 Creating an Explorer-like Navigation
 ====================================
 
-by %s on March 09, 2009
+by getit on March 09, 2009
 
 IÂ´ve written a helper to administrate documents in an explorer-like
 tree. It doesnÂ´t matter how many folders you have or how deep is the
@@ -558,6 +558,6 @@ As you can see in the view, you additionally need jquery.
     :title: Creating an Explorer-like Navigation
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 getit
     :category: helpers
 

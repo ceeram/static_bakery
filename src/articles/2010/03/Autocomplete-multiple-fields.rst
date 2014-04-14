@@ -1,7 +1,7 @@
 Autocomplete multiple fields
 ============================
 
-by %s on March 12, 2010
+by MartinLissmats on March 12, 2010
 
 This short tutorial will show how to autocomplete data to multiple
 fields.
@@ -111,6 +111,6 @@ in your view.
     :title: Autocomplete multiple fields
     :description: CakePHP Article related to javascript,AJAX,autocomplete,Tutorials
     :keywords: javascript,AJAX,autocomplete,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 MartinLissmats
     :category: tutorials
 

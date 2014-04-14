@@ -1,7 +1,7 @@
 Remote Content Parser tool using CUrl
 =====================================
 
-by %s on June 20, 2009
+by sky_l3ppard on June 20, 2009
 
 This tool gives you friendly functions to retrieve HTML or whatever
 from remotely or locally accessible files. And also friendly functions
@@ -696,6 +696,6 @@ That's it, enjoy..
     :title: Remote Content Parser tool using CUrl
     :description: CakePHP Article related to post,curl,parser,sky leppard,http client,web client,open session,html parser,Components
     :keywords: post,curl,parser,sky leppard,http client,web client,open session,html parser,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 sky_l3ppard
     :category: components
 

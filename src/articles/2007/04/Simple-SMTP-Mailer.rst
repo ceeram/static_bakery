@@ -1,7 +1,7 @@
 Simple SMTP Mailer
 ==================
 
-by %s on April 05, 2007
+by Enchy on April 05, 2007
 
 This is a simple tutorial on how to send a plain text message via
 email.
@@ -117,6 +117,6 @@ Let me know what you think.
     :title: Simple SMTP Mailer
     :description: CakePHP Article related to emailer,Mail,email,smtp,mailer,Tutorials
     :keywords: emailer,Mail,email,smtp,mailer,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Enchy
     :category: tutorials
 

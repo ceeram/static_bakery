@@ -1,7 +1,7 @@
 Baked enum fields reloaded
 ==========================
 
-by %s on August 26, 2008
+by gunzip on August 26, 2008
 
 I had the need to convert (mysql) enum fields into form selects once
 baked with the cake console. This method worked for me with minimal
@@ -51,6 +51,6 @@ input into a select.
     :title: Baked enum fields reloaded
     :description: CakePHP Article related to bake enum mysql form,Snippets
     :keywords: bake enum mysql form,Snippets
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 gunzip
     :category: snippets
 

@@ -1,7 +1,7 @@
 Captcha component with Securimage
 =================================
 
-by %s on March 09, 2009
+by debuggeddesigns on March 09, 2009
 
 Securimage is an open-source free PHP CAPTCHA script for generating
 complex images and CAPTCHA codes to protect forms from spam and abuse.
@@ -282,6 +282,6 @@ View Template:
     :title: Captcha component with Securimage
     :description: CakePHP Article related to image,GD,captcha,form,spam,securimage,verify,Tutorials
     :keywords: image,GD,captcha,form,spam,securimage,verify,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 debuggeddesigns
     :category: tutorials
 

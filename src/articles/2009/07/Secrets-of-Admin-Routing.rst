@@ -1,7 +1,7 @@
 Secrets of Admin Routing
 ========================
 
-by %s on July 14, 2009
+by nate on July 14, 2009
 
 During the CakeFest workshop in Berlin, one of the many topics covered
 was the routing system. While we touched on most of the general usage
@@ -108,6 +108,6 @@ been simpler or more flexible.
     :title: Secrets of Admin Routing
     :description: CakePHP Article related to admin section,Snippets
     :keywords: admin section,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 nate
     :category: snippets
 

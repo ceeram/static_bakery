@@ -1,7 +1,7 @@
 Using LDAP as a database
 ========================
 
-by %s on October 15, 2006
+by UncleBill on October 15, 2006
 
 John Anderson wrote an article about building a model around LDAP.
 This snippit is an extension, implementing a much more full-featured
@@ -459,6 +459,6 @@ View Template:
     :title: Using LDAP as a database
     :description: CakePHP Article related to ldap,Models
     :keywords: ldap,Models
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 UncleBill
     :category: models
 

@@ -1,7 +1,7 @@
 Something Fresh
 ===============
 
-by %s on April 05, 2007
+by PhpNut on April 05, 2007
 
 Get the fresh new release of CakePHP
 We put together a new bug fix release for 1.1.x.x stable branch, so
@@ -34,6 +34,6 @@ change log: `https://trac.cakephp.org/wiki/changelog/1.2.x.x`_
     :title: Something Fresh
     :description: CakePHP Article related to release,new release,1.2,News
     :keywords: release,new release,1.2,News
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 PhpNut
     :category: news
 

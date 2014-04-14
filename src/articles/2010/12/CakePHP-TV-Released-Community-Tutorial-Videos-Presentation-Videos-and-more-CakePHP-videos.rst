@@ -2,7 +2,7 @@ CakePHP TV Released! Community Tutorial Videos, Presentation Videos,
 and more CakePHP videos
 =======================
 
-by %s on December 27, 2010
+by bMilesp on December 27, 2010
 
 I would like to welcome everyone to CakePHP TV, a community driven
 video site dedicated to all videos CakePHP.
@@ -46,6 +46,6 @@ We hope you enjoy CakePHP TV!
     :title: CakePHP TV Released!  Community Tutorial Videos, Presentation Videos, and more CakePHP videos
     :description: CakePHP Article related to release,cakphp,tv,Articles
     :keywords: release,cakphp,tv,Articles
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 bMilesp
     :category: articles
 

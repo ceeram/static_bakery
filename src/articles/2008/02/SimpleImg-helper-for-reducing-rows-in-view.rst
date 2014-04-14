@@ -1,7 +1,7 @@
 SimpleImg - helper for reducing rows in view
 ============================================
 
-by %s on February 27, 2008
+by unigue_ on February 27, 2008
 
 When I was playing with images I always messed up with stuff which
 didn't belongs into view code. Like "if is_file(image" etc. but I want
@@ -443,6 +443,6 @@ This is what SimpleImg will do
     :title: SimpleImg - helper for reducing rows in view
     :description: CakePHP Article related to image,SimpleImg,Helpers
     :keywords: image,SimpleImg,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 unigue_
     :category: helpers
 

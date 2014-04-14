@@ -1,7 +1,7 @@
 UPS & FedEx DataSource
 ======================
 
-by %s on August 23, 2010
+by kylerobinsonyoung on August 23, 2010
 
 A UPS datasource and a FedEx datasource for retrieving shipping rate
 estimates.
@@ -1097,6 +1097,6 @@ More
     :title: UPS & FedEx DataSource
     :description: CakePHP Article related to datasource,ups,fedex,Models
     :keywords: datasource,ups,fedex,Models
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 kylerobinsonyoung
     :category: models
 

@@ -1,7 +1,7 @@
 PHPMailer component for cakephp 1.2
 ===================================
 
-by %s on July 21, 2008
+by rapsys on July 21, 2008
 
 After trying the two mailer component unsucessfull, I rewrite my own
 to makes it works with cake 1.2. Previous compnents:
@@ -249,6 +249,6 @@ Controller Class:
     :title: PHPMailer component for cakephp 1.2
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 rapsys
     :category: components
 

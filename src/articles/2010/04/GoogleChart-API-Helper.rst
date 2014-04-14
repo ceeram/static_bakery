@@ -1,7 +1,7 @@
 GoogleChart API Helper
 ======================
 
-by %s on April 30, 2010
+by ixu38 on April 30, 2010
 
 I need in a project a lightweight way to embed Charts from the Google
 Chart Tool. New version coming soon (axis automation, legend,
@@ -301,6 +301,6 @@ View Template:
     :title: GoogleChart API Helper
     :description: CakePHP Article related to google,helper,CakePHP,api,charts,Helpers
     :keywords: google,helper,CakePHP,api,charts,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 ixu38
     :category: helpers
 

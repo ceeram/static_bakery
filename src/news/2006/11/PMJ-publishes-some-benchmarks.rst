@@ -1,7 +1,7 @@
 PMJ publishes some benchmarks
 =============================
 
-by %s on November 21, 2006
+by gwoo on November 21, 2006
 
 Anytime new information comes out about CakePHP, we do our best to
 respond and share our knowledge for the betterment of the community.
@@ -50,6 +50,6 @@ Bake on.
     :title: PMJ publishes some benchmarks
     :description: CakePHP Article related to benchmark,News
     :keywords: benchmark,News
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 gwoo
     :category: news
 

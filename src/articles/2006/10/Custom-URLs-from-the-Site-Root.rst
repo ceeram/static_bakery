@@ -1,7 +1,7 @@
 Custom URLs from the Site Root
 ==============================
 
-by %s on October 06, 2006
+by PHPdiddy on October 06, 2006
 
 A number of sites nowadays are offering custom, unique URLs for
 people. I'm sure we can all think of one small social networking site
@@ -129,6 +129,6 @@ strategy, but for now, it seems to work pretty well.
     :title: Custom URLs from the Site Root
     :description: CakePHP Article related to rewrites route url,route,routing,url,Tutorials
     :keywords: rewrites route url,route,routing,url,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 PHPdiddy
     :category: tutorials
 

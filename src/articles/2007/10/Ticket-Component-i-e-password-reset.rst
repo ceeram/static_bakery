@@ -1,7 +1,7 @@
 Ticket Component - i.e. password reset
 ======================================
 
-by %s on October 23, 2007
+by eimermusic on October 23, 2007
 
 This is my implementation of a simple Ticket Component. A ticket is a
 way to store a piece of data that can be retrieved and used once. The
@@ -248,6 +248,6 @@ Thats all. Comment if further explanation is required.
     :title: Ticket Component - i.e. password reset
     :description: CakePHP Article related to component,Ticket,Components
     :keywords: component,Ticket,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 eimermusic
     :category: components
 

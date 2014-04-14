@@ -1,7 +1,7 @@
 PublishableBehavior
 ===================
 
-by %s on June 10, 2009
+by brightball on June 10, 2009
 
 PublishableBehavior allows the use of datetime fields for start and
 end ranges on content. Included functionality allows for checking
@@ -91,6 +91,6 @@ broken. The new path is available above.
     :title: PublishableBehavior
     :description: CakePHP Article related to behavior,intabox,unpublish,publish,brightball,Behaviors
     :keywords: behavior,intabox,unpublish,publish,brightball,Behaviors
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 brightball
     :category: behaviors
 

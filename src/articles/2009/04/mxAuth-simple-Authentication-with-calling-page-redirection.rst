@@ -1,7 +1,7 @@
 mxAuth - simple Authentication with calling page redirection
 ============================================================
 
-by %s on April 28, 2009
+by medianetix on April 28, 2009
 
 Using Auth and ACL to protect your pages may be more effort than the
 rest of your business logic. For these cases Steve Oliveira developed
@@ -238,6 +238,6 @@ Component Class:
     :title: mxAuth - simple Authentication with calling page redirection
     :description: CakePHP Article related to authentication,cake,mxauth,Components
     :keywords: authentication,cake,mxauth,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 medianetix
     :category: components
 

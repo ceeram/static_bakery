@@ -1,7 +1,7 @@
 SluggableTree behavior to make tree based slugs
 ===============================================
 
-by %s on September 13, 2009
+by sky_l3ppard on September 13, 2009
 
 SluggableTree behavior extends the base Sluggable behavior to make
 tree based slugs which are generated as a path of tree and can be used
@@ -608,6 +608,6 @@ Any ideas on functionality improvements are very welcome, enjoy..
     :title: SluggableTree behavior to make tree based slugs
     :description: CakePHP Article related to tree,menu,behavior,sky leppard,sluggable,translatable slug,menu path,pretty urls,highlight,nice url,Behaviors
     :keywords: tree,menu,behavior,sky leppard,sluggable,translatable slug,menu path,pretty urls,highlight,nice url,Behaviors
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 sky_l3ppard
     :category: behaviors
 

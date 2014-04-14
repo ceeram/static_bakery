@@ -1,7 +1,7 @@
 Image Resize Component
 ======================
 
-by %s on January 05, 2010
+by sethcardoza on January 05, 2010
 
 I made an image resize component. Pass it the image location, resized
 image location, dimensions, and quality and it will determine the
@@ -386,6 +386,6 @@ Component Class:
     :title: Image Resize Component
     :description: CakePHP Article related to image,resize,image resize,Components
     :keywords: image,resize,image resize,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 sethcardoza
     :category: components
 

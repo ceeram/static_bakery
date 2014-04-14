@@ -1,7 +1,7 @@
 Sphinx component and behavior
 =============================
 
-by %s on July 10, 2010
+by eugenioclrc on July 10, 2010
 
 I have made a "branch" of the sphinx behavior (
 http://bakery.cakephp.org/articles/view/sphinx-behavior ), and make a
@@ -372,6 +372,6 @@ if we wanna set some filters;
     :title: Sphinx component and behavior
     :description: CakePHP Article related to search,component,sphinx,speed queries,Components
     :keywords: search,component,sphinx,speed queries,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 eugenioclrc
     :category: components
 

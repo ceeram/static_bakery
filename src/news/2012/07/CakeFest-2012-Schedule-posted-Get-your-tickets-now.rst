@@ -1,7 +1,7 @@
 CakeFest 2012 - Schedule posted! Get your tickets now!
 ======================================================
 
-by %s on July 15, 2012
+by predominant on July 15, 2012
 
 The CakeFest 2012 talks schedule has been posted on the CakeFest
 website. Get in and purchase your tickets today before the end of the
@@ -41,6 +41,6 @@ ends!
     :title: CakeFest 2012 - Schedule posted! Get your tickets now!
     :description: CakePHP Article related to CakePHP,conference,cakefest,News
     :keywords: CakePHP,conference,cakefest,News
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 predominant
     :category: news
 

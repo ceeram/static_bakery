@@ -1,7 +1,7 @@
 The Weather Channel Component
 =============================
 
-by %s on April 08, 2010
+by brunonlab on April 08, 2010
 
 The Weather.com offers an XML-based API to retrieve information about
 the weather around the world. You need an access key, and to get it,
@@ -92,6 +92,6 @@ Component Class:
     :title: The Weather Channel Component
     :description: CakePHP Article related to api,component,weather,Components
     :keywords: api,component,weather,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 brunonlab
     :category: components
 

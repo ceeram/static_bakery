@@ -1,7 +1,7 @@
 counterCache or counter_cache Behavior
 ======================================
 
-by %s on May 02, 2007
+by dericknwq on May 02, 2007
 
 I wrote this because I needed something simple for my recent project
 and CakePHP have not implemented the counterCache option yet. This is
@@ -97,6 +97,6 @@ Model Class:
     :title: counterCache or counter_cache Behavior
     :description: CakePHP Article related to countercache,behavior,counter,Behaviors
     :keywords: countercache,behavior,counter,Behaviors
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 dericknwq
     :category: behaviors
 

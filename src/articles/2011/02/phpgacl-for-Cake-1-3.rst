@@ -1,7 +1,7 @@
 phpgacl for Cake 1.3
 ====================
 
-by %s on February 15, 2011
+by carcus88 on February 15, 2011
 
 An alternative ACL package for CakePHP
 
@@ -27,6 +27,6 @@ permissions-and-cakephp-acl`_
     :title: phpgacl for Cake 1.3
     :description: CakePHP Article related to ACL phpgacl,General Interest
     :keywords: ACL phpgacl,General Interest
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 carcus88
     :category: general_interest
 

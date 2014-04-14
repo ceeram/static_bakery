@@ -1,7 +1,7 @@
 PhpExcel helper for generating excel files
 ==========================================
 
-by %s on April 02, 2012
+by segy on April 02, 2012
 
 PhpExcel consists only from one helper class that uses PHPExcel
 project (located in vendors) to generate excel files.
@@ -61,6 +61,6 @@ Download the code from `https://github.com/segy/PhpExcel`_
     :title: PhpExcel helper for generating excel files
     :description: CakePHP Article related to helper,xls,excel,plugin,phpexcel,xlsx,Plugins
     :keywords: helper,xls,excel,plugin,phpexcel,xlsx,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 segy
     :category: plugins
 

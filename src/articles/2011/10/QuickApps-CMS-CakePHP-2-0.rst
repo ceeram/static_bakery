@@ -1,7 +1,7 @@
 QuickApps CMS - CakePHP 2.0
 ===========================
 
-by %s on October 28, 2011
+by y2k_2000 on October 28, 2011
 
 QuickApps CMS is a free open source CMS built with CakePHP v2.0
 
@@ -143,6 +143,6 @@ Links/References
     :title: QuickApps CMS - CakePHP 2.0
     :description: CakePHP Article related to CMS,cakephp 2.0,Articles
     :keywords: CMS,cakephp 2.0,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 y2k_2000
     :category: articles
 

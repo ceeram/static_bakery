@@ -1,7 +1,7 @@
 Events Plugin
 =============
 
-by %s on January 05, 2010
+by navidurrahman on January 05, 2010
 
 With Events plugin, you can add and remove events from admin panel and
 frontend. I have created Events plugin with full calendar (Thanks to
@@ -53,6 +53,6 @@ Download from mentioned link
     :title: Events Plugin
     :description: CakePHP Article related to calendar,events,Plugins
     :keywords: calendar,events,Plugins
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 navidurrahman
     :category: plugins
 

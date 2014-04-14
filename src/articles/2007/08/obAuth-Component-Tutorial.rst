@@ -1,7 +1,7 @@
 obAuth Component Tutorial
 =========================
 
-by %s on August 17, 2007
+by coeus on August 17, 2007
 
 This is a tutorial on how to use obAuth component:
 http://bakery.cakephp.org/articles/view/130
@@ -245,6 +245,6 @@ you leave it empty it will redirect the user to the login page.
     :title: obAuth Component Tutorial
     :description: CakePHP Article related to permission,authentication,component,obAuth,Tutorials
     :keywords: permission,authentication,component,obAuth,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 coeus
     :category: tutorials
 

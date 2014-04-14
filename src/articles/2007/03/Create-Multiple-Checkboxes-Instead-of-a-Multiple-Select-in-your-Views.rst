@@ -1,7 +1,7 @@
 Create Multiple Checkboxes Instead of a Multiple-Select in your Views
 =====================================================================
 
-by %s on March 23, 2007
+by joshuamcfarren on March 23, 2007
 
 From a usablitiy stand point, multiple-select boxes are a nightmare.
 Forget to hold down the modifier key when adding an option and you
@@ -97,6 +97,6 @@ Acknowledgment: This is based off code by MrRio in the Trac system:
     :title: Create Multiple Checkboxes Instead of a Multiple-Select in your Views
     :description: CakePHP Article related to helpers,checkboxList,checkboxGroup,MrRio,HtmlHelper,multipleSelect,hasAndBelongsToMany,HABTM,checkboxMultiple,checkbox,Helpers
     :keywords: helpers,checkboxList,checkboxGroup,MrRio,HtmlHelper,multipleSelect,hasAndBelongsToMany,HABTM,checkboxMultiple,checkbox,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 joshuamcfarren
     :category: helpers
 

@@ -1,7 +1,7 @@
 from Cake to Bake
 =================
 
-by %s on April 22, 2012
+by mainiabhay on April 22, 2012
 
 I will explain how i got CakePHP working from start (Download) to
 finish (Bake). This tutorial is for PHP/MYSQL on Mint 12/Ubuntu users.
@@ -95,6 +95,6 @@ you created controller by the name, posts, use
     :title: from Cake to Bake
     :description: CakePHP Article related to ,Articles
     :keywords: ,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 mainiabhay
     :category: articles
 

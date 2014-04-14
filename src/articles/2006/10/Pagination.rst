@@ -1,7 +1,7 @@
 Pagination
 ==========
 
-by %s on October 09, 2006
+by AD7six on October 09, 2006
 
 If you have more than a few results it is useful, if not vital, to
 provide a means of presenting the results a few at a time. This
@@ -267,6 +267,6 @@ More
     :title: Pagination
     :description: CakePHP Article related to page,Tutorials
     :keywords: page,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 AD7six
     :category: tutorials
 

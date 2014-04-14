@@ -1,7 +1,7 @@
 Breadcrumb Helper
 =================
 
-by %s on June 26, 2010
+by toxic_brain on June 26, 2010
 
 If you are tired of setting up breadcrumbs for your screens, this
 helper is for you.
@@ -264,6 +264,6 @@ View Template:
     :title: Breadcrumb Helper
     :description: CakePHP Article related to crumb,crumbs,pathway,Breadcrumbs,Helpers
     :keywords: crumb,crumbs,pathway,Breadcrumbs,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 toxic_brain
     :category: helpers
 

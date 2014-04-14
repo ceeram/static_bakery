@@ -1,7 +1,7 @@
 Automatic Validation Message For Core Validation Rules
 ======================================================
 
-by %s on June 24, 2011
+by rayhan on June 24, 2011
 
 Are you tired of setting same validation message for each rules in
 your models or inside the forms. If so, then my tiny ValidationMessage
@@ -145,6 +145,6 @@ public$actsAs=array('ValidationMessage');
     :title: Automatic Validation Message For Core Validation Rules
     :description: CakePHP Article related to message,model,validation,behavior,Validation Behavior,Auto Validation Message,Behaviors
     :keywords: message,model,validation,behavior,Validation Behavior,Auto Validation Message,Behaviors
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 rayhan
     :category: behaviors
 

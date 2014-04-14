@@ -1,7 +1,7 @@
 Setting SVN Ignore properties
 =============================
 
-by %s on June 04, 2008
+by AD7six on June 04, 2008
 
 If you use svn, here's a very simple script that you can use to set
 your svn ignore properties so that your tmp folder, swap files and
@@ -84,6 +84,6 @@ to prevent the possibility of accidentally changing database or core
     :title: Setting SVN Ignore properties
     :description: CakePHP Article related to svn,subversion,version control,svn ignore,Snippets
     :keywords: svn,subversion,version control,svn ignore,Snippets
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 AD7six
     :category: snippets
 

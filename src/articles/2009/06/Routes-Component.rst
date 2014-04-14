@@ -1,7 +1,7 @@
 Routes Component
 ================
 
-by %s on June 04, 2009
+by jbcrawford on June 04, 2009
 
 This is a component to add/remove routes directly to/from the
 /app/config/routes.php file.
@@ -108,6 +108,6 @@ Controller Class:
     :title: Routes Component
     :description: CakePHP Article related to routes,Components
     :keywords: routes,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 jbcrawford
     :category: components
 

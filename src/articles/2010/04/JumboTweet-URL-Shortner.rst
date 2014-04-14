@@ -1,7 +1,7 @@
 JumboTweet URL Shortner
 =======================
 
-by %s on April 26, 2010
+by chadsmith729 on April 26, 2010
 
 This component works with the URL Shortner JumboTweet (http://jmb.tw)
 and is provided as a service by The Easy API.
@@ -91,6 +91,6 @@ Chad R. Smith
     :title: JumboTweet URL Shortner
     :description: CakePHP Article related to api,easy api,jumbotweet,the easy api,Components
     :keywords: api,easy api,jumbotweet,the easy api,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 chadsmith729
     :category: components
 

@@ -1,7 +1,7 @@
 TouchBehavior
 =============
 
-by %s on March 19, 2007
+by polk on March 19, 2007
 
 Would You like to have method touch() for some models, which updates
 only one field in database table and leaves 'created' and 'modified'
@@ -168,6 +168,6 @@ Behavior Class:
     :title: TouchBehavior
     :description: CakePHP Article related to actsas,behavior,beforeSave,touch,Behaviors
     :keywords: actsas,behavior,beforeSave,touch,Behaviors
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 polk
     :category: behaviors
 

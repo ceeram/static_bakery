@@ -1,7 +1,7 @@
 how to create an observeField equivalent in the new JsHelper
 ============================================================
 
-by %s on January 18, 2011
+by Calderoy on January 18, 2011
 
 A lot of people are having trouble upgrading to the new JsHelper. Here
 is a simple syntax of how to use an observeField equivalent in the new
@@ -74,6 +74,6 @@ updated with the new grade.
     :title: how to create an observeField equivalent in the new JsHelper
     :description: CakePHP Article related to o,Tutorials
     :keywords: o,Tutorials
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 Calderoy
     :category: tutorials
 

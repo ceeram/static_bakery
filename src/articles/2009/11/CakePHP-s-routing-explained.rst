@@ -1,7 +1,7 @@
 CakePHP's routing explained
 ===========================
 
-by %s on November 02, 2009
+by Frank on November 02, 2009
 
 Routing in CakePHP is a very powerful feature and is used to make URLs
 look good. Experience in the #cakephp IRC support channel tells me it
@@ -426,6 +426,6 @@ groups or the IRC channel.
     :title: CakePHP's routing explained
     :description: CakePHP Article related to routing,phally,Tutorials
     :keywords: routing,phally,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Frank
     :category: tutorials
 

@@ -1,7 +1,7 @@
 Display Tree Index with OL and LI
 =================================
 
-by %s on December 20, 2012
+by Blackbit on December 20, 2012
 
 As i prefer using the original helpers and behaviors, i also use it
 for my Trees. In this article i'd like to clearify how we can display
@@ -69,6 +69,6 @@ even delete. You just have to put them into the li.
     :title: Display Tree Index with OL and LI
     :description: CakePHP Article related to tree behavior index view,Tutorials
     :keywords: tree behavior index view,Tutorials
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 Blackbit
     :category: tutorials
 

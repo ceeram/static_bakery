@@ -1,7 +1,7 @@
 Order and time tracking system
 ==============================
 
-by %s on November 08, 2009
+by Silkjaer on November 08, 2009
 
 A short introduction to the features of our order and time tracking
 system, build with CakePHP.
@@ -91,6 +91,6 @@ This is my first Cake project, and I really feel like doing more!
     :title: Order and time tracking system
     :description: CakePHP Article related to order system,Case Studies
     :keywords: order system,Case Studies
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Silkjaer
     :category: case_studies
 

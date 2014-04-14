@@ -1,7 +1,7 @@
 Simple-Arithmetic-Captcha-Component
 ===================================
 
-by %s on June 10, 2011
+by hakimkal on June 10, 2011
 
 I wrote a simple Arithmetic Captcha Component and below is the
 'readme.txt' file excerpt to reuse in your project for free. you can
@@ -65,6 +65,6 @@ you could download the component from my github link ~
     :title: Simple-Arithmetic-Captcha-Component
     :description: CakePHP Article related to Abdulhakim,Simple Captcha,Le Proghrammeen,Code
     :keywords: Abdulhakim,Simple Captcha,Le Proghrammeen,Code
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 hakimkal
     :category: code
 

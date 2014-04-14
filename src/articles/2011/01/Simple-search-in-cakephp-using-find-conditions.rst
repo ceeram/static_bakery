@@ -1,7 +1,7 @@
 Simple search in cakephp using find() conditions.
 =================================================
 
-by %s on January 14, 2011
+by saravana on January 14, 2011
 
 This is a simple search using cakephp. I have used only cakephp find
 conditions with video and profiles table. Table structures CREATE
@@ -114,6 +114,6 @@ echo $this->Form->submit('Search');
     :title: Simple search in cakephp using find() conditions.
     :description: CakePHP Article related to search,CakePHP,find,findAll,simple,order,binary search,Articles
     :keywords: search,CakePHP,find,findAll,simple,order,binary search,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 saravana
     :category: articles
 

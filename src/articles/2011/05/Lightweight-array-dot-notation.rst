@@ -1,7 +1,7 @@
 Lightweight array dot notation
 ==============================
 
-by %s on May 24, 2011
+by adael on May 24, 2011
 
 I've made some functions to speedup the work with arrays in dotted
 notation.
@@ -98,6 +98,6 @@ this code helps cakephp comunity. Greetings.
     :title: Lightweight array dot notation
     :description: CakePHP Article related to array set functions,Articles
     :keywords: array set functions,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 adael
     :category: articles
 

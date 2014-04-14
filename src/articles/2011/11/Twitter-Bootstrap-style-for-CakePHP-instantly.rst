@@ -1,7 +1,7 @@
 Twitter Bootstrap style for CakePHP instantly
 =============================================
 
-by %s on November 16, 2011
+by mxkocak on November 16, 2011
 
 If you know what twitter's bootstrapp css and Javascript Library and
 how awesome is, you need to use this tiny Javascript library.
@@ -38,6 +38,6 @@ if you have this echo $this->Html->script('libs/jquery-1.6.2.min.js');
     :title: Twitter Bootstrap style for CakePHP instantly
     :description: CakePHP Article related to layout,bootstrap,twitter,mtkocak,Articles
     :keywords: layout,bootstrap,twitter,mtkocak,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 mxkocak
     :category: articles
 

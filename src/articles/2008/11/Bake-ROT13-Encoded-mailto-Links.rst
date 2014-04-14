@@ -1,7 +1,7 @@
 Bake ROT13 Encoded "mailto:" Links
 ==================================
 
-by %s on November 04, 2008
+by debuggeddesigns on November 04, 2008
 
 Why would I want to use encoded "mailto:" anchor tags? To obfuscate
 e-mail addresses from spam harvesters. The helper lets you easily
@@ -148,6 +148,6 @@ your addresses safe from the harvesters."
     :title: Bake ROT13 Encoded "mailto:" Links
     :description: CakePHP Article related to js,mailto,spam,strrot,anchor,encoding,rot,Tutorials
     :keywords: js,mailto,spam,strrot,anchor,encoding,rot,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 debuggeddesigns
     :category: tutorials
 

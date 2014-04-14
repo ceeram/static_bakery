@@ -1,7 +1,7 @@
 Multiple Validation Rules
 =========================
 
-by %s on May 18, 2011
+by Styles on May 18, 2011
 
 I had a few different forms and needed different validation rules for
 each. For example an administrator could insert any type of data about
@@ -38,6 +38,6 @@ validation.
     :title: Multiple Validation Rules
     :description: CakePHP Article related to model,validation,multiple,custom,many,Behaviors
     :keywords: model,validation,multiple,custom,many,Behaviors
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 Styles
     :category: behaviors
 

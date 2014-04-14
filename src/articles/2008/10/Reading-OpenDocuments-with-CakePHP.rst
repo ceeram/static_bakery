@@ -1,7 +1,7 @@
 Reading OpenDocuments with CakePHP
 ==================================
 
-by %s on October 22, 2008
+by Warringer on October 22, 2008
 
 On my quest to find a simple way to read the contents of an *.odt
 OpenDocument Text file, better known as OpenOffice Writer files, I
@@ -703,6 +703,6 @@ Controller Class:
     :title: Reading OpenDocuments with CakePHP
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Warringer
     :category: tutorials
 

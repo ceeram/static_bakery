@@ -1,7 +1,7 @@
 Asset Mapper
 ============
 
-by %s on January 23, 2008
+by grabanski on January 23, 2008
 
 [b]Map your entire web application's asset (JavaScript/CSS) includes
 with one file![/b] Easier way to manage JavaScript and CSS includes.
@@ -603,6 +603,6 @@ Enjoy!
     :title: Asset Mapper
     :description: CakePHP Article related to assets,Helpers
     :keywords: assets,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 grabanski
     :category: helpers
 

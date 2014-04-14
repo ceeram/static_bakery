@@ -1,7 +1,7 @@
 cake bake database conventions
 ==============================
 
-by %s on June 20, 2011
+by alphaseinor on June 20, 2011
 
 Trying to document all of the database conventions for cake bake
 
@@ -37,6 +37,6 @@ engineers work smarter?
     :title: cake bake database conventions
     :description: CakePHP Article related to ,Articles
     :keywords: ,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 alphaseinor
     :category: articles
 

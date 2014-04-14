@@ -1,7 +1,7 @@
 Installing CakePHP on Shared Hosting
 ====================================
 
-by %s on August 29, 2009
+by gedm on August 29, 2009
 
 I am new to CakePHP and had a great deal of trouble getting it working
 on my hosted site with IXWebHosting. This is how I achieved a working
@@ -220,6 +220,6 @@ I hope this method also works for you. Good luck.
     :title: Installing CakePHP on Shared Hosting
     :description: CakePHP Article related to install,beginner,shared hosting,Tutorials
     :keywords: install,beginner,shared hosting,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 gedm
     :category: tutorials
 

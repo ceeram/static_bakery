@@ -1,7 +1,7 @@
 Breadcrumbs trail for unordered pages
 =====================================
 
-by %s on April 23, 2012
+by webrene on April 23, 2012
 
 The Idea is to create a trail of visited pages, allowing you to always
 jump back and to alway see last visited pages. This can be helpful if
@@ -448,6 +448,6 @@ your app_controller as described in step 3 of the Installation how to.
     :title: Breadcrumbs trail for unordered pages
     :description: CakePHP Article related to navigation,Breadcrumbs,unordered,backbutton,Articles
     :keywords: navigation,Breadcrumbs,unordered,backbutton,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 webrene
     :category: articles
 

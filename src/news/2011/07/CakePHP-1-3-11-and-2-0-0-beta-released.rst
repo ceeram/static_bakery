@@ -1,7 +1,7 @@
 CakePHP 1.3.11 and 2.0.0-beta released
 ======================================
 
-by %s on July 26, 2011
+by lorenzo on July 26, 2011
 
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 1.3.11 and 2.0.0-beta.
@@ -117,6 +117,6 @@ Links
     :title: CakePHP 1.3.11 and 2.0.0-beta released
     :description: CakePHP Article related to ,News
     :keywords: ,News
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 lorenzo
     :category: news
 

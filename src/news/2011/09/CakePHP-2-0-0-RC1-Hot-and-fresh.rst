@@ -1,7 +1,7 @@
 CakePHP 2.0.0-RC1 Hot and fresh
 ===============================
 
-by %s on September 04, 2011
+by markstory on September 04, 2011
 
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.0.0-RC1[1]. 2.0.0-RC1 marks the beggining of the release
@@ -88,6 +88,6 @@ Links
     :title: CakePHP 2.0.0-RC1 Hot and fresh
     :description: CakePHP Article related to cakephp release,News
     :keywords: cakephp release,News
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 markstory
     :category: news
 

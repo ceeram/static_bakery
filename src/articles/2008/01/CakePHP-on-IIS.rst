@@ -1,7 +1,7 @@
 CakePHP on IIS
 ==============
 
-by %s on January 29, 2008
+by filippo.toso on January 29, 2008
 
 In this article you find all the information required for successfully
 run CakePHP web applications under Microsoft IIS web server.
@@ -89,6 +89,6 @@ I can't find them anymore.
     :title: CakePHP on IIS
     :description: CakePHP Article related to Webserver,IIS,Tutorials
     :keywords: Webserver,IIS,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 filippo.toso
     :category: tutorials
 

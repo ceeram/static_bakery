@@ -1,7 +1,7 @@
 Some ideas to organize your CSS files and autoload them in CakePHP
 ==================================================================
 
-by %s on January 15, 2007
+by tulio on January 15, 2007
 
 In this article, I will show some ideas in how to organize your CSS
 files and how to autoload them in your CakePHP project. Some of them
@@ -218,6 +218,6 @@ Tulio Faria
     :title: Some ideas to organize your CSS files and autoload them in CakePHP
     :description: CakePHP Article related to views,Tutorials
     :keywords: views,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 tulio
     :category: tutorials
 

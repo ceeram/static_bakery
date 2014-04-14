@@ -1,7 +1,7 @@
 User Permissions and CakePHP ACL
 ================================
 
-by %s on November 28, 2006
+by theshz on November 28, 2006
 
 This article shows how to use CakePHP's ACL to control user access to
 different parts of a website. It covers CakePHP 1.1.10.3825 (November,
@@ -322,6 +322,6 @@ reusable.
     :title: User Permissions and CakePHP ACL
     :description: CakePHP Article related to security,Tutorials
     :keywords: security,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 theshz
     :category: tutorials
 

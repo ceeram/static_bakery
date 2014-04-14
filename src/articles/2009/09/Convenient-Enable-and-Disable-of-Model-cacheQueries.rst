@@ -1,7 +1,7 @@
 Convenient Enable and Disable of Model cacheQueries
 ===================================================
 
-by %s on September 15, 2009
+by dennis.hennen on September 15, 2009
 
 Often we need to disable Cake's query caching for a single find
 statement or a sequence of related finds. This behavior provides a way
@@ -196,6 +196,6 @@ cleaner and a little easier to avoid this common mistake.
     :title: Convenient Enable and Disable of Model cacheQueries
     :description: CakePHP Article related to model,behavior,cache,query cache,cachequeries,Behaviors
     :keywords: model,behavior,cache,query cache,cachequeries,Behaviors
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 dennis.hennen
     :category: behaviors
 

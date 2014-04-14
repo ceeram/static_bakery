@@ -2,7 +2,7 @@ How to implament One Time Password for forgot-my-password and account-
 activation processes
 ====================
 
-by %s on March 12, 2010
+by ashevat on March 12, 2010
 
 CakeOTP is a secure, table-less and expirable implementation of One
 Time Password for CakePHP. It can be used for forgot-my-password and
@@ -179,6 +179,6 @@ One_Time_Password_Reference_Implementation_for_CakePHP`_
     :title: How to implament One Time Password for forgot-my-password and account-activation processes
     :description: CakePHP Article related to security,password,Components,registration,Tutorials
     :keywords: security,password,Components,registration,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 ashevat
     :category: tutorials
 

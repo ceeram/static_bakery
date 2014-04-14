@@ -1,7 +1,7 @@
 A CakePHP ADODB data source driver for MS Access
 ================================================
 
-by %s on December 29, 2008
+by aspeakman on December 29, 2008
 
 This is an ADODB data source driver to connect to an MS Access 2003
 database. It has been tested for simple read operations, but not for
@@ -246,6 +246,6 @@ app/models/datasources/dbo/dbo_adodb_access.php
     :title: A CakePHP ADODB data source driver for MS Access
     :description: CakePHP Article related to adodb,ms access,Models
     :keywords: adodb,ms access,Models
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 aspeakman
     :category: models
 

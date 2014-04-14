@@ -1,7 +1,7 @@
 Simple FCK Editor helper
 ========================
 
-by %s on April 07, 2009
+by psykro on April 07, 2009
 
 FCK Editor is my favourite HTML editor, mainly used for website cms.
 There is already another great article on the topic
@@ -81,6 +81,6 @@ making this a better article
     :title: Simple FCK Editor helper
     :description: CakePHP Article related to WYSIWYG,fck editor,fck,editor,html editor,Helpers
     :keywords: WYSIWYG,fck editor,fck,editor,html editor,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 psykro
     :category: helpers
 

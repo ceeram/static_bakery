@@ -1,7 +1,7 @@
 Memcache component
 ==================
 
-by %s on April 12, 2007
+by jiri on April 12, 2007
 
 A component for using Memcache to cache data from your controllers
 Needs the `Memcache class`_. You can get the `full package with
@@ -37,6 +37,6 @@ Following goes in /app/controllers/components/memcache.php:
     :title: Memcache component
     :description: CakePHP Article related to caching,memcached,memcache,Components
     :keywords: caching,memcached,memcache,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 jiri
     :category: components
 

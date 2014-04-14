@@ -1,7 +1,7 @@
 Acts As Emailable
 =================
 
-by %s on January 14, 2008
+by Thades on January 14, 2008
 
 This little behavior is more of a learning experiment for me into how
 behaviors work in the CakePHP side of things. It helps me with
@@ -638,6 +638,6 @@ P.S. - It works fine for me....
     :title: Acts As Emailable
     :description: CakePHP Article related to list,email,behavior,acts,act,Behaviors
     :keywords: list,email,behavior,acts,act,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Thades
     :category: behaviors
 

@@ -1,7 +1,7 @@
 Serializing find("threaded") data to XML
 ========================================
 
-by %s on March 11, 2009
+by rreyes on March 11, 2009
 
 Ever tried to serialize a full find("threaded") tree to XML? Well, it
 won't be easy to consume. Unless you give a try with XMLTreeHelper.
@@ -90,6 +90,6 @@ Helper Class:
     :title: Serializing find("threaded") data to XML
     :description: CakePHP Article related to helper,tree,xml,Helpers
     :keywords: helper,tree,xml,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 rreyes
     :category: helpers
 

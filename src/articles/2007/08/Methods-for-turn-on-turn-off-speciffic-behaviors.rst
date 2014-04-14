@@ -1,7 +1,7 @@
 Methods for turn on/ turn off speciffic behaviors.
 ==================================================
 
-by %s on August 14, 2007
+by Skiedr on August 14, 2007
 
 Sometimes there is appear situation when you need not some action
 which behavior do aftomatically using event handlers.
@@ -89,6 +89,6 @@ You can use this methods in your models or controllers like this
     :title: Methods for turn on/ turn off speciffic behaviors.
     :description: CakePHP Article related to ,Snippets
     :keywords: ,Snippets
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Skiedr
     :category: snippets
 

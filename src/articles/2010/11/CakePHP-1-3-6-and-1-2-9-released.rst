@@ -1,7 +1,7 @@
 CakePHP 1.3.6 and 1.2.9 released
 ================================
 
-by %s on November 13, 2010
+by markstory on November 13, 2010
 
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 1.3.6 and 1.2.9. These releases are recommended for all
@@ -95,6 +95,6 @@ Links
     :title: CakePHP 1.3.6 and 1.2.9 released
     :description: CakePHP Article related to release,CakePHP,news,Articles
     :keywords: release,CakePHP,news,Articles
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 markstory
     :category: articles
 

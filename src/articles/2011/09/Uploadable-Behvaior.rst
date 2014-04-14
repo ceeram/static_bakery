@@ -1,7 +1,7 @@
 Uploadable Behvaior
 ===================
 
-by %s on September 15, 2011
+by mdunham918 on September 15, 2011
 
 I have a few tables that contain a field that needs to be photo or
 other type of file that needs to be uploaded. Instead of writing
@@ -50,6 +50,6 @@ on specific fields and specific file types. Happy baking.
     :title: Uploadable Behvaior
     :description: CakePHP Article related to model,behavior,upload,upload behavior,image upload,Behaviors
     :keywords: model,behavior,upload,upload behavior,image upload,Behaviors
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 mdunham918
     :category: behaviors
 

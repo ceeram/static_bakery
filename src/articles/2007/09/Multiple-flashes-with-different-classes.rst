@@ -1,7 +1,7 @@
 Multiple flashes with different classes
 =======================================
 
-by %s on September 20, 2007
+by personman on September 20, 2007
 
 There were a couple of things I didn't like about using
 $this->Session->setFlash(), so I wrote my own method for saving
@@ -105,6 +105,6 @@ This is inspired by the set_message() function in Drupal.
     :title: Multiple flashes with different classes
     :description: CakePHP Article related to flash,session,Helpers
     :keywords: flash,session,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 personman
     :category: helpers
 

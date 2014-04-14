@@ -1,7 +1,7 @@
 Introducing the cakephp-instaweb webserver
 ==========================================
 
-by %s on January 14, 2008
+by lamby on January 14, 2008
 
 Save time and effort developing with this zero-configuration CakePHP-
 oriented webserver.
@@ -76,6 +76,6 @@ itself.
     :title: Introducing the cakephp-instaweb webserver
     :description: CakePHP Article related to apache,Webserver,hosting,Tutorials
     :keywords: apache,Webserver,hosting,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 lamby
     :category: tutorials
 

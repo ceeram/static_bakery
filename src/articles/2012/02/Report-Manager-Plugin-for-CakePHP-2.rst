@@ -1,7 +1,7 @@
 Report Manager Plugin for CakePHP 2
 ===================================
 
-by %s on February 23, 2012
+by luisedudias on February 23, 2012
 
 The report manager plugin can help users to create reports based on
 application models.
@@ -121,6 +121,6 @@ Contact: smartbyte.systems@gmail.com
     :title: Report Manager Plugin for CakePHP 2
     :description: CakePHP Article related to plugin,report,cakephp2,manager,Plugins
     :keywords: plugin,report,cakephp2,manager,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 luisedudias
     :category: plugins
 

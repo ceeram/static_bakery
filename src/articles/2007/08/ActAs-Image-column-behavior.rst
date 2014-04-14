@@ -1,7 +1,7 @@
 ActAs Image column behavior
 ===========================
 
-by %s on August 28, 2007
+by Skiedr on August 28, 2007
 
 This behavior add new column to your model and allow to store images
 in file system. It can resize images, create several versions, and
@@ -419,6 +419,6 @@ Samples of using this behavior you see there:
     :title: ActAs Image column behavior
     :description: CakePHP Article related to image,behavior,upload,Behaviors
     :keywords: image,behavior,upload,Behaviors
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Skiedr
     :category: behaviors
 

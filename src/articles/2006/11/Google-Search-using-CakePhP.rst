@@ -1,7 +1,7 @@
 Google Search using CakePhP
 ===========================
 
-by %s on November 24, 2006
+by salimk786 on November 24, 2006
 
 There comes a time when everyone needs to search the Internet. This
 search can be done on Yahoo or Google or MSN or any other search
@@ -136,6 +136,6 @@ View Template:
     :title: Google Search using CakePhP
     :description: CakePHP Article related to ,Snippets
     :keywords: ,Snippets
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 salimk786
     :category: snippets
 

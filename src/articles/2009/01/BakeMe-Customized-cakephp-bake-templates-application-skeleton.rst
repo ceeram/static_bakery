@@ -1,7 +1,7 @@
 BakeMe - Customized cakephp bake templates & application skeleton
 =================================================================
 
-by %s on January 13, 2009
+by wouter on January 13, 2009
 
 Bakeme is a cakephp application skeleton with customized bake scripts,
 which enables you to create advanced, data-driven websites. Some of
@@ -52,6 +52,6 @@ template/vendors/shells/â€¦ to generate code.
     :title: BakeMe - Customized cakephp bake templates & application skeleton
     :description: CakePHP Article related to bake template fckedi,Plugins
     :keywords: bake template fckedi,Plugins
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 wouter
     :category: plugins
 

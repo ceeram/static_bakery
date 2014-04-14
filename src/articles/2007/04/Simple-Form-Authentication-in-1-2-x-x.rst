@@ -1,7 +1,7 @@
 Simple Form Authentication in 1.2.x.x
 =====================================
 
-by %s on April 17, 2007
+by SeanCallan on April 17, 2007
 
 There has been a lot of questions about user authentication lately so
 I thought it was appropriate to create a tutorial that covered the
@@ -260,6 +260,6 @@ system with groups and permissions.
     :title: Simple Form Authentication in 1.2.x.x
     :description: CakePHP Article related to login,authentication,logout,Tutorials
     :keywords: login,authentication,logout,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 SeanCallan
     :category: tutorials
 

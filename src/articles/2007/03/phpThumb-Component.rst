@@ -1,7 +1,7 @@
 phpThumb Component
 ==================
 
-by %s on March 19, 2007
+by Natcon67 on March 19, 2007
 
 This is my first attempt at writing a component for CakePHP. If you
 have any suggestions please add them to the comments and I'll
@@ -174,6 +174,6 @@ Controller Class:
     :title: phpThumb Component
     :description: CakePHP Article related to thumbnail,phpThumb,thumbnail generator,resize,Components
     :keywords: thumbnail,phpThumb,thumbnail generator,resize,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Natcon67
     :category: components
 

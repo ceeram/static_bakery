@@ -1,7 +1,7 @@
 Image Resize Helper
 ===================
 
-by %s on July 28, 2007
+by cbaykam on July 28, 2007
 
 This is the first version of my simple image resize helper. Will
 improve its specs but does the job for now.
@@ -92,6 +92,6 @@ Hope This Helps .
     :title: Image Resize Helper
     :description: CakePHP Article related to image,helper,resize,resize image,fit image,Helpers
     :keywords: image,helper,resize,resize image,fit image,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 cbaykam
     :category: helpers
 

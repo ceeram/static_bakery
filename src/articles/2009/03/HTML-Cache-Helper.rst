@@ -1,7 +1,7 @@
 HTML Cache Helper
 =================
 
-by %s on March 20, 2009
+by mattc on March 20, 2009
 
 Cake's core cache helper is great, but the files it outputs are PHP
 files, so it will never be as fast as straight HTML files. This HTML
@@ -89,6 +89,6 @@ This won't work with the root file of your controller. So for example
     :title: HTML Cache Helper
     :description: CakePHP Article related to cache,Helpers
     :keywords: cache,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 mattc
     :category: helpers
 

@@ -1,7 +1,7 @@
 Generic AppController
 =====================
 
-by %s on June 27, 2009
+by flatline on June 27, 2009
 
 By using a Generic AppController (GAC) we can drastically reduce the
 amount of code that is needlesly repeated in the controllers. It
@@ -128,6 +128,6 @@ methods and rename them.
     :title: Generic AppController
     :description: CakePHP Article related to appcontroller,controller,dry,generic,Snippets
     :keywords: appcontroller,controller,dry,generic,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 flatline
     :category: snippets
 

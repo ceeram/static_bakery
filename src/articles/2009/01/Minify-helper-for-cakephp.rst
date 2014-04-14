@@ -1,7 +1,7 @@
 Minify helper for cakephp
 =========================
 
-by %s on January 17, 2009
+by _k10_ on January 17, 2009
 
 A minify helper for js and css assets.
 Lately, I have been working on a pretty large scale website involving
@@ -113,6 +113,6 @@ innovatechnologies.in
     :title: Minify helper for cakephp
     :description: CakePHP Article related to minify,cachecontrol,etags,gzip,Helpers
     :keywords: minify,cachecontrol,etags,gzip,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 _k10_
     :category: helpers
 

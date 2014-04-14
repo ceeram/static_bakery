@@ -1,7 +1,7 @@
 Multiselect Preview Helper 1.0
 ==============================
 
-by %s on January 05, 2010
+by pietro.brignola on January 05, 2010
 
 Immagine you want to provide your model centric add/edit form with
 master/slave support (one to many or many to many models relation).
@@ -146,6 +146,6 @@ enjoy ;-)
     :title: Multiselect Preview Helper 1.0
     :description: CakePHP Article related to javascript,list,multiple,HABTM,select,preview,Helpers
     :keywords: javascript,list,multiple,HABTM,select,preview,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 pietro.brignola
     :category: helpers
 

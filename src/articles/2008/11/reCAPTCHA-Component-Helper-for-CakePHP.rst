@@ -1,7 +1,7 @@
 reCAPTCHA Component & Helper for CakePHP
 ========================================
 
-by %s on November 15, 2008
+by Howard on November 15, 2008
 
 an easy-to-use component and helper set to use reCAPTCHA on your
 website.
@@ -359,6 +359,6 @@ helper) pair I've written.
     :title: reCAPTCHA Component & Helper for CakePHP
     :description: CakePHP Article related to component,captcha,recaptcha,hide email,Components
     :keywords: component,captcha,recaptcha,hide email,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Howard
     :category: components
 

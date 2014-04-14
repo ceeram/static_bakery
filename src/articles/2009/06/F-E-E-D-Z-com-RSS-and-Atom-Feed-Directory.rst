@@ -1,7 +1,7 @@
 F-E-E-D-Z.com - RSS and Atom Feed Directory
 ===========================================
 
-by %s on June 02, 2009
+by timtrice on June 02, 2009
 
 It might have seemed like a very simple idea at first but I quickly
 learned that building a feed reader/directory was a bit beyond just
@@ -87,6 +87,6 @@ Yahoo due to the easy SEO-implementation.
     :title: F-E-E-D-Z.com - RSS and Atom Feed Directory
     :description: CakePHP Article related to feeds,Rss,simplepie,sitemap,Case Studies
     :keywords: feeds,Rss,simplepie,sitemap,Case Studies
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 timtrice
     :category: case_studies
 

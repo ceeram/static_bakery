@@ -1,7 +1,7 @@
 How to implement RPX social in cakephp?
 =======================================
 
-by %s on February 01, 2011
+by webdevbit on February 01, 2011
 
 Whua there, I am Gautam Lakum and I have appeared after many days with
 new article. I know, it's been too long. But anyways, let's start
@@ -117,6 +117,6 @@ Now you are done with your RPX implementation.
     :title: How to implement RPX social in cakephp?
     :description: CakePHP Article related to login,CakePHP,social,social media,social login,Articles
     :keywords: login,CakePHP,social,social media,social login,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 webdevbit
     :category: articles
 

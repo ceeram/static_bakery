@@ -1,7 +1,7 @@
 Fixing and improving the TextHelper
 ===================================
 
-by %s on April 20, 2012
+by darkdragon on April 20, 2012
 
 The TextHelper is a really useful utility in CakePHP. But some
 functions behave strangely and others are missing. That's why I
@@ -210,6 +210,6 @@ into the original TextHelper ;)
     :title: Fixing and improving the TextHelper
     :description: CakePHP Article related to CakePHP,list,extend,fix,texthelper,truncate,toList,improve,wordwrap,Helpers
     :keywords: CakePHP,list,extend,fix,texthelper,truncate,toList,improve,wordwrap,Helpers
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 darkdragon
     :category: helpers
 

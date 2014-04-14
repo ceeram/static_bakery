@@ -1,7 +1,7 @@
 Prevent render layout elements with the render of some views!
 =============================================================
 
-by %s on April 20, 2012
+by saidbakr on April 20, 2012
 
 This snippet is meant by the situation in-which you want to prevent
 some elements in the layout from render while some views is rendered.
@@ -54,6 +54,6 @@ in Arabic language.
     :title: Prevent render layout elements with the render of some views!
     :description: CakePHP Article related to view,layout,elements,prevent,Snippets
     :keywords: view,layout,elements,prevent,Snippets
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 saidbakr
     :category: snippets
 

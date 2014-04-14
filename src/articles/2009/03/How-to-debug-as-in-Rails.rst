@@ -1,7 +1,7 @@
 How to debug as in Rails
 ========================
 
-by %s on March 09, 2009
+by rainchen on March 09, 2009
 
 Rails is very friendly for debugging by logging the request info and
 sql query. Developers can use tail -F command to watch the log for
@@ -71,6 +71,6 @@ tips: console2 is a very useful tools for watching debugging log
     :title: How to debug as in Rails
     :description: CakePHP Article related to debug,Snippets
     :keywords: debug,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 rainchen
     :category: snippets
 

@@ -1,7 +1,7 @@
 Star Rating Control with FormHelper & jQuery
 ============================================
 
-by %s on March 04, 2009
+by HyperCas on March 04, 2009
 
 I required a simple star rating system. Searching google.com for
 'cakephp star rating' returned about two usable links, both of which
@@ -219,6 +219,6 @@ simple star control
     :title: Star Rating Control with FormHelper & jQuery 
     :description: CakePHP Article related to jquery,star rating,Snippets
     :keywords: jquery,star rating,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 HyperCas
     :category: snippets
 

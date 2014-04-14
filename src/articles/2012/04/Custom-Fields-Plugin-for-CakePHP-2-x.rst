@@ -1,7 +1,7 @@
 Custom Fields Plugin for CakePHP 2.x
 ====================================
 
-by %s on April 11, 2012
+by srs2012 on April 11, 2012
 
 A custom fields plugin for CakePHP 2.x. Now you can add custom fields
 to your CakePHP app and individual models/controllers without having
@@ -168,6 +168,6 @@ Yun Performing Arts: https://www.shenyunperformingarts.org/support
     :title: Custom Fields Plugin for CakePHP 2.x
     :description: CakePHP Article related to plugin,custom fields,Plugins
     :keywords: plugin,custom fields,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 srs2012
     :category: plugins
 

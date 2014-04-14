@@ -1,7 +1,7 @@
 Optimizing Model loading with LazyModel
 =======================================
 
-by %s on August 10, 2010
+by Frank on August 10, 2010
 
 If you are running PHP5, this is what you need. This LazyModel
 optimizes the loading of the models. It limits the number of loaded
@@ -159,6 +159,6 @@ Phally
     :title: Optimizing Model loading with LazyModel
     :description: CakePHP Article related to model,associations,loading,phally,lazy,lazy loading,lazymodel,Models
     :keywords: model,associations,loading,phally,lazy,lazy loading,lazymodel,Models
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 Frank
     :category: models
 

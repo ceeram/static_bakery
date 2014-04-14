@@ -1,7 +1,7 @@
 GoogleGeo Component
 ===================
 
-by %s on December 18, 2006
+by lababidi on December 18, 2006
 
 For simple GeoCoding and simple results grab this component to make
 your life just that much easier. The non-component class is located at
@@ -163,6 +163,6 @@ Component Class:
     :title: GoogleGeo Component
     :description: CakePHP Article related to google,geocode geocoding,googlegeo,Components
     :keywords: google,geocode geocoding,googlegeo,Components
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 lababidi
     :category: components
 

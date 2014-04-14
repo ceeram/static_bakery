@@ -1,7 +1,7 @@
 IRWeather (Weather for Iran cities)
 ===================================
 
-by %s on January 13, 2009
+by cybercoder on January 13, 2009
 
 I saw yahoo weather component in the bakery, that sent by Mr.Arash
 Hemmat. with special thanks to him, it seems yahoo weather system can
@@ -143,6 +143,6 @@ with some little modifications.
     :title: IRWeather (Weather for Iran cities)
     :description: CakePHP Article related to weather,iran,Components
     :keywords: weather,iran,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 cybercoder
     :category: components
 

@@ -1,7 +1,7 @@
 ACO and ACL Management Plugin
 =============================
 
-by %s on November 12, 2010
+by jbcrawford on November 12, 2010
 
 There are a couple of these out there already but this is based on the
 tutorial in the documentation. Leaving ARO Management out because
@@ -21,6 +21,6 @@ and get more info visit `http://www.jbcrawford.net/archives/314`_
     :title: ACO and ACL Management Plugin
     :description: CakePHP Article related to acl,aco,Plugins
     :keywords: acl,aco,Plugins
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 jbcrawford
     :category: plugins
 

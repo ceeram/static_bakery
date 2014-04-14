@@ -1,7 +1,7 @@
 Twitter model plus plus (for the Twitter DataSource)
 ====================================================
 
-by %s on August 29, 2010
+by rynop on August 29, 2010
 
 I've added a few helpful functions to the Twitter model for the
 Twitter DataSource example in the 1.3 CakePHP Cookbook. Specifically,
@@ -123,6 +123,6 @@ Hope this helps someone else out.
     :title: Twitter model plus plus (for the Twitter DataSource)
     :description: CakePHP Article related to url,datasource,twitter,tinyurl,bit,bitly,tiny,ly,Models
     :keywords: url,datasource,twitter,tinyurl,bit,bitly,tiny,ly,Models
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 rynop
     :category: models
 

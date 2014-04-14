@@ -1,7 +1,7 @@
 Combine your JS & CSS files for faster loading
 ==============================================
 
-by %s on June 23, 2008
+by morrislaptop on June 23, 2008
 
 With the relatively recent publication of YSlow, it brought to my
 attention that while seperating your CSS and JS files into seperate
@@ -633,6 +633,6 @@ Helper Class:
     :title: Combine your JS & CSS files for faster loading
     :description: CakePHP Article related to CSS,js,Helpers
     :keywords: CSS,js,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 morrislaptop
     :category: helpers
 

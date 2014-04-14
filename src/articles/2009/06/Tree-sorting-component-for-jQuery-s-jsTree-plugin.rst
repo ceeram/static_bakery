@@ -1,7 +1,7 @@
 Tree sorting component for jQuery's jsTree plugin
 =================================================
 
-by %s on June 12, 2009
+by Kynigos on June 12, 2009
 
 This component sorts a one dimensional array of tree nodes into a
 multidimensional array, ready to be converted into JSON for the
@@ -133,6 +133,6 @@ Component Class:
     :title: Tree sorting component for jQuery's jsTree plugin
     :description: CakePHP Article related to tree,sort,jquery,jstree,Components
     :keywords: tree,sort,jquery,jstree,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Kynigos
     :category: components
 

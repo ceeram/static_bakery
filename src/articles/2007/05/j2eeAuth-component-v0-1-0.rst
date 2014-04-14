@@ -1,7 +1,7 @@
 j2eeAuth component v0.1.0
 =========================
 
-by %s on May 23, 2007
+by racklin on May 23, 2007
 
 J2eeAuth Component is J2ee Realm like User/Group/Role Base Auth. And
 J2eeAuth Component's user/role database is compatible with Tomcat
@@ -40,6 +40,6 @@ authenticated, the method returns false.
     :title: j2eeAuth component v0.1.0
     :description: CakePHP Article related to Role,Components
     :keywords: Role,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 racklin
     :category: components
 

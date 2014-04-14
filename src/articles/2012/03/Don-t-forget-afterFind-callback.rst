@@ -1,7 +1,7 @@
 Don't forget afterFind callback
 ===============================
 
-by %s on March 15, 2012
+by saidbakr on March 15, 2012
 
 Many beginners like me ask something like, how could I get total
 comments count for a post? of course, there are many answers, but the
@@ -66,6 +66,6 @@ be applied for any hasMany relations.
     :title: Don't forget afterFind callback
     :description: CakePHP Article related to model,hasMany,afterFind,comments count,Articles
     :keywords: model,hasMany,afterFind,comments count,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 saidbakr
     :category: articles
 

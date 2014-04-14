@@ -1,7 +1,7 @@
 Combinator : Compress and combine your js and css files
 =======================================================
 
-by %s on September 10, 2010
+by st3ph on September 10, 2010
 
 Combinator is a helper that compress and combine your js ans css files
 in your CakePHP 1.2 or 1.3 project
@@ -309,6 +309,6 @@ csstidy and jsmin) you can go `here`_
     :title: Combinator : Compress and combine your js and css files
     :description: CakePHP Article related to javascript,CSS,helper,combinator,Helpers
     :keywords: javascript,CSS,helper,combinator,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 st3ph
     :category: helpers
 

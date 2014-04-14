@@ -1,7 +1,7 @@
 Creating Questions And Answers Application From Scratch With CakePHP
 ====================================================================
 
-by %s on April 12, 2011
+by mufti on April 12, 2011
 
 Considering the popularity of question and answer application, I built
 kind of this application using Cake PHP tha (Below I've explained why)
@@ -29,6 +29,6 @@ you are interested to see this application, you can visited at
     :title: Creating Questions And Answers  Application From Scratch With CakePHP
     :description: CakePHP Article related to ,Case Studies
     :keywords: ,Case Studies
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 mufti
     :category: case_studies
 

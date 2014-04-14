@@ -1,7 +1,7 @@
 Generating automatized JSON as output
 =====================================
 
-by %s on October 26, 2008
+by jrbasso on October 26, 2008
 
 This article will show how you can generate JSON (JavaScript Object
 Notation) output without make a layout or ctp for this.
@@ -153,6 +153,6 @@ the View Json will return it for you.
     :title: Generating automatized JSON as output
     :description: CakePHP Article related to json,Helpers
     :keywords: json,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 jrbasso
     :category: helpers
 

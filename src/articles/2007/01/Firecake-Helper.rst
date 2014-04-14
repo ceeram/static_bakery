@@ -1,7 +1,7 @@
 Firecake Helper
 ===============
 
-by %s on January 30, 2007
+by zomg on January 30, 2007
 
 This will repeat messages from the error.log as well as variables,
 form data, validation errors, session data, and other useful info into
@@ -465,6 +465,6 @@ Helper Class:
     :title: Firecake Helper
     :description: CakePHP Article related to debug,error,cakeinfo,firecake,phpinfo,log,firefox,Helpers
     :keywords: debug,error,cakeinfo,firecake,phpinfo,log,firefox,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 zomg
     :category: helpers
 

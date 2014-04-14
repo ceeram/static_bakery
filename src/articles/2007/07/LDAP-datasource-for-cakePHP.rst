@@ -1,7 +1,7 @@
 LDAP datasource for cakePHP
 ===========================
 
-by %s on July 26, 2007
+by euphrate_ylb on July 26, 2007
 
 This article presents a simple LDAP datasource which can be used with
 the cake framework (both 1.1.x and 1.2.x). With this datasource, a
@@ -840,6 +840,6 @@ More
     :title: LDAP datasource for cakePHP
     :description: CakePHP Article related to ldap,datasource,data source,Models
     :keywords: ldap,datasource,data source,Models
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 euphrate_ylb
     :category: models
 

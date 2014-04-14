@@ -1,7 +1,7 @@
 Simple Colorpicker
 ==================
 
-by %s on June 20, 2009
+by springthistle on June 20, 2009
 
 I needed a simple color picker for a CMS-like site I'm building. Using
 the free DHTML colorpicker from this site (http://www.free-color-
@@ -95,6 +95,6 @@ CSS I added to my admin_style.css
     :title: Simple Colorpicker
     :description: CakePHP Article related to color picker,colorpicker,Snippets
     :keywords: color picker,colorpicker,Snippets
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 springthistle
     :category: snippets
 

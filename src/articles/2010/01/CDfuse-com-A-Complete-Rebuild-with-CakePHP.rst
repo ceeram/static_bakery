@@ -1,7 +1,7 @@
 CDfuse.com: A Complete Rebuild with CakePHP
 ===========================================
 
-by %s on January 31, 2010
+by PHPdiddy on January 31, 2010
 
 When it came time to rebuild CDfuse.com, CakePHP became our framework
 of choice. Here's how we completed our transition and what we hope to
@@ -192,6 +192,6 @@ IRC channel pretty regularly so hit me up sometime!
     :title: CDfuse.com: A Complete Rebuild with CakePHP
     :description: CakePHP Article related to maps,audio,cdfuse,mp,Case Studies
     :keywords: maps,audio,cdfuse,mp,Case Studies
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 PHPdiddy
     :category: case_studies
 

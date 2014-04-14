@@ -1,7 +1,7 @@
 Bindable Behavior: control your model bindings
 ==============================================
 
-by %s on June 12, 2008
+by mariano on June 12, 2008
 
 With the birth of CakePHP 1.2 pre-beta, here comes the newly,
 improved, and extended version of Bindable, a method to easily control
@@ -651,6 +651,6 @@ Controller Class:
     :title: Bindable Behavior: control your model bindings
     :description: CakePHP Article related to ,Behaviors
     :keywords: ,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 mariano
     :category: behaviors
 

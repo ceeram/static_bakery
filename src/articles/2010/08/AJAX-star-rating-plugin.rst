@@ -1,7 +1,7 @@
 AJAX star rating plugin
 =======================
 
-by %s on August 19, 2010
+by schneimi on August 19, 2010
 
 In the days of social networks, you often want to give users the
 possibility to rate things and to show the average rating. The most
@@ -1557,6 +1557,6 @@ More
     :title: AJAX star rating plugin
     :description: CakePHP Article related to AJAX,prototype,jquery,star,rating,Plugins
     :keywords: AJAX,prototype,jquery,star,rating,Plugins
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 schneimi
     :category: plugins
 

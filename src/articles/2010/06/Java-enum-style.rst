@@ -1,7 +1,7 @@
 Java enum style
 ===============
 
-by %s on June 30, 2010
+by mmarencibia on June 30, 2010
 
 I have been programming in Java and have noticed that I needed
 something like Java enums. In this article I want to share the
@@ -491,6 +491,6 @@ Bye.
     :title: Java enum style
     :description: CakePHP Article related to enum,library,constant,Snippets
     :keywords: enum,library,constant,Snippets
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 mmarencibia
     :category: snippets
 

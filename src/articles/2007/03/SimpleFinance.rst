@@ -1,7 +1,7 @@
 SimpleFinance
 =============
 
-by %s on March 12, 2007
+by christian.trummer on March 12, 2007
 
 SimpleFinance is an easy to use, state-of-the art web application for
 your personal needs in accounting. With this piece of software you can
@@ -20,6 +20,6 @@ Please check out the homepage and give it a try!
     :title: SimpleFinance
     :description: CakePHP Article related to freeware,simplefinance,finance,web application,Case Studies
     :keywords: freeware,simplefinance,finance,web application,Case Studies
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 christian.trummer
     :category: case_studies
 

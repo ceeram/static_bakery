@@ -1,7 +1,7 @@
 Adding beforeLogin and afterLogin callbacks (AuthExtended)
 ==========================================================
 
-by %s on February 02, 2011
+by lucaswxp on February 02, 2011
 
 AuthExtendedComponent is a class to add two new callbacks
 'beforeLogin' and 'afterLogin' to your app.
@@ -141,6 +141,6 @@ OBS: Sorry for the bad english =p
     :title: Adding beforeLogin and afterLogin callbacks (AuthExtended)
     :description: CakePHP Article related to Auth,login,component,auth extended,Components
     :keywords: Auth,login,component,auth extended,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 lucaswxp
     :category: components
 

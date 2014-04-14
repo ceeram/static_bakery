@@ -1,7 +1,7 @@
 The Last Alpha Cake
 ===================
 
-by %s on July 09, 2007
+by PhpNut on July 09, 2007
 
 We have some new versions ready. As usual, 1.1.x.x branch gets a bug-
 fix update, while 1.2.x.x branch sees some new features along with the
@@ -77,6 +77,6 @@ Happy Baking.
     :title: The Last Alpha Cake
     :description: CakePHP Article related to ,News
     :keywords: ,News
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 PhpNut
     :category: news
 

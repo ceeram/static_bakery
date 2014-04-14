@@ -1,7 +1,7 @@
 Creating a Custom Shell for Adding Users for Use With AuthComponent
 ===================================================================
 
-by %s on August 26, 2008
+by jfahrenkrug on August 26, 2008
 
 AuthComponent is great and there are tutorials for letting users
 register an account. But what if you just want a convenient way to add
@@ -105,6 +105,6 @@ For more code goodness, visit my blog at
     :title: Creating a Custom Shell for Adding Users for Use With AuthComponent
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 jfahrenkrug
     :category: components
 

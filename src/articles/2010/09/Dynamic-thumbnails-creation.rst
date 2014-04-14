@@ -1,7 +1,7 @@
 Dynamic thumbnails creation
 ===========================
 
-by %s on September 27, 2010
+by santoshgroup on September 27, 2010
 
 By using this component, you can generate thumbnails dynamically.This
 component provide the following features. 1.You can generate
@@ -96,6 +96,6 @@ $this->image = $new_image;
     :title: Dynamic thumbnails creation
     :description: CakePHP Article related to ,Components
     :keywords: ,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 santoshgroup
     :category: components
 

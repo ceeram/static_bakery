@@ -1,7 +1,7 @@
 Cake Dbo Database Backup
 ========================
 
-by %s on October 25, 2010
+by arielmobvox on October 25, 2010
 
 Backups structure and data from cake's database dbo datasources
 supported by Cake dbo package. Works with any cake dbo datasource,
@@ -24,6 +24,6 @@ To backup all tables structure and data from default datasource
     :title: Cake Dbo Database Backup
     :description: CakePHP Article related to shell,database backup,Plugins
     :keywords: shell,database backup,Plugins
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 arielmobvox
     :category: plugins
 

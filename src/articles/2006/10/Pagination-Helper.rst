@@ -1,7 +1,7 @@
 Pagination Helper
 =================
 
-by %s on October 09, 2006
+by AD7six on October 09, 2006
 
 The pagination helper, for instruction on use see:
 http://bakery.cakephp.org/articles/view/65
@@ -574,6 +574,6 @@ Helper Class:
     :title: Pagination Helper
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 AD7six
     :category: helpers
 

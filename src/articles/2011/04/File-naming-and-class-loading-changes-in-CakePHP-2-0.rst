@@ -1,7 +1,7 @@
 File naming and class loading changes in CakePHP 2.0
 ====================================================
 
-by %s on April 14, 2011
+by lorenzo on April 14, 2011
 
 At first we glanced at the internal structure of CakePHP 1.3 and
 realized that after all these years the core needed a new
@@ -242,6 +242,6 @@ better and benefit from the big improvements in performance CakePHP
     :title: File naming and class loading changes in CakePHP 2.0
     :description: CakePHP Article related to loading,class,2.0,Articles
     :keywords: loading,class,2.0,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 lorenzo
     :category: articles
 

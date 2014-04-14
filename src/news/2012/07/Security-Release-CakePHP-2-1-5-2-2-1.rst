@@ -1,7 +1,7 @@
 Security Release - CakePHP 2.1.5 & 2.2.1
 ========================================
 
-by %s on July 14, 2012
+by markstory on July 14, 2012
 
 CakePHP 2.1.5 and 2.2.1 have just been released. If you are using
 CakePHP's `Xml` class, you should upgrade as soon as possible.
@@ -76,6 +76,6 @@ Links
     :title: Security Release - CakePHP 2.1.5 & 2.2.1
     :description: CakePHP Article related to release,CakePHP,news,News
     :keywords: release,CakePHP,news,News
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 markstory
     :category: news
 

@@ -1,7 +1,7 @@
 Ajax elements available anywhere
 ================================
 
-by %s on December 02, 2007
+by Kainchi on December 02, 2007
 
 [p] When I have chosen to work with Cakephp it was because of all
 these great features that we could use to create an ajax app easily.
@@ -740,6 +740,6 @@ using the same syntax as ajaxthis...
     :title: Ajax elements available anywhere 
     :description: CakePHP Article related to anywhere,controller,Tutorials
     :keywords: anywhere,controller,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Kainchi
     :category: tutorials
 

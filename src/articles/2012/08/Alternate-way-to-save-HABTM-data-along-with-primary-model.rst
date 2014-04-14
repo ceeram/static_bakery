@@ -1,7 +1,7 @@
 Alternate way to save HABTM data along with primary model
 =========================================================
 
-by %s on August 04, 2012
+by lsiden on August 04, 2012
 
 The CakePHP documentation on saving HABTM data didn't cover a use-case
 my app needed. My form submits a comma-separated list of associated-
@@ -142,6 +142,6 @@ way to include this use-case in the chapter on `Saving Your Data`_.
     :title: Alternate way to save HABTM data along with primary model
     :description: CakePHP Article related to ,Articles
     :keywords: ,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 lsiden
     :category: articles
 

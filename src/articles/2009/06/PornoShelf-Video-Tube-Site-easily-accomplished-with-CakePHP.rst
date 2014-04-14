@@ -1,7 +1,7 @@
 PornoShelf - Video Tube Site easily accomplished with CakePHP
 =============================================================
 
-by %s on June 11, 2009
+by pornoshelf on June 11, 2009
 
 I started out building this site with the idea of having a structure
 and a way to update and launch sister sites fast, and provide code
@@ -39,6 +39,6 @@ a basic site. It's a video site, with comments,
     :title: PornoShelf - Video Tube Site easily accomplished with CakePHP
     :description: CakePHP Article related to ,Case Studies
     :keywords: ,Case Studies
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 pornoshelf
     :category: case_studies
 

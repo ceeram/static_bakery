@@ -1,7 +1,7 @@
 CakePHP 2.3.0-beta released
 ===========================
 
-by %s on October 28, 2012
+by lorenzo on October 28, 2012
 
 This release contains several new features that improves CakePHP
 performance, security and ease of use.
@@ -294,6 +294,6 @@ Links
     :title: CakePHP 2.3.0-beta released
     :description: CakePHP Article related to release,2.3.0,News
     :keywords: release,2.3.0,News
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 lorenzo
     :category: news
 

@@ -1,7 +1,7 @@
 HABTM Pagination & Filtering
 ============================
 
-by %s on October 21, 2009
+by voroex on October 21, 2009
 
 HABTM relationships can be hard to work with as the builtin methods in
 Cake don't work like in other types of associations. This often leads
@@ -83,6 +83,6 @@ TODO...
     :title: HABTM Pagination & Filtering
     :description: CakePHP Article related to habtm pagination con,Tutorials
     :keywords: habtm pagination con,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 voroex
     :category: tutorials
 

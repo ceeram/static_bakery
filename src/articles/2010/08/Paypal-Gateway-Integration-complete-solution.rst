@@ -1,7 +1,7 @@
 Paypal Gateway Integration - complete solution
 ==============================================
 
-by %s on August 19, 2010
+by aniljmk on August 19, 2010
 
 Paypal Payment Gateway Integration Guide line. I have integrated this
 code in various website and do not need to modify and just copy and
@@ -371,6 +371,6 @@ echo $error;
     :title: Paypal Gateway Integration - complete solution
     :description: CakePHP Article related to paypal,payment gateway,paypal gateway,Tutorials
     :keywords: paypal,payment gateway,paypal gateway,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 aniljmk
     :category: tutorials
 

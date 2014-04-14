@@ -1,7 +1,7 @@
 Database design and CakePHP
 ===========================
 
-by %s on July 29, 2008
+by Frank on July 29, 2008
 
 To start with a CakePHP application you first need a proper database.
 This database will determine for a great part the structure of your
@@ -171,6 +171,6 @@ article.
     :title: Database design and CakePHP
     :description: CakePHP Article related to database,tutorial,phally,Tutorials
     :keywords: database,tutorial,phally,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Frank
     :category: tutorials
 

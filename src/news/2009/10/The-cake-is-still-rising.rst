@@ -1,7 +1,7 @@
 The cake is still rising
 ========================
 
-by %s on October 23, 2009
+by markstory on October 23, 2009
 
 Recent weeks have seen a few changes in the development team, as well
 as some clarification of the roadmap for CakePHP future releases. We'd
@@ -54,6 +54,6 @@ The CakePHP team
     :title: The cake is still rising
     :description: CakePHP Article related to CakePHP,news,News
     :keywords: CakePHP,news,News
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 markstory
     :category: news
 

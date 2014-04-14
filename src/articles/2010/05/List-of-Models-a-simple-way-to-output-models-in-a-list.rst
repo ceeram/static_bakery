@@ -1,7 +1,7 @@
 List of Models - a simple way to output models in a list.
 =========================================================
 
-by %s on May 13, 2010
+by severeon on May 13, 2010
 
 test
 
@@ -119,6 +119,6 @@ test
     :title: List of Models - a simple way to output models in a list.
     :description: CakePHP Article related to Element,list,models,Snippets
     :keywords: Element,list,models,Snippets
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 severeon
     :category: snippets
 

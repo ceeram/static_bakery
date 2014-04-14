@@ -1,7 +1,7 @@
 Advanced Pagination (1.2)
 =========================
 
-by %s on June 29, 2007
+by rtconner on June 29, 2007
 
 This tutorial will attempt to cover some advanced techniques of
 pagination. In large this will cover Ajax pagination. Hopefully we can
@@ -277,6 +277,6 @@ Jared Hoyt. The sum of mutiple brains is better than mine is.
     :title: Advanced Pagination (1.2)
     :description: CakePHP Article related to pagination,paginate,1.2,Tutorials
     :keywords: pagination,paginate,1.2,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 rtconner
     :category: tutorials
 

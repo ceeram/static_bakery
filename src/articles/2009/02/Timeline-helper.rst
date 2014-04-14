@@ -1,7 +1,7 @@
 Timeline helper
 ===============
 
-by %s on February 04, 2009
+by ronnyvv on February 04, 2009
 
 Easy to use helper for the MIT Simile Web Widgets component Timeline.
 Timeline allows web site creators to embed interactive timelines into
@@ -607,6 +607,6 @@ More
     :title: Timeline helper
     :description: CakePHP Article related to helper,alkemann,ronnyvv,simile,timeline,Helpers
     :keywords: helper,alkemann,ronnyvv,simile,timeline,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 ronnyvv
     :category: helpers
 

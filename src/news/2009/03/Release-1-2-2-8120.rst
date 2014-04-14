@@ -1,7 +1,7 @@
 Release: 1.2.2.8120
 ===================
 
-by %s on March 19, 2009
+by gwoo on March 19, 2009
 
 CakePHP still rising! We are excited to announce the release of
 CakePHP 1.2.2.8120[1]. The latest stable release fixes several bugs
@@ -39,6 +39,6 @@ Bake on!
     :title: Release: 1.2.2.8120
     :description: CakePHP Article related to release,News
     :keywords: release,News
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 gwoo
     :category: news
 

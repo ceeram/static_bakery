@@ -1,7 +1,7 @@
 Integrate Amazon Simple Email Service (SES) into existing application
 =====================================================================
 
-by %s on January 30, 2011
+by Dankroad on January 30, 2011
 
 The release of Amazon's Simple Email Service (SES) was a god send to
 me. There was always this dilemma between sendmail and SMTP (usually
@@ -82,6 +82,6 @@ out!
     :title: Integrate Amazon Simple Email Service (SES) into existing application
     :description: CakePHP Article related to email,email component,amazon web services,Articles
     :keywords: email,email component,amazon web services,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 Dankroad
     :category: articles
 

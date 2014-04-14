@@ -1,7 +1,7 @@
 Timestamp Custom Validation
 ===========================
 
-by %s on July 28, 2007
+by aparsons on July 28, 2007
 
 An example of how to validate timestamps using a custom method.
 
@@ -39,6 +39,6 @@ Model Class:
     :title: Timestamp Custom Validation
     :description: CakePHP Article related to model,validation,code,timestamp,Models
     :keywords: model,validation,code,timestamp,Models
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 aparsons
     :category: models
 

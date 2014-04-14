@@ -1,7 +1,7 @@
 SQL Dump Task for Shells
 ========================
 
-by %s on April 08, 2011
+by carcus88 on April 08, 2011
 
 If you need to dump your SQL queries from a Shell then this is for
 you.
@@ -105,6 +105,6 @@ file.
     :title: SQL Dump Task for Shells
     :description: CakePHP Article related to shells tasks sql dump,Snippets
     :keywords: shells tasks sql dump,Snippets
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 carcus88
     :category: snippets
 

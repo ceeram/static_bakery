@@ -1,7 +1,7 @@
 Automagic RSS Feed Generator Plugin
 ===================================
 
-by %s on May 03, 2007
+by mattc on May 03, 2007
 
 Automatically create RSS feeds for your CakePHP app.
 A .zip of the plugin is available at
@@ -71,6 +71,6 @@ or
     :title: Automagic RSS Feed Generator Plugin
     :description: CakePHP Article related to Rss,rss feed generator,Plugins
     :keywords: Rss,rss feed generator,Plugins
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 mattc
     :category: plugins
 

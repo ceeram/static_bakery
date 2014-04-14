@@ -1,7 +1,7 @@
 New Year, New Beta
 ==================
 
-by %s on January 02, 2008
+by PhpNut on January 02, 2008
 
 The CakePHP team is happy to wish everyone a wonderful new year.
 Entering the 3rd year of the development we can reflect back on what
@@ -125,6 +125,6 @@ Stable: 1.1.19.6305 `http://cakeforge.org/frs/?group_id=23_id=371`_
     :title: New Year, New Beta
     :description: CakePHP Article related to ,News
     :keywords: ,News
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 PhpNut
     :category: news
 

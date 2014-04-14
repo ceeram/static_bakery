@@ -1,7 +1,7 @@
 Using JpGraph
 =============
 
-by %s on December 26, 2007
+by cguyer on December 26, 2007
 
 JpGraph can dynamically generate various types of graphs based on data
 you feed it from a database/array. This tutorial is just how I use it
@@ -139,6 +139,6 @@ will try to help.
     :title: Using JpGraph
     :description: CakePHP Article related to JpGraph,Tutorials
     :keywords: JpGraph,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 cguyer
     :category: tutorials
 

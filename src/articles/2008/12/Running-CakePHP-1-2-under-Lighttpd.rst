@@ -1,7 +1,7 @@
 Running CakePHP 1.2 under Lighttpd
 ==================================
 
-by %s on December 14, 2008
+by moidaschl on December 14, 2008
 
 After reading this article you will hopefully be able to run cakephp
 under lighttpd
@@ -59,6 +59,6 @@ daschl
     :title: Running CakePHP 1.2 under Lighttpd
     :description: CakePHP Article related to lighttpd,Tutorials
     :keywords: lighttpd,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 moidaschl
     :category: tutorials
 

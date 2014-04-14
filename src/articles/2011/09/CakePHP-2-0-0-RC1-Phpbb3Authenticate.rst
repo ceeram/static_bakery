@@ -1,7 +1,7 @@
 CakePHP 2.0.0-RC1 Phpbb3Authenticate
 ====================================
 
-by %s on September 18, 2011
+by manzati93 on September 18, 2011
 
 I've just created an Auth plugin that allows the use of phpBB3 users
 table.
@@ -16,6 +16,6 @@ here:`https://github.com/ilmattodel93/cakephp-phpbb3authenticate`_
     :title: CakePHP 2.0.0-RC1 Phpbb3Authenticate
     :description: CakePHP Article related to Auth,CakePHP,cakephp 2.0,Components
     :keywords: Auth,CakePHP,cakephp 2.0,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 manzati93
     :category: components
 

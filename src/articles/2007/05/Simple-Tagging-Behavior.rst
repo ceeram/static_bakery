@@ -1,7 +1,7 @@
 Simple Tagging Behavior
 =======================
 
-by %s on May 02, 2007
+by dooltaz on May 02, 2007
 
 So far after looking at other tagging code in this site, I have not
 seen tags done properly when using normal database form. So this will
@@ -338,6 +338,6 @@ Hope this helps someone.
     :title: Simple Tagging Behavior
     :description: CakePHP Article related to tag,tagging,tags,behavior,simple,Behaviors
     :keywords: tag,tagging,tags,behavior,simple,Behaviors
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 dooltaz
     :category: behaviors
 

@@ -1,7 +1,7 @@
 Search feature to CakePHP blog example
 ======================================
 
-by %s on September 18, 2008
+by calin on September 18, 2008
 
 Using searchable behavior, exemplified on CakePHP's blog example from
 documentation.
@@ -150,6 +150,6 @@ for-cakephp`_).
     :title: Search feature to CakePHP blog example
     :description: CakePHP Article related to behavior,Tutorials
     :keywords: behavior,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 calin
     :category: tutorials
 

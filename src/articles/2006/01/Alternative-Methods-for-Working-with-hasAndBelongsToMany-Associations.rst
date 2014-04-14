@@ -1,7 +1,7 @@
 Alternative Methods for Working with hasAndBelongsToMany Associations
 =====================================================================
 
-by %s on January 15, 2006
+by glite on January 15, 2006
 
 As of 1.1.12.4205, CakePHP's current functionality for working with
 HABTM associations works very well for most applications, particularly
@@ -252,6 +252,6 @@ More
     :title: Alternative Methods for Working with hasAndBelongsToMany Associations
     :description: CakePHP Article related to hasAndBelongsToMany,HABTM,Models
     :keywords: hasAndBelongsToMany,HABTM,Models
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 glite
     :category: models
 

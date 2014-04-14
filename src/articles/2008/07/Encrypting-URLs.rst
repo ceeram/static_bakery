@@ -1,7 +1,7 @@
 Encrypting URLs
 ===============
 
-by %s on July 15, 2008
+by yuri.salame on July 15, 2008
 
 Encrypting URLs is not very SEO friendly but when this is not the aim
 you can easily encrypt everything to avoid tampering when normal
@@ -75,6 +75,6 @@ problem of having just some of the URLs encrypted.
     :title: Encrypting URLs
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 yuri.salame
     :category: tutorials
 

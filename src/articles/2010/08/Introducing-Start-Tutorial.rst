@@ -1,7 +1,7 @@
 Introducing Start Tutorial
 ==========================
 
-by %s on August 27, 2010
+by thedilab on August 27, 2010
 
 I have been working with CakePHP since its first release. And recently
 I decided to build a tutorial website and share my experience of
@@ -87,6 +87,6 @@ to CakePHP, a powerful RAD system.
     :title: Introducing Start Tutorial 
     :description: CakePHP Article related to tutorial website,Case Studies
     :keywords: tutorial website,Case Studies
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 thedilab
     :category: case_studies
 

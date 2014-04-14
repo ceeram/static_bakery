@@ -1,7 +1,7 @@
 fastfoo - cms under cakephp
 ===========================
 
-by %s on November 06, 2010
+by fastfoo on November 06, 2010
 
 How install fastfoo under your installations of cakephp
 
@@ -30,6 +30,6 @@ You can download fastfoo from `http://www.fast-foo.com`_
     :title: fastfoo - cms under cakephp
     :description: CakePHP Article related to CMS,fastfoo,Articles
     :keywords: CMS,fastfoo,Articles
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 fastfoo
     :category: articles
 

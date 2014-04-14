@@ -1,7 +1,7 @@
 GiveMeData: Insert fake data plugin for CakePHP
 ===============================================
 
-by %s on October 29, 2010
+by slywalker on October 29, 2010
 
 Now I want the data roughly. Such time for?
 In that case, Please leave GiveMeData Plugin for CakePHP.
@@ -176,6 +176,6 @@ Released under the MIT Licence
     :title: GiveMeData: Insert fake data plugin for CakePHP
     :description: CakePHP Article related to data,plugin,Plugins
     :keywords: data,plugin,Plugins
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 slywalker
     :category: plugins
 

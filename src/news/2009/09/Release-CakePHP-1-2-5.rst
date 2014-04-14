@@ -1,7 +1,7 @@
 Release: CakePHP 1.2.5
 ======================
 
-by %s on September 08, 2009
+by markstory on September 08, 2009
 
 The CakePHP development team is happy to announce CakePHP 1.2.5[1].
 1.2.5 is a bug fix release of the latest stable branch. Check the
@@ -33,6 +33,6 @@ And as always, thank you for helping us make a great framework.
     :title: Release: CakePHP 1.2.5
     :description: CakePHP Article related to release,News
     :keywords: release,News
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 markstory
     :category: news
 

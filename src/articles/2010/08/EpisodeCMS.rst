@@ -1,7 +1,7 @@
 EpisodeCMS
 ==========
 
-by %s on August 31, 2010
+by razbakov on August 31, 2010
 
 EpisodeCMS is CakePHP based content management system. Features:
 control panel, events API, module management, multilanguage and
@@ -39,6 +39,6 @@ Code â€” `http://code.google.com/p/episode-cms/`_ [li]Git Hub â€”
     :title: EpisodeCMS
     :description: CakePHP Article related to blog,CakePHP,CMS,General Interest
     :keywords: blog,CakePHP,CMS,General Interest
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 razbakov
     :category: general_interest
 

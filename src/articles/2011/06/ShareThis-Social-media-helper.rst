@@ -1,7 +1,7 @@
 "ShareThis” Social media helper
 ===============================
 
-by %s on June 26, 2011
+by rightwayindia on June 26, 2011
 
 This helper is used to add ShareThis buttons to your view. One can
 also just use their Publisher Id in order to link their ShareThis
@@ -138,6 +138,6 @@ $btns = array('twitter', 'facebook', 'yahoo', 'gbuzz', 'email',
     :title: "ShareThis” Social media helper
     :description: CakePHP Article related to helpers,Social Bookmark,twitter,facebook,social media,sharethis,Helpers
     :keywords: helpers,Social Bookmark,twitter,facebook,social media,sharethis,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 rightwayindia
     :category: helpers
 

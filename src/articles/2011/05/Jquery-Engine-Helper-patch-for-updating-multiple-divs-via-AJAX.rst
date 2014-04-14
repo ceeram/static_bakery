@@ -1,7 +1,7 @@
 Jquery Engine Helper patch for updating multiple divs via AJAX
 ==============================================================
 
-by %s on May 15, 2011
+by lucabelluccini on May 15, 2011
 
 This article is focused on CakePHP 1.3.8 and the users who moved to Js
 Helper (jQuery). The part below contains all the code needed for
@@ -57,6 +57,6 @@ CakePHP understands automatically if incoming requests areAJAX calls
     :title: Jquery Engine Helper patch for updating multiple divs via AJAX
     :description: CakePHP Article related to AJAX,update,jquery helper,cakephp 1.3,Helpers
     :keywords: AJAX,update,jquery helper,cakephp 1.3,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 lucabelluccini
     :category: helpers
 

@@ -1,7 +1,7 @@
 Release: Some RC2 Sweetness
 ===========================
 
-by %s on June 27, 2008
+by gwoo on June 27, 2008
 
 The release of CakePHP 1.2RC2 [1] with several bug fixes and
 optimizations brings more speed and stability to the 1.2 series. Check
@@ -42,6 +42,6 @@ Happy Baking.
     :title: Release: Some RC2 Sweetness
     :description: CakePHP Article related to jobs,changelog,optimizations,candidate,fixes,rc,News
     :keywords: jobs,changelog,optimizations,candidate,fixes,rc,News
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 gwoo
     :category: news
 

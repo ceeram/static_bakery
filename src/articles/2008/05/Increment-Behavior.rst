@@ -1,7 +1,7 @@
 Increment Behavior
 ==================
 
-by %s on May 13, 2008
+by ketan on May 13, 2008
 
 Increment Behavior is ideal for use when you want to increment a
 certain field by a delta increment such as adding votes, updating view
@@ -180,6 +180,6 @@ Ketan
     :title: Increment Behavior
     :description: CakePHP Article related to behavior,increment,Behaviors
     :keywords: behavior,increment,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 ketan
     :category: behaviors
 

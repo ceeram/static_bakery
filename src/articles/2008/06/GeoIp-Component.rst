@@ -1,7 +1,7 @@
 GeoIp Component
 ===============
 
-by %s on June 13, 2008
+by kuja on June 13, 2008
 
 If you need as much information as you can get about a client's
 region, then maybe you need to get into the game with Maxmind's GeoIP
@@ -160,6 +160,6 @@ email at: shugotenshi at gmail dot com
     :title: GeoIp Component
     :description: CakePHP Article related to geoip,iptolocation,Components
     :keywords: geoip,iptolocation,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 kuja
     :category: components
 

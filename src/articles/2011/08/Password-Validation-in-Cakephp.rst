@@ -1,7 +1,7 @@
 Password Validation in Cakephp
 ==============================
 
-by %s on August 19, 2011
+by rajender120 on August 19, 2011
 
 Password validation is very important for the tasks like resetting
 password.
@@ -62,6 +62,6 @@ return true;
     :title: Password Validation in Cakephp
     :description: CakePHP Article related to Auth,validation,password,Unset,Articles
     :keywords: Auth,validation,password,Unset,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 rajender120
     :category: articles
 

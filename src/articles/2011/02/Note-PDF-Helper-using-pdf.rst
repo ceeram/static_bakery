@@ -1,7 +1,7 @@
 Note: PDF Helper using pdf
 ==========================
 
-by %s on February 19, 2011
+by tung on February 19, 2011
 
 This article is to inform bugs when we use this post
 http://bakery.cakephp.org/articles/sdevore_myopenid_com/2007/01/18
@@ -21,6 +21,6 @@ the like header("Content-type: application/pdf");
     :title: Note: PDF Helper using pdf
     :description: CakePHP Article related to pdf helpers,Helpers
     :keywords: pdf helpers,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 tung
     :category: helpers
 

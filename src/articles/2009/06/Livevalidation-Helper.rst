@@ -1,7 +1,7 @@
 Livevalidation Helper
 =====================
 
-by %s on June 20, 2009
+by tammuz on June 20, 2009
 
 - LiveValidation is a small open source javascript library for making
 client-side validation quick, easy, and powerful. It comprises of two
@@ -583,6 +583,6 @@ I hope this article will useful for everybody.
     :title: Livevalidation Helper
     :description: CakePHP Article related to helper validation,Helpers
     :keywords: helper validation,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 tammuz
     :category: helpers
 

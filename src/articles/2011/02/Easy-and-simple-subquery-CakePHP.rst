@@ -1,7 +1,7 @@
 Easy and simple subquery CakePHP
 ================================
 
-by %s on February 11, 2011
+by lucaswxp on February 11, 2011
 
 How to easily make subquery in CakePHP
 Example usage:
@@ -116,6 +116,6 @@ Insert this in AppModel and enjoy:
     :title: Easy and simple subquery CakePHP
     :description: CakePHP Article related to model,appModel,subquery,Articles
     :keywords: model,appModel,subquery,Articles
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 lucaswxp
     :category: articles
 

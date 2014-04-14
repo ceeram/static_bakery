@@ -1,7 +1,7 @@
 Using PHPTAL for templates: PhptalView class
 ============================================
 
-by %s on April 24, 2007
+by dkvasnicka on April 24, 2007
 
 I use PHPTAL quite a lot (believe it or not, I like XML ;) and I
 wanted to use it in Cake so I wrote a little PhptalView class
@@ -148,6 +148,6 @@ More
     :title: Using PHPTAL for templates: PhptalView class
     :description: CakePHP Article related to php5,xml,Template,phptal,Components
     :keywords: php5,xml,Template,phptal,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 dkvasnicka
     :category: components
 

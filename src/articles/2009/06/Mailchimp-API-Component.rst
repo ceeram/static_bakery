@@ -1,7 +1,7 @@
 Mailchimp API Component
 =======================
 
-by %s on June 20, 2009
+by mpatek on June 20, 2009
 
 Mailchimp provides a nice API to their email marketing service. Here
 is a very simple component that you can use to make calls to the
@@ -129,6 +129,6 @@ Controller Class:
     :title: Mailchimp API Component
     :description: CakePHP Article related to email,mailchimp,marketing,Components
     :keywords: email,mailchimp,marketing,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 mpatek
     :category: components
 

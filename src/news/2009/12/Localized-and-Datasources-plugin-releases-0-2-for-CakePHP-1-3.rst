@@ -1,7 +1,7 @@
 Localized and Datasources plugin releases 0.2 for CakePHP 1.3
 =============================================================
 
-by %s on December 28, 2009
+by predominant on December 28, 2009
 
 The first officially supported CakePHP plugins (Localized and
 Datasources) developed by the community and the core developers have
@@ -56,6 +56,6 @@ any and all input for the development and extension of these plugins.
     :title: Localized and Datasources plugin releases 0.2 for CakePHP 1.3
     :description: CakePHP Article related to release,CakePHP,plugin,plugins,News
     :keywords: release,CakePHP,plugin,plugins,News
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 predominant
     :category: news
 

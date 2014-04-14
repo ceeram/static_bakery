@@ -1,7 +1,7 @@
 Markdown plugin for CakePHP 2.+
 ===============================
 
-by %s on May 23, 2012
+by maurymmarques on May 23, 2012
 
 Can be used to convert markdown to HTML markup. It may be useful, for
 example, to create a help session in a system. That way you can also
@@ -70,6 +70,6 @@ GitHub
     :title: Markdown plugin for CakePHP 2.+
     :description: CakePHP Article related to markup,plugin,html,convert,markdown,Plugins
     :keywords: markup,plugin,html,convert,markdown,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 maurymmarques
     :category: plugins
 

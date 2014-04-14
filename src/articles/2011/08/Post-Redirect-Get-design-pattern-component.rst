@@ -1,7 +1,7 @@
 Post/Redirect/Get design pattern component
 ==========================================
 
-by %s on August 12, 2011
+by luciansabo on August 12, 2011
 
 Post/Redirect/Get (PRG) is a common design pattern for web developers
 to help avoid certain duplicate form submissions and allow user agents
@@ -158,6 +158,6 @@ So a common usage is to have a method in your controller like this:
     :title: Post/Redirect/Get design pattern component
     :description: CakePHP Article related to pagination,post-redirect-get,post/redirect/get,PRG,Components
     :keywords: pagination,post-redirect-get,post/redirect/get,PRG,Components
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 luciansabo
     :category: components
 

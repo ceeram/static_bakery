@@ -1,7 +1,7 @@
 jQuery autocomplete Helper
 ==========================
 
-by %s on April 12, 2008
+by Gemini on April 12, 2008
 
 I use jQuery becose is fast and concise Javascript library. My helper,
 jmycake, use jQuery for AJAX autocomplete.
@@ -262,6 +262,6 @@ Sorry for my english... :(
     :title: jQuery autocomplete Helper
     :description: CakePHP Article related to autocomplete,Helpers
     :keywords: autocomplete,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 Gemini
     :category: helpers
 

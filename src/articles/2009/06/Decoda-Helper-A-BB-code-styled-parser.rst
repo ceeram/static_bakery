@@ -1,7 +1,7 @@
 Decoda Helper - A BB code styled parser
 =======================================
 
-by %s on June 05, 2009
+by milesj on June 05, 2009
 
 Decoda is a lightweight class that extracts and parses a custom markup
 language; based on the concept of BB code. Decoda supports all the
@@ -133,6 +133,6 @@ supported with lists.
     :title: Decoda Helper - A BB code styled parser
     :description: CakePHP Article related to bb,helper,code,parser,translator,decoda,miles,milesj,johnson,Helpers
     :keywords: bb,helper,code,parser,translator,decoda,miles,milesj,johnson,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 milesj
     :category: helpers
 

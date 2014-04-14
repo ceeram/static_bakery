@@ -1,7 +1,7 @@
 Installing cakePHP on Ubuntu
 ============================
 
-by %s on April 10, 2007
+by lukemack on April 10, 2007
 
 I use Ubuntu 6.10 Server with the LAMP package as my development
 server. These instructions have not been tested outside of that
@@ -42,6 +42,6 @@ formatting for the cake default page.
     :title: Installing cakePHP on Ubuntu
     :description: CakePHP Article related to cake,cake ubuntu LAMP,lampp,ubuntu,Tutorials
     :keywords: cake,cake ubuntu LAMP,lampp,ubuntu,Tutorials
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 lukemack
     :category: tutorials
 

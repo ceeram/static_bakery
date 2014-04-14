@@ -1,7 +1,7 @@
 Baked Enums
 ===========
 
-by %s on October 03, 2006
+by jzimmerman on October 03, 2006
 
 Moving this snippet over from CakeForge. This is a preliminary
 solution to solve the problem of baking your Models's, View's and
@@ -126,6 +126,6 @@ Controller Class:
     :title: Baked Enums
     :description: CakePHP Article related to enum bake mysql,Snippets
     :keywords: enum bake mysql,Snippets
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 jzimmerman
     :category: snippets
 

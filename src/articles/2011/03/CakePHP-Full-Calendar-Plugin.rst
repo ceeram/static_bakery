@@ -1,7 +1,7 @@
 CakePHP Full Calendar Plugin
 ============================
 
-by %s on September 24, 2011
+by silasmontgomery on September 24, 2011
 
 The CakePHP Full Calendar Plugin easily integrates the jQuery based
 Full Calendar application with your CakePHP application for a slick
@@ -113,6 +113,6 @@ questions/support requests.
     :title: CakePHP Full Calendar Plugin
     :description: CakePHP Article related to AJAX,calendar,jquery,jqueryui,qtip,Plugins
     :keywords: AJAX,calendar,jquery,jqueryui,qtip,Plugins
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 silasmontgomery
     :category: plugins
 

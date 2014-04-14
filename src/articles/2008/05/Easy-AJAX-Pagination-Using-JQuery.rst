@@ -1,7 +1,7 @@
 Easy AJAX Pagination Using JQuery
 =================================
 
-by %s on May 03, 2008
+by daphonz on May 03, 2008
 
 This simple little JQuery function allows you to drop paginated data
 into your views with ease.
@@ -199,6 +199,6 @@ it's also quite clean.
     :title: Easy AJAX Pagination Using JQuery
     :description: CakePHP Article related to pagination,jquery,paginate,Snippets
     :keywords: pagination,jquery,paginate,Snippets
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 daphonz
     :category: snippets
 

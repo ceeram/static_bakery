@@ -1,7 +1,7 @@
 Pagination for custom queries
 =============================
 
-by %s on August 29, 2010
+by shird10 on August 29, 2010
 
 I was doing a project, and needed to do a custom query to return a
 certain set of data from the table. I needed to be able to paginate
@@ -186,6 +186,6 @@ pagination of forum/posts results.
     :title: Pagination for custom queries
     :description: CakePHP Article related to ,Tutorials
     :keywords: ,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 shird10
     :category: tutorials
 

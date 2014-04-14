@@ -1,7 +1,7 @@
 PersistentValidation - keeping your validation data after redirects
 ===================================================================
 
-by %s on January 20, 2010
+by binarycrafts on January 20, 2010
 
 I decided to wrap this functionality in a component because when you
 have several forms in a view and each one relates to a different
@@ -83,6 +83,6 @@ Component Class:
     :title: PersistentValidation - keeping your validation data after redirects
     :description: CakePHP Article related to session,validation,redirects,Components
     :keywords: session,validation,redirects,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 binarycrafts
     :category: components
 

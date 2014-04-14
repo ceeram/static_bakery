@@ -1,7 +1,7 @@
 Notes Task
 ==========
 
-by %s on April 22, 2007
+by joelmoss on April 22, 2007
 
 A source-annotations extractor task for bake2. This allows you to add
 FIXME, OPTIMIZE, and TODO comments to your source code that can then
@@ -201,6 +201,6 @@ bake2.php notes app_alias optimise
     :title: Notes Task
     :description: CakePHP Article related to task,notes,annotation,bake2,Components
     :keywords: task,notes,annotation,bake2,Components
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 joelmoss
     :category: components
 

@@ -1,7 +1,7 @@
 Extensible Calendar Plugin
 ==========================
 
-by %s on October 10, 2011
+by passionforcode on October 10, 2011
 
 This is a simple plugin for rendering a fully functional, yet very
 extensible, calendar. Plugin can be downloaded at
@@ -92,6 +92,6 @@ future. Requests excepted :)
     :title: Extensible Calendar Plugin
     :description: CakePHP Article related to helper,calendar,Localization,plugin,utc,Helpers
     :keywords: helper,calendar,Localization,plugin,utc,Helpers
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 passionforcode
     :category: helpers
 

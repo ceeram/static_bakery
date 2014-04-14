@@ -1,7 +1,7 @@
 Simple Excel spreadsheet helper
 ===============================
 
-by %s on January 26, 2010
+by melgior on January 26, 2010
 
 I made this Excel helper because I wanted to generate reports of data
 easily, without having to specify column names and other stuff. You
@@ -218,6 +218,6 @@ Helper Class:
     :title: Simple Excel spreadsheet helper
     :description: CakePHP Article related to excel,spreadsheet,report,Helpers
     :keywords: excel,spreadsheet,report,Helpers
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 melgior
     :category: helpers
 

@@ -1,7 +1,7 @@
 CakePHP 2 Export as CSV plugin
 ==============================
 
-by %s on June 23, 2013
+by joshua.paling on June 23, 2013
 
 The Export as CSV plugin takes the results of a Model find('all')
 call, including nested belongsTo associations, flattens the resulting
@@ -108,6 +108,6 @@ MIT - `http://opensource.org/licenses/MIT`_
     :title: CakePHP 2 Export as CSV plugin
     :description: CakePHP Article related to component,export,csv,Components
     :keywords: component,export,csv,Components
-    :copyright: Copyright 2013 
+    :copyright: Copyright 2013 joshua.paling
     :category: components
 

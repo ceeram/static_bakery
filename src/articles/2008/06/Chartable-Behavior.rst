@@ -1,7 +1,7 @@
 Chartable Behavior
 ==================
 
-by %s on June 11, 2008
+by alkemann on June 11, 2008
 
 This small behavior is something I made to make models easily work
 with the cool OpenFlashChart "vendor" (http://teethgrinder.co.uk/open-
@@ -645,6 +645,6 @@ More
     :title: Chartable Behavior
     :description: CakePHP Article related to behavior,chart,openflashchart,FlashChartHelper,alkemann,Behaviors
     :keywords: behavior,chart,openflashchart,FlashChartHelper,alkemann,Behaviors
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 alkemann
     :category: behaviors
 

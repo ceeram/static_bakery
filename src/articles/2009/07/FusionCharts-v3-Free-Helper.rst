@@ -1,7 +1,7 @@
 FusionCharts v3 Free Helper
 ===========================
 
-by %s on July 22, 2009
+by robinduckett on July 22, 2009
 
 Very quick FusionCharts helper, to use this, you need to put the
 following code in your views/helpers/ directory
@@ -426,6 +426,6 @@ Any problems leave a message :)
     :title: FusionCharts v3 Free Helper
     :description: CakePHP Article related to xml,charts,lines,graphs,fusioncharts,fusion,Helpers
     :keywords: xml,charts,lines,graphs,fusioncharts,fusion,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 robinduckett
     :category: helpers
 

@@ -1,7 +1,7 @@
 CustomFinds Behavior
 ====================
 
-by %s on September 25, 2010
+by Danielpk on September 25, 2010
 
 Behavior that enables you to config custom finds at Model in order to
 use with Model->find();
@@ -68,6 +68,6 @@ Edited: Packaged as plugin.
     :title: CustomFinds Behavior
     :description: CakePHP Article related to find,behavior,custom,custom query,custom find,Behaviors
     :keywords: find,behavior,custom,custom query,custom find,Behaviors
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 Danielpk
     :category: behaviors
 

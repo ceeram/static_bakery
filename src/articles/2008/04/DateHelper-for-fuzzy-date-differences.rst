@@ -1,7 +1,7 @@
 DateHelper for fuzzy date differences
 =====================================
 
-by %s on April 12, 2008
+by g2010a on April 12, 2008
 
 A semi-useful helper that calculates the difference between two dates
 and gives it in *slightly* fuzzy logic: "almost 2 years," "over 1
@@ -133,6 +133,6 @@ Helper Class:
     :title: DateHelper for fuzzy date differences
     :description: CakePHP Article related to fuzzy,logic,difference,date,Helpers
     :keywords: fuzzy,logic,difference,date,Helpers
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 g2010a
     :category: helpers
 

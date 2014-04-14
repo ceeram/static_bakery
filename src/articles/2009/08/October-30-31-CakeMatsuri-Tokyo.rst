@@ -1,7 +1,7 @@
 October 30 - 31, CakeMatsuri Tokyo
 ==================================
 
-by %s on August 14, 2009
+by yandod on August 14, 2009
 
 Last year, we had a CakePHP conference in Tokyo. The event will come
 back again as [b]"Matsuri"[/b] We are waiting attendees from Asia and
@@ -56,6 +56,6 @@ Photos of lastyear:
     :title: October 30 - 31, CakeMatsuri Tokyo
     :description: CakePHP Article related to ,General Interest
     :keywords: ,General Interest
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 yandod
     :category: general_interest
 

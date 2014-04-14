@@ -1,7 +1,7 @@
 Start to Finish: My Site Designed using CakePHP
 ===============================================
 
-by %s on March 12, 2009
+by Phazo on March 12, 2009
 
 The long and arduous process of going from knowing nothing about
 coding or graphics or web layouts to creating a website isn't easy. I
@@ -219,6 +219,6 @@ The results of my work can be found at
     :title: Start to Finish: My Site Designed using CakePHP
     :description: CakePHP Article related to ,Case Studies
     :keywords: ,Case Studies
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Phazo
     :category: case_studies
 

@@ -1,7 +1,7 @@
 Image Component for Upload and Thumbnail (phpThumb)
 ===================================================
 
-by %s on August 02, 2009
+by floorball92 on August 02, 2009
 
 This Component can be used upload images and generate thumbnails from
 upload or each other files
@@ -430,6 +430,6 @@ Component Class:
     :title: Image Component for Upload and Thumbnail (phpThumb)
     :description: CakePHP Article related to image,thumbnail,phpThumb,upload,Components
     :keywords: image,thumbnail,phpThumb,upload,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 floorball92
     :category: components
 

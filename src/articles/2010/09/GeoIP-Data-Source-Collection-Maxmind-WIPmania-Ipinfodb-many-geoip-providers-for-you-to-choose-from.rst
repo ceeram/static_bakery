@@ -2,7 +2,7 @@ GeoIP Data Source Collection - Maxmind, WIPmania, Ipinfodb - many
 geoip providers for you to choose from!
 =======================================
 
-by %s on September 07, 2010
+by dereklio on September 07, 2010
 
 Recently, I did a lot of projects about geo-targeting websites, and
 most of my projects are cakephp-based. So it makes sense for me
@@ -286,6 +286,6 @@ And.... that's all, enjoy your day!
     :title: GeoIP Data Source Collection - Maxmind, WIPmania, Ipinfodb - many geoip providers for you to choose from!
     :description: CakePHP Article related to geoip,maxmind,iptolocation,wipmania,linuxbox,webnet,worldip,freegeoip,ipinfodb,Models
     :keywords: geoip,maxmind,iptolocation,wipmania,linuxbox,webnet,worldip,freegeoip,ipinfodb,Models
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 dereklio
     :category: models
 

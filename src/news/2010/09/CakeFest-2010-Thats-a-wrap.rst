@@ -1,7 +1,7 @@
 CakeFest 2010: Thats a wrap
 ===========================
 
-by %s on September 06, 2010
+by predominant on September 06, 2010
 
 CakeFest 2010 has come to a close. After 4 days of jam-packed talks,
 workshops, lightning talks and social outings, we're sad to see it
@@ -126,6 +126,6 @@ Thanks for attending! We'll see you at the next event!
     :title: CakeFest 2010: Thats a wrap
     :description: CakePHP Article related to conference,cakefest,chicago,News
     :keywords: conference,cakefest,chicago,News
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 predominant
     :category: news
 

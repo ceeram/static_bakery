@@ -1,7 +1,7 @@
 3.0: a peek into CakePHP's future
 =================================
 
-by %s on July 06, 2012
+by lorenzo on July 06, 2012
 
 With version 2.2.0 out the team is now focusing on bringing the
 CakePHP community a major new version with awesome features
@@ -99,6 +99,6 @@ time to start sending patches and become one of the core team!
     :title: 3.0: a peek into CakePHP's future
     :description: CakePHP Article related to 3.0,News
     :keywords: 3.0,News
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 lorenzo
     :category: news
 

@@ -1,7 +1,7 @@
 Sharing One Table amongst different Models using a Type
 =======================================================
 
-by %s on January 28, 2007
+by TommyO on January 28, 2007
 
 Sometimes it is necessary to link one data set(the child) to different
 data sets(the parent) based on a 'type' field. Often this is done
@@ -138,6 +138,6 @@ The magic is done here with the addition of $actsAs in the Book Model.
     :title: Sharing One Table amongst different Models using a Type
     :description: CakePHP Article related to ,Behaviors
     :keywords: ,Behaviors
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 TommyO
     :category: behaviors
 

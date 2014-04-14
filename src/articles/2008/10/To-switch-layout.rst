@@ -1,7 +1,7 @@
 To switch layout
 ================
 
-by %s on October 01, 2008
+by k_k_ramji on October 01, 2008
 
 To switch the layout in cake php
 Hi ,
@@ -61,6 +61,6 @@ just type
     :title: To switch layout
     :description: CakePHP Article related to Layouts,iPhone,switch layout,iphone layout,layout switch,General Interest
     :keywords: Layouts,iPhone,switch layout,iphone layout,layout switch,General Interest
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 k_k_ramji
     :category: general_interest
 

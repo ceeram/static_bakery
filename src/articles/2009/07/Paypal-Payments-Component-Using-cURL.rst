@@ -1,7 +1,7 @@
 Paypal Payments Component Using cURL
 ====================================
 
-by %s on July 08, 2009
+by parris on July 08, 2009
 
 Updated: July 5th, 2009: Added Express Checkout and modified both the
 component and the file under vendors. Also you will need to change the
@@ -472,6 +472,6 @@ Thanks/Enjoy :)
     :title: Paypal Payments Component Using cURL
     :description: CakePHP Article related to express,direct,payment,paypal,component,curl,direct payment,processing,card,credit,express payment,recurring payment,Components
     :keywords: express,direct,payment,paypal,component,curl,direct payment,processing,card,credit,express payment,recurring payment,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 parris
     :category: components
 

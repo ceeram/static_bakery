@@ -1,7 +1,7 @@
 OpenidAuth Component
 ====================
 
-by %s on April 14, 2009
+by danielfarrell on April 14, 2009
 
 Here is a pretty basic OpenidAuth component that extends the built in
 Auth component and does it's magic.
@@ -292,6 +292,6 @@ article if I make more updates.
     :title: OpenidAuth Component
     :description: CakePHP Article related to Auth,component,openid,Components
     :keywords: Auth,component,openid,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 danielfarrell
     :category: components
 

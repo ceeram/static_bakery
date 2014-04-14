@@ -1,7 +1,7 @@
 Combobox Form Field Helper
 ==========================
 
-by %s on January 13, 2009
+by bamyers99 on January 13, 2009
 
 This is modeled after the Windows Combobox input field. It is a
 combination textbox and select list. The user can select from a list
@@ -173,6 +173,6 @@ How It Works
     :title: Combobox Form Field Helper
     :description: CakePHP Article related to combo-box,Helpers
     :keywords: combo-box,Helpers
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 bamyers99
     :category: helpers
 

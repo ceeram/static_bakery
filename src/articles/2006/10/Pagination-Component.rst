@@ -1,7 +1,7 @@
 Pagination Component
 ====================
 
-by %s on October 09, 2006
+by AD7six on October 09, 2006
 
 The pagination component. For instruction on use see:
 http://bakery.cakephp.org/articles/view/65
@@ -508,6 +508,6 @@ Component Class:
     :title: Pagination Component
     :description: CakePHP Article related to component,Components
     :keywords: component,Components
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 AD7six
     :category: components
 

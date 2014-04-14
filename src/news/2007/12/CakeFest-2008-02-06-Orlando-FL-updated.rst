@@ -1,7 +1,7 @@
 CakeFest : 2008-02-06, Orlando FL [updated]
 ===========================================
 
-by %s on December 27, 2007
+by gwoo on December 27, 2007
 
 Join us in February for three days of tutorials, talks, and fun.
 We would like to invite you to `CakeFest, February 6-8 2008`_ in
@@ -31,6 +31,6 @@ Schedule updated
     :title: CakeFest : 2008-02-06, Orlando FL [updated]
     :description: CakePHP Article related to cakefest,News
     :keywords: cakefest,News
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 gwoo
     :category: news
 

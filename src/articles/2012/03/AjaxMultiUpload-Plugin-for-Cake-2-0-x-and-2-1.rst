@@ -1,7 +1,7 @@
 AjaxMultiUpload Plugin for Cake 2.0.x and 2.1
 =============================================
 
-by %s on March 13, 2012
+by srs2012 on March 13, 2012
 
 A full-blown AJAX file uploader plugin for CakePHP 2.0.x and 2.1.
 Using this, you can add multiple file upload behavior to any or all of
@@ -169,6 +169,6 @@ Support
     :title: AjaxMultiUpload Plugin for Cake 2.0.x and 2.1
     :description: CakePHP Article related to plugin,upload,Files,Plugins
     :keywords: plugin,upload,Files,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 srs2012
     :category: plugins
 

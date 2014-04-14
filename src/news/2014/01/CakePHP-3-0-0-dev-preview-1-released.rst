@@ -1,7 +1,7 @@
 CakePHP 3.0.0 dev preview 1 released
 ====================================
 
-by %s on January 05, 2014
+by markstory on January 05, 2014
 
 The CakePHP core team is very excited to announce the first
 development preview of CakePHP 3.0
@@ -149,6 +149,6 @@ Links
     :title: CakePHP 3.0.0 dev preview 1 released
     :description: CakePHP Article related to release,CakePHP,News
     :keywords: release,CakePHP,News
-    :copyright: Copyright 2014 
+    :copyright: Copyright 2014 markstory
     :category: news
 

@@ -1,7 +1,7 @@
 MonitorableBehavior
 ===================
 
-by %s on May 15, 2009
+by sassman on May 15, 2009
 
 Have you ever need a functionality like: how many people have clicked
 a picture or when did anyone download a file? Then the
@@ -70,6 +70,6 @@ Requirements:
     :title: MonitorableBehavior
     :description: CakePHP Article related to behavior,monitoring,Behaviors
     :keywords: behavior,monitoring,Behaviors
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 sassman
     :category: behaviors
 

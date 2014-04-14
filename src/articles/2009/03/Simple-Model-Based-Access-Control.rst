@@ -1,7 +1,7 @@
 Simple, Model-Based Access Control
 ==================================
 
-by %s on March 24, 2009
+by linnk on March 24, 2009
 
 In this article an alternative way of doing access control with
 CakePHP is presented. The solution separates all of your
@@ -99,6 +99,6 @@ Sources
     :title: Simple, Model-Based Access Control
     :description: CakePHP Article related to model,Auth,configuration,authentication,isauthorized,Tutorials
     :keywords: model,Auth,configuration,authentication,isauthorized,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 linnk
     :category: tutorials
 

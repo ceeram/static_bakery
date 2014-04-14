@@ -1,7 +1,7 @@
 Social login with Hybridauth
 ============================
 
-by %s on July 27, 2012
+by thehanx on July 27, 2012
 
 HybridAuth enable developers to easily build social applications to
 engage websites vistors and customers on a social level by
@@ -115,6 +115,6 @@ hybridauth
     :title: Social login with Hybridauth
     :description: CakePHP Article related to google,authcomponent,twitter,facebook,social login,linkedin,hybridauth,Articles
     :keywords: google,authcomponent,twitter,facebook,social login,linkedin,hybridauth,Articles
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 thehanx
     :category: articles
 

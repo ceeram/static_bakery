@@ -1,7 +1,7 @@
 Hostip.info - Accessing GeoIP information using HttpSocket
 ==========================================================
 
-by %s on March 12, 2010
+by chadsmith729 on March 12, 2010
 
 This article will cover how to access geoIP information from
 hostip.info. Hostip.info is a community-based project to geolocate IP
@@ -160,6 +160,6 @@ Happy Baking!
     :title: Hostip.info - Accessing GeoIP information using HttpSocket
     :description: CakePHP Article related to geoip,httpsocket,hostip,Components
     :keywords: geoip,httpsocket,hostip,Components
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 chadsmith729
     :category: components
 

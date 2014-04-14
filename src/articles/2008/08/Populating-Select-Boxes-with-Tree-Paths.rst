@@ -1,7 +1,7 @@
 Populating Select Boxes with Tree Paths
 =======================================
 
-by %s on August 26, 2008
+by stupergenius on August 26, 2008
 
 If you populate select boxes with a tree, and your tree has many
 nodes, which can be named the same, you are often left with an
@@ -105,6 +105,6 @@ LCD options.
     :title: Populating Select Boxes with Tree Paths
     :description: CakePHP Article related to tree,Tutorials
     :keywords: tree,Tutorials
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 stupergenius
     :category: tutorials
 

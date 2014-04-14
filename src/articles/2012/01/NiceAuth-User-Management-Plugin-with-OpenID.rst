@@ -1,7 +1,7 @@
 NiceAuth - User Management Plugin with OpenID
 =============================================
 
-by %s on January 22, 2012
+by rsmartin on January 22, 2012
 
 NiceAuth is a user management and authorization plugin that uses
 CakePHP's Acl Component to manage users and permissions via a
@@ -36,6 +36,6 @@ For more information and downloads:
     :title: NiceAuth - User Management Plugin with OpenID
     :description: CakePHP Article related to acl,Auth,openid,Plugins
     :keywords: acl,Auth,openid,Plugins
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 rsmartin
     :category: plugins
 

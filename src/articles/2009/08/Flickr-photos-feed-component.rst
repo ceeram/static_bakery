@@ -1,7 +1,7 @@
 Flickr photos feed component
 ============================
 
-by %s on August 10, 2009
+by regis on August 10, 2009
 
 This is a simple component that allows you to retrieve photos from a
 Flickr user (or multiple users) without the need of an API Key or an
@@ -231,6 +231,6 @@ And that's it!! Good luck!
     :title: Flickr photos feed component
     :description: CakePHP Article related to feed,component,photo,flickr,Components
     :keywords: feed,component,photo,flickr,Components
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 regis
     :category: components
 

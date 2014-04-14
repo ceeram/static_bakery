@@ -1,7 +1,7 @@
 Google Maps Helper
 ==================
 
-by %s on September 08, 2012
+by marcferna on September 08, 2012
 
 # Google Maps Helper for CakePHP 2.x Helper for CakePHP framework that
 integrates a Google Map in your view using Google Maps API V3.
@@ -122,6 +122,6 @@ Cupertino, California", $marker_options); ?>
     :title: Google Maps Helper
     :description: CakePHP Article related to Google Maps,maps,google maps v3,google maps helper,Helpers
     :keywords: Google Maps,maps,google maps v3,google maps helper,Helpers
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 marcferna
     :category: helpers
 

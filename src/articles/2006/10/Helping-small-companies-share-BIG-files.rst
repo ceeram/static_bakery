@@ -1,7 +1,7 @@
 Helping small companies share BIG files
 =======================================
 
-by %s on October 15, 2006
+by eimermusic on October 15, 2006
 
 My pet project, called Fileshifter, is secure file-manager targeted at
 small companied needing to transfer big files to and from clients and
@@ -169,6 +169,6 @@ Martin Westin
     :title: Helping small companies share BIG files
     :description: CakePHP Article related to filesharing,webapp,Fileshifter,experience,Application,Case Studies
     :keywords: filesharing,webapp,Fileshifter,experience,Application,Case Studies
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 eimermusic
     :category: case_studies
 

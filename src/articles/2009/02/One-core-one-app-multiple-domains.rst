@@ -1,7 +1,7 @@
 One core, one app, multiple domains
 ===================================
 
-by %s on February 18, 2009
+by eimermusic on February 18, 2009
 
 Dealing with configurations for multiple domains (environments) is
 always a topic for discussion. I wanted to share my way of dealing
@@ -278,6 +278,6 @@ cakephp`_
     :title: One core, one app, multiple domains
     :description: CakePHP Article related to configuration,environments,domains,Tutorials
     :keywords: configuration,environments,domains,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 eimermusic
     :category: tutorials
 

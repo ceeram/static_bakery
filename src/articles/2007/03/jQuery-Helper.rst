@@ -1,7 +1,7 @@
 jQuery Helper
 =============
 
-by %s on March 13, 2007
+by thepeg on March 13, 2007
 
 I wrote an helper that allow you to enjoy jQuery library by helping in
 script inclusion and plugin management.
@@ -22,6 +22,6 @@ If you would like to help email, docs [at] cakephp [dot] org.
     :title: jQuery Helper
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 thepeg
     :category: helpers
 

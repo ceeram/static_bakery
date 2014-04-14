@@ -1,7 +1,7 @@
 'Remember me' - a component to add upon basic auth
 ==================================================
 
-by %s on December 29, 2008
+by irina on December 29, 2008
 
 [b] A simpler component on the same lines:
 http://dsi.vozibrale.com/articles/view/rememberme-component-the-final-
@@ -192,6 +192,6 @@ Component Class:
     :title: 'Remember me' - a component to add upon basic auth
     :description: CakePHP Article related to user,authentication,remember me,remember,Components
     :keywords: user,authentication,remember me,remember,Components
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 irina
     :category: components
 

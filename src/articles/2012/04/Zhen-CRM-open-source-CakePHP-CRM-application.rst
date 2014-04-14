@@ -1,7 +1,7 @@
 Zhen CRM: open-source CakePHP CRM application
 =============================================
 
-by %s on April 13, 2012
+by telerim on April 13, 2012
 
 A simple CRM built on CakePHP 2.x
 
@@ -26,6 +26,6 @@ servers or shared hosts.
     :title: Zhen CRM: open-source CakePHP CRM application
     :description: CakePHP Article related to crm,Case Studies
     :keywords: crm,Case Studies
-    :copyright: Copyright 2012 
+    :copyright: Copyright 2012 telerim
     :category: case_studies
 

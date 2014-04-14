@@ -1,7 +1,7 @@
 Habtm Updatable Behavior
 ========================
 
-by %s on April 13, 2010
+by nachopitt on April 13, 2010
 
 A behavior to sync data POST'ed from a select box input and data
 already saved. Useful in edit actions.
@@ -197,6 +197,6 @@ Behavior Class:
     :title: Habtm Updatable Behavior
     :description: CakePHP Article related to save,multiple,Edit,HABTM,update,Behaviors
     :keywords: save,multiple,Edit,HABTM,update,Behaviors
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 nachopitt
     :category: behaviors
 

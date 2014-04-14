@@ -1,7 +1,7 @@
 CakePHP for TextMate
 ====================
 
-by %s on June 11, 2008
+by kuja on June 11, 2008
 
 Do you like Cake? Are you a TextMate user? Well, then maybe the
 CakePHP bundle for TextMate is just what you need!
@@ -47,6 +47,6 @@ me on IRC (irc.freenode.net/#cakephp) or e-mail.
     :title: CakePHP for TextMate
     :description: CakePHP Article related to cake,textmate,bundle,General Interest
     :keywords: cake,textmate,bundle,General Interest
-    :copyright: Copyright 2008 
+    :copyright: Copyright 2008 kuja
     :category: general_interest
 

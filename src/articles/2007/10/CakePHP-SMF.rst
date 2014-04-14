@@ -1,7 +1,7 @@
 CakePHP & SMF
 =============
 
-by %s on October 31, 2007
+by dirhauge on October 31, 2007
 
 A quick guide on getting SMF and CakePHP working together. Uses SMF
 for login, session handling, even layout.
@@ -136,6 +136,6 @@ Hope this helps!
     :title: CakePHP & SMF
     :description: CakePHP Article related to session,SMF,Snippets
     :keywords: session,SMF,Snippets
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 dirhauge
     :category: snippets
 

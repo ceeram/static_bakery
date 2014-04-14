@@ -1,7 +1,7 @@
 How to create a reusable element with ajax pagination
 =====================================================
 
-by %s on November 03, 2010
+by lucianobargmann on November 03, 2010
 
 I've spent a week searching the web, reading (old) articles and
 debugging code to figure out how to have a self-contained, reusable
@@ -333,6 +333,6 @@ Luciano Bargmann
     :title: How to create a reusable element with ajax pagination
     :description: CakePHP Article related to pagination,AJAX,Element,reusable,Tutorials
     :keywords: pagination,AJAX,Element,reusable,Tutorials
-    :copyright: Copyright 2010 
+    :copyright: Copyright 2010 lucianobargmann
     :category: tutorials
 

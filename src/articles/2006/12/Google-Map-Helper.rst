@@ -1,7 +1,7 @@
 Google Map Helper
 =================
 
-by %s on December 28, 2006
+by gigapromoters on December 28, 2006
 
 A handy tool to generate maps using Google Map API.
 I found CakePHP to be helpful with a lot of things and I loved the
@@ -76,6 +76,6 @@ Author: Abhimanyu Grover
     :title: Google Map Helper
     :description: CakePHP Article related to ,Helpers
     :keywords: ,Helpers
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 gigapromoters
     :category: helpers
 

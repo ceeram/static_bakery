@@ -2,7 +2,7 @@ Cakephp footnotes (on base of notepad_plus_plus). Part I. Basic
 solution.
 =========
 
-by %s on September 20, 2007
+by Skiedr on September 20, 2007
 
 It is very usefull during development if you have ability of
 navigation dirrectly to source code from explorer page. I create such
@@ -206,6 +206,6 @@ Helper Class:
     :title: Cakephp footnotes (on base of notepad_plus_plus). Part I. Basic solution.
     :description: CakePHP Article related to footnote foot note e,General Interest
     :keywords: footnote foot note e,General Interest
-    :copyright: Copyright 2007 
+    :copyright: Copyright 2007 Skiedr
     :category: general_interest
 

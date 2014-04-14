@@ -1,7 +1,7 @@
 SOAP services in CakePHP
 ========================
 
-by %s on February 10, 2009
+by Marcelius on February 10, 2009
 
 This article describes what (I think) is the most effective way of
 calling controller methods with soap calls. At the end of this
@@ -532,6 +532,6 @@ More
     :title: SOAP services in CakePHP
     :description: CakePHP Article related to soap,wsdl,webservices,component,services,soapcomponent,soap client,soap server,Tutorials
     :keywords: soap,wsdl,webservices,component,services,soapcomponent,soap client,soap server,Tutorials
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 Marcelius
     :category: tutorials
 

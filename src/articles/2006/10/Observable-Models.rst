@@ -1,7 +1,7 @@
 Observable Models
 =================
 
-by %s on October 14, 2006
+by burningodzilla on October 14, 2006
 
 Make your Cake application more flexible with observable models.
 Let me preface by saying that I am a not a zealout of any paradigm or
@@ -255,6 +255,6 @@ me about this article.
     :title: Observable Models
     :description: CakePHP Article related to observable model,cake models,design patterns,observer pattern,Tutorials
     :keywords: observable model,cake models,design patterns,observer pattern,Tutorials
-    :copyright: Copyright 2006 
+    :copyright: Copyright 2006 burningodzilla
     :category: tutorials
 

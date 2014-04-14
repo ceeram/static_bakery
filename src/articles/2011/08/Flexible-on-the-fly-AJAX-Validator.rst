@@ -1,7 +1,7 @@
 Flexible on-the-fly AJAX Validator
 ==================================
 
-by %s on August 14, 2011
+by dispy on August 14, 2011
 
 This article shows how to implement a generic and easy to use AJAX
 validator, which uses the regular model validation rules and works on-
@@ -487,6 +487,6 @@ If there are any suggestions, critism and so on, don't be shy.
     :title: Flexible on-the-fly AJAX Validator
     :description: CakePHP Article related to php,AJAX,CakePHP,validation,form helper,generic,on the fly,Tutorials
     :keywords: php,AJAX,CakePHP,validation,form helper,generic,on the fly,Tutorials
-    :copyright: Copyright 2011 
+    :copyright: Copyright 2011 dispy
     :category: tutorials
 

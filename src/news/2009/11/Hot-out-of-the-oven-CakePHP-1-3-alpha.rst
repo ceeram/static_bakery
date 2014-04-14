@@ -1,7 +1,7 @@
 Hot out of the oven CakePHP 1.3 alpha
 =====================================
 
-by %s on November 03, 2009
+by markstory on November 03, 2009
 
 The CakePHP development team is happy to announce the release the
 alpha build of CakePHP 1.3.
@@ -49,6 +49,6 @@ Read the changelog [4]
     :title: Hot out of the oven CakePHP 1.3 alpha
     :description: CakePHP Article related to release,CakePHP,news,News
     :keywords: release,CakePHP,news,News
-    :copyright: Copyright 2009 
+    :copyright: Copyright 2009 markstory
     :category: news
 
