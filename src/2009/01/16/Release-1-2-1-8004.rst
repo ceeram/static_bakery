@@ -1,0 +1,43 @@
+Release: 1.2.1.8004
+===================
+
+by gwoo on January 16, 2009
+
+The response to CakePHP 1.2 Final has been amazing. In less than a
+month, we have seen over 40,000 downloads. These numbers go along
+nicely with the 2000+ users who grab the svn version. We cannot thank
+everyone enough for continuing to support the project.
+As a little reward, we worked hard to fix up a few bugs and push out
+the latest stable release, CakePHP 1.2.1.8004[1]. We'd like to thank
+everyone who submitted test cases and patches. Many of you may have
+seen that since the stable release, we have taken a harder stance on
+supplying a test case with the bug report. This rule is not hard and
+fast, as many times we have written the test cases, when a patch or
+well described ticket was submitted. We will continue this policy, as
+we have seen the benefits of allowing us to fix issues faster and
+ensure that changes are well needed.
+
+Please, remember that the stable releases do not come with the test
+cases. If you find a bug, please checkout from svn[2] or download the
+nightly[3].
+
+Anyway, TGIF. Enjoy the latest release.
+
+Happy Baking,
+CakePHP Team
+
+[1] `http://cakeforge.org/frs/?group_id=23_id=434`_
+[2] `https://trac.cakephp.org/`_
+[3] `http://cakephp.org/downloads/nightly/1.2.x.x`_
+[4] Security Notice: `http://groups.google.com/group/cake-
+php/browse_thread/thread/659682805f3d71d7`_
+
+.. __id=434: http://cakeforge.org/frs/?group_id=23&release_id=434
+.. _http://cakephp.org/downloads/nightly/1.2.x.x: http://cakephp.org/downloads/nightly/1.2.x.x
+.. _https://trac.cakephp.org/: https://trac.cakephp.org/
+.. _http://groups.google.com/group/cake-php/browse_thread/thread/659682805f3d71d7: http://groups.google.com/group/cake-php/browse_thread/thread/659682805f3d71d7
+
+.. author:: gwoo
+.. categories:: news
+.. tags:: release,News
+
