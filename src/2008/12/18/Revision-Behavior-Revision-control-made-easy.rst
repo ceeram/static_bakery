@@ -1,8 +1,6 @@
 Revision Behavior - Revision control made easy
 ==============================================
 
-by alkemann on December 18, 2008
-
 Take full control of any changes your users makes, while also giving
 them features like undo. Keep a history of previous versions of any
 database model, allowing you to undo, revert to an older version (or a

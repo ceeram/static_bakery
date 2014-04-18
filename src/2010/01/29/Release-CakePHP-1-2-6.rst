@@ -1,8 +1,6 @@
 Release: CakePHP 1.2.6
 ======================
 
-by markstory on January 29, 2010
-
 The CakePHP development team is happy to announce CakePHP 1.2.6
 The CakePHP development team is happy to announce CakePHP 1.2.6[1].
 1.2.6 is a bug fix release of the latest stable branch. Check the

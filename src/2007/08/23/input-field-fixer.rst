@@ -1,8 +1,6 @@
 input field fixer
 =================
 
-by sarimarton on August 23, 2007
-
 This is a small input helper function meant to check whether the input
 field's value is passed as a named URL argument. If the field is
 passed, then the input field will be disabled, but it's value will be

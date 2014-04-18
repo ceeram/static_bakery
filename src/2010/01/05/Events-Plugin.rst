@@ -1,8 +1,6 @@
 Events Plugin
 =============
 
-by navidurrahman on January 05, 2010
-
 With Events plugin, you can add and remove events from admin panel and
 frontend. I have created Events plugin with full calendar (Thanks to
 Adam Shaw http://arshaw.com/fullcalendar/)

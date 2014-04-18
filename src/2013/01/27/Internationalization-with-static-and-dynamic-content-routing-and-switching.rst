@@ -2,8 +2,6 @@ Internationalization with static and dynamic content, routing and
 switching
 =========
 
-by kicaj on January 27, 2013
-
 Many times, when I prepare a new website I always think how to solve
 better internationalization. Mainly how resolve displaying dynamic
 content in the event that this has not been translated into the

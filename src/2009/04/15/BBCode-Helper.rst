@@ -1,8 +1,6 @@
 BBCode Helper
 =============
 
-by withoutnick on April 15, 2009
-
 A BBCode Helper for CakePHP 1.2.x.x
 
 

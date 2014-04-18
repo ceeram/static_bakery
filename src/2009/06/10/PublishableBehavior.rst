@@ -1,8 +1,6 @@
 PublishableBehavior
 ===================
 
-by brightball on June 10, 2009
-
 PublishableBehavior allows the use of datetime fields for start and
 end ranges on content. Included functionality allows for checking
 published status, toggling to published / unpublished status, and

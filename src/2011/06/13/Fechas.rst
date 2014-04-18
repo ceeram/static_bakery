@@ -1,8 +1,6 @@
 Fechas
 ======
 
-by ricardosiri68 on June 13, 2011
-
 Es un helper que dertermina el tiempo que transcurre entre 2 fechas
 dando como salida una array
 

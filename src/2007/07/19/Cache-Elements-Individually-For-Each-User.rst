@@ -1,8 +1,6 @@
 Cache Elements Individually For Each User.
 ==========================================
 
-by ketan on July 19, 2007
-
 Caching elements in general has been discussed before on bakery and
 this article takes caching of an element to a higher level. This
 article explains how to cache elements individually for each user.

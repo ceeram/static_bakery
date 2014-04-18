@@ -1,8 +1,6 @@
 Optimizing your CakePHP elements and views with caching
 =======================================================
 
-by digitalspaghetti on April 10, 2007
-
 As I have developed my CakePHP application, I have discovered new and
 useful functions every day - and today I want to talk to you about
 caching, and how easily it can be implemented. When I implemented it

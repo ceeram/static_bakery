@@ -1,8 +1,6 @@
 F-E-E-D-Z.com - RSS and Atom Feed Directory
 ===========================================
 
-by timtrice on June 02, 2009
-
 It might have seemed like a very simple idea at first but I quickly
 learned that building a feed reader/directory was a bit beyond just
 simple data gathering and validation.

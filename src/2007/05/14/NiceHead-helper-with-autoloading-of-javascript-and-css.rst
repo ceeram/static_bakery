@@ -1,8 +1,6 @@
 NiceHead helper with autoloading of javascript and css
 ======================================================
 
-by biesbjerg on May 14, 2007
-
 Like cake isn't already doing enough magic... Here is a helper to make
 it even better! Injects CSS/JS into the head tag in your layout and
 autoloads css/js files for you based on current controller and action.

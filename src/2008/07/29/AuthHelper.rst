@@ -1,8 +1,6 @@
 AuthHelper
 ==========
 
-by ragrawal on July 29, 2008
-
 This AuthHelper provide access to user information on view side. If
 you have used OthAuth helper before, this helper replicate exactly the
 same functionalities.

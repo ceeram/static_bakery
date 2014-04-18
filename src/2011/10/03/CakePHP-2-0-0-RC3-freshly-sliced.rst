@@ -1,8 +1,6 @@
 CakePHP 2.0.0-RC3 freshly sliced
 ================================
 
-by lorenzo on October 03, 2011
-
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.0.0-RC3. 2.0.0-RC3 marks the end of the release
 candidates for 2.0. If no critical issues arise during the life time

@@ -1,8 +1,6 @@
 Implementing a Comma Separated Values (CSV) "webservice"
 ========================================================
 
-by aitch on June 22, 2007
-
 A simple howto for beginners (by a beginner!) on rendering CSV output
 in a consistent manner with XML, RSS etc.
 I started with CakePHP a few weeks ago and have had great success

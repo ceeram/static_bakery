@@ -1,8 +1,6 @@
 Model-based code insight and completion in NetBeans
 ===================================================
 
-by SymenTimmermans on January 21, 2009
-
 As a lazy programmer I really like code completion and code insight.
 It's the only thing I do like about Visual Studio. It somehow knows
 all your classes, the ones they extend, all functions and properties

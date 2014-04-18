@@ -1,8 +1,6 @@
 Breadcrumbs
 ===========
 
-by rees on August 14, 2010
-
 This is my first contribution to cake's bakery. Here is Easy to use
 breadcrumbs, Adding this functionality to your website is 'peace of
 cake'. If you have any query's, comment and I will help as much as I

@@ -1,8 +1,6 @@
 Set up IDE for CakePHP
 ======================
 
-by mytnik on August 29, 2010
-
 This tutorial is about how to set up IDE to provide the best help in
 CakePHP developing.
 Many times happens that you hit Ctrl+Space and nothing. What next?

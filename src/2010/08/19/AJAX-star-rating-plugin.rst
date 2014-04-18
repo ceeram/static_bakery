@@ -1,8 +1,6 @@
 AJAX star rating plugin
 =======================
 
-by schneimi on August 19, 2010
-
 In the days of social networks, you often want to give users the
 possibility to rate things and to show the average rating. The most
 common user interface implementation is a star rating system. This

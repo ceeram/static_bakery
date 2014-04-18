@@ -1,8 +1,6 @@
 JSMin Helper Compress and cache javascript
 ==========================================
 
-by markstory on December 26, 2007
-
 JSMinHelper offers an easy to use interface for compressing and
 caching javascript files, reducing bandwidth and server load.
 

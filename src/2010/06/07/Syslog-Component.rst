@@ -1,8 +1,6 @@
 Syslog Component
 ================
 
-by rikdc on June 07, 2010
-
 This article provides the code for a SysLog class for use with Cake
 v1.3.1 to enable
 Logging to the syslog is a trivial task, but can provide benefits

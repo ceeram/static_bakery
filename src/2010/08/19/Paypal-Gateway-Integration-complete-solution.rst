@@ -1,8 +1,6 @@
 Paypal Gateway Integration - complete solution
 ==============================================
 
-by aniljmk on August 19, 2010
-
 Paypal Payment Gateway Integration Guide line. I have integrated this
 code in various website and do not need to modify and just copy and
 paste the code in the website and enjoy with Paypal payment gateway

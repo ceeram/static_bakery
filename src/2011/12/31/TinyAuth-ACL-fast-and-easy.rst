@@ -1,8 +1,6 @@
 TinyAuth ACL - fast and easy
 ============================
 
-by euromark on December 31, 2011
-
 For most simple applications with some user frontend and maybe some
 admin backend the core ACL is way too much overhead in most cases. You
 would want something simple. Another advantage: It works with multiple

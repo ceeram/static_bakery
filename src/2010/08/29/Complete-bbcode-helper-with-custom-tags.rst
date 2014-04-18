@@ -1,8 +1,6 @@
 Complete bbcode helper with custom tags
 =======================================
 
-by eugenioclrc on August 29, 2010
-
 Hi to everybody, this is a simple way of implement a bbcode parser,
 the parser its extended from a class written based on the worpress
 shortcode http://core.svn.wordpress.org/trunk/wp-

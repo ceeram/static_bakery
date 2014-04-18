@@ -1,8 +1,6 @@
 Mozilla BrowserID authentication plugin
 =======================================
 
-by overflow636 on January 22, 2012
-
 I just stumbled on Mozilla's new OpenID competitor
 (http://browserid.org ) and liked it. I figured I would be albe to
 implement it on my currently existing user database without any

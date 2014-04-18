@@ -1,8 +1,6 @@
 SmartyCooker - A generic way to make Helpers available to Smarty
 ================================================================
 
-by christiannancy on January 05, 2010
-
 This is based on "How to use SmartyHelpers with SmartyView"
 [url]http://bakery.cakephp.org/articles/view/how-to-use-smartyhelpers-
 with-smartyview[/url]. I wanted a more generic SmartyHelper, that

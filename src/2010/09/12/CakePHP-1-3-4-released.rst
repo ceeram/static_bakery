@@ -1,8 +1,6 @@
 CakePHP 1.3.4 released
 ======================
 
-by predominant on September 12, 2010
-
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP release 1.3.4. This release follows a month of effort from
 the team, and numerous reports from the community. Since the release

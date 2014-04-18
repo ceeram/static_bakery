@@ -1,8 +1,6 @@
 SessionPaginate
 ===============
 
-by lenadro on June 24, 2011
-
 **Paginador por sesión, mantiene las condiciones para poder realizar
 paginaciones con formularios de filtros.**
 Ejemplo: controllers/personas_controller.php `

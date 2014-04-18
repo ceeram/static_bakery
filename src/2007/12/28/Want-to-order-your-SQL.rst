@@ -1,8 +1,6 @@
 Want to order your SQL
 ======================
 
-by kemmotar on December 28, 2007
-
 If you don't like to have your sqls scattered around your code maybe
 this component is for you
 Some time ago I discovered that trying to find an error in sql querys

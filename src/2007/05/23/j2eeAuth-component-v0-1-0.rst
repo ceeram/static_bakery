@@ -1,8 +1,6 @@
 j2eeAuth component v0.1.0
 =========================
 
-by racklin on May 23, 2007
-
 J2eeAuth Component is J2ee Realm like User/Group/Role Base Auth. And
 J2eeAuth Component's user/role database is compatible with Tomcat
 JDBCRealm/DataSourceRealm. So, you can use exists tomcat user database

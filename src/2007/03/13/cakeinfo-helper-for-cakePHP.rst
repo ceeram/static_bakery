@@ -1,8 +1,6 @@
 cakeinfo() helper for cakePHP
 =============================
 
-by Siegfried on March 13, 2007
-
 As a newbie in cakePHP it is often hard to get all the constants right
 and not always easy to recognise, what is already defined in the
 cakePHP core of constants.

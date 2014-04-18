@@ -1,8 +1,6 @@
 Protect your website against CSRF attacks
 =========================================
 
-by T0aD on June 11, 2008
-
 CSRF attacks take advantage of the fact that if an authenticated
 client opens a page with a link , the browser will treat it as a
 regular link (normal!) and send over the credentials to the website,

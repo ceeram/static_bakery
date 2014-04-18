@@ -1,8 +1,6 @@
 Request Information Component
 =============================
 
-by SoCalCakeBaker on June 07, 2007
-
 Need more insight into how a controller structures a CakePHP request?
 This little component will log important information and variables for
 each request to your application's debug log.

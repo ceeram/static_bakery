@@ -1,8 +1,6 @@
 An ElasticSearch powered Search Index - your data stays in `default`
 ====================================================================
 
-by zeroasterisk on January 11, 2014
-
 Use ElasticSearch for your searches, but keep your data in
 MySQL/Postgres (your default DB config). This behavior saves an
 "index" string to ElasticSearch for each record afterSave, and

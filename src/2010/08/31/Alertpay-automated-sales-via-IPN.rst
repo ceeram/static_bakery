@@ -1,8 +1,6 @@
 Alertpay automated sales via IPN
 ================================
 
-by in-sanity on August 31, 2010
-
 I'm going to show you how I implemented a payment module via the
 Alertpay payment processor.
 Payments through the Alertpay system is pretty much the same as paying

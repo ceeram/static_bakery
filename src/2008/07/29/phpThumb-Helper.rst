@@ -1,8 +1,6 @@
 phpThumb Helper
 ===============
 
-by DanielMedia on July 29, 2008
-
 Here's a simple phpThumb helper with built in cache support. If an
 image is already cached when using this helper, it just displays the
 cached image tag without having to instantiate a phpThumb object.

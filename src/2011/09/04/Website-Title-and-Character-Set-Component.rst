@@ -1,8 +1,6 @@
 Website Title and Character Set Component
 =========================================
 
-by abailiss on September 04, 2011
-
 This component allows you to pass a URL to one of its functions and
 retrieve an external page's and character set.
 

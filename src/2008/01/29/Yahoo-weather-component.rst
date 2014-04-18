@@ -1,8 +1,6 @@
 Yahoo weather component
 =======================
 
-by arash.hemmat on January 29, 2008
-
 Yahoo! developer network provides a RSS based API to access weather
 information for locations all around the world. The component has a
 method named get_weather($locationCode,$degreeUnit) that retrieves the

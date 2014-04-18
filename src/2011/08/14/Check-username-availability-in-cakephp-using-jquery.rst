@@ -1,8 +1,6 @@
 Check username availability in cakephp using jquery
 ===================================================
 
-by instatutorial on August 14, 2011
-
 here's a snippets by which you can check username availability in
 cakephp environment using jquery!
 You can view complete tutorial on this website...

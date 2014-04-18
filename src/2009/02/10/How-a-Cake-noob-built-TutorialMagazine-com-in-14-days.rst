@@ -1,8 +1,6 @@
 How a Cake-noob built TutorialMagazine.com in 14 days
 =====================================================
 
-by jorgtron on February 10, 2009
-
 In this article I describe how I got from idea to launch of a
 tutorial-aggregate website using the CakePHP framework. Visit
 [url]http://www.TutorialMagazine.com[/url] to view the final result.

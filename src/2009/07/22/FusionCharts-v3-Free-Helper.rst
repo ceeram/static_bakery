@@ -1,8 +1,6 @@
 FusionCharts v3 Free Helper
 ===========================
 
-by robinduckett on July 22, 2009
-
 Very quick FusionCharts helper, to use this, you need to put the
 following code in your views/helpers/ directory
 

@@ -1,8 +1,6 @@
 Simple TimerHelper to measure rendering times
 =============================================
 
-by eimermusic on April 12, 2008
-
 Working on a project that logs a lot of data I have found it useful to
 time the rendering-times of certain views, elements and other sections
 of code. I wrapped this code up info a helper just to have it handy.

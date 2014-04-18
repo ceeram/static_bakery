@@ -1,8 +1,6 @@
 RESTful web application development in cakephp
 ==============================================
 
-by rightwayindia on January 11, 2010
-
 Nowadays RESTful architecture based API (web services) development is
 accepted across the Web as a simpler alternative to SOAP - and Web
 Services Description Language (WSDL)-based Web services. Key evidence

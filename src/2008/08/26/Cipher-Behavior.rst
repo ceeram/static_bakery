@@ -1,8 +1,6 @@
 Cipher Behavior
 ===============
 
-by xemle on August 26, 2008
-
 The Cipher Behavior encrypts/decrypts model properties to protect
 passwords, emails, etc via symmetric encryption BlowFish. This
 behavior is very useful if your data should not be stored in clear

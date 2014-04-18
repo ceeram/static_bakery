@@ -1,8 +1,6 @@
 The Cake is Rising
 ==================
 
-by PhpNut on May 20, 2007
-
 The latest bug fix release of 1.1.15.5134 is ready [1]. Check out the
 changelog[2] to see what was fixed. The latest release of
 1.2.0.5137alpha [3] moves closer to beta with the addition of the new

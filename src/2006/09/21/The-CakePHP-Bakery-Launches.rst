@@ -1,8 +1,6 @@
 The CakePHP Bakery Launches
 ===========================
 
-by PhpNut on September 21, 2006
-
 This is the place to be. The CakePHP community is always contributing
 something, so we figured we should put together a nice place for
 everyone to hang out. Its a pretty complete community publishing

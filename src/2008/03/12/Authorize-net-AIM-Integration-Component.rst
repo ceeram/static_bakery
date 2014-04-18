@@ -1,8 +1,6 @@
 Authorize.net AIM Integration Component
 =======================================
 
-by gstoner on March 12, 2008
-
 A simple component meant to abstract payment processing for
 Authorize.net's AIM card processing method.
 One of the main things I've enjoyed since starting to use CakePHP is

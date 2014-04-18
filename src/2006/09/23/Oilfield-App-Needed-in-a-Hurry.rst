@@ -1,8 +1,6 @@
 Oilfield App Needed in a Hurry
 ==============================
 
-by BlenderStyle on September 23, 2006
-
 I was hired to design a new web application for an oilfield company.
 The trick was, they needed it in a hurry. After reading CakePHP's
 manual and going through the tutuorial, I knew this would be a piece

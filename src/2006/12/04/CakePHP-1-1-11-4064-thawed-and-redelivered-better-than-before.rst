@@ -1,8 +1,6 @@
 CakePHP 1.1.11.4064 thawed and redelivered better than before.
 ==============================================================
 
-by PhpNut on December 04, 2006
-
 Well, its not often that you can take something out of the freezer and
 have it taste better than before, but that's what happened. We
 received a few more bugs and as Gwoo said in a message last week,

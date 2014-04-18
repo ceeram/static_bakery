@@ -1,8 +1,6 @@
 HABTM Add & Delete Behavior
 ===========================
 
-by bparise on May 09, 2007
-
 Many people gripe about the HABTM associations in CakePHP and how
 difficult it is to add or delete a single record. This behavior takes
 care of the task for you!

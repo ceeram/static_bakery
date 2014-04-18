@@ -1,8 +1,6 @@
 Release: CakePHP 1.2.4.8284
 ===========================
 
-by gwoo on August 03, 2009
-
 The CakePHP development team is happy to announce the release of two
 new versions. Firstly, CakePHP 1.2.4[1] is a bug fix release of the
 latest stable branch. Check the changelog[2] for all the changes.

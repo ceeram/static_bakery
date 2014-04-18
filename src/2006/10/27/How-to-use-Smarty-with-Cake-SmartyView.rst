@@ -1,8 +1,6 @@
 How to use Smarty with Cake (SmartyView)
 ========================================
 
-by tclineks on October 27, 2006
-
 The SmartyView package sits here:
 [url]http://cakeforge.org/snippet/detail.php?type=snippet=6[/url] But
 without some significant baking-knowledge, new users may not know how

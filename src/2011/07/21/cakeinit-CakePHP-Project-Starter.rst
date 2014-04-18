@@ -1,8 +1,6 @@
 cakeinit - CakePHP Project Starter
 ==================================
 
-by jcutrer on July 21, 2011
-
 cakeinit is a command line tool to grab CakePHP and various plugins
 via GIT in one step.
 cakeinit is a command line tool to grab CakePHP and various plugins

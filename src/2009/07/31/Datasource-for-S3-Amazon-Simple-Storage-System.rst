@@ -1,8 +1,6 @@
 Datasource for S3 - Amazon Simple Storage System
 ================================================
 
-by eskil on July 31, 2009
-
 Cake in the S3 clouds. Storing files for easy access in the cloud.
 Accessing them across multiple platforms, guaranteeing up time,
 distributing big files or many files to a large number of users. Store

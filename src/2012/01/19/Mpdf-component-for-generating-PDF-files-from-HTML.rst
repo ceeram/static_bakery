@@ -1,8 +1,6 @@
 Mpdf component for generating PDF files from HTML
 =================================================
 
-by segy on January 19, 2012
-
 Mpdf consists only from one component class that uses mPDF class
 (located in vendors) to generate PDF file instead of standard output.
 

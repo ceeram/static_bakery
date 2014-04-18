@@ -1,8 +1,6 @@
 Very helpful plugin for Beginners and Experts
 =============================================
 
-by Jimmy on June 06, 2012
-
 I have launched a new version(1.1) of my plugin for user management.
 Demo at http://umpremium.ektasoftwares.com
 

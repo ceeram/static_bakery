@@ -1,8 +1,6 @@
 DaemonTask
 ==========
 
-by reconbot on August 26, 2008
-
 DaemonTask will help you "deamonize" any cake shell allowing you to
 schedule it to run with cron (say every minute) and make sure only one
 instance of the shell is running at any given time.

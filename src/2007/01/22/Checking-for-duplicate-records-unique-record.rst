@@ -1,8 +1,6 @@
 Checking for duplicate records (unique record)
 ==============================================
 
-by maruska on January 22, 2007
-
 Expanded tutorial from CakePHPWiki:
 http://wiki.cakephp.org/tutorials:duplicate_record_validation [list]
 [li]validate a form field (such as a user name field), [b]both in add

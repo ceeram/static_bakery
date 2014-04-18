@@ -1,8 +1,6 @@
 Login, logout and register to mediawiki
 =======================================
 
-by imran on April 21, 2010
-
 Using Mediawiki and common login for cakephp and mediawiki.
 To user mediawiki with cakephp install mediawiki in the webroot. At
 this location

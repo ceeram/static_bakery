@@ -1,8 +1,6 @@
 'Remember me' - a component to add upon basic auth
 ==================================================
 
-by irina on December 29, 2008
-
 [b] A simpler component on the same lines:
 http://dsi.vozibrale.com/articles/view/rememberme-component-the-final-
 word [/b] This component works on top of the basic auth component and

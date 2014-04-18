@@ -1,8 +1,6 @@
 CakePHP-Twitter-Plugin
 ======================
 
-by nitsche on September 19, 2011
-
 I have created an easy plugin for CakePHP to use the main methods of
 the Twitter API with OAuth.
 A few weeks ago I already wrote an `article`_ about a component for

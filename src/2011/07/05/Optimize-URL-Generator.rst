@@ -1,8 +1,6 @@
 Optimize URL Generator
 ======================
 
-by luisarmando on July 05, 2011
-
 Each time there is a link in some view, the Router::url() method is
 called and the URL string is computed. The idea is to cache some URL
 parts in the AppHelper::url().

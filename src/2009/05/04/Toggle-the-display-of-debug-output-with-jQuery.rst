@@ -1,8 +1,6 @@
 Toggle the display of debug output with jQuery
 ==============================================
 
-by mpbourque on May 04, 2009
-
 The problem:
 I love having the debug output enabled, but I don't always need it. I
 also find that with pages with a lot of queries, my CSS and design

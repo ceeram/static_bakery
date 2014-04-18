@@ -1,8 +1,6 @@
 jQuery Multi-input for CakePHP
 ==============================
 
-by MenOne on January 12, 2012
-
 I apologize for my English! This plugin helps you create are
 automatically added inputs. They can be used by adding a few pages of
 the book.

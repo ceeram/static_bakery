@@ -1,8 +1,6 @@
 Detect mobile devices with the WURFL API
 ========================================
 
-by Pierre on March 12, 2010
-
 This component uses the WURFL API to detect any mobile or wireless
 device, and sets custom paths for your views and css, so you can
 easily create a mobile version of your website.

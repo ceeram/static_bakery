@@ -1,8 +1,6 @@
 ACL: Checking Permissions in Views
 ==================================
 
-by thanos on January 17, 2011
-
 Setting up the Access Control Lists functionality is undoubtedly one
 of the most painful tasks when programming with CakePHP. Luckily
 there's a lot of help around on this subject, but what happens once

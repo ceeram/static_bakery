@@ -1,8 +1,6 @@
 Challengeresponse authentication with fallback
 ==============================================
 
-by Dieter_be on November 01, 2006
-
 This tutorial shows you how to create a simple authentication system
 that doesn't send passwords in cleartext (as many others do). It has a
 fallback for non-JavaScript users (cleartext mode), and uses a user-

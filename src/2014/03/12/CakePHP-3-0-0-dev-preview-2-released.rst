@@ -1,8 +1,6 @@
 CakePHP 3.0.0 dev preview 2 released
 ====================================
 
-by lorenzo on March 12, 2014
-
 The CakePHP core team is very excited to announce the second
 development preview of CakePHP 3.0
 

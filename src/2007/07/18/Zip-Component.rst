@@ -1,8 +1,6 @@
 Zip Component
 =============
 
-by SeanCallan on July 18, 2007
-
 I am currently building a web 2.0 implementation of Bake that allows
 users to create their entire application in a friendly web environment
 and than creates a zip on demand. I wrote this component and have been

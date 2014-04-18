@@ -1,8 +1,6 @@
 Automatic Javascript Includer Helper
 ====================================
 
-by predominant on August 14, 2009
-
 A quick and easy auto-magic JavaScript includer.
 
 Often times you will have Javascript code that is specific to a

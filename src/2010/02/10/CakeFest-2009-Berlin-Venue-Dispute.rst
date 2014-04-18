@@ -1,8 +1,6 @@
 CakeFest 2009 Berlin Venue Dispute
 ==================================
 
-by CakeFoundation on February 10, 2010
-
 A recent posting by Felix GeisendÃ¶rfer of Debuggable[1] has resulted
 in some concerns amongst the CakePHP[2] community after payment
 disputes for the venue from CakeFest Berlin 2009. The Cake Software

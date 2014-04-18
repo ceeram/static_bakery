@@ -1,8 +1,6 @@
 CakePHP 1.1.9.3815 Frozen Cake
 ==============================
 
-by gwoo on November 02, 2006
-
 The latest and greatest release of CakePHP.
 We're excited to see so many people enjoying Cake. To show our
 appreciation, we are releasing CakePHP 1.1.9.3815[1] Check out the

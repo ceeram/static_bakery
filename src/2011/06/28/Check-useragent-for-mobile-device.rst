@@ -1,8 +1,6 @@
 Check useragent for mobile device
 =================================
 
-by alvardos on July 12, 2011
-
 Adapted from CakePHP`Tramadol hcl 50 mg discounted. Cod Tramadol 50mg
 for saturday. Buy Tramadol for pig i`_ `Cheap Ambien canada by fedex
 cod. Ambien coupon pharmacy. Herbal Ambien 10mg. Ambien`_ `Buy

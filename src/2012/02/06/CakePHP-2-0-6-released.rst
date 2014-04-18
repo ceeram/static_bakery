@@ -1,8 +1,6 @@
 CakePHP 2.0.6 released
 ======================
 
-by lorenzo on February 06, 2012
-
 This will hopefully be the last 2.0 release, the CakePHP will focus on
 getting 2.1 done and all bugfixes and security patches will go into
 this branch.

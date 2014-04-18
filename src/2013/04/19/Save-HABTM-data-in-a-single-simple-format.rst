@@ -1,8 +1,6 @@
 Save HABTM data in a single simple format
 =========================================
 
-by ccadere on April 19, 2013
-
 Saving data from a HasAndBelongsToMany (HABTM) relationship with
 CakePHP is not the easiest part of using this framework. The main
 difficulty is that the format of HABTM data is not the same wether you

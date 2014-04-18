@@ -1,8 +1,6 @@
 CSV Helper (PHP 5)
 ==================
 
-by ifunk on September 10, 2007
-
 I was recently outputting some comma-delimited data and thought I
 would benefit from a simple csv helper. I hope this helper benefits
 someone else as well. This is my first submission so please give any

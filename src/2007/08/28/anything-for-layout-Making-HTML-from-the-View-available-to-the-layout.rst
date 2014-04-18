@@ -2,8 +2,6 @@ $anything_for_layout: Making HTML from the View available to the
 layout
 ======
 
-by rtconner on August 28, 2007
-
 Did you ever have a side navigation that you wanted to change based
 upon changes in the view? Using this helper, you can write HTML and
 other output for display in the layout. The output itself is written

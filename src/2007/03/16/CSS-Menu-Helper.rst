@@ -1,8 +1,6 @@
 CSS Menu Helper
 ===============
 
-by reevesj on March 16, 2007
-
 This is a helper and CSS file for displaying a dropdown menu on your
 site.
 This can be used to display a dropdown menu with sub menus. There are

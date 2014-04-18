@@ -1,8 +1,6 @@
 obAuth Component Tutorial
 =========================
 
-by coeus on August 17, 2007
-
 This is a tutorial on how to use obAuth component:
 http://bakery.cakephp.org/articles/view/130
 This is a simple authentication component that I wrote as a quick way

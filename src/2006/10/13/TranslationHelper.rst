@@ -1,8 +1,6 @@
 TranslationHelper
 =================
 
-by m3nt0r on October 13, 2006
-
 This uses the HTTP_ACCEPT_LANGUAGE to determine the current users most
 accepted language. It takes the the first one of all accepted, then
 looks up the available translations and delivers. If all fails, or no

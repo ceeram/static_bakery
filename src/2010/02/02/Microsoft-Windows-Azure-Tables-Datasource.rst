@@ -1,8 +1,6 @@
 Microsoft Windows Azure Tables Datasource
 =========================================
 
-by Howard on February 02, 2010
-
 An easy to use Datasource for Microsoft Windows Azure Tables. Azure
 Tables is capable of storing an infinite amount of data with it's
 design structure.

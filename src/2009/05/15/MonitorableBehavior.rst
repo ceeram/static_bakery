@@ -1,8 +1,6 @@
 MonitorableBehavior
 ===================
 
-by sassman on May 15, 2009
-
 Have you ever need a functionality like: how many people have clicked
 a picture or when did anyone download a file? Then the
 MonitorableBehavior helps you to solve this problem by a quit simply

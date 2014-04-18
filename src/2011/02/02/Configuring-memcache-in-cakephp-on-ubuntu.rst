@@ -1,8 +1,6 @@
 Configuring memcache in cakephp on ubuntu
 =========================================
 
-by rajender120 on February 02, 2011
-
 Configuring memcache functionality in cakePHP on ubuntu flavor. Steps
 might change little bit for other OS.
 

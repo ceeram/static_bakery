@@ -1,8 +1,6 @@
 Cake Conventions
 ================
 
-by sajt on February 25, 2007
-
 This is the Cake Conventions from the old wiki site.
 
 #. tables names are plural and lowercased

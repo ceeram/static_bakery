@@ -1,8 +1,6 @@
 Use different configs for different environments
 ================================================
 
-by stevena0 on August 29, 2010
-
 Coming from Rails, I was surprised that I couldn't find any support
 for multiple configuration environments in CakePHP. There were a
 couple of other solutions for Cake, but I found them a bit complex for

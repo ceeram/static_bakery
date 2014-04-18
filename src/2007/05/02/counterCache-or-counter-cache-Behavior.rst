@@ -1,8 +1,6 @@
 counterCache or counter_cache Behavior
 ======================================
 
-by dericknwq on May 02, 2007
-
 I wrote this because I needed something simple for my recent project
 and CakePHP have not implemented the counterCache option yet. This is
 my first time writing a Behavior and largely based on

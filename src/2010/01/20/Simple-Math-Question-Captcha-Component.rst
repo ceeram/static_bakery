@@ -1,8 +1,6 @@
 Simple Math Question Captcha Component
 ======================================
 
-by jnay on January 20, 2010
-
 I donâ€™t like CAPTCHAs. I donâ€™t know anyone who does.The downfalls
 of CAPTCHAs are many - hard to read, annoying, impossible for those
 with vision difficulties - and the benefits are slim. So, I came up

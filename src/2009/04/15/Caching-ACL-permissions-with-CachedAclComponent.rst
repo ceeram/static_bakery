@@ -1,8 +1,6 @@
 Caching ACL permissions with CachedAclComponent
 ===============================================
 
-by Frank on April 15, 2009
-
 When you set up ACL with a bunch of groups with subgroups, you will
 end up with five or maybe more queries per request. When you have a
 lot of active users it might fry your database. This is a simple

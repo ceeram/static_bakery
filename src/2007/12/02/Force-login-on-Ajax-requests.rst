@@ -1,8 +1,6 @@
 Force login on Ajax requests
 ============================
 
-by michal on December 02, 2007
-
 Users often encounter situations when they want to perform an action
 on a web site and get redirected to login page. Applicationâ€™s task
 is to take care of performing the requested action right after

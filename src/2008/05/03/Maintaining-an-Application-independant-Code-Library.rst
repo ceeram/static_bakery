@@ -1,8 +1,6 @@
 Maintaining an Application-independant Code Library
 ===================================================
 
-by Sake on May 03, 2008
-
 As a developper for my web company, I often write cake
 components/helpers/etc that I reuse often throughout my various client
 projects. For a while now I've been looking for a way to use and

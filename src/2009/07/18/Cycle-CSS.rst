@@ -1,8 +1,6 @@
 Cycle CSS
 =========
 
-by markgandolfo on July 18, 2009
-
 Cycle CSS is a helper that will output alternating text, its very
 useful for doing alternating row colors in a table.
 Find it

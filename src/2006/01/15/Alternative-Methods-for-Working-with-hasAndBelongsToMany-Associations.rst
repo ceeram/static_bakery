@@ -1,8 +1,6 @@
 Alternative Methods for Working with hasAndBelongsToMany Associations
 =====================================================================
 
-by glite on January 15, 2006
-
 As of 1.1.12.4205, CakePHP's current functionality for working with
 HABTM associations works very well for most applications, particularly
 those that lend themselves well to using multiple-selectTags or

@@ -1,8 +1,6 @@
 Using FCKeditor with CakePHP
 ============================
 
-by kliklik on November 09, 2006
-
 FCKeditor is a powerful WYSIWYG editor that replaces the plain, old
 and boring textarea form element. It has file management functions (so
 you can upload images, flash and other files directly from it) and

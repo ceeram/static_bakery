@@ -1,8 +1,6 @@
 JumboTweet URL Shortner
 =======================
 
-by chadsmith729 on April 26, 2010
-
 This component works with the URL Shortner JumboTweet (http://jmb.tw)
 and is provided as a service by The Easy API.
 The component below is released by The Easy API -

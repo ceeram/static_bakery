@@ -1,8 +1,6 @@
 500 Errors With 1and1 Hosting/Apache 1.x
 ========================================
 
-by tim_m on September 20, 2007
-
 When I uploaded a Cake-based site to a 1and1 shared hosting account, I
 got some mysterious 500 errors despite the site working perfectly on
 my dev machine.

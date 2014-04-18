@@ -1,8 +1,6 @@
 MySchemaShell - step closer to DB structure synchronization
 ===========================================================
 
-by GrzegorzPawlik on May 12, 2009
-
 I'm struggling with DB structure versions management. Recently I tried
 SchemaShell (cake schema), but found it quite inappropriate with the
 way the SVN works. Additionally one could only overwrite DB structure

@@ -1,8 +1,6 @@
 PornoShelf - Video Tube Site easily accomplished with CakePHP
 =============================================================
 
-by pornoshelf on June 11, 2009
-
 I started out building this site with the idea of having a structure
 and a way to update and launch sister sites fast, and provide code
 updates without breaking the entire thing. I found CakePHP to handle

@@ -1,8 +1,6 @@
 Subclass Behavior
 =================
 
-by eldonbite on September 18, 2008
-
 This behavior simulates an Entity-Relationship database model's ISA
 relationship and which demonstrates the subclassing concept inherent
 in OOP. This Cake behavior class was actually based on and inspired by

@@ -1,8 +1,6 @@
 Generating automatized JSON as output
 =====================================
 
-by jrbasso on October 26, 2008
-
 This article will show how you can generate JSON (JavaScript Object
 Notation) output without make a layout or ctp for this.
 I have created a View to use in cases that you will return JSON as

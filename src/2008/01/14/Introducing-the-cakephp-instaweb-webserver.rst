@@ -1,8 +1,6 @@
 Introducing the cakephp-instaweb webserver
 ==========================================
 
-by lamby on January 14, 2008
-
 Save time and effort developing with this zero-configuration CakePHP-
 oriented webserver.
 cakephp-instaweb is tiny Python-based webserver suitable for quick

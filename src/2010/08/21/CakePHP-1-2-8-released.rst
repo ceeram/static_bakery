@@ -1,8 +1,6 @@
 CakePHP 1.2.8 released
 ======================
 
-by markstory on August 21, 2010
-
 The CakePHP development team is happy to announce the release of
 CakePHP 1.2.8. 1.2.8 is a maintenance release for the 1.2 branch and
 contains bugfixes and optimizations for features found in 1.2.

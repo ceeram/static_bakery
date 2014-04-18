@@ -1,8 +1,6 @@
 CakePHP 1.2.7 released
 ======================
 
-by predominant on April 22, 2010
-
 In addition to all the excitement with CakePHP 1.3's release candidate
 run and upcoming release, the development team has been working on
 minor updates to CakePHP 1.2. We are pleased to officially announce

@@ -1,8 +1,6 @@
 Crypter Component
 =================
 
-by Thades on January 15, 2008
-
 I never could get MySQL's encryption routines to work properly for me
 so, I created this component to help me out. This is based on the fact
 that I needed encryption as well as decryption. If you have the same

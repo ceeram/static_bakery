@@ -1,8 +1,6 @@
 fastfoo - cms under cakephp
 ===========================
 
-by fastfoo on November 06, 2010
-
 How install fastfoo under your installations of cakephp
 
 Fastfoo is a CMS developed under cakephp, your installations is very

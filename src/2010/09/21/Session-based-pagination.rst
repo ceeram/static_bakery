@@ -1,8 +1,6 @@
 Session based pagination
 ========================
 
-by avinashbangar on September 21, 2010
-
 When i was working on my project, i had to implement search
 functionality for my project's list. So i wanted to make use of
 pagination, but when i search for something, i got the result

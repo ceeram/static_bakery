@@ -1,8 +1,6 @@
 How to create an XML-RPC server with CakePHP
 ============================================
 
-by filippo.toso on November 15, 2008
-
 This tutorial describes a method to create an XML-RPC server that goes
 a bit against Cakeâ€™s logic and conventions.
 I like the way the framework â€œdistributesâ€ the logic of the web

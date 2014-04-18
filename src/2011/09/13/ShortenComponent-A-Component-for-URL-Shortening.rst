@@ -1,8 +1,6 @@
 ShortenComponent - A Component for URL Shortening
 =================================================
 
-by ViZi0naRy on September 13, 2011
-
 I needed a way to generate Short URL's for my blog posts (like
 WordPress is able to do) on-the-fly, this ShortenComponent was what I
 came up with, supporting a range of URL shorteners. I'm putting it

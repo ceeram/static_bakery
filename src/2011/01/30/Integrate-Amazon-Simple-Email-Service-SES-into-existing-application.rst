@@ -1,8 +1,6 @@
 Integrate Amazon Simple Email Service (SES) into existing application
 =====================================================================
 
-by Dankroad on January 30, 2011
-
 The release of Amazon's Simple Email Service (SES) was a god send to
 me. There was always this dilemma between sendmail and SMTP (usually
 through Google Apps). The deliverability of sendmail always sucked and

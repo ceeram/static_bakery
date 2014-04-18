@@ -1,8 +1,6 @@
 unbindAll
 =========
 
-by cornernote on December 10, 2006
-
 Here is a simple way to unbind all models. Just put this function into
 your app_model.php
 

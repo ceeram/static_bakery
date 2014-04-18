@@ -1,8 +1,6 @@
 Using CakeAMFPHP 0.6 w/ Cake 1.2
 ================================
 
-by morris on July 29, 2008
-
 This is intended as a guide for those out there who *were* using the
 splendid CakeAMFPHP 0.6.0 with Cake pre-1.2 and want to be able to
 continue using it in Cake 1.2.

@@ -1,8 +1,6 @@
 FormExpanded Helper
 ===================
 
-by Warringer on December 29, 2008
-
 I found myself in the need to have multiple buttons in the same form a
 few times. Rather than have to add a div and than add the number of
 buttons I need, I opted to expand the Form Helper a little.

@@ -1,8 +1,6 @@
 Atlas kotasoft cakephp
 ======================
 
-by atlascakephp on September 25, 2009
-
 Atlas cakephp is a generator web code, is based in bake of cakephp
 New application opensource, is now in beta version 0.1. This
 application make easy cakephp. Generate code in a interface web.

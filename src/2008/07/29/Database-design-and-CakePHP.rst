@@ -1,8 +1,6 @@
 Database design and CakePHP
 ===========================
 
-by Frank on July 29, 2008
-
 To start with a CakePHP application you first need a proper database.
 This database will determine for a great part the structure of your
 application, with the data layer (Model layer) in particular. This

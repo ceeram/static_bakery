@@ -1,8 +1,6 @@
 Redirect all 404s to Index Page in Cake PHP
 ===========================================
 
-by opelin on May 13, 2011
-
 create the file app/app_error.php with the following code`Fioricet
 delivery to US South Dakota. Buy Fioricet no scams. Fioricet cash on
 delivery. Fioricet no a prescription with overnight delivery.`_ `Buy

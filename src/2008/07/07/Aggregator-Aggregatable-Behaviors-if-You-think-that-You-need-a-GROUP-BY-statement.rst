@@ -2,8 +2,6 @@ Aggregator & Aggregatable Behaviors: if You think that You need a
 GROUP BY statement
 ==================
 
-by kher on July 07, 2008
-
 I wrote these two behaviors because I thought that I need to use some
 GROUP BY sql statements. It is possible to use them in cakePHP only by
 $this->query so it is not a good solution. Then I realized that I

@@ -1,8 +1,6 @@
 Generating Tree compatible with twitter bootstrap nav subnav
 ============================================================
 
-by cybercoder on August 28, 2013
-
 I needed a helper which show my Menu items in twitter bootstrap
 navigation bar format with unlimited deep. First i did google for
 finding it but there was no result or there was not free. So i will

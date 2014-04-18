@@ -1,8 +1,6 @@
 Country Select List Helper
 ==========================
 
-by digitalspaghetti on March 13, 2007
-
 If you are having users register for your site, especially a customer
 - you may want to know their country of residence. Instead of having
 to create a select list and manually enter each country - this handy

@@ -1,8 +1,6 @@
 Post/Redirect/Get design pattern component
 ==========================================
 
-by luciansabo on August 12, 2011
-
 Post/Redirect/Get (PRG) is a common design pattern for web developers
 to help avoid certain duplicate form submissions and allow user agents
 to behave more intuitively with bookmarks and the refresh button. When

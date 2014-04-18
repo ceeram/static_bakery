@@ -1,8 +1,6 @@
 Baked enum fields reloaded
 ==========================
 
-by gunzip on August 26, 2008
-
 I had the need to convert (mysql) enum fields into form selects once
 baked with the cake console. This method worked for me with minimal
 changes to the infrastructure.

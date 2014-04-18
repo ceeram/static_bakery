@@ -1,8 +1,6 @@
 Simple Tagging Component
 ========================
 
-by bgmill on October 03, 2006
-
 This is a quick and easy tagging component that allows you to handle
 text field, comma-separated input.
 It first parses the submitted data and then checks for the existence

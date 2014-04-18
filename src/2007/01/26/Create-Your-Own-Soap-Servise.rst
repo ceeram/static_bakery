@@ -1,8 +1,6 @@
 Create Your Own Soap Servise
 ============================
 
-by bill.brama on January 26, 2007
-
 Do you want to create Soap service, but you don't know exactly how to
 do it....
 

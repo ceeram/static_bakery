@@ -1,8 +1,6 @@
 A new "automagic" for CakePHP layouts with the CustomLayouts component
 ======================================================================
 
-by filippo.toso on November 15, 2008
-
 If you distribute your CakePHP web application to others and they ask
 you how to personalize the layout of a specific controller or, with
 even more granularity, a specific action, what do you do? This

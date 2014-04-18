@@ -1,8 +1,6 @@
 Multiple flashes with different classes
 =======================================
 
-by personman on September 20, 2007
-
 There were a couple of things I didn't like about using
 $this->Session->setFlash(), so I wrote my own method for saving
 flashes and helper for displaying them.

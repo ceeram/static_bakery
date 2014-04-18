@@ -1,8 +1,6 @@
 PersistentValidation - keeping your validation data after redirects
 ===================================================================
 
-by binarycrafts on January 20, 2010
-
 I decided to wrap this functionality in a component because when you
 have several forms in a view and each one relates to a different
 controller it's much easier to point the form to it's controller

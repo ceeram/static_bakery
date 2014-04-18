@@ -1,8 +1,6 @@
 CakePHP 2.3.2 released
 ======================
 
-by markstory on April 07, 2013
-
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.3.2[1]. 2.3.2 is a bugfix release for the 2.3 release
 branch.

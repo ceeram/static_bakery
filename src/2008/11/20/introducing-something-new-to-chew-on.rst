@@ -1,8 +1,6 @@
 introducing something new to chew on
 ====================================
 
-by gwoo on November 20, 2008
-
 Chaw is an application designed to help better manage version-
 controlled projects. You can read about some of the features in Chaw
 on the wiki [url]http://thechaw.com[/url]

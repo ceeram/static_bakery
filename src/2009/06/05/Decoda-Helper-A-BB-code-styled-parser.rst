@@ -1,8 +1,6 @@
 Decoda Helper - A BB code styled parser
 =======================================
 
-by milesj on June 05, 2009
-
 Decoda is a lightweight class that extracts and parses a custom markup
 language; based on the concept of BB code. Decoda supports all the
 basic HTML tags and manages special features for making links and

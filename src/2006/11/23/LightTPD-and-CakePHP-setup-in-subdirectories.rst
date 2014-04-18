@@ -1,8 +1,6 @@
 LightTPD and CakePHP setup in subdirectories
 ============================================
 
-by baverman on November 23, 2006
-
 I faced the challenge to install CakePHP under LightTPD. All works
 smoothly as long as I deploy projects in document root of domain. But
 when I want to setup CakePHP in subdir all goes wrong.

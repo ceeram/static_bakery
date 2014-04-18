@@ -1,8 +1,6 @@
 Number Plus Helper
 ==================
 
-by xsaint on May 12, 2011
-
 A helper that extends the Number Helper for more readability of large
 numbers.
 

@@ -1,8 +1,6 @@
 New Year, New Beta
 ==================
 
-by PhpNut on January 02, 2008
-
 The CakePHP team is happy to wish everyone a wonderful new year.
 Entering the 3rd year of the development we can reflect back on what
 was done. A year ago, we released Cake 1.2 dev. We have worked solidly

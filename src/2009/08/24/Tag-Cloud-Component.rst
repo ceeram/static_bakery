@@ -1,8 +1,6 @@
 Tag Cloud Component
 ===================
 
-by Willyham on August 24, 2009
-
 This component will generate an associative array of tags and their
 frequency based on the models passed to it.
 I'm not a big fan of tag clouds, but I guess quite a lot of people

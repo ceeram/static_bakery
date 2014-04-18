@@ -1,8 +1,6 @@
 Brief Overview of the new EmailComponent
 ========================================
 
-by GreyCells on January 02, 2007
-
 It's often more practical (read: maintainable) to use the built in
 components and much as I like SwiftMailer, I thought it best that I
 investigated Cake's core EmailComponent.

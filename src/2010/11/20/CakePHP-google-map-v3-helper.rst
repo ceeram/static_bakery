@@ -1,8 +1,6 @@
 CakePHP google map v3 helper
 ============================
 
-by rajibahmed on May 20, 2010
-
 CakePHP google map v3 helper / wrapper This is my first piece of code
 to cakePHP community. I have just drafted this one i will add more
 heplers to this project as i can. get the code from

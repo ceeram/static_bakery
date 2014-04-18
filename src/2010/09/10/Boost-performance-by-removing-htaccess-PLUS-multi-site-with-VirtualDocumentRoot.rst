@@ -2,8 +2,6 @@ Boost performance by removing .htaccess PLUS multi-site with
 VirtualDocumentRoot
 ===================
 
-by rynop on November 29, 2010
-
 This tutorial is intended for developers who: 1) Are creating a cake
 app that needs to scale 2) Use apache and have access to modify their
 apache config Using apache .htaccess files is a huge performance hit -

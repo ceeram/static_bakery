@@ -1,8 +1,6 @@
 Easy BelongsTo Filtering For Pagination
 =======================================
 
-by thinkingmedia on August 23, 2010
-
 This component makes it easy to filter data by a belongsTo
 association. Allows you to display pagination results narrowed by the
 foreignKey used in the association. The foreignKey can persist when

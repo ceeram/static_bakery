@@ -1,8 +1,6 @@
 Rewrite a plugin's paths to look nicer.
 =======================================
 
-by bparise on May 13, 2007
-
 Plugins are a fantastic and vastly underused tool in CakePHP! But
 their default paths can be strange sometimes. This article describes
 how to rewrite a plugin's paths using bootstrap.php.

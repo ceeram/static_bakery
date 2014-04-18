@@ -1,8 +1,6 @@
 Youtube Helper using Youtube iFrame Player API
 ==============================================
 
-by pavlatka on September 09, 2011
-
 I had some free time so I decided to play with Youtube API. I started
 with [url=http://code.google.com/apis/youtube/iframe_api_reference.htm
 l]iFrame Player API[/url] and I wrote small CakePHP Helper which can

@@ -1,8 +1,6 @@
 Minify helper for cakephp
 =========================
 
-by _k10_ on January 17, 2009
-
 A minify helper for js and css assets.
 Lately, I have been working on a pretty large scale website involving
 cakephp. With all the feature requests in place, it was time for

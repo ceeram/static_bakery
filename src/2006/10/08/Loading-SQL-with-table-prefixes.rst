@@ -1,8 +1,6 @@
 Loading SQL with table prefixes
 ===============================
 
-by zomg on October 08, 2006
-
 Your project uses a table prefix because you share a database, or you
 donâ€™t want to clash table names. Maybe you just like the groupings
 that prefixes provide. Now what if someone hands you some SQL code

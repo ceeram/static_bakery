@@ -1,8 +1,6 @@
 introduction to dAuth v0.3
 ==========================
 
-by Dieter_be on November 11, 2006
-
 This article introduces dAuth V0.3: the authentication (not
 authorisation) system with a focus on security, using techniques such
 as challenge-response, customizable multiple-stage password hashing,

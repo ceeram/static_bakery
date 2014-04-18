@@ -1,8 +1,6 @@
 Doublelist Helper
 =================
 
-by ToxicCrack on August 01, 2009
-
 I've nowhere found a doublelist helper for cakephp...
 You need to include prototype to use it!
 

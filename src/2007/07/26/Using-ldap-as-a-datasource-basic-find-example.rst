@@ -1,8 +1,6 @@
 Using ldap as a datasource: basic find example
 ==============================================
 
-by euphrate_ylb on July 26, 2007
-
 This tutorial shows through a simple example how to perform a search
 query on a model using a [url=http://bakery.cakephp.org/articles/view
 /ldap-datasource-for-cakephp]ldap datasource[/url].

@@ -1,8 +1,6 @@
 SMS Text Component
 ==================
 
-by Dougshiro on March 12, 2008
-
 Simple component for sending SMS text messages to mobile devices using
 the Clickatell API (They provide free test accounts).
 

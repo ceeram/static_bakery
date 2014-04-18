@@ -1,8 +1,6 @@
 File naming and class loading changes in CakePHP 2.0
 ====================================================
 
-by lorenzo on April 14, 2011
-
 At first we glanced at the internal structure of CakePHP 1.3 and
 realized that after all these years the core needed a new
 reorganization on the files , the directory structure wasn't really

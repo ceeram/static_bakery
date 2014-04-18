@@ -1,8 +1,6 @@
 CakePHP 2.3.8 & 2.2.9 released
 ==============================
 
-by markstory on July 18, 2013
-
 The CakePHP core team is happy to announce the immediate availability
 of 2.3.8[1] and 2.2.9[2]. These releases contain security fixes and
 are recommended for all CakePHP developers.

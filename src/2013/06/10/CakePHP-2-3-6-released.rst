@@ -1,8 +1,6 @@
 CakePHP 2.3.6 released
 ======================
 
-by markstory on June 10, 2013
-
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.3.6[1]. 2.3.6 is a bugfix release for the 2.3 release
 branch. Since the release of 2.3.5 there have been 64 commits and 17

@@ -1,8 +1,6 @@
 One core, one app, multiple domains
 ===================================
 
-by eimermusic on February 18, 2009
-
 Dealing with configurations for multiple domains (environments) is
 always a topic for discussion. I wanted to share my way of dealing
 with this common problem. This will not be right for all, which is the

@@ -1,8 +1,6 @@
 Toggle behavior
 ===============
 
-by Jippi on April 05, 2007
-
 A small snippet to toggle an ENUM field in a SQL :)
 
 

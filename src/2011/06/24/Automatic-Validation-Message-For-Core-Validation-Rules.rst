@@ -1,8 +1,6 @@
 Automatic Validation Message For Core Validation Rules
 ======================================================
 
-by rayhan on June 24, 2011
-
 Are you tired of setting same validation message for each rules in
 your models or inside the forms. If so, then my tiny ValidationMessage
 Behavior will help you to get ride of this boring work. It will attach

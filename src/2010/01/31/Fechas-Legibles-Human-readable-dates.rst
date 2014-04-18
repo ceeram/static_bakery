@@ -1,8 +1,6 @@
 Fechas Legibles (Human readable dates)
 ======================================
 
-by chakuako on January 31, 2010
-
 Un sencillo helper que convierte una fecha en formato de base de
 datos: yyyy-mm-dd en un formato legible para usuarios, por ejemplo: 29
 de Enero del 2009. A simple helper that transforms data base dates

@@ -1,8 +1,6 @@
 SimpleAcl component tutorial
 ============================
 
-by unigue_ on March 12, 2008
-
 This component follows the traditional way of acl only slightly
 modifying it. In example there's an inheritance feature, which will
 help tremendously the access controlling because you don't have to

@@ -1,8 +1,6 @@
 Tag Cloud
 =========
 
-by tompouce on October 06, 2006
-
 Here's a nice way to do a simple and customizable tag cloud.
 First add a tag column to your table.
 Add keywords separated by commas.

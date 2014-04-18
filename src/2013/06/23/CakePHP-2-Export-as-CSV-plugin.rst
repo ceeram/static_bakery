@@ -1,8 +1,6 @@
 CakePHP 2 Export as CSV plugin
 ==============================
 
-by joshua.paling on June 23, 2013
-
 The Export as CSV plugin takes the results of a Model find('all')
 call, including nested belongsTo associations, flattens the resulting
 array, and exports it as a CSV.

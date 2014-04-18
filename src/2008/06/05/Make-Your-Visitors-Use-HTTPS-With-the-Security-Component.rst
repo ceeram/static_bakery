@@ -1,8 +1,6 @@
 Make Your Visitors Use HTTPS With the Security Component
 ========================================================
 
-by pr1001 on June 05, 2008
-
 You can easily force visitors to use an SSL connection to your Cake
 site with the Security Component. Here's how.
 In whichever controller you want to always use HTTPS (or for all of

@@ -1,8 +1,6 @@
 Cruise Holidays Website
 =======================
 
-by neilc on March 29, 2007
-
 The site is for a cruise company that has 2 ships and offers about 125
 cruises per year around the Mediterranean and across the Atlantic.
 Passenger capacities are up to about 1900 per cruise. In addition to

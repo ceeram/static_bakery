@@ -1,8 +1,6 @@
 Haml: Markup Haiku
 ==================
 
-by chess64 on July 15, 2007
-
 Haml takes your gross, ugly templates and replaces them with veritable
 Haiku. Haml is based on one primary principal: [i]markup should be
 beautiful[/i]. Check out [url]http://haml.hamptoncatlin.com/[/url].

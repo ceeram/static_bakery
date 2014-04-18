@@ -1,8 +1,6 @@
 Testing with Virtualbox and Vagrant
 ===================================
 
-by connrs on November 04, 2011
-
 Getting a good test environment running on your machine can be a chore
 when you have to worry about OS upgrades that break paths and
 utilities. I want to show you how I've used Virtualbox and Vagrant to

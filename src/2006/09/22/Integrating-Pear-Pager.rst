@@ -1,8 +1,6 @@
 Integrating Pear Pager
 ======================
 
-by kitten on September 22, 2006
-
 PEAR (http://pear.php.net) has a decent Pager class that is easy to
 integrate in Cake.
 

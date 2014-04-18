@@ -1,8 +1,6 @@
 Use Fox Captcha with forms
 ==========================
 
-by saidbakr on July 25, 2010
-
 Fox_captcha is a class that I written it. It is published at
 [url=http://www.phpclasses.org]PHP Classes[/url]. It offers creating
 captcha verification images for forms and it supports reloading

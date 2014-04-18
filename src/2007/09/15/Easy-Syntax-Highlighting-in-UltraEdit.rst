@@ -1,8 +1,6 @@
 Easy Syntax Highlighting in UltraEdit
 =====================================
 
-by paulredmond59 on September 15, 2007
-
 UltraEdit was my answer for enabling .thtml syntax highlighting
 without hassle. Change two lines in the UltraEdit config. file, and
 .thtml files rely on previous settings for html and PHP highlighting.

@@ -1,8 +1,6 @@
 Greater Control with Webservices Component
 ==========================================
 
-by rico on October 29, 2006
-
 Achieving better control over the Webservices feature provided by the
 core of CakePHP.
 I recently started working on a project where I found it would be nice

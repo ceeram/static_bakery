@@ -1,8 +1,6 @@
 Google Maps API V3 Helper
 =========================
 
-by marcferna on May 27, 2010
-
 CakePHP Google Map V3 - Helper to CakePHP framework that integrates a
 Google Map in your view using the last Google Maps API V3.
 Add a Google Map to any of your views in a very simple way and with a

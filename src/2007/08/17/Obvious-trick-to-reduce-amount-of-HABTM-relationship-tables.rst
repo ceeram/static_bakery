@@ -1,8 +1,6 @@
 Obvious trick to reduce amount of HABTM relationship tables
 ===========================================================
 
-by syegorov on August 17, 2007
-
 Trick howto reduce amount of HABTM tables in complex application
 
 

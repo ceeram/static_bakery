@@ -1,8 +1,6 @@
 A gift for all to enjoy
 =======================
 
-by PhpNut on December 25, 2006
-
 Everyone loves gifts. So, we have CakePHP 1.1.12.4205[1] and
 1.2.0.4206_dev[2] packaged and available on CakeForge. CakePHP
 1.1.12.4205 is a bug fix release for the stable branch. Read the

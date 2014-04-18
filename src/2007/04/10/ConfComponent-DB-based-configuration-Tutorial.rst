@@ -1,8 +1,6 @@
 ConfComponent DB based configuration Tutorial
 =============================================
 
-by CraZyLeGs on April 10, 2007
-
 ConfComponent allows you to store your configuration into the db, set
 and retrieve values organized into categories very easily.Now with
 caching. changelog ========= 0.9.1: - Added the ability to call the

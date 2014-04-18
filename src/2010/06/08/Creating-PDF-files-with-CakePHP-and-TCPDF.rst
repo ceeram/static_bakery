@@ -1,8 +1,6 @@
 Creating PDF files with CakePHP and TCPDF
 =========================================
 
-by kalileo on June 08, 2010
-
 With CakePHP 1.2 creating PDFs with CakePHP has just gotten a lot
 easier. This tutorial shows how to combine CakePHP and the powerful
 TCPDF for easy PDF file creation.

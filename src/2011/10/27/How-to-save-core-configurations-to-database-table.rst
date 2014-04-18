@@ -1,8 +1,6 @@
 How to save core configurations to database table
 =================================================
 
-by ihs1301 on October 28, 2011
-
 This will enable `config.php` settings to be managed from admin panel.
 CREATE TABLE IF NOT EXISTS `settings` (
 `id` int(11) NOT NULL auto_increment,

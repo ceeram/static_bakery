@@ -1,8 +1,6 @@
 Turn on syntax highlighting for editing .thtml files in Vim
 ===========================================================
 
-by dvoita on November 15, 2006
-
 If you use Vim to edit your Views, here's how to turn on syntax
 highlighting.
 If you use VIm as your text editor like I do, you probably find the

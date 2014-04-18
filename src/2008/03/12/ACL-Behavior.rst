@@ -1,8 +1,6 @@
 ACL Behavior
 ============
 
-by coeus on March 12, 2008
-
 This behavior is built off of the core Acl behavior. It fixes some
 issues with the core behavior and allows you to set a model as both an
 Aro and Aco. It also adds the alias where as the core behavior

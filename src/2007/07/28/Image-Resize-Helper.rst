@@ -1,8 +1,6 @@
 Image Resize Helper
 ===================
 
-by cbaykam on July 28, 2007
-
 This is the first version of my simple image resize helper. Will
 improve its specs but does the job for now.
 Here is the resize image helper code .

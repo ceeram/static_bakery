@@ -1,8 +1,6 @@
 text Query by Example using CakePHP 1.2
 =======================================
 
-by otter117 on January 27, 2009
-
 Here is how to build a simple query interface using the CakePHP 1.2
 framework. It allows you to query text in any field in a table.
 Queries are case insentive and the wild card is % It is not a full

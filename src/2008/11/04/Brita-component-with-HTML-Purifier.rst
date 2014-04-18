@@ -1,8 +1,6 @@
 Brita component with HTML Purifier
 ==================================
 
-by debuggeddesigns on November 04, 2008
-
 Brita is a CakePHP Component wrapper class created to take advantage
 of the functionality provided by HTML Purifier. HTML Purifier is a
 standards-compliant HTML filter library written in PHP. HTML Purifier

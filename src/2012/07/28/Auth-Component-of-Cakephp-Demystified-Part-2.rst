@@ -1,8 +1,6 @@
 Auth Component of Cakephp Demystified Part-2
 ============================================
 
-by neil6502 on July 28, 2012
-
 Auth Component Variables Properly explained....
 
 

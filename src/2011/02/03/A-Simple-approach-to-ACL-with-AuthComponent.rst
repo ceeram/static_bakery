@@ -1,8 +1,6 @@
 A Simple approach to ACL with AuthComponent
 ===========================================
 
-by ibejohn818 on February 03, 2014
-
 A simple example of how I use the AuthComponent to build an easier to
 use and easier read ACL to control access to controller actions.
 

@@ -1,8 +1,6 @@
 Brute Force Protection
 ======================
 
-by aep_ on November 04, 2006
-
 This component is meant to protect you against brute force attacks on
 forms (and other types of requests).
 

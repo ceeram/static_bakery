@@ -1,8 +1,6 @@
 Using Custom Validation Rules To Compare Two Form Fields
 ========================================================
 
-by aranworld on January 14, 2008
-
 Want to make sure that two submitted form fields have the same value?
 Use the ability to write your own validation rules, to add this
 validation to your model.

@@ -1,8 +1,6 @@
 Alternate way to save HABTM data along with primary model
 =========================================================
 
-by lsiden on August 04, 2012
-
 The CakePHP documentation on saving HABTM data didn't cover a use-case
 my app needed. My form submits a comma-separated list of associated-
 model ids to save with a user. With a little data-format massaging, I

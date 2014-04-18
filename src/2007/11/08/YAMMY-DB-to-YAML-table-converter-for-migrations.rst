@@ -1,8 +1,6 @@
 YAMMY!: DB to YAML table converter for migrations
 =================================================
 
-by danfreak on November 08, 2007
-
 YAMMY! is the "missing puzzle piece" to the great migrations Shell
 coded by Joel Moss. YAMMY! provides a fast and convinient way to
 convert your DB table structure into the right YAML format needed by

@@ -1,8 +1,6 @@
 dAuth v0.3 views controller and javascript
 ==========================================
 
-by Dieter_be on November 15, 2006
-
 the login, register, userinfo and change_password views; the
 usersController, and d_auth, sha1 javascripts for dAuth v0.3
 Changes since v0.2

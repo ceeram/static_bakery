@@ -1,8 +1,6 @@
 Lightroom Helper
 ================
 
-by drswank on October 10, 2007
-
 This is a simple helper for people who want to use the
 [b]lightbox.js[/b]
 This is a helper for people using lightbox.js. Lightbox.js is

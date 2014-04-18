@@ -1,8 +1,6 @@
 Clean your HTML output
 ======================
 
-by T0aD on June 11, 2008
-
 Sometimes you'd like to clean your HTML output to remove useless stuff
 that may slow down the loading of your page. Here is a little trick to
 slim your website output ;)

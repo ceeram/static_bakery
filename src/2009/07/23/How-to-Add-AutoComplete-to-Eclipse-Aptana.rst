@@ -1,8 +1,6 @@
 How to Add AutoComplete to Eclipse/Aptana
 =========================================
 
-by gravyface on July 23, 2009
-
 In this article I'll show you how to add autocomplete to
 Eclipse/Aptana for models, components, and helpers. Thanks goes out to
 schneimi and voidstate's on Google Groups for figuring this trick out.

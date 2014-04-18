@@ -1,8 +1,6 @@
 Testing Components with CakePHP 1.2 test suite
 ==============================================
 
-by erik_sternerson on February 18, 2008
-
 This tutorial discusses how to use the CakePHP test suit to test
 components. It builds upon the excellent work of Mariano Iglesias
 found here: http://bakery.cakephp.org/articles/view/testing-models-

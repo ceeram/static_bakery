@@ -1,8 +1,6 @@
 Amazon ECS Component
 ====================
 
-by m3nt0r on September 18, 2008
-
 Search, Lookup and Remote Cart management
 With this component at hand you can easily do lookups on specific
 ASINs or search through the entire catalog. It is easy to build a

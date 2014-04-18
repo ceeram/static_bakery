@@ -1,8 +1,6 @@
 CakePHP - Quick record actions
 ==============================
 
-by EdithGarcia on March 01, 2011
-
 This snippet can be called in every controller, all you need to do is
 to specify the form name, the model name and the data.`Zopiclone from
 india is it safe. Zopiclone buy cod watson brand. Buy Zopiclone no

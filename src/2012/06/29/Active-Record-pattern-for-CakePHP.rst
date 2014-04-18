@@ -1,8 +1,6 @@
 Active Record pattern for CakePHP
 =================================
 
-by brunob on June 29, 2012
-
 I wanted to build a state engine with CakePHP, and I realize that I
 needed a kind of Active Record pattern. So I first built a behavior
 that allows me to retrieve objects in place of associative arrays.

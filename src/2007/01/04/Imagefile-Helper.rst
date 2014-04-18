@@ -1,8 +1,6 @@
 Imagefile Helper
 ================
 
-by blakebinkley on January 04, 2007
-
 if you don't know if an image you're about to display exists
 I was in need of a way to check if a file exists and send the viewer a
 notfound image if it wasn't found

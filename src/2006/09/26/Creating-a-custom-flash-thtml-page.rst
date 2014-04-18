@@ -1,8 +1,6 @@
 Creating a custom flash.thtml page
 ==================================
 
-by jburns131 on September 26, 2006
-
 This tutorial will show you how to create a custom flash.thtml page,
 instead of just having a blank page for your flash messages.
 This is quite a simple process. This is the minimum code that you'll

@@ -1,8 +1,6 @@
 Override/Extend Core Acl Component and DbAcl Class
 ==================================================
 
-by cakemonster on November 03, 2011
-
 I recently needed to override a core Acl function (in Cake 1.2)
 because I added custom audit fields into the aros_acos table, which
 broke the Acl component. Searching around I found a few articles

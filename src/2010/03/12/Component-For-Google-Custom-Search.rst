@@ -1,8 +1,6 @@
 Component For Google Custom Search
 ==================================
 
-by rpupkin77 on March 12, 2010
-
 This is a pretty simple component for retrieving your Google Custom
 Search Engine results and returning them to cake wrapped in an array.
 This will only work for a Business account which grants you access to

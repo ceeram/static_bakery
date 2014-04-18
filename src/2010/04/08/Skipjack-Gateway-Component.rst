@@ -1,8 +1,6 @@
 Skipjack Gateway Component
 ==========================
 
-by jpablobr on April 08, 2010
-
 Cakephp component for connecting to Skipjack API and submit credit
 card orders.
 

@@ -1,8 +1,6 @@
 Easy peasy database config
 ==========================
 
-by joelmoss on November 16, 2006
-
 Like a lot of developers out there, I use Subversion to keep control
 of my code and projects, and I also use a different database for
 development and production. But when using Cake this can be a problem

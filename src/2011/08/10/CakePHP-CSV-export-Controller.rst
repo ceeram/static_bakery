@@ -1,8 +1,6 @@
 CakePHP CSV export Controller
 =============================
 
-by lsiid9 on August 10, 2011
-
 CSV export Controller for cakephp`Ativan online medication. Ativan
 delivery to US South Dakota. Ativan no rx needed co`_ `Buy Soma no
 doctor. Buy prescription Soma without. Soma for sale. `_ `Phentermine

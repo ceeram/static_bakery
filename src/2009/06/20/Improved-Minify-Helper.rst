@@ -1,8 +1,6 @@
 Improved Minify Helper
 ======================
 
-by sdewald on June 20, 2009
-
 [p]Basically I started out using the minify helper from
 http://bakery.cakephp.org/articles/view/minify-helper-for-cakephp[/p]
 [p]It worked fine, but my page uses jQuery and it was really annoying

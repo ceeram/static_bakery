@@ -1,8 +1,6 @@
 Slick jQuery Colorpicker Helper
 ===============================
 
-by mpatek on June 23, 2009
-
 If you need a simple way to include a color-picker widget into your
 forms, look no further. This helper is the answer to all your prayers!
 First, you'll need to have jquery installed (I have mine in

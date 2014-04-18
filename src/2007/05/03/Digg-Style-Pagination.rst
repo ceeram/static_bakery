@@ -1,8 +1,6 @@
 Digg Style Pagination
 =====================
 
-by mattpuchlerz on May 03, 2007
-
 Looking for a fairly simple way to create pagination in a style
 similar to Digg? Check this out.
 

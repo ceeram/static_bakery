@@ -2,8 +2,6 @@ CakePHP rewrites on Windows server (.NET Framework 4.0 Extensionless
 url's fix)
 ==========
 
-by vanremortele on May 08, 2011
-
 For a recent project of mine I had to deploy cakephp on a windows
 server which had .NET Framework 4.0 running. Due to this framework all
 url rewrites get /eurl.axd/GUID/ appended to all url's without an

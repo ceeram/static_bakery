@@ -1,8 +1,6 @@
 Polymorphic Behavior
 ====================
 
-by AD7six on March 13, 2008
-
 A behavior which will allow a model to be associated with any other
 model.
 In a couple of places, most notably the Generic Upload Behavior

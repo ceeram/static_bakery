@@ -1,8 +1,6 @@
 Ajax Chat Plugin
 ================
 
-by mattc on February 03, 2007
-
 A basic Ajax chat plugin.
 A .zip of the plugin is available at
 `http://sandbox.siteamonth.com/demo/chat`_

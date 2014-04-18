@@ -1,8 +1,6 @@
 Form posting with '_GET' parameters
 ===================================
 
-by Marcelius on October 26, 2008
-
 A while ago, I was working on a searchengine for my site. When a
 search is performed, the url should show all the parameters so it is
 possible for user to add the search to their favorites. This code

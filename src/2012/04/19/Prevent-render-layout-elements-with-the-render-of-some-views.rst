@@ -1,8 +1,6 @@
 Prevent render layout elements with the render of some views!
 =============================================================
 
-by saidbakr on June 19, 2012
-
 This snippet is meant by the situation in-which you want to prevent
 some elements in the layout from render while some views is rendered.
 

@@ -1,8 +1,6 @@
 Social media helper
 ===================
 
-by stolkchris on September 10, 2010
-
 This helpers allows you to simply add buttons using AddThis. I created
 this out of the need to simply add social media bookmarking to one of
 my clients' websites. For more information go to

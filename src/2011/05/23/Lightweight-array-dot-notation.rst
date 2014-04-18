@@ -1,8 +1,6 @@
 Lightweight array dot notation
 ==============================
 
-by adael on May 24, 2011
-
 I've made some functions to speedup the work with arrays in dotted
 notation.
 

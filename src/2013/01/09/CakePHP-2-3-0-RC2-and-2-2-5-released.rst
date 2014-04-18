@@ -1,8 +1,6 @@
 CakePHP 2.3.0-RC2 and 2.2.5 released
 ====================================
 
-by markstory on January 09, 2013
-
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.3.0-RC2 and 2.2.5[1]. There have been a few small
 improvementsand fixes since the release of 2.3.0-RC1. If there are no

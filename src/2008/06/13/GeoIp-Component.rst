@@ -1,8 +1,6 @@
 GeoIp Component
 ===============
 
-by kuja on June 13, 2008
-
 If you need as much information as you can get about a client's
 region, then maybe you need to get into the game with Maxmind's GeoIP
 database and my GeoIpComponent!

@@ -1,8 +1,6 @@
 Google Search using CakePhP
 ===========================
 
-by salimk786 on November 24, 2006
-
 There comes a time when everyone needs to search the Internet. This
 search can be done on Yahoo or Google or MSN or any other search
 engine. This app utilizes Web Services to make a call against the

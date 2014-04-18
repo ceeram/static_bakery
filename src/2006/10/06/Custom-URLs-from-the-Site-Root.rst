@@ -1,8 +1,6 @@
 Custom URLs from the Site Root
 ==============================
 
-by PHPdiddy on October 06, 2006
-
 A number of sites nowadays are offering custom, unique URLs for
 people. I'm sure we can all think of one small social networking site
 that does this. I had a need to do this within a new Cake app I'm

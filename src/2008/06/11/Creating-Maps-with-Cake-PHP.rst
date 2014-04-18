@@ -1,8 +1,6 @@
 Creating Maps with Cake PHP
 ===========================
 
-by map_me on June 11, 2008
-
 A social mapping application built with Cake: MAPME.com (BETA) is a
 social mapping application that allows users to create maps, add
 content and start communities.

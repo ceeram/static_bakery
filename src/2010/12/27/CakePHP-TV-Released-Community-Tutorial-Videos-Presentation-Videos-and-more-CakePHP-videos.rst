@@ -2,8 +2,6 @@ CakePHP TV Released! Community Tutorial Videos, Presentation Videos,
 and more CakePHP videos
 =======================
 
-by bMilesp on December 27, 2010
-
 I would like to welcome everyone to CakePHP TV, a community driven
 video site dedicated to all videos CakePHP.
 The CakeDC Team is very excited about the release of CakePHP TV 1.0!

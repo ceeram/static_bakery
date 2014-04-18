@@ -1,8 +1,6 @@
 Setting SVN Ignore properties
 =============================
 
-by AD7six on June 04, 2008
-
 If you use svn, here's a very simple script that you can use to set
 your svn ignore properties so that your tmp folder, swap files and
 install specific files get ignored by svn.

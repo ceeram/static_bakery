@@ -1,8 +1,6 @@
 CakeResque, resque queue systeme for cakephp
 ============================================
 
-by kamisama on November 08, 2011
-
 CakeResque is a redis-backed queue systeme based on Resque. It allows
 you to send some tasks in the background, and execute them later
 

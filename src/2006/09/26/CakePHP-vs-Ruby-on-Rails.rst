@@ -1,8 +1,6 @@
 CakePHP vs. Ruby on Rails
 =========================
 
-by BlenderStyle on September 26, 2006
-
 Why I chose CakePHP over Ruby on Rails for my websites.
 There's no doubt about it, Ruby on Rails is awesome. The guys at
 37signals make great software on top of Rails to prove it. Ruby is a

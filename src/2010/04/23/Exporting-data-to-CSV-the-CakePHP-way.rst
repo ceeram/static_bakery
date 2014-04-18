@@ -1,8 +1,6 @@
 Exporting data to CSV the CakePHP way
 =====================================
 
-by jeroendenhaan on April 23, 2010
-
 After some fast and shallow searching, finding specific information on
 how to properly export data to a CSV file proved difficult. After
 digging into The Cookbook I came up with a way of presenting data to

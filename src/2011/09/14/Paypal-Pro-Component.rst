@@ -1,8 +1,6 @@
 Paypal Pro Component
 ====================
 
-by Jagjit on September 14, 2011
-
 I was just doing a project where my client ask me to implement Paypal
 Pro(To make the payment on the site without redirecting to paypal),
 After googling i decided to make a component for Paypal Pro. How to

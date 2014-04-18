@@ -1,8 +1,6 @@
 Separating view's markup and logic using QueryTemplates
 =======================================================
 
-by Tobiasz.Cudnik on January 13, 2009
-
 In this article i want to show you how to split the View layer into
 more comfortable parts.
 MVC gives you 3 layers of separation - Model, Controller and the View.

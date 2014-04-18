@@ -1,8 +1,6 @@
 CakeHtmlHelper speed up your site enabling html cache - Cakephp 2.x
 ===================================================================
 
-by eugenioclrc on April 01, 2012
-
 I have rewrite the Matt Curry Html Cache Plugin. Taken from
 http://github.com/mcurry/html_cache -- Cake's core cache helper is
 great, but the files it outputs are PHP files, so it will never be as

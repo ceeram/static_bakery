@@ -1,8 +1,6 @@
 PDO_PGSQL y CAKEPHP 2.0
 =======================
 
-by archermax on March 13, 2012
-
 Solución a los problemas de conexión a la base de datos con objetos
 PDO con cakephp 2.x
 

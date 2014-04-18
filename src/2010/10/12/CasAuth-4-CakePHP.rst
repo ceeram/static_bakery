@@ -1,8 +1,6 @@
 CasAuth 4 CakePHP
 =================
 
-by pietro.brignola on October 12, 2010
-
 Imagine you want to provide your application with CAS (Central
 Authentication Service) support. Consider enhancing wonderful CakePHP
 Auth component as explained in the following 6 cake slices.

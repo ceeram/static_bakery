@@ -1,8 +1,6 @@
 For beginners: famous pitfalls with cake development
 ====================================================
 
-by alexdd55 on September 28, 2009
-
 Starting from scratch in cakephp is not always easy, especially when
 you are not used to MVC frameworks. I hope this will help other
 beginners to make their life easier ;-)

@@ -1,8 +1,6 @@
 Issues have moved to Github
 ===========================
 
-by markstory on October 12, 2013
-
 The CakePHP team is happy to announce that as of today both issues and
 pull requests will be managed at github.
 

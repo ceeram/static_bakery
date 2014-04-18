@@ -1,8 +1,6 @@
 Webservice Behavior
 ===================
 
-by markstory on August 26, 2008
-
 The webservice behavior allows you to easily make requests to
 webservices and remote addresses, via GET POST and XMLRPC.
 

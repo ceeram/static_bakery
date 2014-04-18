@@ -1,8 +1,6 @@
 LogUtil Component
 =================
 
-by milad.jafary on June 05, 2011
-
 LogUtil is a useful component for having logs in your application.By
 this component you could saved your application logs in database so
 that you could design an interface for users and administrator could

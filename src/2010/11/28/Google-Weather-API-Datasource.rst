@@ -1,8 +1,6 @@
 Google Weather API Datasource
 =============================
 
-by anachronist on November 28, 2010
-
 This Datasource delivers the weather forecast based on zip and country
 using the google weather api
 conditions in the model for the datasource:

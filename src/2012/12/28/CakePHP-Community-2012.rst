@@ -1,8 +1,6 @@
 CakePHP Community 2012
 ======================
 
-by jameswatts on December 28, 2012
-
 2012 was the year CakePHP turned 7 years old, maintaining it's reign
 as one of the major PHP frameworks.
 

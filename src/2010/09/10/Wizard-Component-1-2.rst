@@ -1,8 +1,6 @@
 Wizard Component 1.2
 ====================
 
-by jaredhoyt on September 10, 2010
-
 Automates several aspects of multi-page forms including data
 persistence, form preparation, wizard resetting (manual and
 automatic), user navigation, and plot-branching navigation while

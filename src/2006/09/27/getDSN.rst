@@ -1,8 +1,6 @@
 getDSN
 ======
 
-by jzimmerman on September 27, 2006
-
 This returns the database connection details in the form of a DSN.
 driver://username:password@hostname/database This is useful if you
 have a 3rd party class that goes in /vendors that requires its own DSN

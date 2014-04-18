@@ -1,8 +1,6 @@
 Remote Content Parser tool using CUrl
 =====================================
 
-by sky_l3ppard on June 20, 2009
-
 This tool gives you friendly functions to retrieve HTML or whatever
 from remotely or locally accessible files. And also friendly functions
 to parse this content. You can either use session or not then

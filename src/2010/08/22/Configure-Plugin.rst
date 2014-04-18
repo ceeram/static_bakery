@@ -1,8 +1,6 @@
 Configure Plugin
 ================
 
-by interlock on August 22, 2010
-
 Override and set new values from an admin interface. Allowing you to
 distribute a default /app/configs/core.php and then customize it for a
 specific installation of a site. Updated to work with the newest RC of

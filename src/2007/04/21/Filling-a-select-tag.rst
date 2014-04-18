@@ -1,8 +1,6 @@
 Filling a select tag
 ====================
 
-by KiltOtter on April 21, 2007
-
 On my hunt for a simple explanation on how to do things in CakePHP, I
 found I was coming up with ingredients, but not getting any baking
 done. This short snippet is the first example in how to fill a select

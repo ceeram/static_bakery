@@ -1,8 +1,6 @@
 Marinas and Yacht Sales Web Site
 ================================
 
-by neilc on April 15, 2008
-
 The site is for a company that manages 7 marinas along the south coast
 of England and also sells yachts.
 `http://www.premiermarinas.com`_

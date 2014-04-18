@@ -1,8 +1,6 @@
 Dropbox Component
 =================
 
-by kylerobinsonyoung on April 09, 2010
-
 A CakePHP component that connects to the most excellent file syncing
 tool known as Dropbox.
 

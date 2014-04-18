@@ -1,8 +1,6 @@
 Google PageRank Component
 =========================
 
-by chadsmith729 on March 12, 2010
-
 Google Page Ranking is being used less and less, but it's still out
 there and offered by accessing google's servers. When talking about
 Search Engine Optimization the main items to look at are Trust and

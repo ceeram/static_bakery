@@ -1,8 +1,6 @@
 Overriding specific HTML tags before using helper methods
 =========================================================
 
-by icedcheese on January 14, 2008
-
 CakePHP 1.2 allows you to override CakePHP's defined tags. Yeah, I
 know, so did CakePHP 1.1, but now you can define your own base helper,
 from which all CakePHP helpers will inherit, and only override the

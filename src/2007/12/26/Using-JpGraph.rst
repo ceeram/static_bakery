@@ -1,8 +1,6 @@
 Using JpGraph
 =============
 
-by cguyer on December 26, 2007
-
 JpGraph can dynamically generate various types of graphs based on data
 you feed it from a database/array. This tutorial is just how I use it
 and how I got it working. As I deal with it more, I will try to

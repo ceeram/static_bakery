@@ -2,8 +2,6 @@ Paypal IPN (Instant Payment Notification) plugin complete with
 PaypalHelper
 ============
 
-by webtechnick on August 11, 2009
-
 I've created a PayPal IPN (Instant Payment Notification) plugin that
 includes a handy helper that will build your paypal buttons for you
 (Checkout, Add to Cart, Subscribe, and Donate). The Paypal IPN Plugin

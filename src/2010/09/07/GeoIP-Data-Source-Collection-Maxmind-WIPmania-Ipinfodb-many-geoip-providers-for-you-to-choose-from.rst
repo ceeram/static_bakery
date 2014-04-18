@@ -2,8 +2,6 @@ GeoIP Data Source Collection - Maxmind, WIPmania, Ipinfodb - many
 geoip providers for you to choose from!
 =======================================
 
-by dereklio on September 07, 2010
-
 Recently, I did a lot of projects about geo-targeting websites, and
 most of my projects are cakephp-based. So it makes sense for me
 digging into the bakery trying to find out if there is any existing

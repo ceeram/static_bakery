@@ -1,8 +1,6 @@
 test
 ====
 
-by racklin on May 23, 2007
-
 test
 test
 

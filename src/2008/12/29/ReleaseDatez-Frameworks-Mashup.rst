@@ -1,8 +1,6 @@
 ReleaseDatez: Frameworks Mashup
 ===============================
 
-by goodiet on December 29, 2008
-
 A web application that helps to discover upcoming DVD and Music
 releases on Amazon.
 

@@ -2,8 +2,6 @@ Cakephp footnotes (on base of notepad_plus_plus). Part I. Basic
 solution.
 =========
 
-by Skiedr on September 20, 2007
-
 It is very usefull during development if you have ability of
 navigation dirrectly to source code from explorer page. I create such
 solution for my editor Notepad++.

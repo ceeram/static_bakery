@@ -1,8 +1,6 @@
 CakePHP YAML Migrations and Fixtures without PEAR
 =================================================
 
-by georgious on March 09, 2009
-
 In his article ( [url]http://bakery.cakephp.org/articles/view/cake-db-
 migrations-v2-1[/url] ) at the Bakery Joel Moss describes how to use
 his CakePHP migrations shell. Although that project was my inspiration

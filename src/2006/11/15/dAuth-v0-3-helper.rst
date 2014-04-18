@@ -1,8 +1,6 @@
 dAuth v0.3 helper
 =================
 
-by Dieter_be on November 15, 2006
-
 helper for dAuth v0.3
 Iirc, the only real change i made for v0.3 is improving the names of
 variables and function calls (like doStage1, stage2,..)

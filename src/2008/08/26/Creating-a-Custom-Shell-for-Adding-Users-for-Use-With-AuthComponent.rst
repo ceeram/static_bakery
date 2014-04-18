@@ -1,8 +1,6 @@
 Creating a Custom Shell for Adding Users for Use With AuthComponent
 ===================================================================
 
-by jfahrenkrug on August 26, 2008
-
 AuthComponent is great and there are tutorials for letting users
 register an account. But what if you just want a convenient way to add
 a few admin users? This custom shell will help you!

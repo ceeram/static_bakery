@@ -1,8 +1,6 @@
 Global InPlaceEditor and InPlaceCollectionEditor
 ================================================
 
-by andy on September 18, 2008
-
 Edit in place is a nice feature to offer, especially on the backend or
 admin side of the site. By adding your ajax update methods in the
 app_controller, you can substantially reduce the amount of code you

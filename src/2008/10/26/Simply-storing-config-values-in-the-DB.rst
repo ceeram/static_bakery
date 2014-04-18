@@ -1,8 +1,6 @@
 Simply storing config values in the DB
 ======================================
 
-by iamcam on October 26, 2008
-
 There are many situations in web apps where site-wide configurations
 need to be accessible to users through admin interfaces, rather than
 configuration files residing on the server. It is a practical method

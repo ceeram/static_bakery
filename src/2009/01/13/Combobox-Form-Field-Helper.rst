@@ -1,8 +1,6 @@
 Combobox Form Field Helper
 ==========================
 
-by bamyers99 on January 13, 2009
-
 This is modeled after the Windows Combobox input field. It is a
 combination textbox and select list. The user can select from a list
 of values or enter their own value.

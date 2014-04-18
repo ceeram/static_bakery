@@ -1,8 +1,6 @@
 Gravatar Helper
 ===============
 
-by predominant on August 20, 2009
-
 From the Gravatar Website: A gravatar, or globally recognized avatar,
 is quite simply an avatar image that follows you from weblog to weblog
 appearing beside your name when you comment on gravatar enabled sites.

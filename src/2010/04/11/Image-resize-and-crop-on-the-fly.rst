@@ -1,8 +1,6 @@
 Image resize and crop on the fly
 ================================
 
-by matthistory on April 11, 2010
-
 I was working on a helper that could handle images that have already
 been uploaded but could create a cropped image of the size we choose
 and cache it in a temp folder. This is the first run through of this

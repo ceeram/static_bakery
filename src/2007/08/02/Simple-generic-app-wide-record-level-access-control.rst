@@ -1,8 +1,6 @@
 Simple, generic, app-wide record level access control.
 ======================================================
 
-by neilc on August 02, 2007
-
 Record level access control for all models in your application.
 
 ::

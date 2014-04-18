@@ -1,8 +1,6 @@
 CakePHP Workshop, Sept 6&7, Raleigh NC USA
 ==========================================
 
-by gwoo on July 31, 2008
-
 [p]We are excited to announce the first workshop for CakePHP. We have
 worked with Debuggable to come up with a schedule that will cover many
 of the features in CakePHP. The schedule is unique in that it also

@@ -1,8 +1,6 @@
 Manejo básico Cache FILE
 ========================
 
-by aantigual on June 25, 2012
-
 Un componente simple y corto que permite manejar las funciones básicas
 de caché, así veremos que nuestra aplicación tendrá un mejor
 rendimiento

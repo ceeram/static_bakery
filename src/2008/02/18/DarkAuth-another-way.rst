@@ -1,8 +1,6 @@
 DarkAuth - another way...
 =========================
 
-by theChrisWalker on February 18, 2008
-
 I wrote this initially for Cake 1.1 - basing it on ideas from "obAuth"
 by Steve Oliveira, but upgraded it to 1.2 rather than using the built
 in Auth component, mostly because this works how I want it to and,

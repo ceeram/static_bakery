@@ -1,8 +1,6 @@
 Bake ROT13 Encoded "mailto:" Links
 ==================================
 
-by debuggeddesigns on November 04, 2008
-
 Why would I want to use encoded "mailto:" anchor tags? To obfuscate
 e-mail addresses from spam harvesters. The helper lets you easily
 encode an entire anchor tag using ROT13 Encryption. The ROT13 encoding

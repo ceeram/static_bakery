@@ -1,8 +1,6 @@
 Color Helper with simple color scheme generation
 ================================================
 
-by severeon on August 10, 2009
-
 So, after having to come up with a way to generate color schemes on
 the fly with only one input color I created this helper. With this
 helper, ColorHelper you will be able to convert from any of the

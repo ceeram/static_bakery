@@ -1,8 +1,6 @@
 Keeping bindModel and unbindModel out of your Controllers
 =========================================================
 
-by TommyO on December 06, 2006
-
 Sometimes you need to fine-tune your associations: binding to other
 Models only when needed or unbinding exisiting relations to minimize
 the size of your result set. With a very simple method and a slight

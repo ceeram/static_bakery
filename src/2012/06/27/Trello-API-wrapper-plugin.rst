@@ -1,8 +1,6 @@
 Trello API wrapper plugin
 =========================
 
-by segy on June 27, 2012
-
 Trello is useful tool for project management (see https://trello.com).
 This plugin provides model & datasource so you can comfortably search
 using standard CakePHP find method.

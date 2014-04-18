@@ -1,8 +1,6 @@
 (RSS) Feed them Cake
 ====================
 
-by psychic on September 21, 2006
-
 If your application includes any sort of internal messaging or
 notifications, RSS is for you. For forums and blogs, feeds have become
 a functional requirement. Integrating RSS feeds in your application

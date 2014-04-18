@@ -1,8 +1,6 @@
 Detecting duplicate entries when updating
 =========================================
 
-by ben-xo on October 04, 2007
-
 Cake doesn't tell you the difference between an Model->save() that
 fails because of a validation error, and one that fails because of key
 constraint violation (that is, a duplicate entry). Here, I will show

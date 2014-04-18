@@ -1,8 +1,6 @@
 ObjectizeBehavior - Lightweight ORM goodness
 ============================================
 
-by taylor.luk on December 15, 2007
-
 This Behavior allows CakePHP Model to return object instance instead
 of data array, its on CakePHP 2.0 roadmap and I bring you as a
 Behavior. It shows the power of extending CakePHP to provider simpler

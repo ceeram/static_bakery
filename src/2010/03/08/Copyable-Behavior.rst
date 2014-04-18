@@ -1,8 +1,6 @@
 Copyable Behavior
 =================
 
-by jnay on March 08, 2010
-
 Copyable Behavior adds the ability to copy a model record, including
 all hasMany and hasAndBelongsToMany associations. Copyable relies on
 Containable behavior, which this behavior will attach on the fly as

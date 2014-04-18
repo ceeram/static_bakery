@@ -1,8 +1,6 @@
 CakePHP 2.3.0 is out!
 =====================
 
-by lorenzo on January 28, 2013
-
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.3.0 and 2.2.6[1]. There have been a few small
 improvements and fixes since the release of 2.3.0-RC2.

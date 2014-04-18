@@ -1,8 +1,6 @@
 Where should my code go?
 ========================
 
-by Auzigog on December 29, 2008
-
 This article helps you understand where you should place new code
 within the model-view-controller design pattern.
 When I started developing my first CakePHP application, I was

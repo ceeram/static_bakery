@@ -1,8 +1,6 @@
 SOPA Blackout component
 =======================
 
-by eagerterrier2 on January 13, 2012
-
 On the Tuesday 24th January 2012, the US Senate will vote on the
 internet censorship bill. Whilst it is an American law, it has far
 reaching repurcusions for the web as a whole. Sites such as Reddit

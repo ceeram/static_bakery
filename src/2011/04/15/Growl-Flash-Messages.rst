@@ -1,8 +1,6 @@
 Growl Flash Messages
 ====================
 
-by fabiozoroastro on April 15, 2011
-
 This article shows how to use the Growl like Flash Messages in
 CakePHP.
 I have created a new Helper for CakePHP that allows your application

@@ -1,8 +1,6 @@
 User permissions based on a routing prefix
 ==========================================
 
-by watermark86 on September 23, 2010
-
 You want to limit users to specific parts of the site, but the using
 ACLs seems like overkill. It's pretty simple to limit a few groups to
 certain parts of the site based on cake's prefix routing.

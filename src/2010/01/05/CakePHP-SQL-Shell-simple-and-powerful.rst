@@ -1,8 +1,6 @@
 CakePHP SQL Shell - simple and powerful
 =======================================
 
-by erma on January 05, 2010
-
 This shell helps to migrate sql databases accross several accounts. It
 stores the version number in a txt file (make sure you ignore this
 file in your version control system) and executes the sql scripts

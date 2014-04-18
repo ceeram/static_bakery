@@ -1,8 +1,6 @@
 Transaction behavior
 ====================
 
-by Jippi on December 19, 2010
-
 A little behavior that enables you to use (nested) transactions in
 1.2+ with MySQL.
 

@@ -1,8 +1,6 @@
 WhoDidIt behavior: automagic created_by and modified_by fields
 ==============================================================
 
-by danfreak on March 01, 2009
-
 WhoDidIt behavior is useful for tracking who has created and modified
 records: automagically!
 Handles created_by , modified_by fields for a given Model, if they

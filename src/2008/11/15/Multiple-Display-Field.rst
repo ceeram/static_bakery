@@ -1,8 +1,6 @@
 Multiple Display Field
 ======================
 
-by resshin on November 15, 2008
-
 The behavior allows us to use multiple display field (such as
 "first_name" and "last_name") as a display field for generating list
 from a model.

@@ -1,8 +1,6 @@
 Report Creator Component
 ========================
 
-by Gkelly on November 09, 2006
-
 Under most circumstances web-based intranet applications call for some
 type of flexible reporting for its users. Report design is often times
 a fixed process which immobilizes a user's ability to create new

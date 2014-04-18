@@ -1,8 +1,6 @@
 BBcode Helper with PEAR's Bbcode parser
 =======================================
 
-by kishorkundan on January 30, 2011
-
 This is simple helper that converts
 [url=http://en.wikipedia.org/wiki/BBCode]Bbcode[/url] tags into its
 equivalent html tags. The helper is very light weight and utilises

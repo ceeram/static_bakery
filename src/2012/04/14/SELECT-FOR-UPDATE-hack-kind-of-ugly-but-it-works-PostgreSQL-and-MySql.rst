@@ -2,8 +2,6 @@ SELECT FOR UPDATE (hack) (kind of ugly but it works) (PostgreSQL and
 MySql)
 ======
 
-by arod on April 14, 2012
-
 Sometimes one needs to do a SELECT ... FOR UPDATE in order to preserve
 the integrity of our transactions. This isn't at the moment supported
 by CakePHP model find operations. Here is a use-at-you-own-discretion

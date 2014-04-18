@@ -1,8 +1,6 @@
 Acts As Censored
 ================
 
-by jmbennett on June 17, 2008
-
 Censor words from content.
 I needed to remove swearing etc from DB content for a recent charity
 campaign, so knocked up this behaviour.

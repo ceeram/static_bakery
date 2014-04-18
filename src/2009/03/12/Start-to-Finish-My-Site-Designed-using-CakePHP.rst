@@ -1,8 +1,6 @@
 Start to Finish: My Site Designed using CakePHP
 ===============================================
 
-by Phazo on March 12, 2009
-
 The long and arduous process of going from knowing nothing about
 coding or graphics or web layouts to creating a website isn't easy. I
 had to learn everything for the first time, thankfully the web is

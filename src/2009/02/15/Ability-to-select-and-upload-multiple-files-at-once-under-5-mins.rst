@@ -1,8 +1,6 @@
 Ability to select and upload multiple files at once - under 5 mins.
 ===================================================================
 
-by crux on February 15, 2009
-
 You will learn how to implement advanced uploading in your application
 the Cake way.
 

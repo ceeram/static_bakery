@@ -1,8 +1,6 @@
 Modified Preorder Tree Traversal Component
 ==========================================
 
-by mpatek on December 02, 2007
-
 A component for retrieving, printing, inserting nodes into, and
 deleting nodes from trees stored in mptt form.
 For a good introduction to storing trees in mptt form, read this:

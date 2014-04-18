@@ -1,8 +1,6 @@
 Bootstrap 3 Formhelper (CakePHP 2.x)
 ====================================
 
-by Suven on August 24, 2013
-
 A little FormHelper for horizontal Bootstrap3-compatible forms in
 CakePHP 2.x.
 

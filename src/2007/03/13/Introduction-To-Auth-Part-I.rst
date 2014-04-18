@@ -1,8 +1,6 @@
 Introduction To Auth, Part I
 ============================
 
-by nate on March 13, 2007
-
 This is the first in a series of tutorials covering the Auth
 component, released in CakePHP 1.2 (the tutorial is based on version
 1.2alpha, SVN revision #4567). Part I covers theory, definition of

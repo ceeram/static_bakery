@@ -1,8 +1,6 @@
 Writing an easy to use A/B test helper with CakePHP and jquery
 ==============================================================
 
-by hendler on October 22, 2009
-
 Knowing what is driving the user experience is key to the success of
 an application. Subtle changes in the interface can cause dramatic
 shifts in user behavior. Here, A/B tests display two (or more)

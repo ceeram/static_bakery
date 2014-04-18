@@ -1,8 +1,6 @@
 Integrating Zend Framework Lucene with your Cake Application
 ============================================================
 
-by andremedeiros on October 16, 2006
-
 This is a short tutorial that teaches you how to integrate Zend
 Framework's Lucene implementation (100% PHP) to your application. It
 requires your server to have PHP5 installed, since ZF only runs on

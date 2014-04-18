@@ -1,8 +1,6 @@
 Sharing One Table amongst different Models using a Type
 =======================================================
 
-by TommyO on January 28, 2007
-
 Sometimes it is necessary to link one data set(the child) to different
 data sets(the parent) based on a 'type' field. Often this is done
 through data manipulation and a combination of child Model and

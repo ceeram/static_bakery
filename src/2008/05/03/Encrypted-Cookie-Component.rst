@@ -1,8 +1,6 @@
 Encrypted Cookie Component
 ==========================
 
-by jreeves on May 03, 2008
-
 A Cookie component for Cake PHP 1.1 (which should also work in 1.2 as
 well). The aim of this component was to make saved data as secure as
 possible. I have (hopefully) achieved this by utilizing mcrypt (for

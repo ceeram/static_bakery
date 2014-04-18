@@ -1,8 +1,6 @@
 Tree Helper 1
 =============
 
-by AD7six on January 24, 2008
-
 A helper to generate nested ULs OLs, DIVs or whatever from tree data.
 Works best with the TreeBehavior, but not a requirement.
 

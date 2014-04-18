@@ -1,8 +1,6 @@
 JSON with your tables
 =====================
 
-by lucaswxp on October 09, 2012
-
 Be able to easily save and retrieve PHP arrays to/from a database's
 column
 Have you ever needed to save a PHP array into your database? Well,

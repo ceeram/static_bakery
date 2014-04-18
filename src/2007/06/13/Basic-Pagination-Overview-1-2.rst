@@ -1,8 +1,6 @@
 Basic Pagination Overview (1.2)
 ===============================
 
-by rtconner on June 13, 2007
-
 Just a basic introduction to the wonderful abilities of pagination in
 Cake 1.2. Gives an overview of how to use pagination to do some very
 complex things with very little code.

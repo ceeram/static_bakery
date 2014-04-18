@@ -1,8 +1,6 @@
 Authake for CakePHP 2.2.3 is finally out!
 =========================================
 
-by mxkocak on November 12, 2012
-
 The most easy to use authorization plugin is finally out with
 tremendous changes.
 

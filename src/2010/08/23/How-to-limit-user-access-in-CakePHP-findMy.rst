@@ -1,8 +1,6 @@
 How to limit user access in CakePHP: findMy
 ===========================================
 
-by harisenbon on August 23, 2010
-
 Perhaps like many people starting a CakePHP project, I created a `site
 where users could log in and create/modify their own files`_ (in my
 case Japanese flashcards and tests) while not being able to screw with

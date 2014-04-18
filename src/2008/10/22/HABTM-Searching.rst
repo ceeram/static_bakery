@@ -1,8 +1,6 @@
 HABTM Searching
 ===============
 
-by Kumazatheef on October 22, 2008
-
 Some helpful HABTM magic for searching on the associations using a web
 form to pass the parameters.
 For the purpose of write-up we'll be using the example of User HABTM

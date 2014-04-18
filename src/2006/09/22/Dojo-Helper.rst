@@ -1,8 +1,6 @@
 Dojo Helper
 ===========
 
-by christian.trummer on September 22, 2006
-
 A Dojo Helper class for some Widgets but mainly for AJAX support like
 you know it from the AJAX Helper!
 A while ago i decided to switch from prototype/script.aculo.us to the

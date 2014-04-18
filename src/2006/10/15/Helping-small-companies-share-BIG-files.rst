@@ -1,8 +1,6 @@
 Helping small companies share BIG files
 =======================================
 
-by eimermusic on October 15, 2006
-
 My pet project, called Fileshifter, is secure file-manager targeted at
 small companied needing to transfer big files to and from clients and
 coworkers. This one-man creation written in PHP using Cake has unique

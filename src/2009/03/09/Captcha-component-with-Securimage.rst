@@ -1,8 +1,6 @@
 Captcha component with Securimage
 =================================
 
-by debuggeddesigns on March 09, 2009
-
 Securimage is an open-source free PHP CAPTCHA script for generating
 complex images and CAPTCHA codes to protect forms from spam and abuse.
 It can be easily added into existing forms on your website to provide

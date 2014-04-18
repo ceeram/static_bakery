@@ -1,8 +1,6 @@
 Minimalistic group-based access control in 5 mins.
 ==================================================
 
-by rasmuspalm on September 10, 2009
-
 Having a hard time with the ACL? This is probably one of the most
 simple group based access solutions out there. No ACL tables, no tree
 structure. It will allow you to setup access on a group level, so if

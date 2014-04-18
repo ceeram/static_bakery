@@ -1,8 +1,6 @@
 Mashape Cake Plugin - API Generation
 ====================================
 
-by mashaper on March 11, 2011
-
 Mashape is the first Marketplace for APIs. With this plugin you will
 be able to add, in minutes, a new component to
 [mashape.com](http://www.mashape.com). You have just to focus on the

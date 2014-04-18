@@ -1,8 +1,6 @@
 Default action component
 ========================
 
-by tomas_maly on April 27, 2011
-
 I created a component to fallback onto a default action (if not
 found), so arbitrary URLs could be handled for pretty URLs (slug-
 based), such as having "/pages/pricing" call Pages->view('pricing').

@@ -1,8 +1,6 @@
 Twitter Bootstrap style for CakePHP instantly
 =============================================
 
-by mxkocak on November 16, 2011
-
 If you know what twitter's bootstrapp css and Javascript Library and
 how awesome is, you need to use this tiny Javascript library.
 Bootstrappifier for CakePHP is a Javascript library to use Twitter

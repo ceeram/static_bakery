@@ -1,8 +1,6 @@
 How to use SmartyHelpers with SmartyView
 ========================================
 
-by tclineks on November 05, 2006
-
 Direct SmartyView
 ([url]http://bakery.cakephp.org/articles/view/124[/url]) usage in Cake
 has some limitations, the SmartyHelpers are here to help you out.

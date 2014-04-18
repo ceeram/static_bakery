@@ -1,8 +1,6 @@
 Dynamic thumbnails creation
 ===========================
 
-by santoshgroup on September 27, 2010
-
 By using this component, you can generate thumbnails dynamically.This
 component provide the following features. 1.You can generate
 thumbnails by giving either image width or image height and image

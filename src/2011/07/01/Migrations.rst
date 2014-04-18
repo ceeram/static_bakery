@@ -1,8 +1,6 @@
 Migrations
 ==========
 
-by Thaissa on July 01, 2011
-
 A rails-like migrations script.
 
 Everybody knows how hard is to keep a database up-to-date, when you

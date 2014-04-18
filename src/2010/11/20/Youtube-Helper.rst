@@ -1,8 +1,6 @@
 Youtube Helper
 ==============
 
-by cmarie on November 20, 2010
-
 As the title suggests this helper will return an embedded Youtube
 video and/or its thumbnail images.
 

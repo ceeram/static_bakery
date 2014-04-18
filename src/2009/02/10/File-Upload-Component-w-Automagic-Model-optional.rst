@@ -1,8 +1,6 @@
 File Upload Component w/ Automagic - Model optional
 ===================================================
 
-by webtechnick on February 10, 2009
-
 I've written this FileUpload component which provides a lot of
 automagic to the file uploading process. The problem with all the
 other File Uploading helpers is they almost always require some sort

@@ -1,8 +1,6 @@
 Sidebar Helper
 ==============
 
-by ebotunes on January 05, 2010
-
 The Sidebar helper allows you to insert a sidebar with multiple
 content blocks into your layouts, similar to Wordpress widgets. Also
 available at GitHub (where future changes will most likely be

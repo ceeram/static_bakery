@@ -1,8 +1,6 @@
 CakeFest : 2008-02-06, Orlando FL [updated]
 ===========================================
 
-by gwoo on December 27, 2007
-
 Join us in February for three days of tutorials, talks, and fun.
 We would like to invite you to `CakeFest, February 6-8 2008`_ in
 Orlando, FL[1]. CakeFest is the ﬁrst gathering dedicated to CakePHP.

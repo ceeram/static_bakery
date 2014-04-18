@@ -1,8 +1,6 @@
 Concatenate Behavior
 ====================
 
-by bparise on May 22, 2007
-
 Using Model::afterFind($results) is a great way to modify your data to
 return newly formatted fields. But, sometimes this can become a
 tedious task. The Concatenate Behavior will handle this automatically

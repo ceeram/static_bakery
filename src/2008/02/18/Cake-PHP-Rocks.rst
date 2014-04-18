@@ -1,8 +1,6 @@
 Cake PHP Rocks
 ==============
 
-by nuuvoo on February 18, 2008
-
 I have successfully created a website using Cake within a short period
 of time. It works great and cake framework simply rocks.
 It is very difficult to find websites that are using the Cake

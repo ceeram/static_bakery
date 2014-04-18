@@ -1,8 +1,6 @@
 FindBatch Behavior
 ==================
 
-by %s on March 12, 2011
-
 A plugin behavior that provides a way of finding all records in
 batches rather than all at once, so that you can loop through huge
 lists of records without running out of memory.

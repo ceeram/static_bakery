@@ -1,8 +1,6 @@
 AdaWiki2, an easy to use wiki made in CakePHP
 =============================================
 
-by adael on August 27, 2011
-
 Title says all
 
 

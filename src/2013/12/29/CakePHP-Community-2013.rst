@@ -1,8 +1,6 @@
 CakePHP Community 2013
 ======================
 
-by jameswatts on December 29, 2013
-
 2013 has been an incredible year for us, as it saw the CakePHP
 community grow stronger than ever.
 

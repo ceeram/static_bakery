@@ -1,8 +1,6 @@
 Routes Component
 ================
 
-by jbcrawford on June 04, 2009
-
 This is a component to add/remove routes directly to/from the
 /app/config/routes.php file.
 You can use this if you are building a content management system or

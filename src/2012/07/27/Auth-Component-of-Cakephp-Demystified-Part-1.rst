@@ -1,8 +1,6 @@
 Auth Component of Cakephp Demystified Part-1
 ============================================
 
-by neil6502 on July 27, 2012
-
 how to setup basic authentication system...
 `Complete Toutorial....`_ *In today's Internet era most of the web
 developers tries to provide a log in/signup based feature for web

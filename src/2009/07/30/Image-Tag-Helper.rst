@@ -1,8 +1,6 @@
 Image Tag Helper
 ================
 
-by sethcardoza on July 30, 2009
-
 This helper will output an XHTML valid image tag. It will get the
 image dimensions (width and height), and add the attributes to the
 image. You can also specify a width and height, and it will not get

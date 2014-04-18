@@ -1,8 +1,6 @@
 Search and paginate methods in cakePHP 1.3 or 1.2
 =================================================
 
-by %s on June 11, 2011
-
 Some times users need to search trough our data and then navigate to
 result pages, but when they click on next page the result lost. How
 can we fix it? I want to show how easily we can paginate through our

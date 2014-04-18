@@ -1,8 +1,6 @@
 Habtm Validatable Behavior
 ==========================
 
-by nachopitt on July 01, 2010
-
 A behavior to validate HABTM input fields (multi select or checkbox)
 and save at the same time with just one instruction.
 This behavior gives models the ability to validate the save or update

@@ -1,8 +1,6 @@
 Different layouts for static pages
 ==================================
 
-by raheel.dharolia on January 31, 2010
-
 This simple tutorial tends to explain how easy it is to use different
 layouts for static pages in your website using the built-in pages
 controller.

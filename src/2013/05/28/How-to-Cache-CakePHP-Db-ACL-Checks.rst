@@ -1,8 +1,6 @@
 How to Cache CakePHP Db ACL Checks
 ==================================
 
-by systematical on May 28, 2013
-
 After enabling SQL query logging to Chrome Console I began noticing
 that queries against the ARO table appear running at 300 milliseconds
 or higher. This is data that doesn’t change often and is needed on

@@ -1,8 +1,6 @@
 ConditionalValidation behavior
 ==============================
 
-by francky06l on December 26, 2007
-
 [Update]: as suggested few modifications : - model method can be set
 in the condition - syntax for fields in the condition can be
 'Model.field' or "Model.field" (see example) - usage of the

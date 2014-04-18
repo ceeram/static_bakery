@@ -1,8 +1,6 @@
 Using cakePHP data cache for caching enum values
 ================================================
 
-by maninderv on February 25, 2007
-
 This example will show you how you can cache the enum values that you
 obtain from a database using cakePHP's data cache...
 cakePHP has view caching built in which when used cleverly will really

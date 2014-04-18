@@ -1,8 +1,6 @@
 Password Validation in Cakephp
 ==============================
 
-by rajender120 on August 19, 2011
-
 Password validation is very important for the tasks like resetting
 password.
 

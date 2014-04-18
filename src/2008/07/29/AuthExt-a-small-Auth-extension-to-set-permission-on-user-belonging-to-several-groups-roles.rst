@@ -2,8 +2,6 @@ AuthExt a small Auth extension to set permission on user belonging to
 several groups/roles.
 =====================
 
-by francky06l on July 29, 2008
-
 On google group I have seen many question about Auth-Acl usage for
 users having several roles or belonging to different groups. There are
 plenty of good articles in blogs, bakery etc .. This small extension

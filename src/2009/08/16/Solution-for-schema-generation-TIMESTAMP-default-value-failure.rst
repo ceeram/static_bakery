@@ -1,8 +1,6 @@
 Solution for schema generation TIMESTAMP default value failure
 ==============================================================
 
-by shulga on August 16, 2009
-
 There are several tickets (#6225, #6205, #5766) as well as relatively
 significant number of posts on the Internet devoted to the improper
 handling of TIMESTAMP's default value when using CakePHP schema

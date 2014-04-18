@@ -1,8 +1,6 @@
 Vimeo Helper
 ============
 
-by jreeves on June 15, 2008
-
 Short and Simple helper to assist with embedding Vimeo.com videos in
 your CakePHP Projects.
 Not much to say, once you have included this helper in your

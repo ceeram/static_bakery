@@ -1,8 +1,6 @@
 What's Up, Docs?
 ================
 
-by psychic on February 12, 2008
-
 If CakePHP is the best framework out there, why aren't the
 documentation efforts up to par? Ever wondered how you can help? Find
 out how. Check out CakePHP's newest tool: the Cookbook.

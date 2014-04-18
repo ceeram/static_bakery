@@ -1,8 +1,6 @@
 Disambiguate location information using Yahoo! Placemaker component
 ===================================================================
 
-by prashant_patil on March 17, 2010
-
 This component uses Yahoo Placemaker service to disambiguate location
 information and return the best match with a geo marker. e.g. input:
 big apple => output: [locationType]=town,[name] =>New York, NY

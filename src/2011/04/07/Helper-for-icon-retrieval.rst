@@ -1,8 +1,6 @@
 Helper for icon retrieval
 =========================
 
-by checkitout on April 08, 2011
-
 This helper easily can retrieve appropriate icons for a given mimetype
 or file extension.
 Create icon.php in your app/view/helpers directory and fill in the

@@ -1,8 +1,6 @@
 AttributeBehavior - DRY and powerful
 ====================================
 
-by taylor.luk on November 04, 2008
-
 Another piece taken inspiration from a somewhat similar AliasBehavior,
 but most of the time u to do more than aliasing. What about a simple
 callback mechanism to build aliases, virtual or derivative attributes

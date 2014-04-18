@@ -1,8 +1,6 @@
 Universal Mobilization with WAPL
 ================================
 
-by petteyg on August 25, 2010
-
 Some potential future users of my current project requested mobile
 accessibility. Your users might appreciate the same. I found WAPL to
 be a good method for providing such accessibility.

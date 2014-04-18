@@ -1,8 +1,6 @@
 Script Combiner Helper
 ======================
 
-by geoff.garbers on September 28, 2010
-
 With the need to combine multiple CSS and Javascript files together, I
 started to look around for an easy-to-implement helper that can take
 care of this for me. From what I could find, everything seemed to

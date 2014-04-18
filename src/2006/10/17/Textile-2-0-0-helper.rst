@@ -1,8 +1,6 @@
 Textile 2.0.0 helper
 ====================
 
-by walker on October 17, 2006
-
 This let's you easily use Textile to process content for your
 application. Just drop it in /views/helpers/textile.php, then
 $textile->process($thedata). You can also

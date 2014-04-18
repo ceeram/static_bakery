@@ -1,8 +1,6 @@
 Basic use of the Js helper to implement ajax features
 =====================================================
 
-by casualman on February 26, 2011
-
 An overview on how to use the new Js helper to implement ajax
 features.
 I wanted to implement ajax features into my project but I was not sure

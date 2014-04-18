@@ -1,8 +1,6 @@
 Hostip.info - Accessing GeoIP information using HttpSocket
 ==========================================================
 
-by chadsmith729 on March 12, 2010
-
 This article will cover how to access geoIP information from
 hostip.info. Hostip.info is a community-based project to geolocate IP
 addresses, making the database freely available but it needs you to

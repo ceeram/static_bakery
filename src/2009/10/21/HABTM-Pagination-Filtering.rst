@@ -1,8 +1,6 @@
 HABTM Pagination & Filtering
 ============================
 
-by voroex on October 21, 2009
-
 HABTM relationships can be hard to work with as the builtin methods in
 Cake don't work like in other types of associations. This often leads
 to ugly hacks and non-cakeish tricks. Here, in the first of a series

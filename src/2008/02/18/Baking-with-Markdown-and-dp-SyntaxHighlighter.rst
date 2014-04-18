@@ -1,8 +1,6 @@
 Baking with Markdown and dp.SyntaxHighlighter
 =============================================
 
-by lecterror on February 18, 2008
-
 Creating a content editor with has never been easier. All you need is
 Markdown and dp.SyntaxHighlighter!
 After a brief discussion on CakePHP group, I've decided to try - as

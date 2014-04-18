@@ -1,8 +1,6 @@
 Introducing Start Tutorial
 ==========================
 
-by thedilab on August 27, 2010
-
 I have been working with CakePHP since its first release. And recently
 I decided to build a tutorial website and share my experience of
 various development techniques. And here comes StarTutorial.com and I

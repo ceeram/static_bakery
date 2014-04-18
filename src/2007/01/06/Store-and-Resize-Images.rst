@@ -1,8 +1,6 @@
 Store and Resize Images
 =======================
 
-by lababidi on January 06, 2007
-
 This guide should help you learn how to store images into your
 database as well as use the powerful GD library to resize your images.
 Here are some things this guide will teach you:

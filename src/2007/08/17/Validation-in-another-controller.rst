@@ -1,8 +1,6 @@
 Validation in another controller
 ================================
 
-by drayen on August 17, 2007
-
 You have 2 controllers, posts and comments, you want to be able to
 have a form on a posts view which submits to the comments controller,
 which does its thing then redirect to referrer - easy! BUT you also

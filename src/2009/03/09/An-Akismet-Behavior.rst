@@ -1,8 +1,6 @@
 An Akismet Behavior
 ===================
 
-by TommyO on March 09, 2009
-
 There have been a lot of tools written in the past to help CakePHP
 apps deal with comment spam. This is yet another.
 

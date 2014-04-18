@@ -1,8 +1,6 @@
 Basic Fallback Component
 ========================
 
-by Ludge on October 30, 2006
-
 This is some basic code showing how to capture a missing action error
 from a component and call a default action defined in the controller.
 

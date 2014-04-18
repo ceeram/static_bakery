@@ -1,8 +1,6 @@
 CakePHP 2.4.1 released
 ======================
 
-by markstory on September 15, 2013
-
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.4.1[1]. 2.4.1 is a bugfix release for the 2.4 release
 branch.

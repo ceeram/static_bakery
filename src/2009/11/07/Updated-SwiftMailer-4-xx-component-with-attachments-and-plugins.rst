@@ -1,8 +1,6 @@
 Updated SwiftMailer(4.xx) component with attachments and plugins
 ================================================================
 
-by sky_l3ppard on November 07, 2009
-
 This version of SwiftMailer component is built under cake conventions
 and has ability to add attachments, plugins and SMTP under TLS or SSL.
 Also if you are using utf-8 characters Outlook uses different encoding

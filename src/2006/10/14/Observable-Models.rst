@@ -1,8 +1,6 @@
 Observable Models
 =================
 
-by burningodzilla on October 14, 2006
-
 Make your Cake application more flexible with observable models.
 Let me preface by saying that I am a not a zealout of any paradigm or
 language.

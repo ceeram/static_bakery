@@ -1,8 +1,6 @@
 Acts As Emailable
 =================
 
-by Thades on January 14, 2008
-
 This little behavior is more of a learning experiment for me into how
 behaviors work in the CakePHP side of things. It helps me with
 maintaining a list of users who are emailable rather than write a

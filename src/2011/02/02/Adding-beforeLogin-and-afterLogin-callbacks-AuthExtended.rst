@@ -1,8 +1,6 @@
 Adding beforeLogin and afterLogin callbacks (AuthExtended)
 ==========================================================
 
-by lucaswxp on February 02, 2011
-
 AuthExtendedComponent is a class to add two new callbacks
 'beforeLogin' and 'afterLogin' to your app.
 Usage The component works exactly as the AuthComponent, so, just add

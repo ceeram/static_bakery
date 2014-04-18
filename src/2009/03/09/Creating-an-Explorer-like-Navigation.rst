@@ -1,8 +1,6 @@
 Creating an Explorer-like Navigation
 ====================================
 
-by getit on March 09, 2009
-
 IÂ´ve written a helper to administrate documents in an explorer-like
 tree. It doesnÂ´t matter how many folders you have or how deep is the
 tree.

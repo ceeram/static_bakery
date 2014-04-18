@@ -1,8 +1,6 @@
 Admin Routing on Subdomain
 ==========================
 
-by jonarne on September 05, 2009
-
 I've read several howtos on this topic, but never found a solution i
 liked. Until now.
 

@@ -1,8 +1,6 @@
 The CakePHP Blog Tutorial with SMARTY
 =====================================
 
-by HyperCas on June 11, 2008
-
 The official cakePHP Blog tutorial converted to use smarty. I hope
 this would help people quickly setup smarty and have an example to
 refer to for cakePHP + smarty. I assume you've already done the blog

@@ -1,8 +1,6 @@
 Migrating a real-world application to CakePHP 1.2
 =================================================
 
-by eimermusic on November 04, 2008
-
 [p] I thought I'd chronicle my work migrating my fist CakePHP
 application to CakePHP 1.2 (rc3 at the time of writing). The
 application was originally written for CakePHP 1.0 (= the good old

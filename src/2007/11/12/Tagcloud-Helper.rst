@@ -1,8 +1,6 @@
 Tagcloud Helper
 ===============
 
-by Alakazam on November 12, 2007
-
 This is an intro on how to create well made tag clouds that are
 normalized based on relative scores. Feel free to use in your
 projects.

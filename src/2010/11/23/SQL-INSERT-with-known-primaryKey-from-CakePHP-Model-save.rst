@@ -1,8 +1,6 @@
 SQL INSERT with known primaryKey from CakePHP Model::save()
 ===========================================================
 
-by Iiridayn on November 23, 2010
-
 I've asked myself and others quite a number of times if this is even
 possible in CakePHP, and always, always the answer has been that since
 CakePHP uses the presence/absence of the Model's id to do a save or

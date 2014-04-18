@@ -1,8 +1,6 @@
 Using NeatString To Make Random Passwords
 =========================================
 
-by seventoes on November 11, 2006
-
 In my hunt for a simpler way to generate a random password, I ran
 across a little class that CakePHP already has.
 A neat function I just discovered while looking for a useful CakePHP

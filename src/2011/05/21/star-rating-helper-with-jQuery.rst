@@ -1,8 +1,6 @@
 star rating helper with jQuery
 ==============================
 
-by infest696 on May 21, 2011
-
 I was looking for a simple widget that allows me to implement a star
 rating functionality. Because I didn't found something, that fits my
 needs I wrote my own.

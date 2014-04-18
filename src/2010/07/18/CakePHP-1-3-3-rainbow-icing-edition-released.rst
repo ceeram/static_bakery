@@ -1,8 +1,6 @@
 CakePHP 1.3.3 rainbow icing edition released
 ============================================
 
-by markstory on July 18, 2010
-
 The CakePHP development team is happy to announce the release of
 CakePHP 1.3.3[1]. 1.3.3 is a maintenance release for the 1.3 branch
 and contains bugfixes and optimizations for features found in 1.3.

@@ -1,8 +1,6 @@
 ConfComponent DB based configuration
 ====================================
 
-by CraZyLeGs on April 10, 2007
-
 DB based configuration, allows you to set and retrieve values
 organized into conf categories. Now with caching.
 

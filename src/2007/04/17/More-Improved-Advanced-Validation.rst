@@ -1,8 +1,6 @@
 More Improved Advanced Validation
 =================================
 
-by evan on April 17, 2007
-
 Here's a way to perform a cleaner and better way of validating your
 model data in CakePHP.
 

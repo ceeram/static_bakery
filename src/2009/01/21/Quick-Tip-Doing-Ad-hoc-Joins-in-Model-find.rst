@@ -1,8 +1,6 @@
 Quick Tip - Doing Ad-hoc Joins in Model::find()
 ===============================================
 
-by nate on January 21, 2009
-
 Herewith, a little-known query trick that allows you to do simple ad-
 hoc joins in your CakePHP finder queries. No binding or unbinding
 required.

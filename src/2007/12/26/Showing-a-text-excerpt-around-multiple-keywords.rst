@@ -1,8 +1,6 @@
 Showing a text excerpt around multiple keywords
 ===============================================
 
-by grigri on December 26, 2007
-
 On a typical search results page, you want to display an excerpt of
 each matching item, showing the keywords. TextHelper::excerpt() works,
 but only for a single word/phrase. This helper finds the chunk of text

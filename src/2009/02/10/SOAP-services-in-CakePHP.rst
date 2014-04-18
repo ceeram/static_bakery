@@ -1,8 +1,6 @@
 SOAP services in CakePHP
 ========================
 
-by Marcelius on February 10, 2009
-
 This article describes what (I think) is the most effective way of
 calling controller methods with soap calls. At the end of this
 tutorial, you can do something like '$mySoapClient->foo()' which maps

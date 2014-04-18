@@ -1,8 +1,6 @@
 jQuery autocomplete Helper
 ==========================
 
-by Gemini on April 12, 2008
-
 I use jQuery becose is fast and concise Javascript library. My helper,
 jmycake, use jQuery for AJAX autocomplete.
 

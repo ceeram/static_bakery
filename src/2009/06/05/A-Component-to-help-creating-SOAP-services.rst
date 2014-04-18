@@ -1,8 +1,6 @@
 A Component to help creating SOAP services
 ==========================================
 
-by char101 on June 05, 2009
-
 A component providing automatic WSDL generation using jool.nl
 Webservice Helper library, CakePHP caching of generated WSDL, and
 automatic handling of SOAP calls.

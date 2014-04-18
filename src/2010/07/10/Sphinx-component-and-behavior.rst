@@ -1,8 +1,6 @@
 Sphinx component and behavior
 =============================
 
-by eugenioclrc on July 10, 2010
-
 I have made a "branch" of the sphinx behavior (
 http://bakery.cakephp.org/articles/view/sphinx-behavior ), and make a
 component and a behavior that uses this component. I have also add

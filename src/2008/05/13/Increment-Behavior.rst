@@ -1,8 +1,6 @@
 Increment Behavior
 ==================
 
-by ketan on May 13, 2008
-
 Increment Behavior is ideal for use when you want to increment a
 certain field by a delta increment such as adding votes, updating view
 counters, etc.

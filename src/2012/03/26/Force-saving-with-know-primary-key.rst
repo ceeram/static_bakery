@@ -1,8 +1,6 @@
 Force saving with know primary key
 ==================================
 
-by %s on March 26, 2012
-
 At first, sorry for my bad english but i'm italian.
 i'm writing this article for illustrate how to force a save instead
 update when we insert in the save fields the model's primary key

@@ -2,8 +2,6 @@ Using the Ajax Helper for InPlaceEditor and InplaceCollectionEditor
 Fields
 ======
 
-by abalonepaul on July 07, 2008
-
 Although there is quite a bit of information available for using the
 Scriptaculous InPlacEditor, there is not much information for using it
 with CakePHP. In addition, there is very little information on using

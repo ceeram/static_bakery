@@ -1,8 +1,6 @@
 Generate XML Excel
 ==================
 
-by makio on September 28, 2010
-
 This is a helper that will help you to create a valid XML Excel
 without using any vendor classes, after this you can save this XML to
 an xls file in excel.

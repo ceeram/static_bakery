@@ -1,8 +1,6 @@
 Show and Hide Debug SQL
 =======================
 
-by cgmartin on October 05, 2006
-
 Place an Element on your page or layout to toggle view of the SQL
 messages (DEBUG >= 2).
 Helps alleviate some of the layout/rendering issues that occur with

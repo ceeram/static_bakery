@@ -1,8 +1,6 @@
 Twitter Datasource
 ==================
 
-by ics on July 25, 2009
-
 Datasource for Twitter API
 Basic usage tutorial:
 `http://bakery.cakephp.org/articles/view/building-your-first-twitter-

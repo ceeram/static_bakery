@@ -1,8 +1,6 @@
 Open Flash Chart Helper: draw charts the Cake way
 =================================================
 
-by joaquin_win on May 03, 2008
-
 Open Flash Chart ([url]http://teethgrinder.co.uk/open-flash-
 chart/[/url]) is a nice solution to drawing charts from data on your
 applications. This helper makes using Open Flash Chart with CakePHP

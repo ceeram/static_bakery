@@ -1,8 +1,6 @@
 Simple access control via AuthComponent
 =======================================
 
-by SiggiSmara on October 22, 2008
-
 Sometimes all you want is a simple action based access control. You
 can achieve that with minimal amount of effort with the AuthComponent.
 This article explains how for newbie bakers like me. It took a while

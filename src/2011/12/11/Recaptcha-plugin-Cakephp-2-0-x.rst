@@ -1,8 +1,6 @@
 Recaptcha plugin - Cakephp 2.0.x
 ================================
 
-by lamanabie on December 11, 2011
-
 Qucik and easy Recaptcha plugin for cakephp 2.0.x
 
 I decided to upgrade Recaptcha plugin from cakedc to useable way.

@@ -1,8 +1,6 @@
 Composer Plugin for CakePHP
 ===========================
 
-by uzyn on June 20, 2012
-
 Use Composer conveniently with your CakePHP application and get access
 to a vast library of reusable PHP components and packages through
 Packagist.

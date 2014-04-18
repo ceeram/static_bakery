@@ -1,8 +1,6 @@
 Image Magick Resize Helper
 ==========================
 
-by j15e on November 14, 2009
-
 I was looking for a resizing helper and found one which wasn't exactly
 what I was looking for so I tweaked it a bit.
 Here is my helper based on Josh Hundley `image resize helper`_. My

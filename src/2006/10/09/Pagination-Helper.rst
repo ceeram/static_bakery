@@ -1,8 +1,6 @@
 Pagination Helper
 =================
 
-by AD7six on October 09, 2006
-
 The pagination helper, for instruction on use see:
 http://bakery.cakephp.org/articles/view/65
 

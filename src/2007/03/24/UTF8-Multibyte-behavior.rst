@@ -1,8 +1,6 @@
 UTF8 Multibyte behavior
 =======================
 
-by Jippi on March 24, 2007
-
 Simple way to make sure all your persisted data is in utf8 / same
 encoding
 As I was developing my CMS system, and we began to get foreign

@@ -1,8 +1,6 @@
 Email template management plugin
 ================================
 
-by madhavi on June 11, 2012
-
 Hi everyone, This is my first open source plugin. which we can use to
 manage email templates in cakephp
 

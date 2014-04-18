@@ -1,8 +1,6 @@
 Advanced Pagination (1.2)
 =========================
 
-by rtconner on June 29, 2007
-
 This tutorial will attempt to cover some advanced techniques of
 pagination. In large this will cover Ajax pagination. Hopefully we can
 also uncover some of the better practices and techniques to use with

@@ -1,8 +1,6 @@
 Autocache Behavior for automaticly caching model queries
 ========================================================
 
-by ndejong on November 26, 2011
-
 AutocacheBehavior is a CakePHP 2x Behavior that makes query caching as
 easy as adding a 'cache'=>true condition to your find statement.
 **

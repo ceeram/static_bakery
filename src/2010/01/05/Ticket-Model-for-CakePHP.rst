@@ -1,8 +1,6 @@
 Ticket Model for CakePHP
 ========================
 
-by Firecreek on January 05, 2010
-
 This model will create a simple one-off ticket which can be used for
 user password resetting to activation and moderation. With an activate
 account example you might send a url like

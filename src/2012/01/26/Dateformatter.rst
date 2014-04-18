@@ -1,8 +1,6 @@
 Dateformatter
 =============
 
-by rikkin on January 27, 2012
-
 Hi!, Im new on the bakery, this is my first article, I hope this will
 be helpfull. This is a behaviors for dateformat, I was looking for
 something like this, but I never could get one that indulge my needs.

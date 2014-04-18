@@ -1,8 +1,6 @@
 Google Map Helper
 =================
 
-by gigapromoters on December 28, 2006
-
 A handy tool to generate maps using Google Map API.
 I found CakePHP to be helpful with a lot of things and I loved the
 fact that anyone can reuse any classes made in PHP using 'vendors' in

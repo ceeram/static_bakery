@@ -1,8 +1,6 @@
 CakePHP triple layered edition released
 =======================================
 
-by lorenzo on September 19, 2011
-
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 1.2.11, 1.3.12 and 2.0.0-RC2. Both 1.2.11 and 1.3.12 are
 bugfix/maintenance releases. This triple release also contains the

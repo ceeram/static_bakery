@@ -2,8 +2,6 @@ Automatically load all controllers and actions into ACO tables for ACL
 with a CakePHP Task
 ===================
 
-by brightball on January 27, 2009
-
 If you've spent anytime wanting to use ACL on your applications, you
 know how tedious it can be to manually enter your entire controller
 and action structure. This Task will handle finding and loading or

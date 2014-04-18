@@ -1,8 +1,6 @@
 Article submission and review
 =============================
 
-by gwoo on September 27, 2006
-
 Here we attempt to explain the process of submitting articles and the
 process of reviewing the submissions.
 We are psyched with the number of submissions that have come in and

@@ -1,8 +1,6 @@
 Master / Slave support (also with multiple slave support)
 =========================================================
 
-by gman.php on January 20, 2009
-
 We have discovered a way how to realize master/slave support with cake
 (also with multiple slaves).
 This old post is completely depricated:

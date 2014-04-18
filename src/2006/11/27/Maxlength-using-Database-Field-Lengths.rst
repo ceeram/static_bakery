@@ -1,8 +1,6 @@
 Maxlength using Database Field Lengths
 ======================================
 
-by cornernote on November 27, 2006
-
 I wanted to have a maxlength="something" in my forms, but I needed the
 value to come from the database at least during development. When it
 goes live the data will cache so it will still be fast.

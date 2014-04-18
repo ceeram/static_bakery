@@ -1,8 +1,6 @@
 ConfigAdmin - Administration of Custom Configuration File
 =========================================================
 
-by maxbohr on September 22, 2012
-
 ConfigAdmin Pulgin is management of custom configuration file.
 > This is created on top of available functionality in cakephp 2.1<br
 > Ref: http://book.cakephp.org/2.0/en/development/configuration.html

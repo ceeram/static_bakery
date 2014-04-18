@@ -1,8 +1,6 @@
 Really Simple Auth Component
 ============================
 
-by afterxleep on January 13, 2011
-
 Since the first releases of CakePHP, the authentication component
 seemed overkill for small projects, where simple
 user/pass/access_level is required, so I decided to create this simple

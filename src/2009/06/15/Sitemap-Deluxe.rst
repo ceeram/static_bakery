@@ -1,8 +1,6 @@
 Sitemap Deluxe
 ==============
 
-by CristianDeluxe on June 15, 2009
-
 A nice and easy way for automatically generate your sitemaps. Main
 features: generate html & xml sitemap, send your sitemap to search
 engines (Google, Yahoo, Ask, Bing), auto generated robot.txt, support

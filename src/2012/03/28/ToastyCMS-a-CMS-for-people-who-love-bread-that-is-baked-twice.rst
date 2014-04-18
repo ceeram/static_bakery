@@ -1,8 +1,6 @@
 ToastyCMS a CMS for people who love bread that is baked twice
 =============================================================
 
-by icompuiz on March 28, 2012
-
 I have been building a CMS for personal use. I call it Toasty. It is a
 very simple tool with very basic features. It can be found at
 https://github.com/icompuiz/ToastyCMS

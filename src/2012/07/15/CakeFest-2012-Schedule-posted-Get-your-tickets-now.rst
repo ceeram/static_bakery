@@ -1,8 +1,6 @@
 CakeFest 2012 - Schedule posted! Get your tickets now!
 ======================================================
 
-by predominant on July 15, 2012
-
 The CakeFest 2012 talks schedule has been posted on the CakeFest
 website. Get in and purchase your tickets today before the end of the
 Early-bird period!

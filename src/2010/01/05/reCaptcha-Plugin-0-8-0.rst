@@ -1,8 +1,6 @@
 reCaptcha Plugin - 0.8.0
 ========================
 
-by fenux on January 05, 2010
-
 reCaptcha is a plugin to allow the easy use of reCaptcha.net's captcha
 library.
 

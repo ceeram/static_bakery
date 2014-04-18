@@ -1,8 +1,6 @@
 Table Helper
 ============
 
-by scottsanders on May 08, 2009
-
 The following code allows you to rapidly create nice tables. Complete
 with pagination controls, and a host of options to allow you to
 customize the resulting table. Hope it's useful!

@@ -1,8 +1,6 @@
 Building an iPhone app in a day
 ===============================
 
-by gwoo on July 06, 2007
-
 The iPhone changed the way I work and made my life easier. Read about
 the application that adds one more feature to an already great device.
 Some of you may have heard, but PhpNut, Nate, and myself all have

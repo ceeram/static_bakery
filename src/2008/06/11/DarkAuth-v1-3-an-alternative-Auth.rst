@@ -1,8 +1,6 @@
 DarkAuth v1.3 - an alternative Auth
 ===================================
 
-by theChrisWalker on June 11, 2008
-
 An update to the original DarkAuth component
 (http://bakery.cakephp.org/articles/view/darkauth-another-way), with
 increased efficiency and easier access control. It works exactly how I

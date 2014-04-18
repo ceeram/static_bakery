@@ -1,8 +1,6 @@
 Simple way to memcache (almost) all database queries
 ====================================================
 
-by Molot on January 08, 2010
-
 Most common way to access data is a database. Most common way to speed
 this up - Memcached. As a quite young CakePHP developer I had a bit of
 headache "how to cache queries effectively?". Now I know the way, so I

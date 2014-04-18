@@ -1,8 +1,6 @@
 Autotest using Watchr getting notified via Growl
 ================================================
 
-by amitsamtani on July 09, 2010
-
 [p]I was taking a look at ZenTest a while ago, especially the autotest
 functionality. As stated in the ZenTest site, autotest:[/p] [ulist]
 [li]Improves feedback by running tests continuously.[/li]

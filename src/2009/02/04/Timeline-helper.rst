@@ -1,8 +1,6 @@
 Timeline helper
 ===============
 
-by ronnyvv on February 04, 2009
-
 Easy to use helper for the MIT Simile Web Widgets component Timeline.
 Timeline allows web site creators to embed interactive timelines into
 their sites. It requires only that visitors have Javascript enabled.

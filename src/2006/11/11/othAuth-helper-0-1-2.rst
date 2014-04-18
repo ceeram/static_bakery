@@ -1,8 +1,6 @@
 othAuth helper 0.1.2
 ====================
 
-by CraZyLeGs on November 11, 2006
-
 Helper part of othAuth changes: 0.1.2: - Fixed another bug in getData
 ( wasn't calling init()) - Added support for 1.2 - Added a function
 hasPermission by Brett ODonnell aka cornernote 0.1.1: - Fixed a bug in

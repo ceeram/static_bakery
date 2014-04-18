@@ -1,8 +1,6 @@
 RBAuth (a spinoff from othAuth)
 ===============================
 
-by yellow1912 on February 25, 2007
-
 I want to say thanks to othman ouahbi for his wonderful Authentication
 Component, this subversion is just a spin-off of othAuth. I also need
 to give a big WARNING: + This component is still under heavy

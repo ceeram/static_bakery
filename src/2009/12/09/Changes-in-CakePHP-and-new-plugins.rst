@@ -1,8 +1,6 @@
 Changes in CakePHP and new plugins
 ==================================
 
-by markstory on December 09, 2009
-
 With the development of 1.3 and 2.0 well underway the CakePHP team has
 taken some time to re-evaluate and reconsider some of the tools we use
 as a team and as a community. Recently, CakePHP has undergone several

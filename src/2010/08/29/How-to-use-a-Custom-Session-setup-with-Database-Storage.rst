@@ -1,8 +1,6 @@
 How to use a Custom Session setup with Database Storage
 =======================================================
 
-by PHPdiddy on August 29, 2010
-
 There's plenty of information out there on how to create your own
 session handler for CakePHP, but when I needed to add some
 customization on top of the database storage system, I had to do a

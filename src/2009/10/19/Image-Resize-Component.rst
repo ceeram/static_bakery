@@ -1,8 +1,6 @@
 Image Resize Component
 ======================
 
-by reflashed on October 19, 2009
-
 Now it's easy to resize any jpeg, gif, or png image!
 
 

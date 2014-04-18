@@ -1,8 +1,6 @@
 CakePHP for TextMate
 ====================
 
-by kuja on June 11, 2008
-
 Do you like Cake? Are you a TextMate user? Well, then maybe the
 CakePHP bundle for TextMate is just what you need!
 Many of you TextMate users and CakePHP bakers may already be aware

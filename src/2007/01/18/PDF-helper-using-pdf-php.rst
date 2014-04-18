@@ -1,8 +1,6 @@
 PDF helper using pdf php
 ========================
 
-by sdevore.myopenid.com on January 18, 2007
-
 This Article is strongly based on the old wiki entry by Ozly all
 credit goes to him all errors can be attributed to me. "This class is
 designed to provide a non-module, non-commercial alternative to

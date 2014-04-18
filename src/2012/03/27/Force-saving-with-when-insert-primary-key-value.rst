@@ -1,8 +1,6 @@
 Force saving with when insert primary key value
 ===============================================
 
-by doshu on March 27, 2012
-
 Have you ever try to make a save when you manually set the primary key
 value??
 > By default Cakephp perform an update query, when in the fields array

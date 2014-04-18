@@ -1,8 +1,6 @@
 Mobilize your cake app in minutes
 =================================
 
-by rgubby on December 11, 2008
-
 Whilst cake provides you with basic mobile detection, it doesn't cut
 it in the real world, there are literally thousands of mobile devices
 / browsers that will slip through the requestHandler's net. By

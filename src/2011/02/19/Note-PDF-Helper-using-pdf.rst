@@ -1,8 +1,6 @@
 Note: PDF Helper using pdf
 ==========================
 
-by tung on February 19, 2011
-
 This article is to inform bugs when we use this post
 http://bakery.cakephp.org/articles/sdevore_myopenid_com/2007/01/18
 /pdf-helper-using-pdf-php.

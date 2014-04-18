@@ -1,8 +1,6 @@
 eAccelerator Cache Engine
 =========================
 
-by stevebest on October 26, 2008
-
 eAccelerator ([url]http://eaccelerator.net/[/url]) is a free open-
 source PHP accelerator, optimizer, and dynamic content cache. It also
 provides a cache capabilities through the use of shared memory (if

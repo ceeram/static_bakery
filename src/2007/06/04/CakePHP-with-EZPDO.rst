@@ -1,8 +1,6 @@
 CakePHP with EZPDO
 ==================
 
-by benben on June 04, 2007
-
 This article describe the work I have done to integrate EZPDO with
 CakePHP.
 I started to work few weeks ago, on integrating CakePHP with EZPDO. As

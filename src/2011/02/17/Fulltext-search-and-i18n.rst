@@ -1,8 +1,6 @@
 Fulltext search and i18n
 ========================
 
-by macjoost on February 17, 2011
-
 Fulltext MySQL search using MATCH () AGAINST () and the i18n tables
 requires a more complex search query.
 First, add a FULLTEXT index to your i18n MySQL table:

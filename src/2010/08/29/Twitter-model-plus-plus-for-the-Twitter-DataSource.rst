@@ -1,8 +1,6 @@
 Twitter model plus plus (for the Twitter DataSource)
 ====================================================
 
-by rynop on August 29, 2010
-
 I've added a few helpful functions to the Twitter model for the
 Twitter DataSource example in the 1.3 CakePHP Cookbook. Specifically,
 the auto detection and shrinking of URLs in a string intended for

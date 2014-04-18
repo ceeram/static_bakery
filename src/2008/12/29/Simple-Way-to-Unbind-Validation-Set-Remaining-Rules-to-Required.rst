@@ -1,8 +1,6 @@
 Simple Way to Unbind Validation & Set Remaining Rules to Required
 =================================================================
 
-by kiger on December 29, 2008
-
 I have messed around with various ways to unbind certain validation
 and you know what, sometimes the mantra K.I.S.S. really hits home. I
 think this is a good example of such a mentality. It might not be

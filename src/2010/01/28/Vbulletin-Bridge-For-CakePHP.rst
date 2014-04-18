@@ -1,8 +1,6 @@
 Vbulletin Bridge For CakePHP
 ============================
 
-by enangyusuf on January 28, 2010
-
 Vbulletin bridge for cakephp. special thanks to Netrosis
 (www.syphex.com)
 Config

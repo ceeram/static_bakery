@@ -1,8 +1,6 @@
 How to use ACL with Cake PHP 1.2.x?
 ===================================
 
-by ketan on August 07, 2007
-
 This tutorial will brief you on how to use Acl in CakePHP 1.2.x
 versions. I had tough time figuring this out. But with help of Gwoo,
 AD7Six & others, and doing debugging and reading code, here comes the

@@ -1,8 +1,6 @@
 Menu Helper
 ===========
 
-by AD7six on June 11, 2008
-
 An easy to use helper capitalizing on the awesome tree helper
 (http://bakery.cakephp.org/articles/view/tree-helper-1) to make menus
 and menu logic a piece of cake

@@ -1,8 +1,6 @@
 Release: CakePHP 1.2.3.8166
 ===========================
 
-by gwoo on May 04, 2009
-
 I am happy to announce another release of CakePHP 1.2. CakePHP
 1.2.3.8166[1] includes several bug fixes and most importantly a
 security fix. To understand the security issue please have a look at

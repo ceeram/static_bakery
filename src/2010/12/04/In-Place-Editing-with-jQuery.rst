@@ -1,8 +1,6 @@
 In Place Editing with jQuery
 ============================
 
-by abalonepaul on December 04, 2010
-
 In 2008, I wrote an [url="http://bakery.cakephp.org/articles/abalonepa
 ul/2008/07/07/using_the_ajax_helper_for_inplaceeditor_and_inplacecolle
 ctioneditor_fields"]article on using the Scriptaculous InPlaceEditor

@@ -1,8 +1,6 @@
 Threaded Lists
 ==============
 
-by MrRio on September 24, 2006
-
 Ever needed a tree of sections with an unlimited depth? Here's a quick
 guide to findAllThreaded().
 

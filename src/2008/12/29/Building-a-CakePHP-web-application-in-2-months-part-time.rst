@@ -1,8 +1,6 @@
 Building a CakePHP web-application in 2 months, part time.
 ==========================================================
 
-by tyler on December 29, 2008
-
 This article outlines what I went through to produce the
 [url]http://www.demolistic.com[/url] AJAX-driven website over the
 course of the last two months, working just nights and weekends.

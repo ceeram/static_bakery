@@ -1,8 +1,6 @@
 NeptunIDE - CakePHP dedicated IDE is now available for everyone!
 ================================================================
 
-by neptunide on July 23, 2013
-
 `Two years ago I posted`_ here about my new project - NeptunIDE, a
 cloud-based IDE supporting CakePHP.
 

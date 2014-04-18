@@ -1,8 +1,6 @@
 Sanitizer Plugin
 ================
 
-by jharris on September 28, 2010
-
 When you're dealing with a lot of user submitted data, it's important
 to sanitize it. CakePHP provides a Sanitizer class that provides much
 of the functionality you need to deal with unclean data, but it can be

@@ -1,8 +1,6 @@
 The cake is still rising
 ========================
 
-by markstory on October 23, 2009
-
 Recent weeks have seen a few changes in the development team, as well
 as some clarification of the roadmap for CakePHP future releases. We'd
 like to thank those leaving for all their hard work and contributions.

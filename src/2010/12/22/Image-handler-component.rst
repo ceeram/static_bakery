@@ -1,8 +1,6 @@
 Image handler component
 =======================
 
-by nicho12 on December 22, 2010
-
 This is an attempt to make a previously published article more
 readable, the article is found here: http://bakery.cakephp.org/article
 s/xixilive/2010/12/01/image_handler_component_with_resize_crop_flip_wa

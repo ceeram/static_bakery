@@ -1,8 +1,6 @@
 Easy Email Address Encoder
 ==========================
 
-by jeko on June 26, 2008
-
 While there are countless solutions to protecting email addresses from
 page scanners, here's an easy helper to add another line of defense.
 This handy helper takes a normal email address and scrambles it up

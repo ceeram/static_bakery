@@ -1,8 +1,6 @@
 SwiftMailer Component
 =====================
 
-by CraZyLeGs on December 18, 2006
-
 This is a component that does encapsulate but not hide swift mailer.
 In addition, it adds some nifty features. In short, this is just a
 delicious cake-ish swift Mailer.

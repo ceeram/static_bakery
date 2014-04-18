@@ -1,8 +1,6 @@
 Installing CakePHP on MacOS X.
 ==============================
 
-by momendo on October 04, 2006
-
 This is how I setup CakePHP on my MacBook with PHP5 and MySQL5. I have
 MacOS X 10.4.8 installed.
 Here's a quick howto to get CakePHP installed on MacOS X. Your goal is

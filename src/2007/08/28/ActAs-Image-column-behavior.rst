@@ -1,8 +1,6 @@
 ActAs Image column behavior
 ===========================
 
-by Skiedr on August 28, 2007
-
 This behavior add new column to your model and allow to store images
 in file system. It can resize images, create several versions, and
 thubnails. After find model you got link to file for each record in

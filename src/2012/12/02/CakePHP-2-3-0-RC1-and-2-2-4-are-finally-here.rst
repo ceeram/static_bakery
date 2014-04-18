@@ -1,8 +1,6 @@
 CakePHP 2.3.0-RC1 and 2.2.4 are finally here
 ============================================
 
-by lorenzo on December 02, 2012
-
 Following the release of 2.3.0-beta around one month ago, we are
 excited to announce that 2.3 is very close to be marked as stable!
 

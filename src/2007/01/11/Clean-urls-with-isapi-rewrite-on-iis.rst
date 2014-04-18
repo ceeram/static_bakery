@@ -1,8 +1,6 @@
 Clean urls with isapi rewrite on iis
 ====================================
 
-by Yuka on January 11, 2007
-
 Forced to deal with a windows based server, without apache and
 effectively also mod_rewrite? But, after much complaining and begging
 your sysadmin has been kind enough to install isapi_rewrite on that

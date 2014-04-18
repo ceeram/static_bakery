@@ -1,8 +1,6 @@
 Display Tree Index with OL and LI
 =================================
 
-by Blackbit on December 20, 2012
-
 As i prefer using the original helpers and behaviors, i also use it
 for my Trees. In this article i'd like to clearify how we can display
 a tree using unsorted lists or even tables.

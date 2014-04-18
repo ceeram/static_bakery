@@ -1,8 +1,6 @@
 Image Toolbox Wrapper
 =====================
 
-by sintaks on August 14, 2007
-
 This is a very simple wrapper for the very-excellent Image_Toolbox
 class.
 

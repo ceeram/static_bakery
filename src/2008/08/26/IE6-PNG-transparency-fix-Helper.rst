@@ -1,8 +1,6 @@
 IE6 PNG transparency fix Helper
 ===============================
 
-by Jay.Salvat on August 26, 2008
-
 Use this helper instead of the original Html->image() to get Png
 pictures with alpha transparency working properly on Internet Explorer
 6 without any client-side javascript fix. Works on img tags, not on

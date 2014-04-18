@@ -1,8 +1,6 @@
 cake bake database conventions
 ==============================
 
-by alphaseinor on June 20, 2011
-
 Trying to document all of the database conventions for cake bake
 
 

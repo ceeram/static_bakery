@@ -1,8 +1,6 @@
 AutoHotkey Guide for CakePHP
 ============================
 
-by Tr0y on October 03, 2006
-
 Tired of typing "class YourModelsController extends AppController..."
 over and over? If so this, is for you.
 NOTE: This guide assumes you are using PHPeclipse as your IDE of

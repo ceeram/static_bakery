@@ -1,8 +1,6 @@
 Validati18n Behavior
 ====================
 
-by ceeram on October 29, 2009
-
 This Behavior will add country based validation rules to your model.
 The inspiration for the behavior came from the
 [url=http://code.cakephp.org/wiki/RFCs/1-3-todo-list]1.3-to-do-

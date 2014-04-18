@@ -1,8 +1,6 @@
 Zend Framework Loader Component
 ===============================
 
-by m3nt0r on July 07, 2008
-
 A simple wrapper component to Zend_Loader & adds the correct path into
 your include_path so everything works as expected by Zend Framework.
 I needed ZF in a couple areas so i found that a component was in

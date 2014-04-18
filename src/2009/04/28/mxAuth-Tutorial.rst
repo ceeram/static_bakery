@@ -1,8 +1,6 @@
 mxAuth - Tutorial
 =================
 
-by medianetix on April 28, 2009
-
 This is the tutorial for the component mxAuth. It explains in a step-
 by-step manner the usage of the component.
 

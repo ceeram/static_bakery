@@ -1,8 +1,6 @@
 Flow Player Video Helper
 ========================
 
-by Stas on June 13, 2008
-
 This helper will add Flowplayer flash video player to your page. Note:
 With this helper you can add only one player. Though, this helper is
 very simple, but maybe someone can enhance it.

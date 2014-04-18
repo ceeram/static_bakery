@@ -1,8 +1,6 @@
 Improve apache perfomance by .htaccess
 ======================================
 
-by luisarmando on September 02, 2011
-
 Here is some idea in improving apache performance by adding some lines
 in the app/webroot/.htacces.
 

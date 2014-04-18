@@ -1,8 +1,6 @@
 DIY international (i18n) urls in cake 1.1.x or lower
 ====================================================
 
-by Dieter_be on October 25, 2006
-
 CakePHP 1.2 will have decent i18n functionality, but until you switch
 you can use the simple but decent solution that i have created. It
 allows you to use urls in any foreign language, which are translated

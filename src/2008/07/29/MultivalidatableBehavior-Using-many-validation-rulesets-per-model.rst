@@ -1,8 +1,6 @@
 MultivalidatableBehavior: Using many validation rulesets per model
 ==================================================================
 
-by dardosordi on July 29, 2008
-
 In this article I present the MultivalidatableBehavior, which allow us
 to have multiple sets of validation rules for each model.
 

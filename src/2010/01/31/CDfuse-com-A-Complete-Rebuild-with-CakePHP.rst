@@ -1,8 +1,6 @@
 CDfuse.com: A Complete Rebuild with CakePHP
 ===========================================
 
-by PHPdiddy on January 31, 2010
-
 When it came time to rebuild CDfuse.com, CakePHP became our framework
 of choice. Here's how we completed our transition and what we hope to
 accomplish in the future.

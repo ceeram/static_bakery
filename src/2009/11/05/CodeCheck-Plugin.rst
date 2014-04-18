@@ -1,8 +1,6 @@
 CodeCheck Plugin
 ================
 
-by petteyg on November 05, 2009
-
 A plugin to check whether your code follows Cake conventions.
 It is unlikely that I will keep the code blocks below up to date.
 Please obtain the plugin from `http://github.com/petteyg/code_check`_.

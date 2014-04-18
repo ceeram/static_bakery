@@ -1,8 +1,6 @@
 Calling controller actions from cron and the command line
 =========================================================
 
-by mathew_attlee on December 05, 2006
-
 This is a very simple tutorial that shows how you can modify the
 dispatcher to call controller actions from the command line and cron.
 On the Google Group there has been quite a few threads about the best

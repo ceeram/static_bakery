@@ -1,8 +1,6 @@
 BakeMe - Customized cakephp bake templates & application skeleton
 =================================================================
 
-by wouter on January 13, 2009
-
 Bakeme is a cakephp application skeleton with customized bake scripts,
 which enables you to create advanced, data-driven websites. Some of
 the features are: - Pasword protected backend, based on users in the

@@ -1,8 +1,6 @@
 To switch layout
 ================
 
-by k_k_ramji on October 01, 2008
-
 To switch the layout in cake php
 Hi ,
 

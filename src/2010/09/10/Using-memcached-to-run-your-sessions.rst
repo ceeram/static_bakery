@@ -1,8 +1,6 @@
 Using memcached to run your sessions
 ====================================
 
-by rynop on September 10, 2010
-
 This tutorial is intended for cakers who intend to make a scalable web
 app. Being familiar with php.ini, memcached and sessions is
 recommended.

@@ -1,8 +1,6 @@
 phpgacl for Cake 1.3
 ====================
 
-by carcus88 on February 15, 2011
-
 An alternative ACL package for CakePHP
 
 The PHPGACL project has been around for some times and provides a more

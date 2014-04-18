@@ -1,8 +1,6 @@
 OpenInviter for CakePHP
 =======================
 
-by Kainchi on March 08, 2010
-
 [p] A few months ago, I've published a case study on the bakery about
 a website made with Cake. [/p] [ulist] [li]
 [url]http://bakery.cakephp.org/articles/view/unaneem-com-a-community-

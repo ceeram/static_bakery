@@ -1,8 +1,6 @@
 Image Resize Helper
 ===================
 
-by hundleyj on February 16, 2007
-
 I am in the process of writing an online store with Cake and needed a
 helper that would automatically resize images into thumbnails.
 This helper resizes an image on the fly and places it in an image

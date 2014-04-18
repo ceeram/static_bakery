@@ -1,8 +1,6 @@
 Gravatar Helper
 ===============
 
-by bdude on April 12, 2008
-
 Gravatars are very popular way for users to maintain the same avatar
 across multiple site using just their email address. This helpful
 helper makes it even easier to implement Gravatars into your site.

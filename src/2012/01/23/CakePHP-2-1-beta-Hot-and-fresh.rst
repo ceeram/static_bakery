@@ -1,8 +1,6 @@
 CakePHP 2.1 beta Hot and fresh
 ==============================
 
-by lorenzo on January 23, 2012
-
 Following the release of 2.1.0-alpha two weeks ago, the CakePHP core
 team is excited to annonce the immediate availability of 2.1.0-beta.
 

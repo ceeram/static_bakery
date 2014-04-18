@@ -1,8 +1,6 @@
 Using PHPTAL for templates: PhptalView class
 ============================================
 
-by dkvasnicka on April 24, 2007
-
 I use PHPTAL quite a lot (believe it or not, I like XML ;) and I
 wanted to use it in Cake so I wrote a little PhptalView class
 extending Cake's View.

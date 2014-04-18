@@ -1,8 +1,6 @@
 Secrets of Admin Routing
 ========================
 
-by nate on July 14, 2009
-
 During the CakeFest workshop in Berlin, one of the many topics covered
 was the routing system. While we touched on most of the general usage
 patterns, one of the features we didn't go into depth on was admin

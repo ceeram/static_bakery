@@ -1,8 +1,6 @@
 Create your own Pinterest App with Engaged - Made with CakePHP
 ==============================================================
 
-by mxkocak on March 24, 2013
-
 Engaged is an open source software that lets you create your own
 Pinterest like applications. With Engaged - You can share your
 interests (of course) - You can create hierarchical interest

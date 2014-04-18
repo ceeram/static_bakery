@@ -1,8 +1,6 @@
 Testing your apps with the CakePHP Test Suite
 =============================================
 
-by mlins on November 05, 2006
-
 This tutorial is a simple guide to getting the CakePHP Test Suite up
 and going.
 I was invited to the CakePHP Test Suite project the other day, so I

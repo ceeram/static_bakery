@@ -1,8 +1,6 @@
 CakePHP 2 and launchd on Mac OS X 10.6
 ======================================
 
-by benni on January 12, 2012
-
 To run i.e. maintenance jobs on a regular basis CakePHP provides the
 availability to write shells which should then be called by cron. Yet
 on recent Mac OS systems, cron is not the way to go anymore. Instead,

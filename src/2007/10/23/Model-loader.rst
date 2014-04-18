@@ -1,8 +1,6 @@
 Model loader
 ============
 
-by imhuy on October 23, 2007
-
 This component helps you to load your models on the fly ( I mean in
 your actions, whenever).
 If you just add the model names to $uses, Cake will autoload for you.

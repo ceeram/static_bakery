@@ -1,8 +1,6 @@
 Redirects with Ajax
 ===================
 
-by sunertl on December 17, 2006
-
 Redirects with Ajax are not really simple to do. When you redirect
 within the same controller, you can use setAction() instead but what
 if you want to redirect to another controller? I figured out a quite

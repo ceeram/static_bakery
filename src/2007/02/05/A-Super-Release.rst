@@ -1,8 +1,6 @@
 A Super Release
 ===============
 
-by PhpNut on February 05, 2007
-
 Here in the US, the national holiday of Super Sunday has brought more
 than just the Super Bowl.
 We have two super releases, in CakePHP 1.1.13.4450 and CakePHP

@@ -1,8 +1,6 @@
 Get Twitpic RSS Feeds with CakePHP
 ==================================
 
-by navidurrahman on September 11, 2010
-
 Get Twitpics feeds with caching and limits
 Download the code below and save in models directory
 named(Twitpic.php)

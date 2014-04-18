@@ -1,8 +1,6 @@
 Rails Migration in Your CakePHP application.
 ============================================
 
-by rajibahmed on March 08, 2013
-
 Manage your database like a PRO :) =================================
 Today I wrote something that may help you in your cakephp application.
 Managing database is a pain. If you ever have used rails. Switching

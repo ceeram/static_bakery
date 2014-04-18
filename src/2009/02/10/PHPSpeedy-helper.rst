@@ -1,8 +1,6 @@
 PHPSpeedy helper
 ================
 
-by Marcelius on February 10, 2009
-
 So I needed a nice package that minifies/gzips all assets like
 js/css/html and combines them into as less http requests possible.
 CakePHP1.2 does have an option called 'asset.filter.css' for example

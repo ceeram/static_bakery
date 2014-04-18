@@ -1,8 +1,6 @@
 OthAuth's NAO Mode
 ==================
 
-by chewie124 on August 13, 2007
-
 I needed to support users belonging to multiple groups, and today I
 delved into the underworkings of OthAuth's 'nao' mode.
 

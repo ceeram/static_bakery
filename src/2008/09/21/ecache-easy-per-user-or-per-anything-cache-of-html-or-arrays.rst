@@ -1,8 +1,6 @@
 ecache - easy per user or per anything cache of html or arrays
 ==============================================================
 
-by zeroasterisk on September 21, 2008
-
 Caching is basically required for any data-heavy or interaction-heavy
 site... but you need to be in control of who gets what cache; more
 specifically, you need to be sure people only get their own cached

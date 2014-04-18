@@ -2,8 +2,6 @@ Troubleshooting CakePHP installation issues related to Apache 2
 mod_rewrite - for beginners.
 ============================
 
-by BBBThunda on February 25, 2010
-
 If you are able to get your default CakePHP index page to come up
 after installing, but without the Cake logo in the top left and
 without the styling, chances are the problem is related to your Apache

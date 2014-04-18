@@ -1,8 +1,6 @@
 10 confusions with their solutions before you start using CakePHP
 =================================================================
 
-by gigapromoters on November 16, 2006
-
 Most of the new developers are afraid of spending time with new stuff
 in market. This article will guide you about the confusions and how to
 overcome them.

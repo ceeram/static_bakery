@@ -1,8 +1,6 @@
 Behaviour.js Helper
 ===================
 
-by m3nt0r on October 02, 2006
-
 Helps you using the Behaviour Javacript in your App. Behaviour can be
 used to attach Javascript to Elements. With this you can easily avoid
 using inline-Javascript.

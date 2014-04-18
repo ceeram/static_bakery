@@ -1,8 +1,6 @@
 Quick fix for HABTM Validation
 ==============================
 
-by kogalex on January 13, 2010
-
 I was looking for a simple solution for HABTM validation, and
 struggled to find one that didn't required me to write a lot of code.
 i came up with this, hopefully it will help someone. This is my first

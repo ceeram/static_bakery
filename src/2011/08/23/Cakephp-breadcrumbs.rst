@@ -1,8 +1,6 @@
 Cakephp breadcrumbs
 ===================
 
-by energoso on August 23, 2011
-
 If you're ever bothered by CakePHP's limited breadcrumbs support for
 displaying them use this to build your own!
 _crumbs); // USAGE EXAMPLE foreach($html->_crumbs as $crumb){ echo

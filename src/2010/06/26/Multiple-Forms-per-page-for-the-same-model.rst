@@ -1,8 +1,6 @@
 Multiple Forms per page for the same model
 ==========================================
 
-by RabidFire on June 26, 2010
-
 When CakePHP validates a form, validation errors appear on ALL forms
 on the same page that belong to that model. Let's fix this.
 

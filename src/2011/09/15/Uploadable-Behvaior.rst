@@ -1,8 +1,6 @@
 Uploadable Behvaior
 ===================
 
-by mdunham918 on September 15, 2011
-
 I have a few tables that contain a field that needs to be photo or
 other type of file that needs to be uploaded. Instead of writing
 upload stuff for each method I just built a behavior to handle it.

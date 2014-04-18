@@ -1,8 +1,6 @@
 reCAPTCHA plugin
 ================
 
-by tbsmcd on February 05, 2011
-
 If you are victim for SPAM, then you'll want to deal easily.
 This reCAPTCHA plugin will help you in that case.
 `https://github.com/tbsmcd/recaptcha_plugin`_

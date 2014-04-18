@@ -3,8 +3,6 @@ ccVerification, ccSettlement, ccStoredDataPurchase and
 ccStoredDataAuthorize
 =====================
 
-by subingeorge on November 17, 2011
-
 I have implemented because, I found the lack of proper PHP codes for
 Optimal Payment. Even though the implementation is too power full it
 lacks proper documentation and PHP codes. I have implemented same for

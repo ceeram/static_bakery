@@ -1,8 +1,6 @@
 Toggling items with javascript
 ==============================
 
-by Dieter_be on September 22, 2006
-
 This tutorial explains how you can toggle (expand/collapse) certain
 items on your webpage using javascript (without the need of new
 pagerequests)

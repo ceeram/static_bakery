@@ -1,8 +1,6 @@
 Multi-language country combobox
 ===============================
 
-by davidc2p on June 25, 2008
-
 Based on the excellent article written by Tane Piper, I decided to
 take the base code and complete it with multi-language capability
 based on XML contents build with Excel. The version created contains

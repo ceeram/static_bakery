@@ -1,8 +1,6 @@
 Key/Value storage table behavior built with cakephp-2.0.0 RC1
 =============================================================
 
-by mdunham918 on September 15, 2011
-
 This is a model behavior that will allow you to easily work with
 tables that are structured to be key/value storage tables.
 

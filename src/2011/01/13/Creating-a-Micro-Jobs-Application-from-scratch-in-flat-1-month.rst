@@ -1,8 +1,6 @@
 Creating a Micro Jobs Application from scratch in flat 1 month
 ==============================================================
 
-by nanobazaar on January 13, 2011
-
 Considering the growth in freelance and micro jobs industry, we built
 an application using Cake PHP (Below I've explained why) which will
 cater to startups planning to come up with `micro jobs marketplace`_.

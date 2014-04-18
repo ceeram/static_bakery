@@ -1,8 +1,6 @@
 CakeFest 2012
 =============
 
-by predominant on May 07, 2012
-
 CakeFest 2012 will be in Manchester, UK. With the huge success of last
 year, combined with the low cost accommodation and great location for
 travellers, we couldn't pass up bringing it to Manchester for another

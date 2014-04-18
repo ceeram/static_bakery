@@ -1,8 +1,6 @@
 Simple Revisionable behavior with CakePHP 1.3
 =============================================
 
-by analogrithems on December 06, 2011
-
 I've wanted to do revisioning in cake for some time. I've taken a look
 at others solution and it just seemed to complicated, required a
 shadow table for each model you wanted revisioning on, didn't grab

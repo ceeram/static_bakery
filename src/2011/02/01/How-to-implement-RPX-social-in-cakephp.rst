@@ -1,8 +1,6 @@
 How to implement RPX social in cakephp?
 =======================================
 
-by webdevbit on February 01, 2011
-
 Whua there, I am Gautam Lakum and I have appeared after many days with
 new article. I know, it's been too long. But anyways, let's start
 something new. I am here with little new topic, i.e. how to implement

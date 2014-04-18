@@ -1,8 +1,6 @@
 othAuth component v0.5.4.5
 ==========================
 
-by CraZyLeGs on April 19, 2007
-
 the component part of othAuth changes: 0.5.4.5: - Fixed a bug that was
 introduced by lately, missing / - Fixed a bug ( not really bug but oh
 well ) preventing othAuth from recovering a session from the cookie

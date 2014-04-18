@@ -1,8 +1,6 @@
 Fixing and improving the TextHelper
 ===================================
 
-by darkdragon on April 20, 2012
-
 The TextHelper is a really useful utility in CakePHP. But some
 functions behave strangely and others are missing. That's why I
 extended it as follows.

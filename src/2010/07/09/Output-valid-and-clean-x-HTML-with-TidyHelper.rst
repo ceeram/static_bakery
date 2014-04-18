@@ -1,8 +1,6 @@
 Output valid and clean (x)HTML with TidyHelper
 ==============================================
 
-by TiuTalk on July 09, 2010
-
 Small helper that you can use to output valid, minified and clean
 (x)HTML automatically!
 

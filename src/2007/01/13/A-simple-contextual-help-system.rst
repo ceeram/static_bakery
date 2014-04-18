@@ -1,8 +1,6 @@
 A simple contextual help system
 ===============================
 
-by KiltOtter on January 13, 2007
-
 I wanted to show how to create a simple contextual help system in
 CakePHP. It should work in pretty much any application and works a bit
 like a mini-wiki. Things not directly related, like authentication and

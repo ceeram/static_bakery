@@ -1,8 +1,6 @@
 Thumbnails generation with phpThumb
 ===================================
 
-by spout on May 09, 2007
-
 phpThumb is a great thumbnail generator, it can generate thumbs with
 GD, GD2 or ImageMagick. There are many features like crop, rotate,
 watermark,... see all the features on the phpThumb homepage.

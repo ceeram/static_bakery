@@ -2,8 +2,6 @@ Got2BShoes.com - Intelligent Caching of Amazon's Product Advertising
 API
 ===
 
-by lbmtb on January 05, 2010
-
 Intelligent Caching of Amazon's Product Advertising API provide a
 simple and elegant solution to people who are shopping for many
 different types of shoes including men's shoes, women's shoes, and

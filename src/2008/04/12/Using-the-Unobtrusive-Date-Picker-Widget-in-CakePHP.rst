@@ -1,8 +1,6 @@
 Using the Unobtrusive Date Picker Widget in CakePHP
 ===================================================
 
-by mmanning on April 12, 2008
-
 The default CakePHP date selection boxes are rather a pain in the
 rear. Wouldn't it be nice if you could use a Date-Picker in your
 app's? Well you can, and it's rather easy to implement.

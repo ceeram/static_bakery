@@ -1,8 +1,6 @@
 Simple Colorpicker
 ==================
 
-by springthistle on June 20, 2009
-
 I needed a simple color picker for a CMS-like site I'm building. Using
 the free DHTML colorpicker from this site (http://www.free-color-
 picker.com/download.php?version=dhtmlcolors_grays), I made a helper.

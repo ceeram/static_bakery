@@ -1,8 +1,6 @@
 Behavior for Model Inheritance: the missing feature
 ===================================================
 
-by santino83 on February 19, 2011
-
 After searching all around google and backery, reading the few
 articles that I've found, I've wrote my own class to implement model
 inheritance in Cakephp. Using Behaviors. I'm going to post only the

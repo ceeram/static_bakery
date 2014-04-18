@@ -1,8 +1,6 @@
 mxAuth - simple Authentication with calling page redirection
 ============================================================
 
-by medianetix on April 28, 2009
-
 Using Auth and ACL to protect your pages may be more effort than the
 rest of your business logic. For these cases Steve Oliveira developed
 his component obAuth for cake v1.1

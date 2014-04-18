@@ -1,8 +1,6 @@
 Multiple File Fileupload Component
 ==================================
 
-by halladesign on August 17, 2009
-
 This component allows you to upload multiple files at the same time,
 and assign them to a record. You can upload into the directory or into
 the database (BLOB)

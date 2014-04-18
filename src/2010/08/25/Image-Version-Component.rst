@@ -1,8 +1,6 @@
 Image Version Component
 =======================
 
-by tom_m on August 25, 2010
-
 Generate thumbnails from images within your app dynamically with many
 options to control how the images are resized.
 UPDATED May, 21 2010 This code was very dated and I've recently fixed

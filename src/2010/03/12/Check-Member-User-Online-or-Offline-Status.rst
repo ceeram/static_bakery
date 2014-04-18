@@ -1,8 +1,6 @@
 Check Member / User Online or Offline Status
 ============================================
 
-by imran7000 on March 12, 2010
-
 The following piece of code will calculate the last visited time of a
 Member/User and calulate the time difference with current time. And if
 the Member/User last visited time is greater than 10 minutes then that

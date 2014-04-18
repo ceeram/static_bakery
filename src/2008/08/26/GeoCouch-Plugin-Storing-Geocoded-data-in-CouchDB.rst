@@ -1,8 +1,6 @@
 GeoCouch Plugin - Storing Geocoded data in CouchDB
 ==================================================
 
-by britg on August 26, 2008
-
 This plugin is for projects that require a local repository of
 geocoded data that is mined from google's geocoding service. For
 instance, if your project needs more than the 15k geocode requests

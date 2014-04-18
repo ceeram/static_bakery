@@ -1,8 +1,6 @@
 The Gift of 1.2 final
 =====================
 
-by gwoo on December 25, 2008
-
 History does not happen, it is made. Warning: this message is long and
 full of goodies.
 Today, the history of the CakePHP grows stronger. December 25, 2008

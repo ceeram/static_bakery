@@ -1,8 +1,6 @@
 Populating Select Boxes with Tree Paths
 =======================================
 
-by stupergenius on August 26, 2008
-
 If you populate select boxes with a tree, and your tree has many
 nodes, which can be named the same, you are often left with an
 unusable select box. The following methods will help alleviate this

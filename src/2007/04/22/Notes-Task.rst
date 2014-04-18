@@ -1,8 +1,6 @@
 Notes Task
 ==========
 
-by joelmoss on April 22, 2007
-
 A source-annotations extractor task for bake2. This allows you to add
 FIXME, OPTIMIZE, and TODO comments to your source code that can then
 be extracted in concert with bake2 notes (shows all), bake2 notes

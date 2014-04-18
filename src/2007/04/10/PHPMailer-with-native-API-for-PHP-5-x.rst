@@ -1,8 +1,6 @@
 PHPMailer with native API for PHP 5.x
 =====================================
 
-by kitten on April 10, 2007
-
 This tutorial on using PHPMailer with Cake
 (http://bakery.cakephp.org/articles/view/94) has a comment requesting
 a component that lets you use the native PHPMailer API. This is

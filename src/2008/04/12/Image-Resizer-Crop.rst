@@ -1,8 +1,6 @@
 Image Resizer / Crop
 ====================
 
-by Perkster on April 12, 2008
-
 A handy-dandy resize, crop component to be used in controllers rather
 than view.
 First off, put the component in the appropriate folder:

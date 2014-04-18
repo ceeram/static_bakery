@@ -1,8 +1,6 @@
 SeleniumHelper
 ==============
 
-by dho on October 04, 2006
-
 A helper to make writing Selenium tests easier. See
 http://www.openqa.org/selenium-core/
 

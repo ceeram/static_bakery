@@ -1,8 +1,6 @@
 iCalendar event generator
 =========================
 
-by immersionit on January 27, 2009
-
 I was looking for a way to export data in an iCalendar (RFC 2445)
 compatible format. To accomplish this I created a helper class that
 generates this code using the iCalcreator class.

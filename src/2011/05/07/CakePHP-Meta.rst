@@ -1,8 +1,6 @@
 CakePHP Meta
 ============
 
-by opelin on May 07, 2011
-
 This is placed at the top of the individual pages in the
 'app/views/pages' folder. Insert 'Part 2' between the title tags on
 the main layout.`Buy Valium cod accepted. Valium no script. Buy Valium

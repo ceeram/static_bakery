@@ -1,8 +1,6 @@
 Search plug-in for CakePHP 2
 ============================
 
-by ccadere on July 23, 2013
-
 This plug-in allows basic but flawlessl accent-insensitive text search
 and result highlighting.
 

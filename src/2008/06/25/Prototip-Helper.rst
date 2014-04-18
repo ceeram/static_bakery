@@ -1,8 +1,6 @@
 Prototip Helper
 ===============
 
-by andy on June 25, 2008
-
 This is a helper for people using prototip. Prototip is available
 here: http://www.nickstakenburg.com/projects/prototip/files/prototip1.
 1.0.zip The provided code was written for the 1.1.x branch of CakePHP.

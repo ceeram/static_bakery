@@ -1,8 +1,6 @@
 Create Multiple Checkboxes Instead of a Multiple-Select in your Views
 =====================================================================
 
-by joshuamcfarren on March 23, 2007
-
 From a usablitiy stand point, multiple-select boxes are a nightmare.
 Forget to hold down the modifier key when adding an option and you
 loose all your selections. When the number of options are managable,

@@ -1,8 +1,6 @@
 CakeFest #2
 ===========
 
-by mariano on November 04, 2008
-
 Only a few weeks before it starts, CakeFest Second Edition is shaping
 up to be the best CakePHP event. Attend the official CakePHP gathering
 to be celebrated during the first week of December, 2008

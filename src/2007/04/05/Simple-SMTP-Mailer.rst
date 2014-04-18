@@ -1,8 +1,6 @@
 Simple SMTP Mailer
 ==================
 
-by Enchy on April 05, 2007
-
 This is a simple tutorial on how to send a plain text message via
 email.
 Firstly the Mailer Class

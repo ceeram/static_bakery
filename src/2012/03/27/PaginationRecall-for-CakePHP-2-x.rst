@@ -1,8 +1,6 @@
 PaginationRecall for CakePHP 2.x
 ================================
 
-by Zaphod on March 27, 2012
-
 Have you used PaginationRecall component with CakePHP 1.x and wonder
 why it doesn't work with CakePHP 2.x? Searching for a way to keep the
 page or ordering of pagination?

@@ -1,8 +1,6 @@
 Autocomplete multiple fields
 ============================
 
-by MartinLissmats on March 12, 2010
-
 This short tutorial will show how to autocomplete data to multiple
 fields.
 In this tutorial I will assume you have a working autocomplete

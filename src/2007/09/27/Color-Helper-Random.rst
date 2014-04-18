@@ -1,8 +1,6 @@
 Color Helper (Random)
 =====================
 
-by jefkin on September 27, 2007
-
 This is by no means the answer to all your color woes, as it only has
 one function at this time. But the function can be handy. Need a way
 to distinguish one chunk from another? How about easy random

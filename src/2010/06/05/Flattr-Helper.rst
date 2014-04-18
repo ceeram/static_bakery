@@ -1,8 +1,6 @@
 Flattr Helper
 =============
 
-by WyriHaximus on June 05, 2010
-
 After the Flattr MOD for phpBB3 release some days ago I wrote this
 simple flattr cakephp helper (basic cakephp helper knowledge is
 required) to aid cakephp developers integrate flattr quick and easy

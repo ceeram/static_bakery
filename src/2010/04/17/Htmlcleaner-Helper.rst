@@ -1,8 +1,6 @@
 Htmlcleaner Helper
 ==================
 
-by phudgins on April 17, 2010
-
 Based on HTMLCleaner by Lucian Sabo, this helper is used for removing
 unwanted and/or invalid html markup from a provided string. By
 incorporating PHP's Tidy extension, if available, this helper

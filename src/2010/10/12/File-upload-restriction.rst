@@ -1,8 +1,6 @@
 File upload restriction
 =======================
 
-by santoshgroup on October 12, 2010
-
 I have written this component which provide number of features during
 file uploading. Following is the features of this component.
 1.Provides the restriction of file size. 2.Provides the restriction of

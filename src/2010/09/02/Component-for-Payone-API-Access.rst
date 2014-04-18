@@ -1,8 +1,6 @@
 Component for Payone-API Access
 ===============================
 
-by mashpie on September 02, 2010
-
 Payone (http://www.payone.de/) is a german payment system with several
 product options and clearings. This Component started by implementing
 the Payone API just from scratch using curl.

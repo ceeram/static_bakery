@@ -1,8 +1,6 @@
 CakePHP's routing explained
 ===========================
 
-by Frank on November 02, 2009
-
 Routing in CakePHP is a very powerful feature and is used to make URLs
 look good. Experience in the #cakephp IRC support channel tells me it
 appears to be hard to grasp even though the book is quite complete.

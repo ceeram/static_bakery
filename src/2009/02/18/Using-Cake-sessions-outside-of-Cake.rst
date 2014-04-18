@@ -1,8 +1,6 @@
 Using Cake sessions outside of Cake
 ===================================
 
-by brightball on February 18, 2009
-
 While recently working on a CMS tool, I needed to pass some in-session
 information. I was using Cake's database sessions and it wasn't
 playing nice with outside applications so I set this up to allow my

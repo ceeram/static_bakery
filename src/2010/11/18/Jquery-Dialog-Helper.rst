@@ -1,8 +1,6 @@
 Jquery Dialog Helper
 ====================
 
-by milad.jafary on November 18, 2010
-
 Jquery dialog Helper is a useful helper.It help you to write only
 native PHP code and get a JQuery dialog box.
 

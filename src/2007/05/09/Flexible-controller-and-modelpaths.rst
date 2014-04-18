@@ -1,8 +1,6 @@
 Flexible controller and modelpaths
 ==================================
 
-by Dyflexis on May 09, 2007
-
 This short tutorial will show you how to organize your model and
 controller in subfolders of the controllers and models folders!
 Cake enables you to define paths in the config/bootstrap.php file. If

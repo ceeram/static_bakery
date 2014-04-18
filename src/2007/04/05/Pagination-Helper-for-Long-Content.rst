@@ -1,8 +1,6 @@
 Pagination Helper for Long Content
 ==================================
 
-by ebeyrent on April 05, 2007
-
 In one of my CMS projects, I ran across a case where the user created
 a post of very long content that scrolled endlessly down the page. In
 an effort to make the content more easily readable, I created a

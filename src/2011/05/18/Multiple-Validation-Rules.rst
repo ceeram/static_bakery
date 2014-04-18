@@ -1,8 +1,6 @@
 Multiple Validation Rules
 =========================
 
-by Styles on May 18, 2011
-
 I had a few different forms and needed different validation rules for
 each. For example an administrator could insert any type of data about
 a client, but a client would be required to insert all their

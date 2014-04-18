@@ -1,8 +1,6 @@
 How to: Implement Dynamic Route in CakePHP
 ==========================================
 
-by iworm on January 10, 2010
-
 You may want people to define the url of their site. Can we add
 dynamic route in order to send the request to corresponding
 controller? The answer is YES.

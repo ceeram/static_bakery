@@ -1,8 +1,6 @@
 RowObjectBehavior Row Data Gateway implementation
 =================================================
 
-by freenity on January 13, 2009
-
 "A Row Data Gateway gives you objects that look exactly like the
 record in your record structure but can be accessed with the regular
 mechanisms of your programming language. All details of data source

@@ -1,8 +1,6 @@
 HTML Cache Helper
 =================
 
-by mattc on March 20, 2009
-
 Cake's core cache helper is great, but the files it outputs are PHP
 files, so it will never be as fast as straight HTML files. This HTML
 Cache Helper writes out pure HTML, meaning the web server doesnâ€™t

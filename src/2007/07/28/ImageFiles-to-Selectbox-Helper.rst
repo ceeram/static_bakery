@@ -1,8 +1,6 @@
 ImageFiles-to-Selectbox Helper
 ==============================
 
-by ArcadeTV on July 28, 2007
-
 Little Helper that generates a dropdown selectbox containing the names
 of image-files within your webroot/img folder. Great for admin-sites
 where you want to add image-filenames to a form or database.

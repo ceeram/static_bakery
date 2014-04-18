@@ -1,8 +1,6 @@
 "ShareThis” Social media helper
 ===============================
 
-by rightwayindia on June 26, 2011
-
 This helper is used to add ShareThis buttons to your view. One can
 also just use their Publisher Id in order to link their ShareThis
 account with the buttons created using the helper. If you are new

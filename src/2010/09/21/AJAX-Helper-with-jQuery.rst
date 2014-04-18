@@ -1,8 +1,6 @@
 AJAX Helper with jQuery
 =======================
 
-by jozek000 on September 21, 2010
-
 AJAX Helper with jQuery. Some documentation and many examples on
 projects site.
 

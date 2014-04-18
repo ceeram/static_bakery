@@ -1,8 +1,6 @@
 Changing Auth to involve username in hashing
 ============================================
 
-by emicd on June 13, 2011
-
 Changing Auth to involve username in hashing
 After reading `http://book.cakephp.org/#!/view/1250/Authentication`_
 and doing some tests, ive realised that the Auth component doesnt

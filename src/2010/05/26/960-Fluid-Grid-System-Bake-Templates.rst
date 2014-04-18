@@ -1,8 +1,6 @@
 960 Fluid Grid System Bake Templates
 ====================================
 
-by tom_m on May 26, 2010
-
 Want to use 960 grid system in your baked app? Ever see this "fluid"
 template that uses it?
 [url]http://www.designinfluences.com/fluid960gs[/url] - I put it into

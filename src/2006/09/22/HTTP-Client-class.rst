@@ -1,8 +1,6 @@
 HTTP Client class
 =================
 
-by rossoft on September 22, 2006
-
 Http Client Class Uses Pear or Curl for a HTTP/HTTPS GET/POST request.
 Handles cookies and HTTP auth test
 

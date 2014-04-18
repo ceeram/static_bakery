@@ -1,8 +1,6 @@
 Advanced Search
 ===============
 
-by bmuller on September 25, 2009
-
 This project provides the easy ability to autogenerate a search form
 that allows a user to search not only on the fields of a given object,
 but on the fields of all related (and recursively related) objects.

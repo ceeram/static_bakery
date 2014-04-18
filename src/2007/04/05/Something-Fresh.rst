@@ -1,8 +1,6 @@
 Something Fresh
 ===============
 
-by PhpNut on April 05, 2007
-
 Get the fresh new release of CakePHP
 We put together a new bug fix release for 1.1.x.x stable branch, so
 download[1] version 1.1.14.4797 Have a look at the change log[2] to

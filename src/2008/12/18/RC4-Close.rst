@@ -1,8 +1,6 @@
 RC4 ....Close
 =============
 
-by nate on December 18, 2008
-
 CakePHP 1.2 is almost ready...
 We have all been waiting a long time for 1.2 stable. Today we are
 happy to announce that we are one step closer to that goal. We are

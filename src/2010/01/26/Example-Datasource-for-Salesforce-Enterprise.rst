@@ -1,8 +1,6 @@
 Example Datasource for Salesforce Enterprise
 ============================================
 
-by cwestonr on January 26, 2010
-
 I have been looking for a datasource for Sales force for some time and
 Never found one so I constructed a Salesforce example Datasource for
 Query/Login/delete/update/upsert(CRUD like) for the Salesforce

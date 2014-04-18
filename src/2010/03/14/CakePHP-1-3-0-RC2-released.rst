@@ -1,8 +1,6 @@
 CakePHP 1.3.0-RC2 released
 ==========================
 
-by markstory on March 14, 2010
-
 Following hot on the heels of CakePHP 1.3.0-RC1, the CakePHP
 development team is happy to announce the release the CakePHP
 1.3.0-RC2.

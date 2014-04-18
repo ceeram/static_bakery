@@ -1,8 +1,6 @@
 Coding a self-join in a cake application
 ========================================
 
-by CodingisFun on April 10, 2007
-
 This tutorial shows how to code your model, controller and views in
 case of a self join. A self-join is a query in which a table is joined
 (compared) to itself. Self-joins are used to compare values in a

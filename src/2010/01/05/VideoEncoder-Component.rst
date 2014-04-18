@@ -1,8 +1,6 @@
 VideoEncoder Component
 ======================
 
-by andru on January 05, 2010
-
 This is a component to convert and encode videos in your CakePHP
 application. This was extracted from a live project.
 

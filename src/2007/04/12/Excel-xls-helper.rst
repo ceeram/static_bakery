@@ -1,8 +1,6 @@
 Excel xls helper
 ================
 
-by wasenbr on April 12, 2007
-
 Helper to creation of simple xls files.
 This the helper code:
 

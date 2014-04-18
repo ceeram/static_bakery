@@ -1,8 +1,6 @@
 Multistep forms
 ===============
 
-by antoniomad on September 09, 2012
-
 One of the features I really love about PHP frameworks is form
 management. Coding forms in plain PHP can easily become a pain if not
 well planned out. Multistep forms take this complexity even further,

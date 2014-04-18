@@ -1,8 +1,6 @@
 SimpleResults Behavior - Re-index results from findAll()
 ========================================================
 
-by grigri on May 15, 2007
-
 When returning rows from a Model::findAll() call, the result array is
 indexed in a certain way. This behavior allows models to return their
 results indexed in the same way as hasMany associations, which is more

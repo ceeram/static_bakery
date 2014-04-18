@@ -1,8 +1,6 @@
 Cakephp application + Netbeans + Remote Access + SSH
 ====================================================
 
-by syl-via on February 08, 2012
-
 How to configure Netbeans so it accesses your remote cake application
 and updates changes on run/on save
 

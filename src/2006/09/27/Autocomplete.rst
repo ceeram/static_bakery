@@ -1,8 +1,6 @@
 Autocomplete
 ============
 
-by gwoo on September 27, 2006
-
 The AutocompleteComponent originally submitted by Nate to CakeForge.
 With a nice intro at http://cakebaker.42dh.com/2006/06/06
 /autocompletion-the-easy-way/ The full component and some sample

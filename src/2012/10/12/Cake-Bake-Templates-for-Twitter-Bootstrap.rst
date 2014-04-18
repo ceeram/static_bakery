@@ -1,8 +1,6 @@
 Cake Bake Templates for Twitter Bootstrap
 =========================================
 
-by Matt on October 12, 2012
-
 Templates for baking BootStrap compatible views in CakePHP.
 
 Templates for baking BootStrap compatible views in CakePHP

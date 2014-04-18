@@ -1,8 +1,6 @@
 AJAX Helper with jQuery (for CakePHP 2.x)
 =========================================
 
-by jozek000 on November 23, 2011
-
 New version of my `AJAX Helper with jQuery`_ (for CakePHP 2.x) has
 arrived.
 Check it out on my site.

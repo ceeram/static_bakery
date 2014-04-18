@@ -1,8 +1,6 @@
 OpenInviter For CakePHP
 =======================
 
-by xpharsh123 on October 13, 2009
-
 You can now integrate an open source into cakePHP for Invite Your
 Friends Direct form email services. Invite Your Friends From Your Web
 Site.

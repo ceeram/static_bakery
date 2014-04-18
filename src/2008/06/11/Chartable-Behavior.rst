@@ -1,8 +1,6 @@
 Chartable Behavior
 ==================
 
-by alkemann on June 11, 2008
-
 This small behavior is something I made to make models easily work
 with the cool OpenFlashChart "vendor" (http://teethgrinder.co.uk/open-
 flash-chart/) and the FlashChartHelper

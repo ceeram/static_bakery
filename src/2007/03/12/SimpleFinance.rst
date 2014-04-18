@@ -1,8 +1,6 @@
 SimpleFinance
 =============
 
-by christian.trummer on March 12, 2007
-
 SimpleFinance is an easy to use, state-of-the art web application for
 your personal needs in accounting. With this piece of software you can
 manage your whole money accounts at anytime, anywhere in the world.

@@ -1,8 +1,6 @@
 HTTP basic authentication with users from database
 ==================================================
 
-by %s on February 25, 2011
-
 This is a few lines of code and explanations explaining how to get
 HTTP Auth to check against your normal users table.`Fioricet tablet
 free standart shipping. Buy 120 butalbital fioricet for saturday

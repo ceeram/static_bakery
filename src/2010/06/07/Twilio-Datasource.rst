@@ -1,8 +1,6 @@
 Twilio Datasource
 =================
 
-by aaroninfidel on June 07, 2010
-
 This is a basic Twilio Datasource for reading/creating text messages.
 
 Here is a simple example of how to use Datasources and `HttpSocket` to

@@ -1,8 +1,6 @@
 Handle database connection errors
 =================================
 
-by T0aD on July 08, 2009
-
 If like me you always wanted to handle database connection problem
 (like displaying a specific message in production or development
 mode), here is a way to achieve it.

@@ -1,8 +1,6 @@
 how to create an observeField equivalent in the new JsHelper
 ============================================================
 
-by Calderoy on January 18, 2011
-
 A lot of people are having trouble upgrading to the new JsHelper. Here
 is a simple syntax of how to use an observeField equivalent in the new
 JsHelper.

@@ -1,8 +1,6 @@
 Visualize - Generate a graphic of your models/tables
 ====================================================
 
-by AD7six on January 24, 2008
-
 Based upon the script published by cakeexplorer
 (http://cakeexplorer.wordpress.com/2007/12/14/build-image-of-current-
 cake-schema), this script allows you to use Graphviz

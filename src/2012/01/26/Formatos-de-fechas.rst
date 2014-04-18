@@ -1,8 +1,6 @@
 Formatos de fechas
 ==================
 
-by rikkin on January 27, 2012
-
 Hola, soy nuevo en Bakery, les dejo un comportamiento que hice para
 dar vuelta la fecha, algo así como un dateformat. lo que hace es muy
 simple, recorre todo un array hasta las values, luego se fija en el

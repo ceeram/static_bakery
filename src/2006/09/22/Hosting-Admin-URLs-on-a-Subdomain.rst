@@ -1,8 +1,6 @@
 Hosting Admin URLs on a Subdomain
 =================================
 
-by nate on September 22, 2006
-
 Quick tutorial on how to host admin routes on a subdomain.
 Admin routing is one of those features in Cake that turns out to be a
 lot handier than you think it will. I use it all the time, but

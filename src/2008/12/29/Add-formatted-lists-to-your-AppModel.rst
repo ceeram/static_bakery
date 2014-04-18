@@ -1,8 +1,6 @@
 Add formatted lists to your AppModel
 ====================================
 
-by mushookies on December 29, 2008
-
 This code will add formatted list functionallity to find you can easy
 replace the $this->Model->find('list'); with
 $this->Model->find('formattedlist', array('fields' =>

@@ -1,8 +1,6 @@
 Automatic Sub-domain Prefix Routing
 ===================================
 
-by Techie42 on April 19, 2010
-
 Have you ever wished you could automatically link a sub-domain to
 prefix routing? Well, this short listing provides that functionality.
 It modifies existing routes by adding the sub-domain as a routing

@@ -1,8 +1,6 @@
 Filter Out Unnecessary Recursive Relationships
 ==============================================
 
-by marklap on April 12, 2008
-
 Add a small function to your AppModel to filter out those recursive
 relationships that are unnecessary for a particular controller action.
 I wrote this using the following articles for references. Thanks

@@ -1,8 +1,6 @@
 Security fix: CakePHP 2.3.3 available
 =====================================
 
-by lorenzo on April 24, 2013
-
 We have found a severe security issue that affects all applications
 running CakePHP version 2.3.0 and above that are using user
 authentication via forms with the AuthComponent without the Security

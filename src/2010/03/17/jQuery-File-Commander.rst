@@ -1,8 +1,6 @@
 jQuery File Commander
 =====================
 
-by Quess on March 17, 2010
-
 A CakePHP 1.2.6 plugin which allow you to manage your server files
 similar to Total Commander.
 

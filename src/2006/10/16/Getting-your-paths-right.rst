@@ -1,8 +1,6 @@
 Getting your paths right
 ========================
 
-by ihari on October 16, 2006
-
 The CakePHP manual is quite clear about the fact that images, style
 sheets and javascript files should commonly be put into respectively
 webroot/[b]img[/b], webroot/[b]css[/b] and webroot/[b]js[/b]. However,

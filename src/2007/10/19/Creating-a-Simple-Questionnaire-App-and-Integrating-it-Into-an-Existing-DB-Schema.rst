@@ -2,8 +2,6 @@ Creating a Simple Questionnaire App and Integrating it Into an
 Existing DB Schema
 ==================
 
-by jdsilveronnelly on October 19, 2007
-
 I have a legacy database. I need to build a questionnaire app. I need
 to connect the questionnaire db to the legacy db. CakePHP to the
 rescue!

@@ -1,8 +1,6 @@
 Timestamp Custom Validation
 ===========================
 
-by aparsons on July 28, 2007
-
 An example of how to validate timestamps using a custom method.
 
 

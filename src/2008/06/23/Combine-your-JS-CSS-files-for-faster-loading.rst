@@ -1,8 +1,6 @@
 Combine your JS & CSS files for faster loading
 ==============================================
 
-by morrislaptop on June 23, 2008
-
 With the relatively recent publication of YSlow, it brought to my
 attention that while seperating your CSS and JS files into seperate
 files for a more structured application - it can greatly reduce the

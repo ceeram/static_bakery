@@ -1,8 +1,6 @@
 CakePHP In the Enterprise
 =========================
 
-by rikdc on December 17, 2009
-
 There are many e-commerce platforms (both open and closed source) on
 the market, however, most of these e-commerce solutions are overly
 complex for the needs of the average user. In addition, the most

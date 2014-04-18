@@ -1,8 +1,6 @@
 CakePHP internationalization and localization
 =============================================
 
-by %s on March 02, 2012
-
 One of the best ways for your applications to reach a larger audience
 is to cater for multiple languages. This can often prove to be a
 daunting task, but the internationalization and localization features

@@ -1,8 +1,6 @@
 Text Formatting
 ===============
 
-by walker on April 12, 2008
-
 So I created a component awhile back for Textile. Turns out, it would
 be a little friendlier to just dump it in a behavior and let the model
 define fields that need to be saved with a textile'd version. It

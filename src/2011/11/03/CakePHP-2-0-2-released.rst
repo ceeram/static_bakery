@@ -1,8 +1,6 @@
 CakePHP 2.0.2 released
 ======================
 
-by lorenzo on November 03, 2011
-
 A new version for the 2.0 branch has been released, containing a fix
 for a regression introduced in 2.0.1, people using this version are
 highly encouraged to do the upgrade as soon as possible.

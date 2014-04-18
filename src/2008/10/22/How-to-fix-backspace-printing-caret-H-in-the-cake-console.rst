@@ -1,8 +1,6 @@
 How to fix backspace printing caret-H in the cake console
 =========================================================
 
-by perceptes on October 22, 2008
-
 If keys such as backspace and the arrow keys are printing control
 characters instead of doing what you expect, the solution is quite
 simple.

@@ -1,8 +1,6 @@
 Pagination
 ==========
 
-by AD7six on October 09, 2006
-
 If you have more than a few results it is useful, if not vital, to
 provide a means of presenting the results a few at a time. This
 tutorial will demonstrate how easy it is to present your data using

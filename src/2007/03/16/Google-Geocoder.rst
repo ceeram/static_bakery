@@ -1,8 +1,6 @@
 Google Geocoder
 ===============
 
-by SayB on March 16, 2007
-
 This is a wonderful component that will retrieve the latitude and
 longitude of any given address.
 This component is particularly helpful when you want to put more than

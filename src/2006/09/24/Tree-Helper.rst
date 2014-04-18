@@ -1,8 +1,6 @@
 Tree Helper
 ===========
 
-by MrRio on September 24, 2006
-
 A helper to format the output from findAllThreaded() into a HTML list.
 
 

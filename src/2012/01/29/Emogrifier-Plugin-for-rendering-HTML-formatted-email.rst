@@ -1,8 +1,6 @@
 Emogrifier Plugin for rendering HTML formatted email
 ====================================================
 
-by ndejong on January 29, 2012
-
 CakephpEmogrifierPlugin is a CakePHP 2.0x Plugin that makes of using
 Emogrify on your HTML output easy.
 

@@ -1,8 +1,6 @@
 AuthComponent rewritten
 =======================
 
-by prond on November 27, 2010
-
 The AuthComponent::startup() method is not eanough readable and
 extendable. Also it does not handle bare requests as it should.
 Below is a rewritten AuthComponent. It is provided as a subclass of

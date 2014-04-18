@@ -1,8 +1,6 @@
 Simple search in cakephp using find() conditions.
 =================================================
 
-by saravana on January 14, 2011
-
 This is a simple search using cakephp. I have used only cakephp find
 conditions with video and profiles table. Table structures CREATE
 TABLE IF NOT EXISTS `videos` ( `id` int(11) NOT NULL AUTO_INCREMENT,

@@ -1,8 +1,6 @@
 TouchBehavior
 =============
 
-by polk on March 19, 2007
-
 Would You like to have method touch() for some models, which updates
 only one field in database table and leaves 'created' and 'modified'
 (and all other) fields untouched?

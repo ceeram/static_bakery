@@ -1,8 +1,6 @@
 Rails-like Data Validation
 ==========================
 
-by chess64 on May 16, 2007
-
 Validate your data like in rails: http://rails.rubyonrails.com/classes
 /ActiveRecord/Validations/ClassMethods.html
 Now you can validate your data (almost) like in rails (see `http://rai

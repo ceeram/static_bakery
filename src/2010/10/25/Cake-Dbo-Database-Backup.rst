@@ -1,8 +1,6 @@
 Cake Dbo Database Backup
 ========================
 
-by arielmobvox on October 25, 2010
-
 Backups structure and data from cake's database dbo datasources
 supported by Cake dbo package. Works with any cake dbo datasource,
 like MySQL, PostgreSQL, SQL Server, and others.

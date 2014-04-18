@@ -1,8 +1,6 @@
 Subdomaining with Cake
 ======================
 
-by Mum_Chamber on February 04, 2008
-
 In this article, following a practical approach to subdomaining, we
 will make one model available through subdomains. Can be inspiring for
 alternative uses.

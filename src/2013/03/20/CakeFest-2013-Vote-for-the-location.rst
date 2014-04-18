@@ -1,8 +1,6 @@
 CakeFest 2013 - Vote for the location
 =====================================
 
-by predominant on March 20, 2013
-
 CakeFest 2013 will be happening later in the year. We need your help
 to decide the location!
 

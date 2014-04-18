@@ -1,8 +1,6 @@
 TuneShout.com: Music Downloads and CakePHP
 ==========================================
 
-by Fluxx on July 18, 2007
-
 How I used CakePHP to build TuneShout.com, a socially controlled
 online music network and store.
 Last winter I set out to build the largest, most complicated site I'd

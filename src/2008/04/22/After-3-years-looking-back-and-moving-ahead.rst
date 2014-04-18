@@ -1,8 +1,6 @@
 After 3 years, looking back and moving ahead
 ============================================
 
-by gwoo on April 22, 2008
-
 On April 15 2005, the first version of Cake was released by Michal
 Tatarynowicz. On April 15, 2008, three years from this auspicious day
 and the start of this great project, the project continued to evolve,

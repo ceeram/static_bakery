@@ -1,8 +1,6 @@
 Text Case Converter Behavior
 ============================
 
-by eliasfa on September 06, 2011
-
 This behavior is designed to convert text to all capital letters,
 lower case or with the first letter capitalized words, having the
 option for Brazilians in proper names ("Do", "Dos," "Da," "Das", "De

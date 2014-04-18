@@ -1,8 +1,6 @@
 Using CAKE_ADMIN for multiple user types
 ========================================
 
-by skrebbel on May 09, 2007
-
 A simple hack allowing to use the functionality of CAKE_ADMIN for more
 than one usertype.
 Ever wanted to have pretty URLs for multiple separate types of users

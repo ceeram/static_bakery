@@ -1,8 +1,6 @@
 Custom Baking with CakePHP 1.3
 ==============================
 
-by rascoop on June 02, 2010
-
 Although I like CakePHP and Bake, I needed to change the basic baked
 screens and behaviors. This sent me to explore how to customize the
 actions and templates for CakePHP 1.3

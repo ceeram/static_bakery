@@ -1,8 +1,6 @@
 MySQL collation behavior
 ========================
 
-by prond on April 12, 2008
-
 A simple behavior that sets proper collation for order by SQL
 statements based on the current localization.
 Whenever you write multilangual apps you have to deal with many many

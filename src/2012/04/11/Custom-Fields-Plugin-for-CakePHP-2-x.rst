@@ -1,8 +1,6 @@
 Custom Fields Plugin for CakePHP 2.x
 ====================================
 
-by srs2012 on April 11, 2012
-
 A custom fields plugin for CakePHP 2.x. Now you can add custom fields
 to your CakePHP app and individual models/controllers without having
 to worry about database changes.

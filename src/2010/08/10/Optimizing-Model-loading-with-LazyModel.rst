@@ -1,8 +1,6 @@
 Optimizing Model loading with LazyModel
 =======================================
 
-by Frank on August 10, 2010
-
 If you are running PHP5, this is what you need. This LazyModel
 optimizes the loading of the models. It limits the number of loaded
 models to only the ones that are actually used. When using this, you

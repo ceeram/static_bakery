@@ -1,8 +1,6 @@
 Custom error handing for plugins
 ================================
 
-by filippo.toso on January 13, 2009
-
 If you like to develop reusable plugins, maybe you want to create some
 custom error messages using the cakeError() method. Here is a simple
 snippet that lets you create your own {plugin}/app_error.php class.

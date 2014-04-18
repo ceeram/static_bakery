@@ -1,8 +1,6 @@
 CakePHP on IIS6 with FastCGI, SQL Server 2005, and ISAPI_Rewrite
 ================================================================
 
-by jamesmking on April 12, 2008
-
 A detailed walkthrough on how to set up and configure a fast, stable
 PHP 5.x environment on Windows Server 2003 for CakePHP.
 Traditionally, hosting a PHP application on a Windows/IIS environment

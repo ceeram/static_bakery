@@ -1,8 +1,6 @@
 CakePHP 1.2 stable coming soon
 ==============================
 
-by mariano on May 13, 2008
-
 The Cake Team is working tirelessly to release the highly anticipated
 CakePHP 1.2 stable. Here's your chance to participate in this ground
 breaking version of the best and most popular framework for PHP.

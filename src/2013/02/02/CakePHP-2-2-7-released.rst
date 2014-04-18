@@ -1,8 +1,6 @@
 CakePHP 2.2.7 released
 ======================
 
-by markstory on February 02, 2013
-
 The CakePHP core team is happy to announce the immediate availability
 of CakePHP 2.2.7.
 

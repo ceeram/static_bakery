@@ -1,8 +1,6 @@
 Ajax Validation Component
 =========================
 
-by GarthDB on October 06, 2006
-
 This component adds a few validation options to the already wonderful
 CakePHP form validation. These features include: Confirm - Checks two
 or more fields to make sure they are an exact match (designed for

@@ -1,8 +1,6 @@
 Rebuilding MySQL Tables based on Model Cache
 ============================================
 
-by Datawalke on January 21, 2009
-
 By reading the title of this article you know something has gone
 horribly wrong. Which was the case earlier today when my development
 server crashed with our teams shared database on it. While we did have

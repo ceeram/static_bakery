@@ -1,8 +1,6 @@
 Model Repletion
 ===============
 
-by tehtreag on August 08, 2010
-
 Take a quick look at some of the common model related issues that
 affect many users in #cakephp, and potential solutions to keep your
 controllers skinny, and fatten up your models.

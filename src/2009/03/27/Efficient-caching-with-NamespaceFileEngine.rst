@@ -1,8 +1,6 @@
 Efficient caching with NamespaceFileEngine
 ==========================================
 
-by Frank on March 27, 2009
-
 In my attempt to cache ACL permissions I stumbled upon a limitation of
 the current FileEngine. It is unable to drop a group of keys, only all
 keys or just one. Here is an alternative engine (which basically is a

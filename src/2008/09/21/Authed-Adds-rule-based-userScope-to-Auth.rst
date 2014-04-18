@@ -1,8 +1,6 @@
 Authed - Adds rule based userScope to Auth
 ==========================================
 
-by m3nt0r on September 21, 2008
-
 If you ever thought it would be nice to let the user know why the
 login wasn't successful, this component may be right for you.
 Similar to model validation rules you can simply setup an array with

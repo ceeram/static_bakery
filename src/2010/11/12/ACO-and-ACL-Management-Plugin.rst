@@ -1,8 +1,6 @@
 ACO and ACL Management Plugin
 =============================
 
-by jbcrawford on November 12, 2010
-
 There are a couple of these out there already but this is based on the
 tutorial in the documentation. Leaving ARO Management out because
 those are created automatically with users and groups.

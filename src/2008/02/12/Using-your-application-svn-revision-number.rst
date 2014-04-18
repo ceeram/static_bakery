@@ -1,8 +1,6 @@
 Using your application svn revision number
 ==========================================
 
-by AD7six on February 12, 2008
-
 A little snippet to show how to find and use the svn revision number -
 to your advantage.
 There will be times, when it would be useful to know what revision

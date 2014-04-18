@@ -1,8 +1,6 @@
 JS Vaildator
 ============
 
-by GarthDB on May 03, 2007
-
 This helper generates JavaScript validation based on the model's
 validate array, and also offers a few extra features. These features
 include: Server: a Ajax script to validate one field server-side (this

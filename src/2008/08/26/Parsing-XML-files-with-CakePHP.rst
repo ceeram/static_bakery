@@ -1,8 +1,6 @@
 Parsing XML files with CakePHP
 ==============================
 
-by fahad19 on August 26, 2008
-
 Simple tutorial for parsing xml files quickly using the core XML class
 of cakephp.
 After spending one whole evening, I found out CakePHP has its own XML

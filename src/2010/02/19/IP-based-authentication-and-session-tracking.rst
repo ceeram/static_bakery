@@ -1,8 +1,6 @@
 IP based authentication and session tracking.
 =============================================
 
-by roeften on February 19, 2010
-
 This is my approach in IP based authentication and Session tracking
 for cake. My goal was to leave cake untouched.
 Create a database table to store the session id and IP address

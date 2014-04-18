@@ -1,8 +1,6 @@
 CakePHP 2.3.7 & 2.4.0-beta released
 ===================================
 
-by markstory on July 05, 2013
-
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.3.7 & 2.4.0-beta. 2.3.7 is a bugfix release for the 2.3
 branch, while 2.4.0-beta is the first release of the 2.4 branch

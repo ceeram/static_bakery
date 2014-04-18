@@ -1,8 +1,6 @@
 uniform server and cakePHP
 ==========================
 
-by yeastinflexion on April 12, 2007
-
 I wrote the tutorial about this on the cake wiki before it was taken
 down and i noticed a lot of links to that tutorial on the web which
 are now dead so here is a short version of what i had there, minus the

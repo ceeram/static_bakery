@@ -1,8 +1,6 @@
 OpenidAuth Component
 ====================
 
-by danielfarrell on April 14, 2009
-
 Here is a pretty basic OpenidAuth component that extends the built in
 Auth component and does it's magic.
 I wanted to get all the magic that you get from Auth and it turned out

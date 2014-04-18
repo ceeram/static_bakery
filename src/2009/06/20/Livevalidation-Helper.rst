@@ -1,8 +1,6 @@
 Livevalidation Helper
 =====================
 
-by tammuz on June 20, 2009
-
 - LiveValidation is a small open source javascript library for making
 client-side validation quick, easy, and powerful. It comprises of two
 main parts. Firstly, it provides developers with a rich set of core

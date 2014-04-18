@@ -1,8 +1,6 @@
 Tidy Output Filtering
 =====================
 
-by kuja on May 16, 2008
-
 If you'd like to filter all output from your application (layouts and
 views) through Tidy for cleaner markup, then this article is for you!
 I recently stumbled across an urge to output clean HTML/XHTML on all

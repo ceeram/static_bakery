@@ -1,8 +1,6 @@
 An improvement to unbindModel on model side
 ===========================================
 
-by mariano on March 25, 2007
-
 Not long ago I saw Tom OReilly's great tutorial entitled "Keeping
 bindModel and unbindModel out of your Controllers." While he showed us
 some great tips I was not so comfortable having to define my model

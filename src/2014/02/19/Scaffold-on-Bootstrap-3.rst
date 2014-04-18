@@ -1,8 +1,6 @@
 Scaffold on Bootstrap 3
 =======================
 
-by xv1t on February 19, 2014
-
 My samples in the scaffold design using Bootstrap 3
 Nice Scaffolding for CakePHP `github.com/xv1t/cakephp-scaffold-
 bootstrap3`_ Required: Bootstrap 3 (Testing on 3.1.1) Please see the

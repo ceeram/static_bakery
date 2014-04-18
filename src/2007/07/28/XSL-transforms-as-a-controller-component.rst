@@ -1,8 +1,6 @@
 XSL transforms as a controller component
 ========================================
 
-by yjaques on July 28, 2007
-
 If you're looking for how to conveniently perform XML/XSL transforms
 in cake this article is for you. There are several things to consider:
 1. You often will not be using a model coming from your DB, but

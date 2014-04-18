@@ -1,8 +1,6 @@
 Methods for turn on/ turn off speciffic behaviors.
 ==================================================
 
-by Skiedr on August 14, 2007
-
 Sometimes there is appear situation when you need not some action
 which behavior do aftomatically using event handlers.
 This code help you turn on/off behaviour. Place it in app_model.php

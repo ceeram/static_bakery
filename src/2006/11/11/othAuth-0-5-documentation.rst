@@ -1,8 +1,6 @@
 othAuth 0.5 documentation
 =========================
 
-by CraZyLeGs on November 11, 2006
-
 the long awaited documentation of othAuth, this article covers the new
 version of othAuth 0.5
 

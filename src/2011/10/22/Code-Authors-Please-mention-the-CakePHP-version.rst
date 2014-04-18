@@ -1,8 +1,6 @@
 Code Authors, Please mention the CakePHP version!
 =================================================
 
-by saidbakr on October 22, 2011
-
 Currently, we have four versions of CakePHP. I think that it is very
 important and time saving for developers to mention the target version
 of code supplied by an author.

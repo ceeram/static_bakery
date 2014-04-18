@@ -1,8 +1,6 @@
 Component to send SMS/text messages
 ===================================
 
-by donald_jackson on August 14, 2010
-
 This is a quick guide demonstrating the use of the PanaceaSms
 component (written for the Panacea Mobile SMS Gateway /
 www.panaceamobile.com / free test credits given) which allows you to

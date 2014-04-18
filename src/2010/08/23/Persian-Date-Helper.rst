@@ -1,8 +1,6 @@
 Persian Date Helper
 ===================
 
-by arash.hemmat on August 23, 2010
-
 As there is no method for using Persian dates in PHP we had to use
 some codes to convert the dates. Using this helper you can convert the
 dates in a view. Use pdate_format() just like date() function in PHP.

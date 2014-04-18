@@ -1,8 +1,6 @@
 SimpleUrl to write url quicker
 ==============================
 
-by Kalt on September 08, 2011
-
 Tired of passing massive arrays to create links in CakePHP views or
 controllers ? This plugin provides a quicker way to generate url
 anywhere in your application. Requires PHP 5.3+

@@ -1,8 +1,6 @@
 GoogleGeo Component
 ===================
 
-by lababidi on December 18, 2006
-
 For simple GeoCoding and simple results grab this component to make
 your life just that much easier. The non-component class is located at
 [url]http://bearsontherun.com/googlegeo[/url], which can be used as a

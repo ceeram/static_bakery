@@ -1,8 +1,6 @@
 Creating Questions And Answers Application From Scratch With CakePHP
 ====================================================================
 
-by mufti on April 12, 2011
-
 Considering the popularity of question and answer application, I built
 kind of this application using Cake PHP tha (Below I've explained why)
 Recently, questions and answers applications are very popular. Among

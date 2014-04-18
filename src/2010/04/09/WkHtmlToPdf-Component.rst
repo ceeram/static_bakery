@@ -1,8 +1,6 @@
 WkHtmlToPdf Component
 =====================
 
-by jwswart on April 09, 2010
-
 A CakePHP component that exports any view as a PDF using wkhtmltopdf.
 This component uses the external wkhtmltopdf executable to convert any
 view to PDF. I found this to be a lot easier than fiddling with

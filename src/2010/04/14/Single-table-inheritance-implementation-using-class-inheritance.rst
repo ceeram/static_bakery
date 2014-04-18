@@ -1,8 +1,6 @@
 Single table inheritance implementation using class inheritance
 ===============================================================
 
-by binarycrafts on April 14, 2010
-
 If you have a couple of document types that you don't want to create
 individual db tables for you can put them all in a 'documents', have
 an abstract Document model class and create those document types as

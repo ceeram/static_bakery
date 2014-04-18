@@ -1,8 +1,6 @@
 ThumbnailHelper, a thumbnail generator with cache dynamic
 =========================================================
 
-by emersonsoares on February 13, 2012
-
 A helper that generates thumbnails of images and uses a cache to store
 them.
 

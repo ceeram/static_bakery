@@ -1,8 +1,6 @@
 National Association of Music Educators
 =======================================
 
-by leveille on June 11, 2008
-
 When the National Association for Music Education came to us for
 development, and they didn't balk at PHP, Cake was a no brainer.
 Though it's been at least a month or so, I wanted to take some time to

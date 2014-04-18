@@ -1,8 +1,6 @@
 Tree sorting component for jQuery's jsTree plugin
 =================================================
 
-by Kynigos on June 12, 2009
-
 This component sorts a one dimensional array of tree nodes into a
 multidimensional array, ready to be converted into JSON for the
 jQuery's jsTree plugin. http://www.jstree.com/reference/_examples/

@@ -1,8 +1,6 @@
 Multirecord helper/behavior
 ===========================
 
-by eskil on December 29, 2008
-
 Edit and add multiple record forms. A behavior and helper working
 together to create multiple records form in the same way
 Form->inputs() work. With a very few lines of code, go from one to

@@ -1,8 +1,6 @@
 Rolling you own Gallery2 component
 ==================================
 
-by Vangel on April 19, 2010
-
 update Jan 28 2010: This Article is deprecated and here for reference
 and historical purposes. It is still usable however as comments below
 suggest and I agree, Helper is more suited for such simple

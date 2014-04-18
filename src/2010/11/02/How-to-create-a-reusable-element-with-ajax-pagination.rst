@@ -1,8 +1,6 @@
 How to create a reusable element with ajax pagination
 =====================================================
 
-by lucianobargmann on November 03, 2010
-
 I've spent a week searching the web, reading (old) articles and
 debugging code to figure out how to have a self-contained, reusable
 ajax paginated element. The examples on the web about pagination work

@@ -1,8 +1,6 @@
 Clear the PHP4 warnings when working in eclipsePHP
 ==================================================
 
-by salamander on February 16, 2007
-
 A series of search-and-replace that you can run on the latest alpha
 release to clear the majority of EclipsePHP's warnings, without
 (hopefully!) breaking anything.

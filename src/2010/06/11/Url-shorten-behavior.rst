@@ -1,8 +1,6 @@
 Url shorten behavior
 ====================
 
-by WyriHaximus on June 11, 2010
-
 A while ago I started working on some twitter services and I needed an
 automatic urlshortner. This first started as a model that would
 shorten en url and save the result in a table for caching purposes.

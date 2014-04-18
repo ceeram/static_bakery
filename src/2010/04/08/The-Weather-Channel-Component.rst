@@ -1,8 +1,6 @@
 The Weather Channel Component
 =============================
 
-by brunonlab on April 08, 2010
-
 The Weather.com offers an XML-based API to retrieve information about
 the weather around the world. You need an access key, and to get it,
 simply register here http://bit.ly/b6paHr. After registration you can

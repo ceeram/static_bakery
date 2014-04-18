@@ -1,8 +1,6 @@
 Helper para utilizar con el API de VIMEO
 ========================================
 
-by cledyulate on August 14, 2010
-
 Este es el cÃ³digo correspondiente a un helper para poder obtener los
 valores del xml que vimeo permite obtener atravez de su API.
 

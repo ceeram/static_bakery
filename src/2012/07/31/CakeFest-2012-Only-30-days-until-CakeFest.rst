@@ -1,8 +1,6 @@
 CakeFest 2012 - Only 30 days until CakeFest!
 ============================================
 
-by predominant on July 31, 2012
-
 With only 30 days remaining until CakeFest 2012, now is the best time
 to secure your tickets and book your travel!
 

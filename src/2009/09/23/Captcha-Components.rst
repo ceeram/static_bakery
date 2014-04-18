@@ -1,8 +1,6 @@
 Captcha Components
 ==================
 
-by samestory on September 23, 2009
-
 Here is a sample of code for a captcha component we made for the site
 http://www.same-story.com/ Feel free to use, copy and redistribute !!
 Thanks to all the cakephp community for their helps and supports on

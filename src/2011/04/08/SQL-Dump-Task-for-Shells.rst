@@ -1,8 +1,6 @@
 SQL Dump Task for Shells
 ========================
 
-by carcus88 on April 08, 2011
-
 If you need to dump your SQL queries from a Shell then this is for
 you.
 When using shells there is no standard interface to dump out your SQL

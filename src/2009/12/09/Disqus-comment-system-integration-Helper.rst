@@ -1,8 +1,6 @@
 Disqus comment system integration Helper
 ========================================
 
-by Toss on December 09, 2009
-
 Integrating a disqus comment system (http://disqus.com/about/) with
 cakephp is really simple. To make it simpler, here is an Helper that
 should do almost all the dirty work for you.

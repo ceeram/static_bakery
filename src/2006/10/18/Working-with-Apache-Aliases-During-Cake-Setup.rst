@@ -1,8 +1,6 @@
 Working with Apache Aliases During Cake Setup
 =============================================
 
-by ChopFoo on October 18, 2006
-
 In trying to bring up an installation on our development server I ran
 into a few problems with missing CSS, JS, and Images thanks to
 improper references in the rendered HTML. Our development server is a

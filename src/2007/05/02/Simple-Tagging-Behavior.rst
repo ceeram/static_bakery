@@ -1,8 +1,6 @@
 Simple Tagging Behavior
 =======================
 
-by dooltaz on May 02, 2007
-
 So far after looking at other tagging code in this site, I have not
 seen tags done properly when using normal database form. So this will
 be a basic, simple tagging system that allows you to use both a tags

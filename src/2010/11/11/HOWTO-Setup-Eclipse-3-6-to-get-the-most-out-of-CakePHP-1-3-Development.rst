@@ -1,8 +1,6 @@
 HOWTO Setup Eclipse 3.6 to get the most out of CakePHP 1.3 Development
 ======================================================================
 
-by rynop on November 11, 2010
-
 This article explains step-by-step on how to setup your CakePHP dev
 environment to get the most out of open source tooling.
 There are lots of great resources out there for developing CakePHP

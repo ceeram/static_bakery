@@ -1,8 +1,6 @@
 Adding a TinyMCE image browser the CakePHP way
 ==============================================
 
-by Braindead on May 29, 2009
-
 If your cake app requieres some sort of WYSIWYG editor, integrating
 TinyMCE is in most cases the way to go. The only problem with TinyMCE
 is that there is no image browser included for free. So we have to

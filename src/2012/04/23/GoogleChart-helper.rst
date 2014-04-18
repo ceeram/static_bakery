@@ -1,8 +1,6 @@
 GoogleChart helper
 ==================
 
-by segy on April 23, 2012
-
 GoogleChart is a helper class for easy generating image charts using
 Google Chart API.
 

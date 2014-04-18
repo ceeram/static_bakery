@@ -1,8 +1,6 @@
 Datetime formatter behavior
 ===========================
 
-by adael on January 30, 2012
-
 Taking the idea from previous post, I have made a Behavior that
 formats date and datetime fields.
 

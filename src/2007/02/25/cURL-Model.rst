@@ -1,8 +1,6 @@
 cURL Model
 ==========
 
-by MrRio on February 25, 2007
-
 This is a wrapper for cURL. Ideal if you need to grab data from
 another site or integrate into a system that uses GET or POST
 requests.

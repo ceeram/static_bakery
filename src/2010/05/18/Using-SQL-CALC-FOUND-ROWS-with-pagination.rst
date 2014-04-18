@@ -1,8 +1,6 @@
 Using SQL_CALC_FOUND_ROWS with pagination
 =========================================
 
-by techlands on May 18, 2010
-
 A quick and dirty way to get SQL_CALC_FOUND_ROWS / found_rows()
 working with cakes pagination feature
 I came across a situation while trying to paginate a query with

@@ -1,8 +1,6 @@
 Generate Excel spreadsheets from your database
 ==============================================
 
-by janb on April 05, 2007
-
 With CakePHP you can easily create views from database models. At
 times, however, you need to output your database model as a
 spreadsheet file. In this article I'll show how you can use PEAR's

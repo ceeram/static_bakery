@@ -1,8 +1,6 @@
 CakePHP Deutschland
 ===================
 
-by nate on March 23, 2009
-
 CakeFest Berlin 2009 is coming! Plus many more exciting announcements.
 We have some very exciting news for the CakePHP community in Europe.
 First, this week we are officially announcing the next CakeFest event,

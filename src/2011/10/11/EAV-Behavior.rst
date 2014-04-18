@@ -1,8 +1,6 @@
 EAV Behavior
 ============
 
-by abalonepaul on October 11, 2011
-
 [b]Background[/b] As software developers, many projects that we work
 on require us to store "variable variable data". This means that we
 may not know exactly what data will be stored in the application

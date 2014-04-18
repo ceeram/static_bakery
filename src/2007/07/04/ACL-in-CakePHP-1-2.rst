@@ -1,8 +1,6 @@
 ACL in CakePHP 1.2
 ==================
 
-by AcidMaX on July 04, 2007
-
 The ACL/Auth components have left many people screaming for help. Here
 are some simple basic examples on how to get auth working from
 beginning to end. This is not the "definitive" guide to ACL but simply

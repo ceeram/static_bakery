@@ -1,8 +1,6 @@
 Image Component for Upload and Thumbnail (phpThumb)
 ===================================================
 
-by floorball92 on August 02, 2009
-
 This Component can be used upload images and generate thumbnails from
 upload or each other files
 

@@ -1,8 +1,6 @@
 PippoAcl 0.3 ready to use Acl/Auth plugin
 =========================================
 
-by fzanardo on June 20, 2009
-
 A simple but powerful Auth/Acl plugin.
 
 

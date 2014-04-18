@@ -1,8 +1,6 @@
 CakeGrid
 ========
 
-by robertross on May 02, 2011
-
 CakeGrid is an easy way to easily generate tables from results. It
 uses elements so changing the design is easy.
 

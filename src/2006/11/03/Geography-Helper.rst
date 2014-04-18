@@ -1,8 +1,6 @@
 Geography Helper
 ================
 
-by motoole on November 03, 2006
-
 The geography helper allows you to easily produce arrays of states and
 countries for convenient use within the form helper select function,
 as well as format state names, longitudes, and latitudes.

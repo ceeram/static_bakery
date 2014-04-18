@@ -1,8 +1,6 @@
 Barcode with cake
 =================
 
-by LazyCoder on April 04, 2007
-
 How to print barcode with cakephp and pdfb library
 These days my collegue Leonello and i had the necessity to print
 barcode label to stick on printed document for the documents

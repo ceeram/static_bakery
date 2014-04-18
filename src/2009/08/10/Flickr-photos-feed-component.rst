@@ -1,8 +1,6 @@
 Flickr photos feed component
 ============================
 
-by regis on August 10, 2009
-
 This is a simple component that allows you to retrieve photos from a
 Flickr user (or multiple users) without the need of an API Key or an
 RSS parser. You can also specify tags to filter the feed by and cache

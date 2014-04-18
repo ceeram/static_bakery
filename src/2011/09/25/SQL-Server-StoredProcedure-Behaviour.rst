@@ -1,8 +1,6 @@
 SQL Server StoredProcedure Behaviour
 ====================================
 
-by icc97 on September 25, 2011
-
 There's more than just $this->query('my_stored_proc_sp'); to calling
 stored procedures in SQL Server.
 

@@ -1,8 +1,6 @@
 Cake Meet Pie
 =============
 
-by rloaderro on January 14, 2008
-
 A Helper class that integrates EQ Smooth Pie Graph with your Cake
 application. EQ Smooth Pie Graph generates pie charts with smooth
 edges, looks great, and it's free - read on.

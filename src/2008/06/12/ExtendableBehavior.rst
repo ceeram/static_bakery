@@ -1,8 +1,6 @@
 ExtendableBehavior
 ==================
 
-by kuja on June 12, 2008
-
 ExtendableBehavior allows you to subclass models and use them to
 categorize different types of model data in the same table.
 

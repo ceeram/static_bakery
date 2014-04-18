@@ -2,8 +2,6 @@ Increase contrast of an Image (Image processing, Histogram
 Equalization using gd library and cakephp)
 ==========================================
 
-by kishorkundan on March 31, 2011
-
 !!! important !!! Php is an intrepreted language, one amongst many
 reasons to avoid using it for image processing. I personally prefer
 using MATLAB (more so than c/c++) when it comes to image processing.

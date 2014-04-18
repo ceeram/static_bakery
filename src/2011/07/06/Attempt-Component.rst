@@ -1,8 +1,6 @@
 Attempt Component
 =================
 
-by cyberthom on July 06, 2011
-
 A simple component to protect sensitive actions from brute force
 attacks. Fork away on https://github.com/cyberthom/Attempt-Component
 

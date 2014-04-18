@@ -1,8 +1,6 @@
 PDF helper using fpdf
 =====================
 
-by sdevore.myopenid.com on January 27, 2007
-
 How to easily create pdf output from CakePHP using the Freely licenced
 fpdf library found at http://fpdf.org/
 

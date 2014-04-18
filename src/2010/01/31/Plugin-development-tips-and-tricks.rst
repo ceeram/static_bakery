@@ -1,8 +1,6 @@
 Plugin development tips and tricks
 ==================================
 
-by sky_l3ppard on January 31, 2010
-
 This tutorial is for users who are already familiar with plugins. The
 main objective of it is to show the power of plugins and to make them
 more independent from an application itself.

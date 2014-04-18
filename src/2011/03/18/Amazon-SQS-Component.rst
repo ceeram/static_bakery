@@ -1,8 +1,6 @@
 Amazon SQS Component
 ====================
 
-by mbates on March 18, 2011
-
 I've built a basic component that will use Amazons "Simple Queue
 Service" This is a guide on how to use it You can grab it from
 https://github.com/mbates/CakePHP-Amazon-SQS-Component

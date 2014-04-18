@@ -2,8 +2,6 @@ Extending HttpSocket for use with Amazon among other things for 1.3.x
 and 2.x
 =======
 
-by Ratty on May 18, 2012
-
 When trying to use the Amazon API, I read a lot about the Amazon rule
 of only being allowed to make 1 request a second or your web site
 would be refused access to Amazon if this was ignored too often. So I

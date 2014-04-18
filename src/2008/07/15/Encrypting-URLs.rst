@@ -1,8 +1,6 @@
 Encrypting URLs
 ===============
 
-by yuri.salame on July 15, 2008
-
 Encrypting URLs is not very SEO friendly but when this is not the aim
 you can easily encrypt everything to avoid tampering when normal
 checks have been forgotten.

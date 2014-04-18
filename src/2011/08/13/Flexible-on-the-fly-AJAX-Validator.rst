@@ -1,8 +1,6 @@
 Flexible on-the-fly AJAX Validator
 ==================================
 
-by dispy on August 14, 2011
-
 This article shows how to implement a generic and easy to use AJAX
 validator, which uses the regular model validation rules and works on-
 the-fly. It doesn't require even to touch a model. This article

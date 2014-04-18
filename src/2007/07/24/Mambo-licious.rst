@@ -1,8 +1,6 @@
 Mambo-licious
 =============
 
-by gwoo on July 24, 2007
-
 Join us in welcoming Mambo to the CakePHP community.
 On Saturday, we were pleasantly surprised to receive an email from the
 Chad Auld, project lead of Mambo, informing us that CakePHP will form

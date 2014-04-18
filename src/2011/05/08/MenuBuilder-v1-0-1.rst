@@ -1,8 +1,6 @@
 MenuBuilder v1.0.1
 ==================
 
-by rifat on May 08, 2011
-
 A dynamic menu building helper for CakePHP with lot of customization
 options.
 

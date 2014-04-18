@@ -1,8 +1,6 @@
 dAuth v0.3 models
 =================
 
-by Dieter_be on November 15, 2006
-
 User, Host, LoginAttempt models for dAuth v0.3
 
 

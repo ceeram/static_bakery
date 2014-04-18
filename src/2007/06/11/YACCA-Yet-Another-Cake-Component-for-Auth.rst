@@ -1,8 +1,6 @@
 YACCA Yet Another Cake Component for Auth
 =========================================
 
-by LazyCoder on June 11, 2007
-
 A simple but powerful Cake Auth Component
 When I have finished my first application I had the necessity to
 create an authorization system to control user access. I have looked

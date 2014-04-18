@@ -1,8 +1,6 @@
 ImageTool
 =========
 
-by raitisg on December 28, 2011
-
 Component for processing images (resizing, watermarking, desaturating
 etc) Code and examples on github: https://github.com/raitisg/CakePHP-
 ImageTool-Component

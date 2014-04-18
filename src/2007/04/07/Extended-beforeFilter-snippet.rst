@@ -1,8 +1,6 @@
 Extended beforeFilter() snippet
 ===============================
 
-by Natcon67 on April 07, 2007
-
 This is a simple addition to app_controller.php to allow a more
 customized beforeFilter() callback.
 

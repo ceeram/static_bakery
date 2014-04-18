@@ -1,8 +1,6 @@
 Serializing find("threaded") data to XML
 ========================================
 
-by rreyes on March 11, 2009
-
 Ever tried to serialize a full find("threaded") tree to XML? Well, it
 won't be easy to consume. Unless you give a try with XMLTreeHelper.
 

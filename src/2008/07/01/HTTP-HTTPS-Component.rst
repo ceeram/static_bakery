@@ -1,8 +1,6 @@
 HTTP/HTTPS Component
 ====================
 
-by Daniel. on July 01, 2008
-
 A simple component to manage http and https requests.
 
 This component will allow you to force https requests based on the

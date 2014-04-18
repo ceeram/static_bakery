@@ -1,8 +1,6 @@
 Generic Taggable Behavior
 =========================
 
-by malte on April 23, 2009
-
 A solution for application wide tagging support. After a short setup
 you will be able to easily tag all models necessary for your
 application.

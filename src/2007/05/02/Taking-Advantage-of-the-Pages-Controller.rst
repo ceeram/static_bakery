@@ -1,8 +1,6 @@
 Taking Advantage of the Pages Controller
 ========================================
 
-by joelstein on May 02, 2007
-
 Looking for a few tips on how to make the Pages Controller your new
 friend? Out-of-the-box it automatically maps incoming requests to
 their views, sets the page title, and even handles sub-pages well. But

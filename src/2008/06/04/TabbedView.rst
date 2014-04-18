@@ -1,8 +1,6 @@
 TabbedView
 ==========
 
-by RandallFlagg on June 04, 2008
-
 This is a helper to generate tabbed views. This is my first helper and
 I've just started coding in CakePHP, so... any comments are welcomw
 

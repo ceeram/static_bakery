@@ -1,8 +1,6 @@
 ZaakPay payment gateway component
 =================================
 
-by kvijay on May 20, 2012
-
 This is another component that is get used for ZaakPay payment
 gateway.
 

@@ -1,8 +1,6 @@
 Routing with Multiple Subdomains
 ================================
 
-by pmansion on August 26, 2008
-
 Ever want to have multiple admin routes and use subdomains?
 After wanting to integrate 3 different parts of an application I wrote
 into one app, I looked and found some great pieces of information in

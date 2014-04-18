@@ -1,8 +1,6 @@
 Cakephp SwiftMailer4.X.X Component with batch send
 ==================================================
 
-by rajibahmed on February 23, 2011
-
 i have published a modification of swiftmailer component by
 sky_l3ppard at
 http://bakery.cakephp.org/articles/sky_l3ppard/2009/11/07/updated-

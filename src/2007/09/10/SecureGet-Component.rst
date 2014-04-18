@@ -1,8 +1,6 @@
 SecureGet Component
 ===================
 
-by francky06l on September 10, 2007
-
 I was searching a simple way to "secure" a bit the links in my cake
 application. Indeed everyone had this question "what if someone types
 'cake/app/user/edit/5' in the browser URL bar ?" ..etc .. I am not

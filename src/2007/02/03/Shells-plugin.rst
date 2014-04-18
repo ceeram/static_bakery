@@ -1,8 +1,6 @@
 Shells plugin
 =============
 
-by reevesj on February 03, 2007
-
 If you have ever used some cheap web host that doesn't allow shell
 access, it has likely been a bit of a pain to do some tasks. As my
 first try at a contribution and a plugin, and one that I plan to use,

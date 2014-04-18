@@ -1,8 +1,6 @@
 iCache - true query caching
 ===========================
 
-by mikefloering on August 26, 2008
-
 So, you have an application. That application has a database. It also
 has a lot of users. Those users need a LOT of data from that database.
 So your application thinks, "Hey... I'm always writing out these big

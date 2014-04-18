@@ -1,8 +1,6 @@
 Transparent DatePicker with jquery
 ==================================
 
-by agusti on February 02, 2010
-
 We will create an extended Helper FormHelper, without Difficulty to
 add a calendar date picker style in jquery
 (http://www.kelvinluck.com/assets/jquery/datePicker/v2/demo/).

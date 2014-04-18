@@ -1,8 +1,6 @@
 phpThumb Component
 ==================
 
-by Natcon67 on March 19, 2007
-
 This is my first attempt at writing a component for CakePHP. If you
 have any suggestions please add them to the comments and I'll
 incorporate them.

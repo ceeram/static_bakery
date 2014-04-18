@@ -1,8 +1,6 @@
 AggregateCache Behavior
 =======================
 
-by vincentm8 on August 23, 2010
-
 AggregateCache behavior caches the result of aggregate calculations
 (min, max, avg, sum) in tables that are joined by a hasMany /
 belongsTo association. I usually think of aggregates as being easy to

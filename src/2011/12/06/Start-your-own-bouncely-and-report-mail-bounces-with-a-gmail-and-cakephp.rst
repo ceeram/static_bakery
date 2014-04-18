@@ -2,8 +2,6 @@ Start your own bouncely and report mail bounces with a gmail and
 cakephp
 =======
 
-by eugenioclrc on December 06, 2011
-
 A few months ago i hire a service to track my mail bounces and clean
 the old mails from my subscriptors. The service was good but a bit
 expensive for me, so i figure an easy way to replicate this service.

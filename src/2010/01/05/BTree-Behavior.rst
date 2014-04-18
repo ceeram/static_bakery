@@ -1,8 +1,6 @@
 BTree Behavior
 ==============
 
-by busytoby on January 05, 2010
-
 The standard Tree Behavior has a problem causing add/delete based
 performance degredation bound by the size of the table. In a table of
 1 million nodes a single add or delete can currently cause up to 2

@@ -1,8 +1,6 @@
 How to Log PHP Errors and SQL to Chrome Console in CakePHP
 ==========================================================
 
-by systematical on May 08, 2013
-
 PHP errors can be a obnoxious when you’re developing an XHR heavy
 application with lots of JSON responses. The errors just aren’t very
 readable. So today I finally decided to implement ChromeLogger in our

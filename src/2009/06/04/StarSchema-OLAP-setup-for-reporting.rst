@@ -1,8 +1,6 @@
 StarSchema (OLAP) setup for reporting
 =====================================
 
-by eimermusic on June 04, 2009
-
 When you need to gather statistics and reporting data from a large
 number of transactions (easily >1'000'000 rows) you need to transfer
 that data over to a reporting-friendly format to keep request times

@@ -1,8 +1,6 @@
 Pagination Element
 ==================
 
-by AD7six on October 09, 2006
-
 The simple pagination element. For instruction on use see:
 http://bakery.cakephp.org/articles/view/65
 

@@ -1,8 +1,6 @@
 Symlinking to svn copies
 ========================
 
-by gwoo on September 29, 2006
-
 If you want to keep one install of CakePHP for all your applications,
 then you may want to use a symlink to make it easier when you want to
 adjust your index.php.

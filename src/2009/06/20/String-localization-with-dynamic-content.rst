@@ -1,8 +1,6 @@
 String localization with dynamic content
 ========================================
 
-by brightball on June 20, 2009
-
 Cake has a wonderful shell script function built into it called
 extract that will run through your code and create a .po file full of
 all of the text contained within your __('My text here') calls. You

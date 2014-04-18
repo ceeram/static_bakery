@@ -1,8 +1,6 @@
 Easy and simple subquery CakePHP
 ================================
 
-by lucaswxp on February 11, 2011
-
 How to easily make subquery in CakePHP
 Example usage:
 

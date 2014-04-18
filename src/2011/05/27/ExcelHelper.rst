@@ -1,8 +1,6 @@
 ExcelHelper
 ===========
 
-by thiagosf on May 27, 2011
-
 Simply export your data to Excel. Based on code:
 http://code.google.com/p/php-excel/
 `

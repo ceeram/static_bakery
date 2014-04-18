@@ -1,8 +1,6 @@
 Auto Add "current_page" to Links
 ================================
 
-by bravewhale on July 25, 2010
-
 A Helper class for automatically generating links with classes which
 are aware of their association to the current URL.
 

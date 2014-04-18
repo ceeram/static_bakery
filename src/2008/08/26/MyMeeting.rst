@@ -1,8 +1,6 @@
 MyMeeting
 =========
 
-by abdullah on August 26, 2008
-
 Meeting management system specifically built to fulfill the
 requirements of the malaysian public sector.
 MyMeeting Version 2 is a complete rebuild using CakePHP of the

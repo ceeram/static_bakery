@@ -1,8 +1,6 @@
 Spyc YAML Component
 ===================
 
-by c1sc0 on May 10, 2007
-
 Spyc is a simple YAML parsing class. If you don't know YAML, it's a
 sweet human-readable data serialization language. Think XML without
 the tag soup ! Like most external php libraries Spyc can be easily

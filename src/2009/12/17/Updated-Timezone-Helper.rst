@@ -1,8 +1,6 @@
 Updated: Timezone Helper
 ========================
 
-by MarkAlanEvans on December 17, 2009
-
 This is an updated Timezone Helper. Originally found here: Pulled,
 then updated from this blog post:
 http://planetcakephp.org/aggregator/items/2599-user-timezones-in-

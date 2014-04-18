@@ -1,8 +1,6 @@
 Sorting on aggregate and composite fields using pagination in 1.2
 =================================================================
 
-by michaelc on March 12, 2010
-
 While it may not be a common problem, I ran into this while working on
 a simple website I was building, and have recieved permission to share
 it with the community. I had a paginated table, and wanted a SUMed

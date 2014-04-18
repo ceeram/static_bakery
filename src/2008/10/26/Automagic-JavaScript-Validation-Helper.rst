@@ -1,8 +1,6 @@
 Automagic JavaScript Validation Helper
 ======================================
 
-by mattc on October 26, 2008
-
 This helper takes your model validation rules and converts them to
 JavaScript so they can be applied in the client's browser before
 submitting to the server.

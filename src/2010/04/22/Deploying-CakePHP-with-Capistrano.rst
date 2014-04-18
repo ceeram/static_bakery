@@ -1,8 +1,6 @@
 Deploying CakePHP with Capistrano
 =================================
 
-by j15e on April 22, 2010
-
 I was looking for a good deployment solution for my CakePHP apps and
 as nothing seems to fit perfectly, Capistrano does a very good job at
 keeping it simple. My setup is using a Git repository but almost SCM

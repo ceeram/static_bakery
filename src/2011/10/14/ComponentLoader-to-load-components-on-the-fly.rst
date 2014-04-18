@@ -1,8 +1,6 @@
 ComponentLoader to load components on the fly
 =============================================
 
-by geoff.garbers on October 15, 2011
-
 Loading unnecessary components in a controller slows down your CakePHP
 application, and places more strain on your server. Using this
 component, you're able to load components into your controller on the

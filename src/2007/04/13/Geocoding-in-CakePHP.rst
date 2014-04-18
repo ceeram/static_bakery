@@ -1,8 +1,6 @@
 Geocoding in CakePHP
 ====================
 
-by nate on April 13, 2007
-
 A couple of weeks ago, I was building an event management system which
 required that people be able to search events near them. I found
 several existing solutions, but none that I could integrate as easily

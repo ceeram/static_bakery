@@ -1,8 +1,6 @@
 Asset Mapper
 ============
 
-by grabanski on January 23, 2008
-
 [b]Map your entire web application's asset (JavaScript/CSS) includes
 with one file![/b] Easier way to manage JavaScript and CSS includes.
 Built on top of Asset Packer which compacts files and put them through

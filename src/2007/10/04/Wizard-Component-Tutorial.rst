@@ -1,8 +1,6 @@
 Wizard Component Tutorial
 =========================
 
-by jaredhoyt on October 04, 2007
-
 A tutorial on using my Wizard Component which automates several
 aspects of multi-page forms including data persistence, form
 preparation, wizard resetting (manual and automatic), and wizard

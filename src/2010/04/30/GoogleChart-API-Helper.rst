@@ -1,8 +1,6 @@
 GoogleChart API Helper
 ======================
 
-by ixu38 on April 30, 2010
-
 I need in a project a lightweight way to embed Charts from the Google
 Chart Tool. New version coming soon (axis automation, legend,
 etc...)....but you can work with it

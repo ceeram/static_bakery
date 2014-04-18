@@ -1,8 +1,6 @@
 Baked Enums
 ===========
 
-by jzimmerman on October 03, 2006
-
 Moving this snippet over from CakeForge. This is a preliminary
 solution to solve the problem of baking your Models's, View's and
 Controller's with enum keys in the database. It is not completely

@@ -1,8 +1,6 @@
 OrderedBehavior (2.1)
 =====================
 
-by alkemann on September 21, 2008
-
 This behavior is intended for letting you order models like pages in a
 book in a the same way that the treebehavior works, with the
 difference that there is only one level (all the pages are siblings).

@@ -1,8 +1,6 @@
 LogRotation Component
 =====================
 
-by eimermusic on June 23, 2008
-
 My logs were getting big really fast. CakeLog does (at the time of
 writing) not have rotation built in so I put this little component
 together. Possibly someone else is logging as much as I am :)

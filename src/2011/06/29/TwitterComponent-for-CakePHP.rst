@@ -1,8 +1,6 @@
 TwitterComponent for CakePHP
 ============================
 
-by nitsche on June 30, 2011
-
 Since longer time I searched for solution to connect my app with
 Twitter via their OAuth-Authentication. But there was nothing what was
 so good for me, beacause most of this code snippets had no correct

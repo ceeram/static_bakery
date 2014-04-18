@@ -1,8 +1,6 @@
 Talking to multiple databases from single cakePHP application
 =============================================================
 
-by mithesh on September 02, 2008
-
 This is a small tutorial on how to talk to multiple databases from a
 single cakePHP application. Generally say a scenario arises when we
 would have two seperate databases one for our business data and the

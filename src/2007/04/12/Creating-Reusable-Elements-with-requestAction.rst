@@ -1,8 +1,6 @@
 Creating Reusable Elements with requestAction
 =============================================
 
-by gwoo on April 12, 2007
-
 This is a brief tutorial on using requestAction to produce reusable
 elements. Code samples for 1.1 and 1.2 are provided.
 Creating reusable elements with requestAction is very simple. At the

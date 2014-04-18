@@ -1,8 +1,6 @@
 Commentia - Comment Spam Blocker Behavior
 =========================================
 
-by milesj on June 04, 2009
-
 Commentia is a CakePHP Behavior that automatically runs after a
 comment is made. Each comment is tested upon a point system to
 determine and classify it. If a comment has more then 1 point it is

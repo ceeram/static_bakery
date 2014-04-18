@@ -2,8 +2,6 @@ Adding multilingualism to single language site without i18n and/or
 TranslateBehaviour
 ==================
 
-by mormy on January 22, 2012
-
 I'm currently working on a site that requires multiple languages. As I
 didn't know this at the start of the project, I didn't prepare to use
 CakePHP integrated facilities for translation. So I decided to put a

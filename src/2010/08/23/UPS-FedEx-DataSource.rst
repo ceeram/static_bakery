@@ -1,8 +1,6 @@
 UPS & FedEx DataSource
 ======================
 
-by kylerobinsonyoung on August 23, 2010
-
 A UPS datasource and a FedEx datasource for retrieving shipping rate
 estimates.
 

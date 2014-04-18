@@ -1,8 +1,6 @@
 Change the position of your validation error messages
 =====================================================
 
-by lucianobargmann on December 09, 2010
-
 I don't like the validation error messages being displayed below the
 input tag, so after not finding how to change its position on the web,
 I found it on code. CakePHP has a neat templated way to render input

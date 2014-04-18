@@ -1,8 +1,6 @@
 AWS SES component for CakePHP2.0 +
 ==================================
 
-by kvijay on April 24, 2012
-
 This is an Amazon SES component. Developed to help developers to move
 & integrate faster the AWS services. In future we will come up with
 the aws plugin with all the services

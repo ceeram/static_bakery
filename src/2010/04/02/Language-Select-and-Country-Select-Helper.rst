@@ -1,8 +1,6 @@
 Language Select and Country Select Helper
 =========================================
 
-by brendoncrawford on April 02, 2010
-
 [b]Up to date versions of this code can be found at
 [url=http://github.com/brendoncrawford/cakephp-lang-
 helper]GitHub[/url][/b] Outputs a country select list and/or a

@@ -1,8 +1,6 @@
 Tracking navigation history of a user
 =====================================
 
-by janb on September 10, 2007
-
 Many times it can be very useful to track the navigation history of a
 user. Especially if you want to redirect the user to a page where he
 came from after some action (e.g. login). With this HistoryComponent,

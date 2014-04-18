@@ -1,8 +1,6 @@
 Adding a Google Map to your App
 ===============================
 
-by lababidi on June 23, 2007
-
 For anyone looking to easily pop a Google Map into their CakePHP App,
 you've found the right spot.
 

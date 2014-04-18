@@ -1,8 +1,6 @@
 CakePHP 2.0.0 Beta && Smarty 3
 ==============================
 
-by skler on August 05, 2011
-
 I try to integrate Smarty in cakephp 2.0 rendering.
 
 Download Smarty to "vendors" folder, I need to have

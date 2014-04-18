@@ -1,8 +1,6 @@
 Multiselect Preview Helper 1.0
 ==============================
 
-by pietro.brignola on January 05, 2010
-
 Immagine you want to provide your model centric add/edit form with
 master/slave support (one to many or many to many models relation).
 The simpliest way to avoid tedious embedded list with add/edit/delete

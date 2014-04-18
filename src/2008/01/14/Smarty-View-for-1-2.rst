@@ -1,8 +1,6 @@
 Smarty View for 1.2
 ===================
 
-by icedcheese on January 14, 2008
-
 This expands on the Smarty View code from Version 1.1. While its only
 a beginning, I am hoping someone else will pick up from what we had in
 version 1.1

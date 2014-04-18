@@ -1,8 +1,6 @@
 CakePHP 1.3.2 released
 ======================
 
-by predominant on June 06, 2010
-
 The core team have actioned a number of important bug reports since
 the release of CakePHP 1.3.1[1]. These reports address issues with
 caching and Windows support that warranted a faster release than

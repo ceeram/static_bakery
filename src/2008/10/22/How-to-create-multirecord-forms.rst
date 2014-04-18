@@ -1,8 +1,6 @@
 How to create multirecord forms
 ===============================
 
-by Marcelius on October 22, 2008
-
 One of the things I found a bit difficult to accomplish was the
 ability to create, update and delete multiple records in one HTML
 page. In this article I will show you the basic principles of this

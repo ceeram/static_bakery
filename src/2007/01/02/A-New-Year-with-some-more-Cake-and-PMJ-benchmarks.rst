@@ -1,8 +1,6 @@
 A New Year with some more Cake and PMJ benchmarks
 =================================================
 
-by gwoo on January 02, 2007
-
 We are hoping 2007 will be another great year for CakePHP. We started
 things off right with the release of version 1.2. Many feature
 improvements keep us moving forward in our quest to make developing

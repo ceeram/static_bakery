@@ -1,8 +1,6 @@
 Navigator Component
 ===================
 
-by joebeeson on August 17, 2008
-
 A component to allow for URLs based off a Tree structure in your model
 I built this component to allow for URLs such as
 `http://www.website.com/categories/top-category/sub-category1/sub-

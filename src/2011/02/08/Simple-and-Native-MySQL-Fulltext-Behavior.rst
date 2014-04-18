@@ -1,8 +1,6 @@
 Simple and Native MySQL Fulltext Behavior
 =========================================
 
-by SMarek on February 08, 2011
-
 I will provide you simple Fulltext behavior. It's quite a simple. We
 can get it working in four steps
 Copy Search behavior into `/app/models/behaviors` (it is attached or

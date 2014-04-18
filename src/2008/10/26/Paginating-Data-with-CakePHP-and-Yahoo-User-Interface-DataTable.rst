@@ -1,8 +1,6 @@
 Paginating Data with CakePHP and Yahoo! User Interface DataTable
 ================================================================
 
-by duncanbrown on October 26, 2008
-
 The aim is to pull data from your database and output it in a nice
 shiny data table.
 For this tutorial I have used CakePHP 1.2 RC3 and YUI 2.6.0. I am

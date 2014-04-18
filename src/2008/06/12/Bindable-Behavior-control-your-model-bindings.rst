@@ -1,8 +1,6 @@
 Bindable Behavior: control your model bindings
 ==============================================
 
-by mariano on June 12, 2008
-
 With the birth of CakePHP 1.2 pre-beta, here comes the newly,
 improved, and extended version of Bindable, a method to easily control
 what model relationships are obtained from a find operation, and even

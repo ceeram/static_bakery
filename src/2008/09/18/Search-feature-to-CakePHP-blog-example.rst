@@ -1,8 +1,6 @@
 Search feature to CakePHP blog example
 ======================================
 
-by calin on September 18, 2008
-
 Using searchable behavior, exemplified on CakePHP's blog example from
 documentation.
 

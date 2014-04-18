@@ -1,8 +1,6 @@
 Asset package manager
 =====================
 
-by mattalexx on January 05, 2010
-
 Manage asset packages like a Linux package manager
 
 

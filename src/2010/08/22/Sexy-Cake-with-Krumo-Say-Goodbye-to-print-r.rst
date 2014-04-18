@@ -1,8 +1,6 @@
 Sexy Cake with Krumo: Say Goodbye to print_r()
 ==============================================
 
-by stac80 on August 22, 2010
-
 Debugging nested arrays with print_r() can be wicked tough but
 [url=http://krumo.sourceforge.net/]Krumo[/url] makes this task a
 little less crack-a-lackin.

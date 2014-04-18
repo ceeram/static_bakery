@@ -1,8 +1,6 @@
 SwiftMailer Component Tutorial
 ==============================
 
-by CraZyLeGs on December 18, 2006
-
 Based on Chris Corbyn's excellent Swift Mailer. This is a component
 that does encapsulate it but not hide it, while it adds some nifty
 features. Read on how to bake with it.

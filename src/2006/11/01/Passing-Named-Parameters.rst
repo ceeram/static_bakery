@@ -1,8 +1,6 @@
 Passing Named Parameters
 ========================
 
-by TommyO on November 01, 2006
-
 This simple tutorial will add the ability to pass named parameters to
 your actions. Named Parameters are beneficial because they: * Make for
 much prettier URLs * Allow passing of a variable number of parameters

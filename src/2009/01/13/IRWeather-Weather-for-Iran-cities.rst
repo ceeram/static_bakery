@@ -1,8 +1,6 @@
 IRWeather (Weather for Iran cities)
 ===================================
 
-by cybercoder on January 13, 2009
-
 I saw yahoo weather component in the bakery, that sent by Mr.Arash
 Hemmat. with special thanks to him, it seems yahoo weather system can
 not cover all of Iran cities. but in Iran Weather Organization website

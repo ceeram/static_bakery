@@ -1,8 +1,6 @@
 ACL Management Plugin
 =====================
 
-by phishy on January 25, 2008
-
 A simple, easy, AJAXY, solution for managing your access control
 lists.
 Introduction

@@ -1,8 +1,6 @@
 Get the find query SQL, rather than query result
 ================================================
 
-by grant_cox on June 23, 2008
-
 There are times when you need custom SQL queries, but where much of
 this query could be handled by Cake - the prime example of this is
 subselects. This snippet extends on the original solution provided by

@@ -1,8 +1,6 @@
 Star Rating Control with FormHelper & jQuery
 ============================================
 
-by HyperCas on March 04, 2009
-
 I required a simple star rating system. Searching google.com for
 'cakephp star rating' returned about two usable links, both of which
 used custom helpers for showing a simple star rating selector. I

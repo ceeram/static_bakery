@@ -1,8 +1,6 @@
 Cakephp V2 without a database (Fixed)
 =====================================
 
-by Primordial on January 19, 2012
-
 This bug has now been fixed https://github.com/cakephp/cakephp/commit/
 6aa08b5f52955d15fb7e44ed28efcd8156c958d2
 

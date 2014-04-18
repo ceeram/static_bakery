@@ -1,8 +1,6 @@
 CakePHP 1.3.10 released
 =======================
 
-by predominant on May 30, 2011
-
 Today we're excited to release CakePHP 1.3.10, which emerges hot on
 the heels of CakePHP 1.3.9 to addresses a specific issue with cookie
 deletion that emerged in CakePHP 1.3.9.

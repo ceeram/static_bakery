@@ -1,8 +1,6 @@
 Null Behavior
 =============
 
-by Jippi on March 25, 2007
-
 Problems with default NULL fields not being very NULL'ish ?
 This is just a small script to make sure some values arent saved if
 they are supposed to be NULL in the database.

@@ -1,8 +1,6 @@
 Debugging with FirePHP
 ======================
 
-by HeathNail on August 20, 2010
-
 Don't use this. Use [url]http://github.com/cakephp/debug_kit[/url]
 
 You may have read the other article on FirePHP which deals with the

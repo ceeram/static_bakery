@@ -1,8 +1,6 @@
 Adding friendly URLs to The Cake Blog Tutorial
 ==============================================
 
-by mariano on November 27, 2006
-
 On this tutorial we'll learn how to modify The Cake Blog Tutorial to
 allow friendly URLs when accessing posts.
 

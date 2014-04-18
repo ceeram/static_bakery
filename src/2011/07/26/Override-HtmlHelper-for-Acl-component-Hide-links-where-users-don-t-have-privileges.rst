@@ -2,8 +2,6 @@ Override HtmlHelper for Acl component. Hide links where users don't
 have privileges.
 ================
 
-by aalexgabi on July 27, 2011
-
 Here is a way to hide links where users are not authorized. Rights are
 cached in session.
 Copy HtmlHelper in your app directory(/app/views/helpers/html.php).

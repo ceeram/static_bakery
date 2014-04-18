@@ -1,8 +1,6 @@
 Gearing up: New repository and 2.0 development branch available
 ===============================================================
 
-by predominant on May 09, 2010
-
 Since the release of CakePHP 1.3.0[1], the development team has been
 working on CakePHP 2.0 as well as the numerous tickets on the 1.2[2]
 and 1.3[3] branches. We're pushing a fair amount of effort into

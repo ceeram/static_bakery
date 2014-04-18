@@ -1,8 +1,6 @@
 Limit the models used in find operations
 ========================================
 
-by tapter on October 08, 2006
-
 Often when issuing a find, findAll or other find*-variety there's way
 too much data returned which puts unneccessary overhead to your
 database server or it might pose a security risk when some crucial

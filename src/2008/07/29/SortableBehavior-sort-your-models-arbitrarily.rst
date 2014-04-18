@@ -1,8 +1,6 @@
 SortableBehavior: sort your models arbitrarily
 ==============================================
 
-by dardosordi on July 29, 2008
-
 This behavior allow us to sort records arbitrarily.
 
 Some times we need to set the exact order for the records of our

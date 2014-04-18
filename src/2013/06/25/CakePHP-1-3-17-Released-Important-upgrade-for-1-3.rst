@@ -1,8 +1,6 @@
 CakePHP 1.3.17 Released - Important upgrade for 1.3
 ===================================================
 
-by markstory on June 25, 2013
-
 CakePHP 1.3.17 has been released. This is an important update for all
 users of 1.3. It is recommended that all users of 1.3 should upgrade
 as soon as possible.

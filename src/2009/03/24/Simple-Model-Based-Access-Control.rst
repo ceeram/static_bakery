@@ -1,8 +1,6 @@
 Simple, Model-Based Access Control
 ==================================
 
-by linnk on March 24, 2009
-
 In this article an alternative way of doing access control with
 CakePHP is presented. The solution separates all of your
 authentication needs from your controller and instead uses custom-

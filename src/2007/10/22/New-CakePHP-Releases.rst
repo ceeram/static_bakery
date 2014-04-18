@@ -1,8 +1,6 @@
 New CakePHP Releases
 ====================
 
-by PhpNut on October 22, 2007
-
 We have some new releases available for download. Version 1.1.18.5850
 is a bug fix update to the current stable release. Version 1.2.0.5875
 is the pre beta release of the current development version.

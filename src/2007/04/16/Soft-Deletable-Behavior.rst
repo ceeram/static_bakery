@@ -1,8 +1,6 @@
 Soft Deletable Behavior
 =======================
 
-by mariano on April 16, 2007
-
 This behavior lets you implement soft delete for your records in your
 models by introducing a flag to an existing table which indicates that
 a row has been deleted, instead of deleting the record.

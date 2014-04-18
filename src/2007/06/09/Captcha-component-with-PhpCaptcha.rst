@@ -1,8 +1,6 @@
 Captcha component with PhpCaptcha
 =================================
 
-by spout on June 09, 2007
-
 PhpCaptcha is a library for generating visual and audio CAPTCHAs
 (completely automated public Turing test to tell computers and humans
 apart).

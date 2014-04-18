@@ -1,8 +1,6 @@
 Markdown plugin for CakePHP 2.+
 ===============================
 
-by maurymmarques on May 23, 2012
-
 Can be used to convert markdown to HTML markup. It may be useful, for
 example, to create a help session in a system. That way you can also
 put your help files on github which also has an interpreter of

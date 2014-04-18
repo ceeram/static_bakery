@@ -1,8 +1,6 @@
 Lorem Ipsum (Dummy Text) Helper
 ===============================
 
-by skylersully on September 23, 2009
-
 This helper will help display dummy text throughout your application!
 Why would this be helpful to you? If you're building an app, it's nice
 to see some text in your views. Sure, you could copy and paste, but

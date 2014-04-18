@@ -1,8 +1,6 @@
 SimpleImg - helper for reducing rows in view
 ============================================
 
-by unigue_ on February 27, 2008
-
 When I was playing with images I always messed up with stuff which
 didn't belongs into view code. Like "if is_file(image" etc. but I want
 to be sure that there is going to be an image whether wanted or empty-

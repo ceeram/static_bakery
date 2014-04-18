@@ -1,8 +1,6 @@
 session setflash with cool jquery effects
 =========================================
 
-by webdevbit on December 07, 2010
-
 Hi, I am Gautam Lakum. I am a php web developer and love to use
 cakephp for custom applications. I love to share and post something
 new articles, tutorials and tools with others. For that, you can visit

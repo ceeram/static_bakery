@@ -1,8 +1,6 @@
 Installing CakePHP on Shared Hosting
 ====================================
 
-by gedm on August 29, 2009
-
 I am new to CakePHP and had a great deal of trouble getting it working
 on my hosted site with IXWebHosting. This is how I achieved a working
 installation.

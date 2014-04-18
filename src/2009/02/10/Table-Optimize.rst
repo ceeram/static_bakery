@@ -1,8 +1,6 @@
 Table Optimize
 ==============
 
-by WyriHaximus on February 10, 2009
-
 While developing a simple wiki bot with a queue table I noticed that
 sometimes the table kept it's old data as overhead. For that I
 searched through the bakery, manual and API but couldn't find anything

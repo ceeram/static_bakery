@@ -1,8 +1,6 @@
 Forking CakePHP shells
 ======================
 
-by webjay on February 21, 2011
-
 For `Gignal`_ I needed a way to have bots running in the background.
 Usually I would do something like `exec('command >& /dev/null &');`
 but I stumpled upon Process Control in Php's manual and here is what I

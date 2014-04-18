@@ -1,8 +1,6 @@
 Ajax elements available anywhere
 ================================
 
-by Kainchi on December 02, 2007
-
 [p] When I have chosen to work with Cakephp it was because of all
 these great features that we could use to create an ajax app easily.
 However, I had some problems to manage Ajax view elements like header,

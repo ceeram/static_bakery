@@ -1,8 +1,6 @@
 Don't forget afterFind callback
 ===============================
 
-by saidbakr on March 15, 2012
-
 Many beginners like me ask something like, how could I get total
 comments count for a post? of course, there are many answers, but the
 most easier answer is " Don't forget afterFind callback in your Post

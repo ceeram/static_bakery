@@ -1,8 +1,6 @@
 Improved Captcha Component
 ==========================
 
-by mikeyjsa on June 23, 2008
-
 I have created a very good and strong capture component for cakephp
 which has additional filters and various image format outputs and
 settings. I have used some code from an author named Pascal-Rehfeldt

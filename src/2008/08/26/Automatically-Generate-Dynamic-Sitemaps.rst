@@ -1,8 +1,6 @@
 Automatically Generate Dynamic Sitemaps
 =======================================
 
-by masterkeedu on August 26, 2008
-
 As little CakePHP applications flourish into popular web sites, the
 need for automatic sitemap maintenance becomes apparent. With this
 simple controller / view combination you can keep search engines (and

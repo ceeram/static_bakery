@@ -1,8 +1,6 @@
 SmoothTranslate to make smooth translations
 ===========================================
 
-by sky_l3ppard on January 05, 2010
-
 Usage of this behavior does not modify a real Translate behavior, it
 extends it`s functionality in two cases: 1) Core Translate behavior,
 when adding translation in other locale, original record`s

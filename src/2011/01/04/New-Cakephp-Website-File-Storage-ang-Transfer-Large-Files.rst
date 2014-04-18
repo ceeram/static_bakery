@@ -1,8 +1,6 @@
 New Cakephp Website : File Storage ang Transfer Large Files
 ===========================================================
 
-by AppsBender10 on January 04, 2011
-
 In making this website flexibility and efficiency of use be developed,
 I continuously work to make its navigation faster and more accessible
 for you. Hence, I made this website into a file hub application. I

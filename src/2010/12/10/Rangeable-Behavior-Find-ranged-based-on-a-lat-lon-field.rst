@@ -1,8 +1,6 @@
 Rangeable Behavior: Find ranged based on a lat/lon field
 ========================================================
 
-by zeroasterisk on December 10, 2010
-
 After some really shoddy implementations of this functionality as
 components and whatnot, I finally made a clean and simple behavior
 which you can use naturally as a custom find type, even within

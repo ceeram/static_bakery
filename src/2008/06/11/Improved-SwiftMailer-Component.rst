@@ -1,8 +1,6 @@
 Improved SwiftMailer Component
 ==============================
 
-by mhuggins on June 11, 2008
-
 I've used the [url=http://bakery.cakephp.org/articles/view/sending-
 email-with-phpmailer]PHPMailer component[/url] previously, and it's
 useful for basic SMTP usage. However, I recently needed to make an

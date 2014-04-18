@@ -1,8 +1,6 @@
 DateHelper for fuzzy date differences
 =====================================
 
-by g2010a on April 12, 2008
-
 A semi-useful helper that calculates the difference between two dates
 and gives it in *slightly* fuzzy logic: "almost 2 years," "over 1
 month".

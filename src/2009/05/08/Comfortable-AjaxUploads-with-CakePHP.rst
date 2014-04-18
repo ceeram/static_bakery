@@ -1,8 +1,6 @@
 Comfortable AjaxUploads with CakePHP
 ====================================
 
-by Warringer on May 08, 2009
-
 After looking for a way to upload files the AJAX way using prototype
 for quite some time, I have found a very good way to do just that,
 makeing an internet application react more like a desktop application,

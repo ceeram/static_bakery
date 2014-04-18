@@ -1,8 +1,6 @@
 History Navigation Bar
 ======================
 
-by khbohm on May 06, 2009
-
 This component is intended to be used in cases where as we go sailing,
 go deeper into the pages, starting from a home page.It show the path
 to the current page, also allow direct access to any of the pages

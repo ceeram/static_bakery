@@ -1,8 +1,6 @@
 LDAP datasource for cakePHP
 ===========================
 
-by euphrate_ylb on July 26, 2007
-
 This article presents a simple LDAP datasource which can be used with
 the cake framework (both 1.1.x and 1.2.x). With this datasource, a
 cake web application should be able to interact with a LDAP 'database'

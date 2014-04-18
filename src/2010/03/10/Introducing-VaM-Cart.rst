@@ -1,8 +1,6 @@
 Introducing VaM Cart
 ====================
 
-by vam-cart on March 10, 2010
-
 VaM Cart - Free, Open Source CakePHP Based Shopping Cart. Official
 Site - http://vamcart.com/ Online Demo - http://vamcart.com/demo/
 Admin: http://vamcart.com/demo/admin/ Login: admin Password: password

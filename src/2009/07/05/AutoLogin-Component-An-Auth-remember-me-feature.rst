@@ -1,8 +1,6 @@
 AutoLogin Component - An Auth remember me feature
 =================================================
 
-by milesj on July 05, 2009
-
 A user can save their login information by ticking off a checkbox in
 the login form and AutoLogin will store their information in a cookie
 to automatically log them in (using the Auth Component) on their next

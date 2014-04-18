@@ -1,8 +1,6 @@
 CakePHP 2.1.1 and 1.3.15 released
 =================================
 
-by lorenzo on March 26, 2012
-
 As usual, the CakePHP team is proud to deliver another
 bugfix/maintenance release in a timely fashion!
 

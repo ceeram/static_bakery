@@ -1,8 +1,6 @@
 CakePHP 1.3.5 released
 ======================
 
-by markstory on October 24, 2010
-
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP release 1.3.5.
 

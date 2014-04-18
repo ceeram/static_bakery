@@ -1,8 +1,6 @@
 Sending Email With PHPMailer
 ============================
 
-by drayen on October 11, 2006
-
 [This is a slightly updated copy of the tutorial on now defunct
 wiki.cakephp.org] This example will show you how to send HTML mail
 from you Cake application with PHPMailer. You will create: 1. cakePHP

@@ -1,8 +1,6 @@
 Dynamic Css for CMS and More!
 =============================
 
-by t73net on June 22, 2007
-
 Recently I was developing a cake app for a client who wanted to use
 the same system several times for a project and the same layout, but
 with different visual changes, like color etc. I had used simple

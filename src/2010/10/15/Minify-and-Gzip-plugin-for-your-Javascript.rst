@@ -1,8 +1,6 @@
 Minify and Gzip plugin for your Javascript
 ==========================================
 
-by connrs on October 15, 2010
-
 Hi, I wanted to share a solution to a problem I had with excessive
 javascript file size in some of my more ambitious projects. I may be
 reinventing the wheel here, but I had a very specific set of goals in

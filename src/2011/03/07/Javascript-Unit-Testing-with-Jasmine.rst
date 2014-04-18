@@ -1,8 +1,6 @@
 Javascript Unit Testing with Jasmine
 ====================================
 
-by jboesch on March 06, 2011
-
 Unit testing your JavaScript is something that doesn't come easy.
 Luckily, I've compiled a dummy project on GitHub.com that will allow
 you to unit test your JavaScript from the browser as well as the

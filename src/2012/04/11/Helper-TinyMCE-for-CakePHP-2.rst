@@ -1,8 +1,6 @@
 Helper TinyMCE for CakePHP 2
 ============================
 
-by galitul on April 11, 2012
-
 Helper TinyMCE for CakePHP 2 with preset fuction.
 
 

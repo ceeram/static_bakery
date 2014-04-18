@@ -1,8 +1,6 @@
 Permissions Plugin
 ==================
 
-by jonbradley on August 23, 2010
-
 The Permission plugin is a simple variation of the classic ACL
 permissions structure for the CakePHP framework. This allows a simple
 flat table lookup to verify if a user has permission to a particular

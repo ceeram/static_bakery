@@ -1,8 +1,6 @@
 Ticket Component - i.e. password reset
 ======================================
 
-by eimermusic on October 23, 2007
-
 This is my implementation of a simple Ticket Component. A ticket is a
 way to store a piece of data that can be retrieved and used once. The
 typical example of this would be a feature to reset user passwords.

@@ -1,8 +1,6 @@
 Du_BundleFu helper - Simple CSS and JavaScript file bundling
 ============================================================
 
-by jsor on October 07, 2010
-
 [url=http://github.com/dotsunited/du-bundlefu]Du_BundleFu[/url] is PHP
 5.3+ library which bundles multiple css/javascript files into a big
 package and sends it out at once. This helper integrates Du_BundleFu

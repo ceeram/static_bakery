@@ -1,8 +1,6 @@
 CakePHP 2.4.0-RC1 and 2.3.9 released
 ====================================
 
-by lorenzo on August 11, 2013
-
 The CakePHP core team is happy to announce the immediate availability
 of the first release candidate for 2.4.0 and a new maintenance release
 for the 2.3 branch.

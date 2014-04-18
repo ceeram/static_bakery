@@ -1,8 +1,6 @@
 Lorem Ipsum - Dummy Text Helper
 ===============================
 
-by pointlessjon on December 29, 2008
-
 [p]Tired of toggling between your widget, or lipsum.org, or your text
 file, etc. to pull in placeholder text?[/p] [p]Then [b]this helper is
 for YOU![/b][/p] [p][i]update: fixed a few types and whatnot[/i][/p]

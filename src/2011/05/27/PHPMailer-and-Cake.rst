@@ -1,8 +1,6 @@
 PHPMailer and Cake
 ==================
 
-by scoutmastershake on May 27, 2011
-
 I was looking around eveywhere trying to find a some info on PHPMailer
 and cake the problem I was having was that when PHPMailer threw an
 exception it stop the header and displayed the error so my app

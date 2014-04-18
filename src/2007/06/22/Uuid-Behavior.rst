@@ -1,8 +1,6 @@
 Uuid Behavior
 =============
 
-by Divagater on June 22, 2007
-
 I have a requirement to use UUID's as primary keys. I was initially
 using MySQL triggers to call uuid() on insert but in the end decided a
 behavior makes more sense. This behavior adds a UUID to the field

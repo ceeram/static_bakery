@@ -1,8 +1,6 @@
 dAuth v0.3 component
 ====================
 
-by Dieter_be on November 15, 2006
-
 the component for dAuth v0.3
 
 

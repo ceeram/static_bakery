@@ -1,8 +1,6 @@
 Jquery Validation Helper
 ========================
 
-by Matt on October 11, 2012
-
 JQuery Validation Helper reduces the duplication of the Cake model
 configuration in Javascript.
 

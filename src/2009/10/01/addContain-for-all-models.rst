@@ -1,8 +1,6 @@
 addContain() for all models
 ===========================
 
-by mashpie on October 01, 2009
-
 As of CakePHP 1.2 Behaviours came up and people started working with
 the "Containable" (see
 [url]http://book.cakephp.org/view/474/Containable[/url]). In brief you

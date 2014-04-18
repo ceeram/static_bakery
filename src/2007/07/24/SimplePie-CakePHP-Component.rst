@@ -1,8 +1,6 @@
 SimplePie CakePHP Component
 ===========================
 
-by mattc on July 24, 2007
-
 SimplePHP is a PHP class for retrieval and parsing of RSS feeds. This
 is a wrapper to that class making it easy to use in the CakePHP
 framwork. Much of this component is taken from the work of Scott

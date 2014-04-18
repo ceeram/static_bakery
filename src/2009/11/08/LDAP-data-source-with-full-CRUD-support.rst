@@ -1,8 +1,6 @@
 LDAP data source with full CRUD support
 =======================================
 
-by analogrithems on November 08, 2009
-
 When I first started, I realized that CakePHP didn't have an LDAP data
 source officially supported yet. I did find two articles about some
 good attempts. One by `euphrate`_, unfortunately this one was only for

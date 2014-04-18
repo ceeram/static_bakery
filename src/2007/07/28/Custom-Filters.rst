@@ -1,8 +1,6 @@
 Custom Filters
 ==============
 
-by Dimitry on July 28, 2007
-
 Learn to implement an easily extensible filtering system.
 Filters are classes executed before the logic within a controllers
 action and after the view has rendered. Filters are useful for the

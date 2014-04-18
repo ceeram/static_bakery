@@ -1,8 +1,6 @@
 Using TinyMCE with CakePHP and AJAX
 ===================================
 
-by TommyO on November 08, 2006
-
 jtreglos wrote an excellent article for integrating TinyMCE into your
 applications. This takes it one step further, making it possible to
 have powerful wysiwyg features almost anywhere.

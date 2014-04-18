@@ -1,8 +1,6 @@
 elRTE and elFinder Component + Helper
 =====================================
 
-by eliasfa on November 11, 2011
-
 Integrate elRTE and elFinder to cakephp 1.3 http://elrte.org/ - Text
 editor http://elrte.org/elfinder - File manager
 1- Download the content from http://elrte.org/ and put it in your js

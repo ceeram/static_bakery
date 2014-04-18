@@ -1,8 +1,6 @@
 File upload and thumbnail component
 ===================================
 
-by tutec on January 05, 2010
-
 Attachment component for CakePHP handles file uploads to the file
 system. If itâ€™s an image file, it creates as many thumbnail copies
 as you need.

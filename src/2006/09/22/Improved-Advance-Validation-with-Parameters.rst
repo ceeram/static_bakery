@@ -1,8 +1,6 @@
 Improved Advance Validation with Parameters
 ===========================================
 
-by Ludge on September 22, 2006
-
 This code allows you to perform complex validation on your Model data
 using both regular expressions and functions as well as supporting
 multiple validation routines per model field.

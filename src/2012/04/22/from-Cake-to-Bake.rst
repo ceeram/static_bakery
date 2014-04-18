@@ -1,8 +1,6 @@
 from Cake to Bake
 =================
 
-by mainiabhay on April 22, 2012
-
 I will explain how i got CakePHP working from start (Download) to
 finish (Bake). This tutorial is for PHP/MYSQL on Mint 12/Ubuntu users.
 I assume that you have installed PHP/MYSQL and apache configured

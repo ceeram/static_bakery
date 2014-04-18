@@ -1,8 +1,6 @@
 ACL plugin
 ==========
 
-by alaxos on November 21, 2010
-
 The core of CakePHP contains a system to control access rights based
 on Access Control List. This mechanism is very useful, but I have to
 admit, not very easy to dive in the first time you try to use it.

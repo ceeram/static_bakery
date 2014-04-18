@@ -1,8 +1,6 @@
 FlashHelper - a wrapper for the SwfObject js class
 ==================================================
 
-by alkemann on November 25, 2008
-
 After having had small issues every time I try to embed flash in my
 apps, and always resorting to using the javascript SwfObject, I
 decided it was time to just make a wrapper helper for this helpful

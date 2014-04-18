@@ -1,8 +1,6 @@
 AliasBehavior
 =============
 
-by kuja on June 23, 2008
-
 The behavior allows you to create pseudo field names for actual
 fields, and allows you to use those fields as if they were actual
 fields in the database table.

@@ -1,8 +1,6 @@
 Datepicker Helper for Dynarch Calendar (JSCal2)
 ===============================================
 
-by chrmina on August 01, 2010
-
 Datepicker, now with more [b]cowbell[/b]!
 Wanted a nice datepicker for my application. I decided to google
 "datepicker cakephp" to see what alternatives are out there. Found the

@@ -1,8 +1,6 @@
 Persistent Data
 ===============
 
-by jburns131 on September 23, 2006
-
 I'm going to show you how to create persistent data in your apps using
 Components, regardless of which Controller you're using. The reason
 why I wanted persistent data, was because I have my Website

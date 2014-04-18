@@ -1,8 +1,6 @@
 Make Minify helper work with themed assets
 ==========================================
 
-by tpuglia on August 23, 2011
-
 Make Minify helper work with themed assets
 
 I was working with Minfiy Helper in Cake 2.0 and once moving my themed

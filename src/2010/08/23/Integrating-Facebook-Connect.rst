@@ -1,8 +1,6 @@
 Integrating Facebook Connect
 ============================
 
-by fsiebler on August 23, 2010
-
 In this Tutorial I will show you how easily you can integrate the new
 Facebook Connect Open Graph API into your CakePHP Application.
 In this Tutorial we are using the CakePHP Auth Component. Make sure

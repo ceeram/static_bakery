@@ -1,8 +1,6 @@
 Baking Cakes with FirePHP
 =========================
 
-by Warringer on September 21, 2008
-
 Some days ago I discovered the Firebug extension FirePHP while looking
 around for Firefox addons. The way to use Firebug to log Error and
 other general debugging messages looked very promising and I decided

@@ -1,8 +1,6 @@
 Textile Editor Helper for Cake
 ==============================
 
-by tclineks on May 03, 2007
-
 A port of TEH(Textile Editor Helper) to Cake. See Original here: [url]
 http://slateinfo.blogs.wvu.edu/plugins/textile_editor_helper[/url]
 

@@ -1,8 +1,6 @@
 RewriteBase config for cake installation with userDir and mod_rewrite
 =====================================================================
 
-by syl-via on September 19, 2011
-
 This article shows how to configure RewriteBase in 3 .htaccess files
 in cake installation located in userDir ~/user/cake_install
 If the cake app is installed in ~/user/cake_install/, than to

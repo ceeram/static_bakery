@@ -1,8 +1,6 @@
 Element Helper
 ==============
 
-by ping_ch on January 13, 2009
-
 I needed a simple, yet flexible way for backend users to add certain
 pre-defined HTML elements like Youtube videos to posts. I came up with
 this little helper that replaces bbcode-like element tags with the

@@ -1,8 +1,6 @@
 DBO extension to get keyed results
 ==================================
 
-by mbates on November 29, 2010
-
 I have often found the need to have the result of a find( 'all' )
 keyed to the tables id. I had been doing this in the code with an,
 often expensive, foreach loop: [code]$keyResults = array(); foreach(

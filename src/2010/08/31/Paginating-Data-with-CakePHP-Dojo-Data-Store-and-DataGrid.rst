@@ -1,8 +1,6 @@
 Paginating Data with CakePHP, Dojo Data Store and DataGrid
 ==========================================================
 
-by mastepanoski on August 31, 2010
-
 The aim is pull data from your database through JSON and REST-like
 services from CakePHP. I have used CakePHP 1.3.2 and Dojo Toolkit
 1.4.2.

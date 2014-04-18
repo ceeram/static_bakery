@@ -1,8 +1,6 @@
 reCAPTCHA Component & Helper for CakePHP
 ========================================
 
-by Howard on November 15, 2008
-
 an easy-to-use component and helper set to use reCAPTCHA on your
 website.
 This is an easy to use component and helper set for you to get

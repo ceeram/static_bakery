@@ -1,8 +1,6 @@
 Clearing Up Some Confusion on the Release Versions of CakePHP
 =============================================================
 
-by jperras on August 31, 2009
-
 There seems to be a bit of confusion as to what version of PHP will be
 supported in what CakePHP releases, and where to find which projects
 on [url]http://code.cakephp.org/projects[/url]. Hopefully, this post

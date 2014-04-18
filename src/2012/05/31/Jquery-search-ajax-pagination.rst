@@ -1,8 +1,6 @@
 Jquery search ajax pagination
 =============================
 
-by geneller on May 31, 2012
-
 This is my first article, i've been working on this very component to
 build dynamics conditions for paginates based on the data entered in a
 form on the index page.

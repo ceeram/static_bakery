@@ -1,8 +1,6 @@
 css list-menu helper
 ====================
 
-by burzum on August 28, 2007
-
 A helper (method) to create a css formatable list-menu.
 I was looking for a good way to creating css formated list-menus that
 allows me to make an menu-element active. I found this solution

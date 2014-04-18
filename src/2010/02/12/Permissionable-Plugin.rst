@@ -1,8 +1,6 @@
 Permissionable Plugin
 =====================
 
-by jmcneese on February 12, 2010
-
 A CakePHP 1.3 plugin that provides UNIX-like row-level permissions for
 model data.
 quite awhile ago i released a behavior that provided row-level access

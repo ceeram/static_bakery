@@ -1,8 +1,6 @@
 Cryptable Behavior
 ==================
 
-by utoxin on August 01, 2009
-
 A behavior that will automatically encrypt/decrypt specified fields in
 a model, using your choice of cipher, key, and IV.
 I've written the following behavior for a project I recently completed

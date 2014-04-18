@@ -1,8 +1,6 @@
 mysq_query, Undefined function..!!
 ==================================
 
-by _i0n on June 01, 2010
-
 How to solve PHP Fatal error: Call to undefined function mysql_query()
 and others buit-in functions.
 Suddenly calling:

@@ -1,8 +1,6 @@
 Versioned DbMigrations
 ======================
 
-by SayB on November 24, 2012
-
 Need more control than only just being able to update your database
 schema via CakePHP's Migration shell ? Well, this is a dirty quick
 solution for actually versioning your database ! And a great tool to

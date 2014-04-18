@@ -1,8 +1,6 @@
 Benchmark Comparison of 1.3 RC3 and 1.2.6
 =========================================
 
-by hiromi on April 08, 2010
-
 CakePHP 1.3 has lots of new features. But we may worry about the cost
 for addition of them. This article reports result of benchmarks that
 we can compare the performance of 1.3 RC3 and 1.2.6.

@@ -1,8 +1,6 @@
 Backup your SQL database with BackupMe console application
 ==========================================================
 
-by mmahgoub on January 25, 2013
-
 BackupMe is a console script to create SQL databases dump backups for
 CakePHP applications.
 

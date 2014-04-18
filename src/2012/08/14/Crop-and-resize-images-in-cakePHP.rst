@@ -1,8 +1,6 @@
 Crop and resize images in cakePHP
 =================================
 
-by edap on August 14, 2012
-
 CakePHP helper and component to crop and resize images using
 jWindowCrop
 I've just created an helper and a component to make images thumbs easy

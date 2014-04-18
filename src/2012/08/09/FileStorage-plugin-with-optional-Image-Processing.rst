@@ -1,8 +1,6 @@
 FileStorage plugin with optional Image Processing
 =================================================
 
-by burzum on August 09, 2012
-
 This plugin is giving you the possibility to store files in virtually
 any kind of storage backend. This plugin is wrapping the Gaufrette
 library (https://github.com/KnpLabs/Gaufrette) library in a CakePHP

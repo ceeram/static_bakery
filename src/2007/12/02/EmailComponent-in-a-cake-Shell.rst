@@ -1,8 +1,6 @@
 EmailComponent in a (cake) Shell
 ================================
 
-by Jippi on December 02, 2007
-
 This little Shell Task will allow you to use the EmailComponent from
 your shell applications like you normally do from WWW.
 

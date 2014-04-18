@@ -1,8 +1,6 @@
 TabHelper
 =========
 
-by Henrik on February 18, 2009
-
 Okay, in the Bakery there is a lot of MenuHelper's and TabHelper's
 which tries to produce a nice way to check the controller params etc
 and select the active element. This helper does exactly that, just in

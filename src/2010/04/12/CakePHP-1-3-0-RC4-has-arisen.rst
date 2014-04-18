@@ -1,8 +1,6 @@
 CakePHP 1.3.0-RC4 has arisen
 ============================
 
-by markstory on April 12, 2010
-
 The CakePHP development team is happy to announce the release the
 CakePHP 1.3.0-RC4. This release marks the last release candidate,
 before 1.3.0 goes to stable.

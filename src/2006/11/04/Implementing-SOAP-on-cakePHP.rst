@@ -1,8 +1,6 @@
 Implementing SOAP on cakePHP
 ============================
 
-by scook on November 04, 2006
-
 I have recently (last week) started using cakePHP. I choose cake
 because it works with AMFPHP and because I thought cake had built in
 support for web services (including soap). I'm not complaining, but I

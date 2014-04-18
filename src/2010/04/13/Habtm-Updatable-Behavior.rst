@@ -1,8 +1,6 @@
 Habtm Updatable Behavior
 ========================
 
-by nachopitt on April 13, 2010
-
 A behavior to sync data POST'ed from a select box input and data
 already saved. Useful in edit actions.
 Gives models the ability to update HABTM records using a single multi

@@ -1,8 +1,6 @@
 Memcache wrapper class
 ======================
 
-by jiri on April 17, 2007
-
 A simple wrapper for PHP's Memcache functions
 Used by the Memcache `component`_ and `helper`_. You can get the `full
 package with instructions from my site`_.

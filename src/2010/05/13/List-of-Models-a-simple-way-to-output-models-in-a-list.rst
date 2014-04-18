@@ -1,8 +1,6 @@
 List of Models - a simple way to output models in a list.
 =========================================================
 
-by severeon on May 13, 2010
-
 test
 
 ::

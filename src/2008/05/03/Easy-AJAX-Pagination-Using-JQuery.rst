@@ -1,8 +1,6 @@
 Easy AJAX Pagination Using JQuery
 =================================
 
-by daphonz on May 03, 2008
-
 This simple little JQuery function allows you to drop paginated data
 into your views with ease.
 I chose to implement ajax pagination in this manner because I wasn't

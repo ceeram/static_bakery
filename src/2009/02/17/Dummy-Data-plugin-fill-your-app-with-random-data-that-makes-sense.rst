@@ -1,8 +1,6 @@
 Dummy Data plugin - fill your app with random data that makes sense
 ===================================================================
 
-by ronnyvv on February 17, 2009
-
 Easy to use plugin for generating "realistic" random data for your
 app. It fully supports models with associations, behaviors, callbacks
 and validation.

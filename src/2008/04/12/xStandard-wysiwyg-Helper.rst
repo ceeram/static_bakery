@@ -1,8 +1,6 @@
 xStandard wysiwyg Helper
 ========================
 
-by DaddyCool on April 12, 2008
-
 Based on the workaround made for fckEditor, I've made a little helper
 to render easily a wysiwyg editor that IS xHTML 1.1 compliant :) This
 helper assumes you are using the prototype.js framework. xStandard

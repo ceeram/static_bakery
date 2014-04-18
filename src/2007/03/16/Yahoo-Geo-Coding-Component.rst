@@ -1,8 +1,6 @@
 Yahoo Geo Coding Component
 ==========================
 
-by stutter on March 16, 2007
-
 I've been looking around the Bakery, and I noticed that there was at
 least one Google Geo Coding Component, and no Yahoo equivilants. I
 can't speak as to what the difference is, but I wrote a Yahoo Geo

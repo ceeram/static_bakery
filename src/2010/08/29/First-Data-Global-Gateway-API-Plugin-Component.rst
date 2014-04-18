@@ -1,8 +1,6 @@
 First Data Global Gateway API Plugin Component
 ==============================================
 
-by chronon on August 29, 2010
-
 The Ggapi component simplifies credit card processing using the First
 Data/Yourpay/Linkpoint Global Gateway API. It supports testing and
 live configurations, along with local to remote field mapping. Once

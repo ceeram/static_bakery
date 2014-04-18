@@ -1,8 +1,6 @@
 User Management Plugin for cakephp 2.x version 2.0
 ==================================================
 
-by Jimmy on August 20, 2012
-
 I have launched a new version(2.0) of my plugin for user management.
 Demo at http://umpremium.ektasoftwares.com
 

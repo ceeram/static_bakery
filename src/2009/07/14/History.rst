@@ -1,8 +1,6 @@
 History
 =======
 
-by adam_dunkley on July 14, 2009
-
 For a recent project I needed Wikipedia style history for all of my
 content. Therefore all major content models (articles, pages, forum
 posts etc) aggregate a base 'content' model. I wrote a behaviour to

@@ -1,8 +1,6 @@
 Memcache component
 ==================
 
-by jiri on April 12, 2007
-
 A component for using Memcache to cache data from your controllers
 Needs the `Memcache class`_. You can get the `full package with
 instructions from my site`_.

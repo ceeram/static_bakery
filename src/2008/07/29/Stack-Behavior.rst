@@ -1,8 +1,6 @@
 Stack Behavior
 ==============
 
-by stupergenius on July 29, 2008
-
 This model behavior allows the use of the familiar stack data
 structure in a CakePHP database environment. Supports push, pop, top,
 and length methods, the core of any stack, along with a configurable

@@ -1,8 +1,6 @@
 Yet Another JQuery AutoComplete Helper
 ======================================
 
-by Matt on August 07, 2011
-
 I created this helper as an exercise to learn some more about JQuery
 and CakePHP. Although there is an AutoComplete available in CakePHP,
 it is in the Ajax helper which is deprecated. My version could use

@@ -1,8 +1,6 @@
 AclLinkHelper
 =============
 
-by joel.stein on June 26, 2010
-
 This helper automatically hides links to controllers/actions not
 available to the currently authenticated user.
 In order to reduce the Database load this helper will store

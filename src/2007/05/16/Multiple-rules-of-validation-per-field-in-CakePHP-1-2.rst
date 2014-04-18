@@ -1,8 +1,6 @@
 Multiple rules of validation per field in CakePHP 1.2
 =====================================================
 
-by mariano on May 16, 2007
-
 There are many great improvements coming with CakePHP 1.2. On this
 article we'll take a look at multiple rules of validation per field,
 and how easy it is to use them on our 1.2 models.

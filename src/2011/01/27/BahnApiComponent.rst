@@ -1,8 +1,6 @@
 BahnApiComponent
 ================
 
-by anachronist on January 27, 2011
-
 A simple, but very helpful component to receive the schedule of the
 german railway system.
 The component:

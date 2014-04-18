@@ -1,8 +1,6 @@
 Generic AppController
 =====================
 
-by flatline on June 27, 2009
-
 By using a Generic AppController (GAC) we can drastically reduce the
 amount of code that is needlesly repeated in the controllers. It
 implements the methods that are most frequently used when baking a

@@ -1,8 +1,6 @@
 Validanguage Helper for customizable Javascript form validation
 ===============================================================
 
-by drlongghost on December 02, 2008
-
 Validanguage is a free, open source javascript library that provides a
 highly customizable, framework-independent environment for managing
 client-side form validation. The Validanguage helper enables

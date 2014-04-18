@@ -1,8 +1,6 @@
 Nested Tree Behaviour
 =====================
 
-by superkruger on January 13, 2010
-
 I quite like the Tree Behaviour. But unfortunately the 'separator'
 idea is a little too primitive for flexible HTML. The problem lies in
 the fact that generatetreelist always returns a flat structure. Here's

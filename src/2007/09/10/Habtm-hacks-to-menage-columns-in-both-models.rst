@@ -1,8 +1,6 @@
 Habtm hacks to menage columns in both models
 ============================================
 
-by mess on September 10, 2007
-
 After searching a lot, i haven't found what i need. I had a habtm
 relationship between two models and when i did a "findall" in a model
 i couldn't filter the rows with a clause from the the other model.

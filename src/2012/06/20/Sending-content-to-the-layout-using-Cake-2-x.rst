@@ -1,8 +1,6 @@
 Sending content to the layout using Cake 2.x
 ============================================
 
-by pollirrata on June 20, 2012
-
 This post is based on Robert Conner's code for CakePHP 1.x., and I
 made some changes to get it to work on CakePHP 2.x and add some
 explanations on how to use it. The original post is on

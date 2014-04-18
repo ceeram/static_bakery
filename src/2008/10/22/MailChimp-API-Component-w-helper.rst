@@ -1,8 +1,6 @@
 MailChimp API Component w/ helper
 =================================
 
-by hapascott on October 22, 2008
-
 MailChimp (http://www.mailchimp.com/) is an awesome service that makes
 it easy for you to manage your email campaigns and integrate it into
 your website. While MailChimp provides an easy embed code to add to

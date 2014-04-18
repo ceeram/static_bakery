@@ -1,8 +1,6 @@
 Equation Generation
 ===================
 
-by aidan on December 29, 2008
-
 A component to convert latex mathematical equations to PNG. The
 component provides a subset of cleaned-up, cake-ised code from the
 LatexRender project.

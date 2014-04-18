@@ -1,8 +1,6 @@
 WHOIS Component
 ===============
 
-by Gaurav_orbit on November 28, 2008
-
 WHOIS is a query/response protocol which is widely used for querying
 an official database in order to determine the owner of a domain name,
 an IP address, or an autonomous system number on the Internet.

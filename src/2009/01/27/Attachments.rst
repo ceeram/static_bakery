@@ -1,8 +1,6 @@
 Attachments
 ===========
 
-by davidpersson_ on January 27, 2009
-
 Even though there are already good solutions out there this project
 tries -as usual- to make things even a bit better and to provide a
 documented, easy to setup and use, extensible, clean implementation of

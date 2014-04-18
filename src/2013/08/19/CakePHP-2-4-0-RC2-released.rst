@@ -1,8 +1,6 @@
 CakePHP 2.4.0-RC2 released
 ==========================
 
-by markstory on August 19, 2013
-
 The CakePHP core team is happy to announce the immediate availability
 of the second release candidate for 2.4.0[1].
 

@@ -1,8 +1,6 @@
 Real World Access Control
 =========================
 
-by rtconner on June 13, 2007
-
 Cake AC is a very powerful but generic access control sytem. Lets face
 it, the only real use for Access Control is User permissions. So let
 us look at the common every day use for Access Control.

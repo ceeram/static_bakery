@@ -2,8 +2,6 @@ Success story: Using CakePHP at the Instituto Nacional de Educacion
 Tecnologica.
 ============
 
-by romanmussi on February 18, 2010
-
 In this article we describe an experience of software development.
 CakePHP was critical to the projectâ€™s success. Here I emphasize what
 we consider are some of the main advantages to using the Framework.

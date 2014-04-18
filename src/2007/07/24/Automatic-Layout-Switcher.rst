@@ -1,8 +1,6 @@
 Automatic Layout Switcher
 =========================
 
-by mattc on July 24, 2007
-
 This component allows you to have two layouts for one site and
 switches between them automatically based on the domain.
 

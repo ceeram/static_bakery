@@ -1,8 +1,6 @@
 TinyMCE helper
 ==============
 
-by daibach on July 15, 2008
-
 This is a basic helper to make it really easy to use TinyMCE inside
 CakePHP.
 

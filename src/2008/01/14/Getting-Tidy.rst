@@ -1,8 +1,6 @@
 Getting Tidy.
 =============
 
-by zeRUS on January 14, 2008
-
 5 minutes job to get a fair markup validation implant.
 
 "Beauty shall save the World", Fyodor said once. It's that simple and

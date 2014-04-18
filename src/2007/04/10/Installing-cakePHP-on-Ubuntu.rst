@@ -1,8 +1,6 @@
 Installing cakePHP on Ubuntu
 ============================
 
-by lukemack on April 10, 2007
-
 I use Ubuntu 6.10 Server with the LAMP package as my development
 server. These instructions have not been tested outside of that
 environment but should work on other Ubuntu installations.

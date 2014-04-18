@@ -1,8 +1,6 @@
 Image Resize Component
 ======================
 
-by sethcardoza on January 05, 2010
-
 I made an image resize component. Pass it the image location, resized
 image location, dimensions, and quality and it will determine the
 image type, and use the proper functions accordingly. It works with

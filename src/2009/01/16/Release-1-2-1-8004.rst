@@ -1,8 +1,6 @@
 Release: 1.2.1.8004
 ===================
 
-by gwoo on January 16, 2009
-
 The response to CakePHP 1.2 Final has been amazing. In less than a
 month, we have seen over 40,000 downloads. These numbers go along
 nicely with the 2000+ users who grab the svn version. We cannot thank

@@ -1,8 +1,6 @@
 CustomFinds Behavior
 ====================
 
-by Danielpk on September 25, 2010
-
 Behavior that enables you to config custom finds at Model in order to
 use with Model->find();
 

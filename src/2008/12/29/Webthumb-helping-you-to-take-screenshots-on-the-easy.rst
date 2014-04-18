@@ -1,8 +1,6 @@
 Webthumb - helping you to take screenshots on the easy
 ======================================================
 
-by zeroasterisk on December 29, 2008
-
 Webthumb is a great service providing free and low cost screenshots
 with a decent API. So lets say that as part of your site, you want to
 take screenshots of public webpages. Either you manage or track other

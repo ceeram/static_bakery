@@ -1,8 +1,6 @@
 Google Translate Helper
 =======================
 
-by alkavan on January 05, 2010
-
 needed this for a soccer site i'm developing, really easy to use.
 tested it with 200,500,700 chars, works fast with 200, less fast with
 500 and 700, on 700+ you might get php timeout of 30 sec, but you can

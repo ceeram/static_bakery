@@ -1,8 +1,6 @@
 Attach Plugin
 =============
 
-by krolow on January 27, 2012
-
 Attach Plugin, is easy upload in CakePHP 2.
 For several projects I have used the MeioUpload plugin and he was
 really good for me, but for some new projects I`d like to use

@@ -1,8 +1,6 @@
 Eclipse Code Completion in views using $this
 ============================================
 
-by leoden on March 27, 2012
-
 If you are having problems getting eclipse to autocomplete helpers in
 views. Try this
 Create this file ( helper_complete.php ) add to your app/View

@@ -1,8 +1,6 @@
 cPanel API component
 ====================
 
-by Duncan on July 15, 2008
-
 A simple CakePHP component for cPanel XMLAPI calls (
 http://www.cpanel.net/plugins/xmlapi/ ). Requires cURL support.
 Update: added WHM accessKey support

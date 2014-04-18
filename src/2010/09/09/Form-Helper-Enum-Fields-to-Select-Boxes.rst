@@ -1,8 +1,6 @@
 Form Helper: Enum Fields to Select Boxes
 ========================================
 
-by christian.kilb on September 09, 2010
-
 This Form Helper extension chooses select boxes as input fields for
 enumeration database fields automatically.
 Create a new file "form2.php" in app/views/helpers and insert the

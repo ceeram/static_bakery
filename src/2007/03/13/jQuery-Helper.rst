@@ -1,8 +1,6 @@
 jQuery Helper
 =============
 
-by thepeg on March 13, 2007
-
 I wrote an helper that allow you to enjoy jQuery library by helping in
 script inclusion and plugin management.
 I have only wrote an italian documentation yet but code il simply,

@@ -1,8 +1,6 @@
 Report: CakePHP meet-up at Tokyo 4th
 ====================================
 
-by yandod on May 24, 2009
-
 We had a CakePHP meet-up in tokyo. It was really exciting night.
 Special CakePHP pancake came on party! This article includes the
 photos and the movies.

@@ -1,8 +1,6 @@
 YAGMH - Yet another Google Map Helper
 =====================================
 
-by -Ste- on June 25, 2010
-
 This is just an update of the google map helper by Mahmoud Lababidi
 (based on an older helper by gwoo). Some tweaks to let it work inside
 an ajax rendered view, and a couple of small new features (render map

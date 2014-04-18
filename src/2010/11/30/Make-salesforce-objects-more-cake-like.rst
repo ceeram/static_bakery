@@ -1,8 +1,6 @@
 Make salesforce objects more cake like
 ======================================
 
-by mbates on November 30, 2010
-
 I've just started to use the salesforce datasource created by
 [url=http://bakery.cakephp.org/articles/cwestonr/2010/01/26/example-
 datasource-for-salesforce-enterprise-1]cwestonr[/url] and have created

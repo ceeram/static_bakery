@@ -1,8 +1,6 @@
 Auth – inline authorization the easy way
 ========================================
 
-by euromark on April 07, 2012
-
 I wrote a wrapper class to make inline authorization easier. Often
 times you want to check on certain roles inside an action or view and
 depending on the result display specific content or execute specific

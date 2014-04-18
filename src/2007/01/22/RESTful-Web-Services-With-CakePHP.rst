@@ -1,8 +1,6 @@
 RESTful Web Services With CakePHP
 =================================
 
-by sdevore.myopenid.com on January 22, 2007
-
 From [url]http://en.wikipedia.org/wiki/REST[/url] [quote]
 Representational State Transfer (REST) is a software architectural
 style for distributed hypermedia systems like the world wide web. The

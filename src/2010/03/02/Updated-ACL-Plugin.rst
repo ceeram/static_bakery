@@ -1,8 +1,6 @@
 Updated ACL Plugin
 ==================
 
-by interlock on March 02, 2010
-
 An updated ACL Plugin for 1.3. Allows creation/editing/removing of
 ACO, ARO and CRUD.
 This plugin is a forked copy of phishy's work on github:

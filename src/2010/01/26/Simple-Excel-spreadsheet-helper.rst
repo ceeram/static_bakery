@@ -1,8 +1,6 @@
 Simple Excel spreadsheet helper
 ===============================
 
-by melgior on January 26, 2010
-
 I made this Excel helper because I wanted to generate reports of data
 easily, without having to specify column names and other stuff. You
 just need one line in your view and throw an array with data and a

@@ -1,8 +1,6 @@
 Barcode Helper
 ==============
 
-by ixu38 on April 30, 2010
-
 In my project I needed a helper to generate different types of
 barcodes
 Writes an image file on server of the barcoded data

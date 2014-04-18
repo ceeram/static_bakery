@@ -1,8 +1,6 @@
 Paypal Payments Component Using cURL
 ====================================
 
-by parris on July 08, 2009
-
 Updated: July 5th, 2009: Added Express Checkout and modified both the
 component and the file under vendors. Also you will need to change the
 line that calls the paypal component for the direct payment

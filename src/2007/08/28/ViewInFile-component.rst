@@ -1,8 +1,6 @@
 ViewInFile component
 ====================
 
-by francky06l on August 28, 2007
-
 Sometimes in needed to output a view in a file. Most of the time for
 debugging, but also for some web service (xml) where you might need to
 send (by mail as a copy) an xml file reflecting the answer of the

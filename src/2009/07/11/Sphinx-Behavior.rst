@@ -1,8 +1,6 @@
 Sphinx Behavior
 ===============
 
-by xumix on July 11, 2009
-
 This behavior helps to use Sphinx search engine in your projects.
 First, you need Sphinx `http://sphinxsearch.com/`_ installed and
 configured. I hope that you've already set up.

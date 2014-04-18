@@ -1,8 +1,6 @@
 Building your first Twitter mash-up
 ===================================
 
-by ics on May 08, 2009
-
 Simple tutorial to help you build your first twitter app
 
 

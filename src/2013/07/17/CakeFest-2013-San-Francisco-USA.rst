@@ -1,8 +1,6 @@
 CakeFest 2013: San Francisco, USA
 =================================
 
-by jameswatts on July 17, 2013
-
 Join us at CakeFest 2013, the annual CakePHP conference, held this
 year in San Francisco, from the 29th of August until the 1st of
 September, and experience open source at it's very best! Visit

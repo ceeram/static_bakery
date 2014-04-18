@@ -1,8 +1,6 @@
 Password generator
 ==================
 
-by deldan on September 22, 2010
-
 Is a simple component to generate passwords automatically.
 
 

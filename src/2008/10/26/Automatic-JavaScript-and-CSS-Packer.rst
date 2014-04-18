@@ -1,8 +1,6 @@
 Automatic JavaScript and CSS Packer
 ===================================
 
-by mattc on October 26, 2008
-
 Another JavaScript/CSS combiner and packer was recently posted to the
 Bakery. I felt it was a little configuration heavy and required too
 much manual intervention. This version is much more automated and

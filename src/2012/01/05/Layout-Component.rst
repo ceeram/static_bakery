@@ -1,8 +1,6 @@
 Layout Component
 ================
 
-by tpuglia on January 05, 2012
-
 Configurable Layouts for themes
 I am using Cake 2.0 (beta - havent upgraded properlly yet)
 

@@ -1,8 +1,6 @@
 Cryptography and the Auth component
 ===================================
 
-by achew22 on August 17, 2008
-
 Learn how, and why the auth component is so secure for your passwords.
 I'm going to start this by doing an abbreviated, without explanation,
 3 liner to anyone who doesn't want to read all of this. It is

@@ -1,8 +1,6 @@
 PHPMailer component for cakephp 1.2
 ===================================
 
-by rapsys on July 21, 2008
-
 After trying the two mailer component unsucessfull, I rewrite my own
 to makes it works with cake 1.2. Previous compnents:
 http://bakery.cakephp.org/articles/view/sending-email-with-phpmailer

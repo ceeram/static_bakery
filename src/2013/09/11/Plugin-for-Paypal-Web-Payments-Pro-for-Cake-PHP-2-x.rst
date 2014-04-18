@@ -1,8 +1,6 @@
 Plugin for Paypal Web Payments Pro for Cake PHP 2.x
 ===================================================
 
-by cpierce on September 11, 2013
-
 Basic Plugin that uses the NVP Methods for the WPP API from Paypal.
 Component pushes method and NVP combo to paypal url curl. Required
 php5-curl configuration in php.

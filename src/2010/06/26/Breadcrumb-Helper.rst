@@ -1,8 +1,6 @@
 Breadcrumb Helper
 =================
 
-by toxic_brain on June 26, 2010
-
 If you are tired of setting up breadcrumbs for your screens, this
 helper is for you.
 

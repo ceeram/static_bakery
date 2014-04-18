@@ -1,8 +1,6 @@
 Username or Email Login Using AuthComponent
 ===========================================
 
-by techlands on November 04, 2011
-
 AuthComponent 2.0 makes it very easy to develop a custom
 authentication solution. This example shows how to do username or
 email / password logins

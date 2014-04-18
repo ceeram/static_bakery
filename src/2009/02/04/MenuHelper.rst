@@ -1,8 +1,6 @@
 MenuHelper
 ==========
 
-by alkemann on February 04, 2009
-
 A tool for building and rendering lists of links and elements. This
 helper will let you build up static and context sensitive links in
 your views and then render them all as part of the layout. It is

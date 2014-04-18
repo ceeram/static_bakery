@@ -1,8 +1,6 @@
 PaginatedTable Helper
 =====================
 
-by linnk on August 26, 2008
-
 The PaginatedTable helper makes it easy to show your users what column
 is being sorted and the current sort direction. The outputted mark-up
 can easily be formatted using CSS to fit any design.

@@ -1,8 +1,6 @@
 Use multiple databases in one app based on requested url
 ========================================================
 
-by doze on March 12, 2010
-
 I needed to build an application where there are multiple customers
 (companies) using the application and each have their own database,
 but also some common tables in another database. I selected CakePHP

@@ -1,8 +1,6 @@
 Paypal Datasource
 =================
 
-by toste on December 29, 2008
-
 Simple datasource to communicate with the Paypal NVP api.
 Simple datasource to communicate with the Paypal NVP api.
 

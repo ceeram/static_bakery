@@ -1,8 +1,6 @@
 Social login with Hybridauth
 ============================
 
-by thehanx on July 27, 2012
-
 HybridAuth enable developers to easily build social applications to
 engage websites vistors and customers on a social level by
 implementing social signin, social sharing, users profiles, friends

@@ -1,8 +1,6 @@
 PhpExcel helper for generating excel files
 ==========================================
 
-by segy on April 02, 2012
-
 PhpExcel consists only from one helper class that uses PHPExcel
 project (located in vendors) to generate excel files.
 

@@ -1,8 +1,6 @@
 Mailchimp API Component
 =======================
 
-by mpatek on June 20, 2009
-
 Mailchimp provides a nice API to their email marketing service. Here
 is a very simple component that you can use to make calls to the
 Mailchimp API. This component assumes that you are using PHP 5 or

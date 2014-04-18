@@ -1,8 +1,6 @@
 Simple-Arithmetic-Captcha-Component
 ===================================
 
-by hakimkal on June 10, 2011
-
 I wrote a simple Arithmetic Captcha Component and below is the
 'readme.txt' file excerpt to reuse in your project for free. you can
 find the component here ~ https://github.com/hakimkal/Simple-

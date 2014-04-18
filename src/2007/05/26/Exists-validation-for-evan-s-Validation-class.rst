@@ -1,8 +1,6 @@
 'Exists' validation for evan's Validation class
 ===============================================
 
-by farez on May 26, 2007
-
 'Add-on' method for evan's validation class to check for existence of
 value in database.
 

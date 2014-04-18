@@ -1,8 +1,6 @@
 ScopedTreeBehavior
 ==================
 
-by masom on January 23, 2009
-
 ScopedTreeBehavior let's you manage several different tree within the
 same table, each tree being separated by a 'scope' such as another
 model id or a simple tree id. It was built with UUID in mind. Some

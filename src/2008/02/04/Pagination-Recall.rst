@@ -1,8 +1,6 @@
 Pagination Recall
 =================
 
-by mattc on February 04, 2008
-
 Does it drive you nuts when you edit an item on page 4 of a list, then
 when you save you're dropped back to page 1 with the list back in the
 default order? The PaginationRecall component automatically remembers

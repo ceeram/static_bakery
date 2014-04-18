@@ -1,8 +1,6 @@
 ImageBehavior - best from database blobs and file storage
 =========================================================
 
-by GrzegorzPawlik on March 04, 2009
-
 I've always had problem with uploaded images that were stored just as
 files. They shouldn't go to repository and wasn't in database either.
 So I created an ImageBehavior to handle my problems.

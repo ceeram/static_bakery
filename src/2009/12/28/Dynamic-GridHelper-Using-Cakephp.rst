@@ -1,8 +1,6 @@
 Dynamic GridHelper Using Cakephp
 ================================
 
-by rws123 on December 28, 2009
-
 In this post I will describe how to integrate dynamic grid helper with
 CakePHP application. In every project, we need to develop tabular data
 grid to display MySQL table data such as Member List, Order List, etc.

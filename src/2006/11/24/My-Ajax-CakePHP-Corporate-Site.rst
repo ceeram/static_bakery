@@ -1,8 +1,6 @@
 My Ajax CakePHP Corporate Site.
 ===============================
 
-by fenglong on November 24, 2006
-
 My Corporate Site was developed using the Ajax Paradigm. It was built
 by one developer and one artist in less than 4 weeks. (prototype,
 scriplaculos and CAKEPHP) site url: www.liquidbottura.com.br

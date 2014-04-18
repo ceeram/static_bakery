@@ -1,8 +1,6 @@
 Using Security Component and multi Checkboxes
 =============================================
 
-by foxmask on April 12, 2008
-
 As i did not find the way to do it with the Cake FormHelper i will
 detail what i did and why. The helper PcformHelper is usefull when you
 want to use the Security Component, and need to create an array of

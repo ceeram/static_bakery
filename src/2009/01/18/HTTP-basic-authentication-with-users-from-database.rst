@@ -1,8 +1,6 @@
 HTTP basic authentication with users from database
 ==================================================
 
-by eimermusic on January 18, 2009
-
 This is a few lines of code and explanations explaining how to get
 HTTP Auth to check against your normal users table.
 Intended audience:

@@ -1,8 +1,6 @@
 PhpBB3 Api Bridge
 =================
 
-by wilsonsheldon on January 13, 2009
-
 Hi everyone, I recently needed to bridge between my Cake app and a
 PhpBB3 forum. When I realized the old PhpBB2 Bridge didn't work
 anymore, I decided to write a new one. Public functions included are:

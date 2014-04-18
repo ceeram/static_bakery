@@ -1,8 +1,6 @@
 Performance comparision CakePHP and symfony
 ===========================================
 
-by yandod on January 14, 2009
-
 We can see some benchmark. But that's only "hello world" or something
 simple codes. I compared CakePHP and symfony in real application.
 that's well known symfony sample "askeet!!".

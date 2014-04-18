@@ -1,8 +1,6 @@
 Open Flash Chart Component for CakePHP
 ======================================
 
-by cakephpvn on July 03, 2010
-
 This is my first component for CakePHP. This component help to draw
 chart using open flash chart. The first version support line,
 line_hollow, line_dot, area_hollow, bar, bar_3D, pie charts. I'll

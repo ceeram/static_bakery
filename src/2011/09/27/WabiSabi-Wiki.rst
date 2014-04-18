@@ -1,8 +1,6 @@
 WabiSabi Wiki
 =============
 
-by lenadro on September 27, 2011
-
 Este plugin para CakePHP integra el motor WabiSabi para la creación de
 documentación Wiki.
 La documentación para el usuarix final del programa, resulta que puede

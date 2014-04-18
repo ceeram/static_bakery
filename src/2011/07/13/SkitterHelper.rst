@@ -1,8 +1,6 @@
 SkitterHelper
 =============
 
-by thiagosf on July 13, 2011
-
 Place the Skitter Slideshow in his CakePHP with this simple helper!
 
 See the work: `http://thiagosf.net/projects/cakephp/skitter_helper/`_

@@ -1,8 +1,6 @@
 WYSIWYGPro Helper and tutorial
 ==============================
 
-by brightball on June 14, 2009
-
 I couldn't find any resources on setting up WYSIWYGPro with Cake so I
 developed this helper along with instructions for total integration
 with your system. If you've never used WYSIWYGPro, you should check

@@ -1,8 +1,6 @@
 CakeFest 2010: Thats a wrap
 ===========================
 
-by predominant on September 06, 2010
-
 CakeFest 2010 has come to a close. After 4 days of jam-packed talks,
 workshops, lightning talks and social outings, we're sad to see it
 finish.

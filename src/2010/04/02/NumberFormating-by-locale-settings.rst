@@ -1,8 +1,6 @@
 NumberFormating by locale-settings
 ==================================
 
-by sassman on April 02, 2010
-
 loading data form database had no number formatting options for
 floating point fields. In detail i mean converting a float like 3.33
 to locale/region specific one like 3,33. So this behavior solve this

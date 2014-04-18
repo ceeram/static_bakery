@@ -1,8 +1,6 @@
 Confirm the admin route usage https
 ===================================
 
-by darkhero on March 13, 2007
-
 While entering the admin route, needing to be confirmed must use https
 to carry on an on-line, in order not to the user neglect, and use the
 http on-line, so we have to make the check conversion automatically in

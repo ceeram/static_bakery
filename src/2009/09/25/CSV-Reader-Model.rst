@@ -1,8 +1,6 @@
 CSV Reader Model
 ================
 
-by CakePOWER on September 25, 2009
-
 This morning I have had to access some csv files and I went into
 panic: I found some helpers to create but nothing to read! So I
 created this simple model to read CSV files.

@@ -1,8 +1,6 @@
 unbindAssociation
 =================
 
-by SeanCallan on January 22, 2007
-
 I needed a quick dynamic way to remove numerous associations I had in
 recent application. I decided the best to do that was through
 unbindAssociation(), so I made it. This code was adapted from

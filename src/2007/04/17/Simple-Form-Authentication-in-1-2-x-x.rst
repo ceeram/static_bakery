@@ -1,8 +1,6 @@
 Simple Form Authentication in 1.2.x.x
 =====================================
 
-by SeanCallan on April 17, 2007
-
 There has been a lot of questions about user authentication lately so
 I thought it was appropriate to create a tutorial that covered the
 very basics In this tutorial we'll cover all aspects of MVC in an

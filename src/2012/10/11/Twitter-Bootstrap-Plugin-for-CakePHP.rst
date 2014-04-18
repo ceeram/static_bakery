@@ -1,8 +1,6 @@
 Twitter Bootstrap Plugin for CakePHP
 ====================================
 
-by nitsche on October 11, 2012
-
 Twitter Bootstrap (http://twitter.github.com/bootstrap/) is a powerful
 front-end framework. I'd really love to use this for several projects
 and pages. Now I have created a simple plugin to use the power of

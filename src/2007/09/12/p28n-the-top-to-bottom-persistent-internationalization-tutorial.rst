@@ -1,8 +1,6 @@
 p28n, the top to bottom persistent internationalization tutorial.
 =================================================================
 
-by p0windah on September 12, 2007
-
 For some developers, allowing a website to support multiple languages
 is essential. Luckily cakePHP 1.2 has the foundations available to
 make this possible.

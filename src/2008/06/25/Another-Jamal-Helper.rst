@@ -1,8 +1,6 @@
 Another Jamal Helper
 ====================
 
-by guva23 on June 25, 2008
-
 Jamal is an MVC framework for Javascript; it sounds stupid, but it
 makes it easy to understand code in retrospect. This helper is based
 on Hoffstetter's helper, but adds head statement injection and other

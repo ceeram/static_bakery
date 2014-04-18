@@ -1,8 +1,6 @@
 obAuth Simple Authentication
 ============================
 
-by coeus on August 17, 2007
-
 Authenticate your users and secure your controller actions from users
 belonging to certain groups. Or simply secure your controller actions
 to let any authenticated user to access it. How to use:

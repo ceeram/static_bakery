@@ -1,8 +1,6 @@
 Adopting an IDE for CakePHP
 ===========================
 
-by saidbakr on September 19, 2011
-
 It is a just a wishing! I hope that the CakePHP community able to
 surprise us with adopting a free PHP IDE such as Eclipse or Netbeans
 and supply it with required plugins and extension that allow it to

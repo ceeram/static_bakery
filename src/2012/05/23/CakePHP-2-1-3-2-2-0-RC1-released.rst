@@ -1,8 +1,6 @@
 CakePHP 2.1.3 & 2.2.0-RC1 released
 ==================================
 
-by markstory on May 23, 2012
-
 The CakePHP core team is proud to announce the immediate availability
 of both CakePHP 2.1.3 [1], and 2.2.0-RC1[2]. 2.1.3 is a bugfix release
 for the 2.1.x branch, while 2.2.0-RC1 is the first release candidate

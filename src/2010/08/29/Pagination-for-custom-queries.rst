@@ -1,8 +1,6 @@
 Pagination for custom queries
 =============================
 
-by shird10 on August 29, 2010
-
 I was doing a project, and needed to do a custom query to return a
 certain set of data from the table. I needed to be able to paginate
 those results, and using the "out of the box" or "base" pagination was

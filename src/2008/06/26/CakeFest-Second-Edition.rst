@@ -1,8 +1,6 @@
 CakeFest Second Edition
 =======================
 
-by mariano on June 26, 2008
-
 Join us at our second conference: CakeFest Second Edition. Attend the
 official CakePHP gathering to be celebrated during the first week of
 December, 2008.

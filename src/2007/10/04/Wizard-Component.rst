@@ -1,8 +1,6 @@
 Wizard Component
 ================
 
-by jaredhoyt on October 04, 2007
-
 Automates several aspects of multi-page forms including data
 persistence, form preparation, wizard resetting (manual and
 automatic), and wizard navigation (including jumping between steps)

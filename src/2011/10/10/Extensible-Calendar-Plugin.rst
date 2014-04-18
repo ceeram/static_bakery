@@ -1,8 +1,6 @@
 Extensible Calendar Plugin
 ==========================
 
-by passionforcode on October 10, 2011
-
 This is a simple plugin for rendering a fully functional, yet very
 extensible, calendar. Plugin can be downloaded at
 https://github.com/passion4code/CakePHP-Calendar-Plugin

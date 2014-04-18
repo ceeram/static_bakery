@@ -1,8 +1,6 @@
 Geocode location with CakePHP
 =============================
 
-by Firecreek on January 24, 2009
-
 Locate postcodes and addresses with this CakePHP model.
 
 

@@ -1,8 +1,6 @@
 Get Next Auto Increment
 =======================
 
-by jsconnell on October 26, 2006
-
 A small hack that returns the auto increment id for the current model.
 I wanted to know before hand what the next auto_increment id for a
 model was, but cake didn't provide any obvious way to do so. The kind

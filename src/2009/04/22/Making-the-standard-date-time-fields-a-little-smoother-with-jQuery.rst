@@ -1,8 +1,6 @@
 Making the standard date/time fields a little smoother with jQuery
 ==================================================================
 
-by brightball on April 22, 2009
-
 While working with the date/time input fields in Cake I got tired of
 having to select 3/6 drop down boxes to choose all of the date/time
 information and specifically of having to select 3/6 drop down boxes

@@ -1,8 +1,6 @@
 Vendor Branching
 ================
 
-by grant_cox on June 11, 2008
-
 Vendor Branching provides a robust method of ensuring your application
 repository is always in a stable state with regards to third party
 libraries, even if these libraries have unique modifications. When

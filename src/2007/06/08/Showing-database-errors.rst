@@ -1,8 +1,6 @@
 Showing database-errors
 =======================
 
-by CodingisFun on June 08, 2007
-
 When the database raises an error Cake shows the text 'Please correct
 the errors below' without telling you what the error is. This tutorial
 shows you a way to extend your application to show the user a

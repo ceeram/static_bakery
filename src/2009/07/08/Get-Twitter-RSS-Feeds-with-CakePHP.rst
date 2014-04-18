@@ -1,8 +1,6 @@
 Get Twitter RSS Feeds with CakePHP
 ==================================
 
-by Firecreek on July 08, 2009
-
 Using CakePHP model get your RSS twitter feeds with caching and
 limits.
 

@@ -1,8 +1,6 @@
 MultiTree Behavior
 ==================
 
-by cyberthom on January 27, 2010
-
 MultiTree is a drop-in behaviour to CakePHP's Core Tree Behavior
 allowing for more advanced operations and better performance on large
 data sets

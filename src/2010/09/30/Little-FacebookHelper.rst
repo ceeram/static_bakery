@@ -1,8 +1,6 @@
 Little FacebookHelper
 =====================
 
-by Tidus on September 30, 2010
-
 Hello Cakers and Bakers! I've built a little FacebookHelper. Actually
 the API has two functions wich you can use to integrate some cool
 features to your website.

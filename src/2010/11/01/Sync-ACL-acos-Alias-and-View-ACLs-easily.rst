@@ -1,8 +1,6 @@
 Sync ACL acos Alias and View ACLs easily
 ========================================
 
-by jtsage on November 01, 2010
-
 While following the tutorial at http://book.cakephp.org/view/1543
 /Simple-Acl-controlled-Application , I found it very frustrating that
 the AclBehavior didn't set User and Group aliases, nor was there a

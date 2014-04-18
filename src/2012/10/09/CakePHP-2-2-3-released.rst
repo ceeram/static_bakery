@@ -1,8 +1,6 @@
 CakePHP 2.2.3 released
 ======================
 
-by markstory on October 09, 2012
-
 The CakePHP core team is proud to announce the immediate availability
 of CakePHP 2.2.3
 

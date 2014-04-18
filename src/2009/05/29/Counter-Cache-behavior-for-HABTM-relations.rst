@@ -1,8 +1,6 @@
 Counter Cache behavior for HABTM relations
 ==========================================
 
-by danaki on May 29, 2009
-
 CounterCache is a cool feature introduced in CakePHP 1.2, but I found
 that it doesn't work for HABTM (hasAndBelongsToMany) relations and
 AFAIK only planned in 1.3 (See ticket #5214). Using this bakery

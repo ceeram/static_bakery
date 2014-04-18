@@ -1,8 +1,6 @@
 Helper for Farbtastic (jQuery color picker)
 ===========================================
 
-by cgibby on March 12, 2010
-
 I needed to drop the Farbtastic color picker (
 [url]http://acko.net/dev/farbtastic[/url] ) into my Cake project, and
 while adding it manually was easy enough, I was surprised that nobody

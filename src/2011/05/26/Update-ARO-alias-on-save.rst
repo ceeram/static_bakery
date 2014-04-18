@@ -1,8 +1,6 @@
 Update ARO alias on save
 ========================
 
-by carbontwelve on May 26, 2011
-
 After much searching through google on how to set the alias of my
 ARO's using parentNode only to eventually figure out that it was a
 stupid question I began to wonder why the default AclBehavior does not

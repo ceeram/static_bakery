@@ -1,8 +1,6 @@
 Breadcrumbs trail for unordered pages
 =====================================
 
-by webrene on April 23, 2012
-
 The Idea is to create a trail of visited pages, allowing you to always
 jump back and to alway see last visited pages. This can be helpful if
 breadcrumbs can not be used, since there is no clean hierachical

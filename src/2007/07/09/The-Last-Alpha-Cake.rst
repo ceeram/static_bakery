@@ -1,8 +1,6 @@
 The Last Alpha Cake
 ===================
 
-by PhpNut on July 09, 2007
-
 We have some new versions ready. As usual, 1.1.x.x branch gets a bug-
 fix update, while 1.2.x.x branch sees some new features along with the
 bug-fixes.

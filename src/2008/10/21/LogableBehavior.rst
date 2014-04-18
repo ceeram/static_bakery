@@ -1,8 +1,6 @@
 LogableBehavior
 ===============
 
-by alkemann on October 21, 2008
-
 This behavior is created to be a plug-and-play database changes log
 that will work out of the box as using the created and modified fields
 does in cake core. It is NOT version control, undo or meant to be used

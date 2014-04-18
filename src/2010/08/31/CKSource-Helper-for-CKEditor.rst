@@ -1,8 +1,6 @@
 CKSource Helper for CKEditor
 ============================
 
-by wernerhp on August 31, 2010
-
 CKEditor is a text editor to be used inside web pages. It's a WYSIWYG
 editor, which means that the text being edited on it looks as similar
 as possible to the results users have when publishing it. It brings to

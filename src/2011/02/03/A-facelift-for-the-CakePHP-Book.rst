@@ -1,8 +1,6 @@
 A facelift for the CakePHP Book
 ===============================
 
-by predominant on February 03, 2011
-
 The CakePHP Book[1] has undergone a major facelift and incorporates a
 whole range of changes to make the book more accessible and usable for
 all our users.

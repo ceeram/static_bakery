@@ -1,8 +1,6 @@
 Easy links in admin...
 ======================
 
-by dogmatic69 on May 08, 2009
-
 sick of making links every were that are hard to maintain.. this may
 be for you. easily generate your CRUD links in admin with this handy
 extension to the Html helper

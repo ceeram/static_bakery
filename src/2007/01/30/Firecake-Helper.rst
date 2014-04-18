@@ -1,8 +1,6 @@
 Firecake Helper
 ===============
 
-by zomg on January 30, 2007
-
 This will repeat messages from the error.log as well as variables,
 form data, validation errors, session data, and other useful info into
 the Firebug console window. Other than the normal log usage, you don't

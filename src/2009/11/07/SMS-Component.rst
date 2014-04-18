@@ -1,8 +1,6 @@
 SMS Component
 =============
 
-by webtechnick on November 07, 2009
-
 A simple and free SMS gateway component based on the information
 provided in
 http://en.wikipedia.org/wiki/List_of_carriers_providing_SMS_transit.

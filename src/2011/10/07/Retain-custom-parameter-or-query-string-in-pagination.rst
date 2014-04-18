@@ -1,8 +1,6 @@
 Retain custom parameter or query string in pagination
 =====================================================
 
-by archercake on October 07, 2011
-
 Pagination in CakePHP 1.3 doesn't provide a way to retain custom query
 string passed with the url which is an essential part for any
 application. Say if url is something like

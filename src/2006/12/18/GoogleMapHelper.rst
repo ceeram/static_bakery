@@ -1,8 +1,6 @@
 GoogleMapHelper
 ===============
 
-by lababidi on December 18, 2006
-
 Use this helper to add a GoogleMap to your application. For a tutorial
 on how to use it, check out
 [url]http://bakery.cakephp.org/articles/view/186[/url].

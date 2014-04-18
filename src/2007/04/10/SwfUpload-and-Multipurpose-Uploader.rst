@@ -1,8 +1,6 @@
 SwfUpload and Multipurpose Uploader
 ===================================
 
-by jrevillini on April 10, 2007
-
 SWFUpload is "a small javascript/flash library to get the best of both
 worlds - The great upload capability of flash and the accessibility
 and ease of html/css." The SwfUploadComponent is a piece of code that

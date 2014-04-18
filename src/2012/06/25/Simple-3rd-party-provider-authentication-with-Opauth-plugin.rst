@@ -1,8 +1,6 @@
 Simple 3rd-party provider authentication with Opauth plugin
 ===========================================================
 
-by uzyn on June 25, 2012
-
 Opauth is a multi-provider authentication framework for PHP, inspired
 by OmniAuth for Ruby. Opauth enables PHP applications to perform user
 authentication across different providers with much ease & simplicity.
